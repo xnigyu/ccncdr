@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservoir Watch</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+        iframe {
+            width: 75%;
+            height: 100%;
+            border: none;
+        }
+        .sidebar {
+            width: 25%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: #f0f0f0;
+        }
+        .sidebar h2 {
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            color: #333;
+        }
+        .sidebar img {
+            width: auto;
+            height: 90%;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://watch.ncdr.nat.gov.tw/watch_reservoir_v4a.aspx"></iframe>
+    <div class="sidebar">
+        <h2>20210429 調查影像</h2>
+        <img src="https://github.com/xnigyu/drought2022/blob/main/%E6%B0%B4%E5%BA%AB%E7%8F%BE%E8%AA%BF.png?raw=true" alt="Image 1">
+    </div>
+</body>
+</html>
