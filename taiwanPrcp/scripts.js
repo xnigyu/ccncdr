@@ -32,7 +32,7 @@ function showNextImage() {
 }
 
 function startAutoPlay() {
-    intervalId = setInterval(showNextImage, 1300); // 每張圖片1.3秒
+    intervalId = setInterval(showNextImage, 1500); // 每張圖片1.5秒
     isPlaying = true;
 }
 
