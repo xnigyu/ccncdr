@@ -13,19 +13,23 @@ body {
     text-align: center;
     width: 90%;
     max-width: 1200px;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .timeline-controls {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0px 0;
+    margin: 20px 0;
     position: relative;
+    width: 100%;
 }
 
 .timeline {
     flex-grow: 1;
     position: relative;
+    width: 100%;
 }
 
 #slider {
@@ -60,17 +64,18 @@ body {
     display: flex;
     justify-content: space-between;
     position: absolute;
-    top: 20px;
+    top: -25px;
     width: 100%;
 }
 
 .years span {
     font-size: 0.8em;
-    color: #000000;
+    color: #ccc;
 }
 
 .gallery {
     margin: 20px 0;
+    width: 100%;
 }
 
 .gallery img {
@@ -79,4 +84,20 @@ body {
     height: auto;
     border: 5px solid black;
     cursor: pointer;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+    
+    .timeline-controls {
+        flex-direction: column;
+    }
+    
+    .years {
+        top: -15px;
+    }
 }
