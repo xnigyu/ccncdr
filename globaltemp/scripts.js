@@ -1,5 +1,5 @@
 const images = [];
-for (let year = 1850; year <= 2023; year++) {
+for (let year = 1960; year <= 2022; year++) {
     images.push({ year: year, src: `https://github.com/xnigyu/globaltemp/blob/main/${year}.png?raw=true` });
 }
 
@@ -12,10 +12,22 @@ const slider = document.getElementById('slider');
 const yearsContainer = document.querySelector('.years');
 
 // 動態生成年份標記，每隔10年顯示一次
-for (let year = 1850; year <= 2023; year += 10) {
+for (let year = 1960; year <= 2022; year += 10) {
     const span = document.createElement('span');
     span.textContent = year;
     yearsContainer.appendChild(span);
+}
+
+function preloadImages() {
+    const promises = images.map(image => {
+        return new Promise((resolve, reject) => {
+            const img = new Image();
+            img.src = image.src;
+            img.onload = () => resolve(image);
+            img.onerror = () => reject(new Error(`Failed to load image: ${image.src}`));
+        });
+    });
+    return Promise.all(promises);
 }
 
 function showImage(index) {
@@ -32,7 +44,7 @@ function showNextImage() {
 }
 
 function startAutoPlay() {
-    intervalId = setInterval(showNextImage, 1500); // 每張圖片1秒
+    intervalId = setInterval(showNextImage, 500); // 每張圖片0.1秒
     isPlaying = true;
 }
 
@@ -56,6 +68,12 @@ imageElement.addEventListener('click', () => {
 
 window.onload = () => {
     slider.max = images.length - 1;
-    showImage(currentIndex);
-    startAutoPlay(); // 自動播放
+    preloadImages()
+        .then(() => {
+            showImage(currentIndex);
+            startAutoPlay(); // 自動播放
+        })
+        .catch(error => {
+            console.error(error);
+        });
 };
