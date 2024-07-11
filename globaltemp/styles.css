@@ -76,6 +76,7 @@ body {
 .gallery {
     margin: 20px 0;
     width: 100%;
+    position: relative;
 }
 
 .gallery img {
@@ -84,6 +85,41 @@ body {
     height: auto;
     border: 5px solid black;
     cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.zoom-container {
+    position: relative;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.zoom-buttons {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    visibility: hidden; /* 隱藏按鈕 */
+}
+
+.zoom-buttons button {
+    background-color: white;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.zoom-buttons button:hover {
+    background-color: #f8f8f8;
+}
+
+.zoom-container:hover .zoom-buttons {
+    visibility: visible; /* 滑鼠懸停時顯示按鈕 */
 }
 
 /* Media Queries for responsiveness */
