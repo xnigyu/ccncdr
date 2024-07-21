@@ -1,0 +1,575 @@
+{
+"ID":"11",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.233",
+        "9yrRun": null,
+        "Trend": "22.3573",
+        "Year": 1960
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.9187",
+        "9yrRun": null,
+        "Trend": "22.376",
+        "Year": 1961
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.2754",
+        "9yrRun": null,
+        "Trend": "22.3947",
+        "Year": 1962
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.0984",
+        "9yrRun": null,
+        "Trend": "22.4134",
+        "Year": 1963
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6591",
+        "9yrRun": "22.5769",
+        "Trend": "22.4321",
+        "Year": 1964
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6408",
+        "9yrRun": "22.4725",
+        "Trend": "22.4508",
+        "Year": 1965
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.0591",
+        "9yrRun": "22.4226",
+        "Trend": "22.4695",
+        "Year": 1966
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.3042",
+        "9yrRun": "22.4149",
+        "Trend": "22.4882",
+        "Year": 1967
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.0037",
+        "9yrRun": "22.4441",
+        "Trend": "22.5069",
+        "Year": 1968
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.2931",
+        "9yrRun": "22.4643",
+        "Trend": "22.5256",
+        "Year": 1969
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.4694",
+        "9yrRun": "22.4485",
+        "Trend": "22.5443",
+        "Year": 1970
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.2063",
+        "9yrRun": "22.3965",
+        "Trend": "22.563",
+        "Year": 1971
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.361",
+        "9yrRun": "22.3787",
+        "Trend": "22.5817",
+        "Year": 1972
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.8413",
+        "9yrRun": "22.4746",
+        "Trend": "22.6004",
+        "Year": 1973
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.4988",
+        "9yrRun": "22.5114",
+        "Trend": "22.6191",
+        "Year": 1974
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.5904",
+        "9yrRun": "22.5321",
+        "Trend": "22.6378",
+        "Year": 1975
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.1445",
+        "9yrRun": "22.6191",
+        "Trend": "22.6565",
+        "Year": 1976
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.8664",
+        "9yrRun": "22.6771",
+        "Trend": "22.6752",
+        "Year": 1977
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6245",
+        "9yrRun": "22.6579",
+        "Trend": "22.6939",
+        "Year": 1978
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6553",
+        "9yrRun": "22.6753",
+        "Trend": "22.7126",
+        "Year": 1979
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.99",
+        "9yrRun": "22.6515",
+        "Trend": "22.7313",
+        "Year": 1980
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.8825",
+        "9yrRun": "22.7034",
+        "Trend": "22.75",
+        "Year": 1981
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6682",
+        "9yrRun": "22.6735",
+        "Trend": "22.7687",
+        "Year": 1982
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6558",
+        "9yrRun": "22.7238",
+        "Trend": "22.7874",
+        "Year": 1983
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.3764",
+        "9yrRun": "22.7244",
+        "Trend": "22.8061",
+        "Year": 1984
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6111",
+        "9yrRun": "22.674",
+        "Trend": "22.8248",
+        "Year": 1985
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.5979",
+        "9yrRun": "22.6685",
+        "Trend": "22.8435",
+        "Year": 1986
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.0768",
+        "9yrRun": "22.7266",
+        "Trend": "22.8622",
+        "Year": 1987
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.661",
+        "9yrRun": "22.7367",
+        "Trend": "22.8809",
+        "Year": 1988
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.5366",
+        "9yrRun": "22.8002",
+        "Trend": "22.8996",
+        "Year": 1989
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.8325",
+        "9yrRun": "22.8712",
+        "Trend": "22.9183",
+        "Year": 1990
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1913",
+        "9yrRun": "22.8704",
+        "Trend": "22.937",
+        "Year": 1991
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.747",
+        "9yrRun": "22.8222",
+        "Trend": "22.9557",
+        "Year": 1992
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.9479",
+        "9yrRun": "22.8452",
+        "Trend": "22.9744",
+        "Year": 1993
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.2497",
+        "9yrRun": "22.99",
+        "Trend": "22.9931",
+        "Year": 1994
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.5909",
+        "9yrRun": "23.0288",
+        "Trend": "23.0118",
+        "Year": 1995
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.643",
+        "9yrRun": "23.0045",
+        "Trend": "23.0305",
+        "Year": 1996
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.8681",
+        "9yrRun": "23.0596",
+        "Trend": "23.0492",
+        "Year": 1997
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.84",
+        "9yrRun": "23.1473",
+        "Trend": "23.0679",
+        "Year": 1998
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1815",
+        "9yrRun": "23.1791",
+        "Trend": "23.0866",
+        "Year": 1999
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.9724",
+        "9yrRun": "23.2464",
+        "Trend": "23.1053",
+        "Year": 2000
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.2432",
+        "9yrRun": "23.3077",
+        "Trend": "23.124",
+        "Year": 2001
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.7367",
+        "9yrRun": "23.375",
+        "Trend": "23.1427",
+        "Year": 2002
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.5358",
+        "9yrRun": "23.3422",
+        "Trend": "23.1614",
+        "Year": 2003
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1974",
+        "9yrRun": "23.3582",
+        "Trend": "23.1801",
+        "Year": 2004
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1944",
+        "9yrRun": "23.3989",
+        "Trend": "23.1988",
+        "Year": 2005
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.4736",
+        "9yrRun": "23.3856",
+        "Trend": "23.2175",
+        "Year": 2006
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.5453",
+        "9yrRun": "23.2654",
+        "Trend": "23.2362",
+        "Year": 2007
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.3251",
+        "9yrRun": "23.2088",
+        "Trend": "23.2549",
+        "Year": 2008
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.3386",
+        "9yrRun": "23.1993",
+        "Trend": "23.2736",
+        "Year": 2009
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1232",
+        "9yrRun": "23.213",
+        "Trend": "23.2923",
+        "Year": 2010
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "22.6552",
+        "9yrRun": "23.2407",
+        "Trend": "23.311",
+        "Year": 2011
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.026",
+        "9yrRun": "23.235",
+        "Trend": "23.3297",
+        "Year": 2012
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.1123",
+        "9yrRun": "23.2576",
+        "Trend": "23.3484",
+        "Year": 2013
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.3181",
+        "9yrRun": "23.2576",
+        "Trend": "23.3671",
+        "Year": 2014
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.7228",
+        "9yrRun": "23.3098",
+        "Trend": "23.3859",
+        "Year": 2015
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.4935",
+        "9yrRun": "23.4332",
+        "Trend": "23.4046",
+        "Year": 2016
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.5287",
+        "9yrRun": "23.4886",
+        "Trend": "23.4233",
+        "Year": 2017
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.3389",
+        "9yrRun": "23.5179",
+        "Trend": "23.442",
+        "Year": 2018
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.5926",
+        "9yrRun": null,
+        "Trend": "23.4607",
+        "Year": 2019
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.7656",
+        "9yrRun": null,
+        "Trend": "23.4794",
+        "Year": 2020
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.5251",
+        "9yrRun": null,
+        "Trend": "23.4981",
+        "Year": 2021
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgTemp": "22.937",
+        "Temp": "23.3762",
+        "9yrRun": null,
+        "Trend": "23.5168",
+        "Year": 2022
+    }
+]
+}

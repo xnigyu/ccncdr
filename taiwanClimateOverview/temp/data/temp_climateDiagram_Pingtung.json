@@ -1,0 +1,104 @@
+{
+"ID":"16",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "21.9",
+        "MeanTemp": "17.5",
+        "MinTemp": "14.2",
+        "Month": 1
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "22.8",
+        "MeanTemp": "18.3",
+        "MinTemp": "14.9",
+        "Month": 2
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "24.7",
+        "MeanTemp": "20.3",
+        "MinTemp": "16.8",
+        "Month": 3
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "26.9",
+        "MeanTemp": "22.6",
+        "MinTemp": "19.2",
+        "Month": 4
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "28.7",
+        "MeanTemp": "24.6",
+        "MinTemp": "21.4",
+        "Month": 5
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "29.7",
+        "MeanTemp": "25.8",
+        "MinTemp": "22.8",
+        "Month": 6
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "30.2",
+        "MeanTemp": "26.1",
+        "MinTemp": "23.1",
+        "Month": 7
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "29.6",
+        "MeanTemp": "25.7",
+        "MinTemp": "22.8",
+        "Month": 8
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "29.1",
+        "MeanTemp": "25.0",
+        "MinTemp": "22.2",
+        "Month": 9
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "27.5",
+        "MeanTemp": "23.5",
+        "MinTemp": "20.7",
+        "Month": 10
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "25.5",
+        "MeanTemp": "21.5",
+        "MinTemp": "18.6",
+        "Month": 11
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "MaxTemp": "22.7",
+        "MeanTemp": "18.6",
+        "MinTemp": "15.6",
+        "Month": 12
+    }
+]
+}

@@ -1,0 +1,575 @@
+{
+"ID":"18",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9955",
+        "9yrRun": null,
+        "Trend": "16.938",
+        "Year": 1960
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9825",
+        "9yrRun": null,
+        "Trend": "16.9424",
+        "Year": 1961
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.3693",
+        "9yrRun": null,
+        "Trend": "16.9466",
+        "Year": 1962
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.0018",
+        "9yrRun": null,
+        "Trend": "16.9509",
+        "Year": 1963
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8524",
+        "9yrRun": "16.7777",
+        "Trend": "16.9552",
+        "Year": 1964
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.6378",
+        "9yrRun": "16.7914",
+        "Trend": "16.9595",
+        "Year": 1965
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.7211",
+        "9yrRun": "16.8224",
+        "Trend": "16.9638",
+        "Year": 1966
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0064",
+        "9yrRun": "16.8382",
+        "Trend": "16.9681",
+        "Year": 1967
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.4327",
+        "9yrRun": "16.904",
+        "Trend": "16.9724",
+        "Year": 1968
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1189",
+        "9yrRun": "16.9265",
+        "Trend": "16.9767",
+        "Year": 1969
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2608",
+        "9yrRun": "16.955",
+        "Trend": "16.981",
+        "Year": 1970
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.5118",
+        "9yrRun": "16.8815",
+        "Trend": "16.9853",
+        "Year": 1971
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.5942",
+        "9yrRun": "16.8534",
+        "Trend": "16.9896",
+        "Year": 1972
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0548",
+        "9yrRun": "16.9292",
+        "Trend": "16.9939",
+        "Year": 1973
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8939",
+        "9yrRun": "16.8986",
+        "Trend": "16.9982",
+        "Year": 1974
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0601",
+        "9yrRun": "16.8639",
+        "Trend": "17.0025",
+        "Year": 1975
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.7532",
+        "9yrRun": "16.9567",
+        "Trend": "17.0068",
+        "Year": 1976
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1155",
+        "9yrRun": "17.0088",
+        "Trend": "17.0111",
+        "Year": 1977
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8429",
+        "9yrRun": "16.9824",
+        "Trend": "17.0154",
+        "Year": 1978
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9491",
+        "9yrRun": "16.9895",
+        "Trend": "17.0197",
+        "Year": 1979
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.3465",
+        "9yrRun": "16.9583",
+        "Trend": "17.024",
+        "Year": 1980
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0636",
+        "9yrRun": "16.9894",
+        "Trend": "17.0283",
+        "Year": 1981
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8165",
+        "9yrRun": "17.035",
+        "Trend": "17.0326",
+        "Year": 1982
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9583",
+        "9yrRun": "17.1476",
+        "Trend": "17.0369",
+        "Year": 1983
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.7792",
+        "9yrRun": "17.2672",
+        "Trend": "17.0412",
+        "Year": 1984
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0332",
+        "9yrRun": "17.2705",
+        "Trend": "17.0455",
+        "Year": 1985
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.526",
+        "9yrRun": "17.3355",
+        "Trend": "17.0498",
+        "Year": 1986
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.8559",
+        "9yrRun": "17.4391",
+        "Trend": "17.0541",
+        "Year": 1987
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "18.026",
+        "9yrRun": "17.4585",
+        "Trend": "17.0584",
+        "Year": 1988
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.3756",
+        "9yrRun": "17.5432",
+        "Trend": "17.0627",
+        "Year": 1989
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.6485",
+        "9yrRun": "17.6184",
+        "Trend": "17.067",
+        "Year": 1990
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.7491",
+        "9yrRun": "17.5609",
+        "Trend": "17.0713",
+        "Year": 1991
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1334",
+        "9yrRun": "17.4815",
+        "Trend": "17.0756",
+        "Year": 1992
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.5415",
+        "9yrRun": "17.358",
+        "Trend": "17.0799",
+        "Year": 1993
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.7093",
+        "9yrRun": "17.414",
+        "Trend": "17.0842",
+        "Year": 1994
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0085",
+        "9yrRun": "17.3584",
+        "Trend": "17.0885",
+        "Year": 1995
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1419",
+        "9yrRun": "17.2996",
+        "Trend": "17.0928",
+        "Year": 1996
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9137",
+        "9yrRun": "17.2907",
+        "Trend": "17.0971",
+        "Year": 1997
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.8802",
+        "9yrRun": "17.2523",
+        "Trend": "17.1014",
+        "Year": 1998
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1476",
+        "9yrRun": "17.1709",
+        "Trend": "17.1057",
+        "Year": 1999
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2204",
+        "9yrRun": "17.1362",
+        "Trend": "17.11",
+        "Year": 2000
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0533",
+        "9yrRun": "17.1087",
+        "Trend": "17.1143",
+        "Year": 2001
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1957",
+        "9yrRun": "17.1382",
+        "Trend": "17.1186",
+        "Year": 2002
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9769",
+        "9yrRun": "17.0491",
+        "Trend": "17.1229",
+        "Year": 2003
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.6959",
+        "9yrRun": "17.0097",
+        "Trend": "17.1272",
+        "Year": 2004
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8943",
+        "9yrRun": "16.9827",
+        "Trend": "17.1315",
+        "Year": 2005
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1794",
+        "9yrRun": "16.98",
+        "Trend": "17.1358",
+        "Year": 2006
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0783",
+        "9yrRun": "16.9065",
+        "Trend": "17.1401",
+        "Year": 2007
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.7932",
+        "9yrRun": "16.8983",
+        "Trend": "17.1444",
+        "Year": 2008
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9776",
+        "9yrRun": "16.9242",
+        "Trend": "17.1487",
+        "Year": 2009
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.0287",
+        "9yrRun": "16.9157",
+        "Trend": "17.153",
+        "Year": 2010
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.5346",
+        "9yrRun": "16.9214",
+        "Trend": "17.1573",
+        "Year": 2011
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9027",
+        "9yrRun": "16.9445",
+        "Trend": "17.1616",
+        "Year": 2012
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.9289",
+        "9yrRun": "16.9873",
+        "Trend": "17.1659",
+        "Year": 2013
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.818",
+        "9yrRun": "16.9676",
+        "Trend": "17.1702",
+        "Year": 2014
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2309",
+        "9yrRun": "16.9911",
+        "Trend": "17.1745",
+        "Year": 2015
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2856",
+        "9yrRun": "17.0751",
+        "Trend": "17.1788",
+        "Year": 2016
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1789",
+        "9yrRun": "17.1043",
+        "Trend": "17.1831",
+        "Year": 2017
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "16.8006",
+        "9yrRun": "17.1361",
+        "Trend": "17.1874",
+        "Year": 2018
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.24",
+        "9yrRun": null,
+        "Trend": "17.1917",
+        "Year": 2019
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2908",
+        "9yrRun": null,
+        "Trend": "17.196",
+        "Year": 2020
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.1648",
+        "9yrRun": null,
+        "Trend": "17.2003",
+        "Year": 2021
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgTemp": "17.0713",
+        "Temp": "17.2154",
+        "9yrRun": null,
+        "Trend": "17.2046",
+        "Year": 2022
+    }
+]
+}

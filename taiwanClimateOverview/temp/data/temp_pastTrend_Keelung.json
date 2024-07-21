@@ -1,0 +1,575 @@
+{
+"ID":"01",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7542",
+        "9yrRun": null,
+        "Trend": "21.3643",
+        "Year": 1960
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7098",
+        "9yrRun": null,
+        "Trend": "21.3722",
+        "Year": 1961
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.1198",
+        "9yrRun": null,
+        "Trend": "21.38",
+        "Year": 1962
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.1699",
+        "9yrRun": null,
+        "Trend": "21.3879",
+        "Year": 1963
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.6813",
+        "9yrRun": "21.4942",
+        "Trend": "21.3957",
+        "Year": 1964
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5355",
+        "9yrRun": "21.4629",
+        "Trend": "21.4035",
+        "Year": 1965
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.9163",
+        "9yrRun": "21.4413",
+        "Trend": "21.4114",
+        "Year": 1966
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.3885",
+        "9yrRun": "21.4385",
+        "Trend": "21.4192",
+        "Year": 1967
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.1729",
+        "9yrRun": "21.424",
+        "Trend": "21.4271",
+        "Year": 1968
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4725",
+        "9yrRun": "21.4102",
+        "Trend": "21.4349",
+        "Year": 1969
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5153",
+        "9yrRun": "21.3787",
+        "Trend": "21.4428",
+        "Year": 1970
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.0945",
+        "9yrRun": "21.3242",
+        "Trend": "21.4506",
+        "Year": 1971
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.0389",
+        "9yrRun": "21.3062",
+        "Trend": "21.4584",
+        "Year": 1972
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5574",
+        "9yrRun": "21.4265",
+        "Trend": "21.4663",
+        "Year": 1973
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.2523",
+        "9yrRun": "21.4176",
+        "Trend": "21.4741",
+        "Year": 1974
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4254",
+        "9yrRun": "21.413",
+        "Trend": "21.482",
+        "Year": 1975
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.2271",
+        "9yrRun": "21.4867",
+        "Trend": "21.4898",
+        "Year": 1976
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.2555",
+        "9yrRun": "21.5124",
+        "Trend": "21.4977",
+        "Year": 1977
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.3915",
+        "9yrRun": "21.5239",
+        "Trend": "21.5055",
+        "Year": 1978
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4741",
+        "9yrRun": "21.5998",
+        "Trend": "21.5133",
+        "Year": 1979
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7581",
+        "9yrRun": "21.5815",
+        "Trend": "21.5212",
+        "Year": 1980
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.27",
+        "9yrRun": "21.6074",
+        "Trend": "21.529",
+        "Year": 1981
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.6613",
+        "9yrRun": "21.5038",
+        "Trend": "21.5369",
+        "Year": 1982
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.9355",
+        "9yrRun": "21.5323",
+        "Trend": "21.5447",
+        "Year": 1983
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.2601",
+        "9yrRun": "21.5402",
+        "Trend": "21.5526",
+        "Year": 1984
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4607",
+        "9yrRun": "21.492",
+        "Trend": "21.5604",
+        "Year": 1985
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.3228",
+        "9yrRun": "21.5493",
+        "Trend": "21.5682",
+        "Year": 1986
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.6481",
+        "9yrRun": "21.5643",
+        "Trend": "21.5761",
+        "Year": 1987
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5456",
+        "9yrRun": "21.4619",
+        "Trend": "21.5839",
+        "Year": 1988
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.3238",
+        "9yrRun": "21.4968",
+        "Trend": "21.5918",
+        "Year": 1989
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7856",
+        "9yrRun": "21.5383",
+        "Trend": "21.5996",
+        "Year": 1990
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7964",
+        "9yrRun": "21.4981",
+        "Trend": "21.6075",
+        "Year": 1991
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.0135",
+        "9yrRun": "21.4482",
+        "Trend": "21.6153",
+        "Year": 1992
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5745",
+        "9yrRun": "21.4288",
+        "Trend": "21.6231",
+        "Year": 1993
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.8347",
+        "9yrRun": "21.5521",
+        "Trend": "21.631",
+        "Year": 1994
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "20.9607",
+        "9yrRun": "21.5475",
+        "Trend": "21.6388",
+        "Year": 1995
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.1988",
+        "9yrRun": "21.5456",
+        "Trend": "21.6467",
+        "Year": 1996
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.3707",
+        "9yrRun": "21.6448",
+        "Trend": "21.6545",
+        "Year": 1997
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.434",
+        "9yrRun": "21.7126",
+        "Trend": "21.6624",
+        "Year": 1998
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7438",
+        "9yrRun": "21.7204",
+        "Trend": "21.6702",
+        "Year": 1999
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7792",
+        "9yrRun": "21.7796",
+        "Trend": "21.678",
+        "Year": 2000
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.907",
+        "9yrRun": "21.8081",
+        "Trend": "21.6859",
+        "Year": 2001
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.1844",
+        "9yrRun": "21.8701",
+        "Trend": "21.6937",
+        "Year": 2002
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.9051",
+        "9yrRun": "21.8094",
+        "Trend": "21.7016",
+        "Year": 2003
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4938",
+        "9yrRun": "21.7957",
+        "Trend": "21.7094",
+        "Year": 2004
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.455",
+        "9yrRun": "21.774",
+        "Trend": "21.7173",
+        "Year": 2005
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.9286",
+        "9yrRun": "21.7183",
+        "Trend": "21.7251",
+        "Year": 2006
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.8878",
+        "9yrRun": "21.5918",
+        "Trend": "21.7329",
+        "Year": 2007
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.6205",
+        "9yrRun": "21.5419",
+        "Trend": "21.7408",
+        "Year": 2008
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.5833",
+        "9yrRun": "21.5749",
+        "Trend": "21.7486",
+        "Year": 2009
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4062",
+        "9yrRun": "21.6056",
+        "Trend": "21.7565",
+        "Year": 2010
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.046",
+        "9yrRun": "21.5992",
+        "Trend": "21.7643",
+        "Year": 2011
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.4563",
+        "9yrRun": "21.6251",
+        "Trend": "21.7722",
+        "Year": 2012
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7907",
+        "9yrRun": "21.6677",
+        "Trend": "21.78",
+        "Year": 2013
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7308",
+        "9yrRun": "21.7154",
+        "Trend": "21.7878",
+        "Year": 2014
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.8709",
+        "9yrRun": "21.7954",
+        "Trend": "21.7957",
+        "Year": 2015
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.121",
+        "9yrRun": "21.9137",
+        "Trend": "21.8035",
+        "Year": 2016
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.0044",
+        "9yrRun": "21.9805",
+        "Trend": "21.8114",
+        "Year": 2017
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.0125",
+        "9yrRun": "21.9749",
+        "Trend": "21.8192",
+        "Year": 2018
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.126",
+        "9yrRun": null,
+        "Trend": "21.827",
+        "Year": 2019
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.1105",
+        "9yrRun": null,
+        "Trend": "21.8349",
+        "Year": 2020
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "22.0579",
+        "9yrRun": null,
+        "Trend": "21.8427",
+        "Year": 2021
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgTemp": "21.6075",
+        "Temp": "21.7404",
+        "9yrRun": null,
+        "Trend": "21.8506",
+        "Year": 2022
+    }
+]
+}

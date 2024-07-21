@@ -1,0 +1,575 @@
+{
+"ID":"12",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8591",
+        "9yrRun": null,
+        "Trend": "20.4616",
+        "Year": 1960
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.9127",
+        "9yrRun": null,
+        "Trend": "20.4736",
+        "Year": 1961
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.3579",
+        "9yrRun": null,
+        "Trend": "20.4856",
+        "Year": 1962
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.0839",
+        "9yrRun": null,
+        "Trend": "20.4976",
+        "Year": 1963
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6688",
+        "9yrRun": "20.5702",
+        "Trend": "20.5096",
+        "Year": 1964
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.5107",
+        "9yrRun": "20.5289",
+        "Trend": "20.5216",
+        "Year": 1965
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1693",
+        "9yrRun": "20.4991",
+        "Trend": "20.5336",
+        "Year": 1966
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.4738",
+        "9yrRun": "20.4709",
+        "Trend": "20.5456",
+        "Year": 1967
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.0955",
+        "9yrRun": "20.512",
+        "Trend": "20.5576",
+        "Year": 1968
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.4875",
+        "9yrRun": "20.5362",
+        "Trend": "20.5696",
+        "Year": 1969
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6448",
+        "9yrRun": "20.5483",
+        "Trend": "20.5816",
+        "Year": 1970
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.1038",
+        "9yrRun": "20.5012",
+        "Trend": "20.5936",
+        "Year": 1971
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.454",
+        "9yrRun": "20.4794",
+        "Trend": "20.6056",
+        "Year": 1972
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.886",
+        "9yrRun": "20.5593",
+        "Trend": "20.6176",
+        "Year": 1973
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6202",
+        "9yrRun": "20.5744",
+        "Trend": "20.6296",
+        "Year": 1974
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.7448",
+        "9yrRun": "20.551",
+        "Trend": "20.6416",
+        "Year": 1975
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.2775",
+        "9yrRun": "20.6509",
+        "Trend": "20.6536",
+        "Year": 1976
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8148",
+        "9yrRun": "20.7148",
+        "Trend": "20.6655",
+        "Year": 1977
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6239",
+        "9yrRun": "20.6797",
+        "Trend": "20.6775",
+        "Year": 1978
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.4343",
+        "9yrRun": "20.6723",
+        "Trend": "20.6895",
+        "Year": 1979
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.0028",
+        "9yrRun": "20.6334",
+        "Trend": "20.7015",
+        "Year": 1980
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.0293",
+        "9yrRun": "20.694",
+        "Trend": "20.7135",
+        "Year": 1981
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.5694",
+        "9yrRun": "20.6943",
+        "Trend": "20.7255",
+        "Year": 1982
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.5541",
+        "9yrRun": "20.7516",
+        "Trend": "20.7375",
+        "Year": 1983
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.3946",
+        "9yrRun": "20.8137",
+        "Trend": "20.7495",
+        "Year": 1984
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8226",
+        "9yrRun": "20.7983",
+        "Trend": "20.7615",
+        "Year": 1985
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8174",
+        "9yrRun": "20.7759",
+        "Trend": "20.7735",
+        "Year": 1986
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1403",
+        "9yrRun": "20.837",
+        "Trend": "20.7855",
+        "Year": 1987
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.9925",
+        "9yrRun": "20.8528",
+        "Trend": "20.7975",
+        "Year": 1988
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8641",
+        "9yrRun": "20.9195",
+        "Trend": "20.8095",
+        "Year": 1989
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8283",
+        "9yrRun": "20.96",
+        "Trend": "20.8215",
+        "Year": 1990
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1187",
+        "9yrRun": "20.928",
+        "Trend": "20.8335",
+        "Year": 1991
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.697",
+        "9yrRun": "20.8606",
+        "Trend": "20.8455",
+        "Year": 1992
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.9941",
+        "9yrRun": "20.8264",
+        "Trend": "20.8575",
+        "Year": 1993
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1872",
+        "9yrRun": "20.896",
+        "Trend": "20.8695",
+        "Year": 1994
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.53",
+        "9yrRun": "20.8888",
+        "Trend": "20.8815",
+        "Year": 1995
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.5332",
+        "9yrRun": "20.8456",
+        "Trend": "20.8934",
+        "Year": 1996
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6849",
+        "9yrRun": "20.8692",
+        "Trend": "20.9054",
+        "Year": 1997
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.4903",
+        "9yrRun": "20.8961",
+        "Trend": "20.9174",
+        "Year": 1998
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.7634",
+        "9yrRun": "20.8746",
+        "Trend": "20.9294",
+        "Year": 1999
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.7304",
+        "9yrRun": "20.8905",
+        "Trend": "20.9414",
+        "Year": 2000
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.909",
+        "9yrRun": "20.9041",
+        "Trend": "20.9534",
+        "Year": 2001
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.2369",
+        "9yrRun": "20.9558",
+        "Trend": "20.9654",
+        "Year": 2002
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.9934",
+        "9yrRun": "20.905",
+        "Trend": "20.9774",
+        "Year": 2003
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6726",
+        "9yrRun": "20.9062",
+        "Trend": "20.9894",
+        "Year": 2004
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.6559",
+        "9yrRun": "20.9338",
+        "Trend": "21.0014",
+        "Year": 2005
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1507",
+        "9yrRun": "20.9354",
+        "Trend": "21.0134",
+        "Year": 2006
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.0325",
+        "9yrRun": "20.8546",
+        "Trend": "21.0254",
+        "Year": 2007
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.7747",
+        "9yrRun": "20.8348",
+        "Trend": "21.0374",
+        "Year": 2008
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.978",
+        "9yrRun": "20.8549",
+        "Trend": "21.0494",
+        "Year": 2009
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.9242",
+        "9yrRun": "20.8815",
+        "Trend": "21.0614",
+        "Year": 2010
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.5098",
+        "9yrRun": "20.9142",
+        "Trend": "21.0734",
+        "Year": 2011
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.815",
+        "9yrRun": "20.951",
+        "Trend": "21.0854",
+        "Year": 2012
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8537",
+        "9yrRun": "21.0249",
+        "Trend": "21.0974",
+        "Year": 2013
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "20.8952",
+        "9yrRun": "21.0458",
+        "Trend": "21.1094",
+        "Year": 2014
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.4442",
+        "9yrRun": "21.1074",
+        "Trend": "21.1214",
+        "Year": 2015
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.3641",
+        "9yrRun": "21.2269",
+        "Trend": "21.1333",
+        "Year": 2016
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.4401",
+        "9yrRun": "21.2865",
+        "Trend": "21.1453",
+        "Year": 2017
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.1657",
+        "9yrRun": "21.3371",
+        "Trend": "21.1573",
+        "Year": 2018
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.4787",
+        "9yrRun": null,
+        "Trend": "21.1693",
+        "Year": 2019
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.5855",
+        "9yrRun": null,
+        "Trend": "21.1813",
+        "Year": 2020
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.3508",
+        "9yrRun": null,
+        "Trend": "21.1933",
+        "Year": 2021
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgTemp": "20.8335",
+        "Temp": "21.3098",
+        "9yrRun": null,
+        "Trend": "21.2053",
+        "Year": 2022
+    }
+]
+}

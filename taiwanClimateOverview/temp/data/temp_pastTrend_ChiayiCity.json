@@ -1,0 +1,575 @@
+{
+"ID":"13",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.6259",
+        "9yrRun": null,
+        "Trend": "22.6255",
+        "Year": 1960
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.6059",
+        "9yrRun": null,
+        "Trend": "22.6437",
+        "Year": 1961
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.5346",
+        "9yrRun": null,
+        "Trend": "22.6619",
+        "Year": 1962
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.4677",
+        "9yrRun": null,
+        "Trend": "22.6801",
+        "Year": 1963
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9294",
+        "9yrRun": "22.8636",
+        "Trend": "22.6983",
+        "Year": 1964
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.817",
+        "9yrRun": "22.7364",
+        "Trend": "22.7165",
+        "Year": 1965
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.2958",
+        "9yrRun": "22.6585",
+        "Trend": "22.7346",
+        "Year": 1966
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.3399",
+        "9yrRun": "22.6311",
+        "Trend": "22.7528",
+        "Year": 1967
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.156",
+        "9yrRun": "22.6748",
+        "Trend": "22.771",
+        "Year": 1968
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.4809",
+        "9yrRun": "22.7091",
+        "Trend": "22.7892",
+        "Year": 1969
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9051",
+        "9yrRun": "22.7277",
+        "Trend": "22.8074",
+        "Year": 1970
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.2885",
+        "9yrRun": "22.7068",
+        "Trend": "22.8256",
+        "Year": 1971
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.8602",
+        "9yrRun": "22.7376",
+        "Trend": "22.8438",
+        "Year": 1972
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.2383",
+        "9yrRun": "22.8566",
+        "Trend": "22.862",
+        "Year": 1973
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9846",
+        "9yrRun": "22.9142",
+        "Trend": "22.8802",
+        "Year": 1974
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.1073",
+        "9yrRun": "22.9216",
+        "Trend": "22.8984",
+        "Year": 1975
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.6172",
+        "9yrRun": "23.0482",
+        "Trend": "22.9166",
+        "Year": 1976
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.2273",
+        "9yrRun": "23.0798",
+        "Trend": "22.9348",
+        "Year": 1977
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9989",
+        "9yrRun": "23.04",
+        "Trend": "22.953",
+        "Year": 1978
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9716",
+        "9yrRun": "23.043",
+        "Trend": "22.9712",
+        "Year": 1979
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.4282",
+        "9yrRun": "22.998",
+        "Trend": "22.9893",
+        "Year": 1980
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.1447",
+        "9yrRun": "23.0233",
+        "Trend": "23.0075",
+        "Year": 1981
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.8798",
+        "9yrRun": "22.9733",
+        "Trend": "23.0257",
+        "Year": 1982
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.0123",
+        "9yrRun": "22.9886",
+        "Trend": "23.0439",
+        "Year": 1983
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.7018",
+        "9yrRun": "22.9635",
+        "Trend": "23.0621",
+        "Year": 1984
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.8448",
+        "9yrRun": "22.8758",
+        "Trend": "23.0803",
+        "Year": 1985
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.7778",
+        "9yrRun": "22.7802",
+        "Trend": "23.0985",
+        "Year": 1986
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.1368",
+        "9yrRun": "22.7977",
+        "Trend": "23.1167",
+        "Year": 1987
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.7453",
+        "9yrRun": "22.8066",
+        "Trend": "23.1349",
+        "Year": 1988
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.6385",
+        "9yrRun": "22.8795",
+        "Trend": "23.1531",
+        "Year": 1989
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.2845",
+        "9yrRun": "22.9981",
+        "Trend": "23.1713",
+        "Year": 1990
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.0372",
+        "9yrRun": "23.0114",
+        "Trend": "23.1895",
+        "Year": 1991
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.0923",
+        "9yrRun": "22.9175",
+        "Trend": "23.2077",
+        "Year": 1992
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.3583",
+        "9yrRun": "22.9324",
+        "Trend": "23.2259",
+        "Year": 1993
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.9121",
+        "9yrRun": "23.0723",
+        "Trend": "23.244",
+        "Year": 1994
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.898",
+        "9yrRun": "23.1618",
+        "Trend": "23.2622",
+        "Year": 1995
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.2909",
+        "9yrRun": "23.1819",
+        "Trend": "23.2804",
+        "Year": 1996
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.8794",
+        "9yrRun": "23.2328",
+        "Trend": "23.2986",
+        "Year": 1997
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.8978",
+        "9yrRun": "23.2908",
+        "Trend": "23.3168",
+        "Year": 1998
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.0902",
+        "9yrRun": "23.2711",
+        "Trend": "23.335",
+        "Year": 1999
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.2183",
+        "9yrRun": "23.3264",
+        "Trend": "23.3532",
+        "Year": 2000
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.5501",
+        "9yrRun": "23.4163",
+        "Trend": "23.3714",
+        "Year": 2001
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.8807",
+        "9yrRun": "23.4947",
+        "Trend": "23.3896",
+        "Year": 2002
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.7343",
+        "9yrRun": "23.4592",
+        "Trend": "23.4078",
+        "Year": 2003
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.3959",
+        "9yrRun": "23.4833",
+        "Trend": "23.426",
+        "Year": 2004
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.0997",
+        "9yrRun": "23.5199",
+        "Trend": "23.4442",
+        "Year": 2005
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.5852",
+        "9yrRun": "23.4941",
+        "Trend": "23.4624",
+        "Year": 2006
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.5787",
+        "9yrRun": "23.3927",
+        "Trend": "23.4806",
+        "Year": 2007
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.3072",
+        "9yrRun": "23.3457",
+        "Trend": "23.4987",
+        "Year": 2008
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.5476",
+        "9yrRun": "23.3277",
+        "Trend": "23.5169",
+        "Year": 2009
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.3177",
+        "9yrRun": "23.3649",
+        "Trend": "23.5351",
+        "Year": 2010
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "22.9678",
+        "9yrRun": "23.4202",
+        "Trend": "23.5533",
+        "Year": 2011
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.311",
+        "9yrRun": "23.4626",
+        "Trend": "23.5715",
+        "Year": 2012
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.2342",
+        "9yrRun": "23.5548",
+        "Trend": "23.5897",
+        "Year": 2013
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.4346",
+        "9yrRun": "23.5865",
+        "Trend": "23.6079",
+        "Year": 2014
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "24.0831",
+        "9yrRun": "23.6785",
+        "Trend": "23.6261",
+        "Year": 2015
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.9601",
+        "9yrRun": "23.8264",
+        "Trend": "23.6443",
+        "Year": 2016
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "24.1367",
+        "9yrRun": "23.9025",
+        "Trend": "23.6625",
+        "Year": 2017
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.8329",
+        "9yrRun": "23.9672",
+        "Trend": "23.6807",
+        "Year": 2018
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "24.1456",
+        "9yrRun": null,
+        "Trend": "23.6989",
+        "Year": 2019
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "24.2989",
+        "9yrRun": null,
+        "Trend": "23.7171",
+        "Year": 2020
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.9959",
+        "9yrRun": null,
+        "Trend": "23.7353",
+        "Year": 2021
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "AvgTemp": "23.1895",
+        "Temp": "23.8172",
+        "9yrRun": null,
+        "Trend": "23.7534",
+        "Year": 2022
+    }
+]
+}

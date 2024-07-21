@@ -1,0 +1,575 @@
+{
+"ID":"09",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.2626",
+        "9yrRun": null,
+        "Trend": "22.3309",
+        "Year": 1960
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.0521",
+        "9yrRun": null,
+        "Trend": "22.3533",
+        "Year": 1961
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.3814",
+        "9yrRun": null,
+        "Trend": "22.3757",
+        "Year": 1962
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.4626",
+        "9yrRun": null,
+        "Trend": "22.3981",
+        "Year": 1963
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7876",
+        "9yrRun": "22.6688",
+        "Trend": "22.4205",
+        "Year": 1964
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7061",
+        "9yrRun": "22.5574",
+        "Trend": "22.4429",
+        "Year": 1965
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.9746",
+        "9yrRun": "22.4988",
+        "Trend": "22.4653",
+        "Year": 1966
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.2815",
+        "9yrRun": "22.4978",
+        "Trend": "22.4877",
+        "Year": 1967
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.1111",
+        "9yrRun": "22.4976",
+        "Trend": "22.5101",
+        "Year": 1968
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.2596",
+        "9yrRun": "22.5201",
+        "Trend": "22.5325",
+        "Year": 1969
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.5251",
+        "9yrRun": "22.5265",
+        "Trend": "22.5548",
+        "Year": 1970
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.372",
+        "9yrRun": "22.5024",
+        "Trend": "22.5772",
+        "Year": 1971
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.4611",
+        "9yrRun": "22.5073",
+        "Trend": "22.5996",
+        "Year": 1972
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.9902",
+        "9yrRun": "22.6092",
+        "Trend": "22.622",
+        "Year": 1973
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7632",
+        "9yrRun": "22.6666",
+        "Trend": "22.6444",
+        "Year": 1974
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7581",
+        "9yrRun": "22.7078",
+        "Trend": "22.6668",
+        "Year": 1975
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.3258",
+        "9yrRun": "22.7612",
+        "Trend": "22.6892",
+        "Year": 1976
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.0282",
+        "9yrRun": "22.7779",
+        "Trend": "22.7116",
+        "Year": 1977
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7757",
+        "9yrRun": "22.7487",
+        "Trend": "22.734",
+        "Year": 1978
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.8964",
+        "9yrRun": "22.7657",
+        "Trend": "22.7564",
+        "Year": 1979
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.8522",
+        "9yrRun": "22.73",
+        "Trend": "22.7788",
+        "Year": 1980
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.6114",
+        "9yrRun": "22.742",
+        "Trend": "22.8012",
+        "Year": 1981
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7271",
+        "9yrRun": "22.6647",
+        "Trend": "22.8236",
+        "Year": 1982
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.9168",
+        "9yrRun": "22.6614",
+        "Trend": "22.846",
+        "Year": 1983
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.4367",
+        "9yrRun": "22.6342",
+        "Trend": "22.8684",
+        "Year": 1984
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.434",
+        "9yrRun": "22.5782",
+        "Trend": "22.8908",
+        "Year": 1985
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.3322",
+        "9yrRun": "22.5857",
+        "Trend": "22.9132",
+        "Year": 1986
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7462",
+        "9yrRun": "22.6162",
+        "Trend": "22.9356",
+        "Year": 1987
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.651",
+        "9yrRun": "22.5557",
+        "Trend": "22.958",
+        "Year": 1988
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.3483",
+        "9yrRun": "22.6048",
+        "Trend": "22.9803",
+        "Year": 1989
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.6789",
+        "9yrRun": "22.6848",
+        "Trend": "23.0027",
+        "Year": 1990
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.0018",
+        "9yrRun": "22.7031",
+        "Trend": "23.0251",
+        "Year": 1991
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.372",
+        "9yrRun": "22.7069",
+        "Trend": "23.0475",
+        "Year": 1992
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.8787",
+        "9yrRun": "22.74",
+        "Trend": "23.0699",
+        "Year": 1993
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.154",
+        "9yrRun": "22.9058",
+        "Trend": "23.0923",
+        "Year": 1994
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.4966",
+        "9yrRun": "22.9633",
+        "Trend": "23.1147",
+        "Year": 1995
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7811",
+        "9yrRun": "22.9779",
+        "Trend": "23.1371",
+        "Year": 1996
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.9484",
+        "9yrRun": "23.0839",
+        "Trend": "23.1595",
+        "Year": 1997
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.841",
+        "9yrRun": "23.1926",
+        "Trend": "23.1819",
+        "Year": 1998
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.1961",
+        "9yrRun": "23.2314",
+        "Trend": "23.2043",
+        "Year": 1999
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.1328",
+        "9yrRun": "23.3205",
+        "Trend": "23.2267",
+        "Year": 2000
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.3267",
+        "9yrRun": "23.3677",
+        "Trend": "23.2491",
+        "Year": 2001
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.8572",
+        "9yrRun": "23.4335",
+        "Trend": "23.2715",
+        "Year": 2002
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.5026",
+        "9yrRun": "23.3975",
+        "Trend": "23.2939",
+        "Year": 2003
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.2985",
+        "9yrRun": "23.4045",
+        "Trend": "23.3163",
+        "Year": 2004
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.2059",
+        "9yrRun": "23.4357",
+        "Trend": "23.3387",
+        "Year": 2005
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.5404",
+        "9yrRun": "23.4168",
+        "Trend": "23.3611",
+        "Year": 2006
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.5171",
+        "9yrRun": "23.2915",
+        "Trend": "23.3835",
+        "Year": 2007
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.2594",
+        "9yrRun": "23.2808",
+        "Trend": "23.4059",
+        "Year": 2008
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.4137",
+        "9yrRun": "23.2932",
+        "Trend": "23.4282",
+        "Year": 2009
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.1567",
+        "9yrRun": "23.3313",
+        "Trend": "23.4506",
+        "Year": 2010
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "22.7295",
+        "9yrRun": "23.3955",
+        "Trend": "23.473",
+        "Year": 2011
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.406",
+        "9yrRun": "23.4453",
+        "Trend": "23.4954",
+        "Year": 2012
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.4103",
+        "9yrRun": "23.5185",
+        "Trend": "23.5178",
+        "Year": 2013
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.5483",
+        "9yrRun": "23.5506",
+        "Trend": "23.5402",
+        "Year": 2014
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "24.1185",
+        "9yrRun": "23.641",
+        "Trend": "23.5626",
+        "Year": 2015
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.9651",
+        "9yrRun": "23.8118",
+        "Trend": "23.585",
+        "Year": 2016
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.9186",
+        "9yrRun": "23.8746",
+        "Trend": "23.6074",
+        "Year": 2017
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.702",
+        "9yrRun": "23.9164",
+        "Trend": "23.6298",
+        "Year": 2018
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.9707",
+        "9yrRun": null,
+        "Trend": "23.6522",
+        "Year": 2019
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "24.2666",
+        "9yrRun": null,
+        "Trend": "23.6746",
+        "Year": 2020
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.9712",
+        "9yrRun": null,
+        "Trend": "23.697",
+        "Year": 2021
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgTemp": "23.0251",
+        "Temp": "23.7869",
+        "9yrRun": null,
+        "Trend": "23.7194",
+        "Year": 2022
+    }
+]
+}

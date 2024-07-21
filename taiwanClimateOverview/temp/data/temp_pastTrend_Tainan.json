@@ -1,0 +1,575 @@
+{
+"ID":"14",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5018",
+        "9yrRun": null,
+        "Trend": "23.2202",
+        "Year": 1960
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5621",
+        "9yrRun": null,
+        "Trend": "23.2305",
+        "Year": 1961
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.1116",
+        "9yrRun": null,
+        "Trend": "23.2408",
+        "Year": 1962
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.0151",
+        "9yrRun": null,
+        "Trend": "23.2511",
+        "Year": 1963
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3123",
+        "9yrRun": "23.2458",
+        "Trend": "23.2614",
+        "Year": 1964
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.1772",
+        "9yrRun": "23.2188",
+        "Trend": "23.2717",
+        "Year": 1965
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9216",
+        "9yrRun": "23.2056",
+        "Trend": "23.282",
+        "Year": 1966
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "22.908",
+        "9yrRun": "23.1935",
+        "Trend": "23.2922",
+        "Year": 1967
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "22.7021",
+        "9yrRun": "23.2269",
+        "Trend": "23.3025",
+        "Year": 1968
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.2589",
+        "9yrRun": "23.2559",
+        "Trend": "23.3128",
+        "Year": 1969
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4437",
+        "9yrRun": "23.2691",
+        "Trend": "23.3231",
+        "Year": 1970
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.0028",
+        "9yrRun": "23.2205",
+        "Trend": "23.3334",
+        "Year": 1971
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3155",
+        "9yrRun": "23.238",
+        "Trend": "23.3437",
+        "Year": 1972
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.573",
+        "9yrRun": "23.3286",
+        "Trend": "23.354",
+        "Year": 1973
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.2965",
+        "9yrRun": "23.3437",
+        "Trend": "23.3643",
+        "Year": 1974
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4842",
+        "9yrRun": "23.3357",
+        "Trend": "23.3746",
+        "Year": 1975
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.065",
+        "9yrRun": "23.4291",
+        "Trend": "23.3849",
+        "Year": 1976
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5181",
+        "9yrRun": "23.457",
+        "Trend": "23.3952",
+        "Year": 1977
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3948",
+        "9yrRun": "23.4321",
+        "Trend": "23.4055",
+        "Year": 1978
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3712",
+        "9yrRun": "23.4202",
+        "Trend": "23.4157",
+        "Year": 1979
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.8436",
+        "9yrRun": "23.3548",
+        "Trend": "23.426",
+        "Year": 1980
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5667",
+        "9yrRun": "23.4088",
+        "Trend": "23.4363",
+        "Year": 1981
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3487",
+        "9yrRun": "23.4088",
+        "Trend": "23.4466",
+        "Year": 1982
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.1896",
+        "9yrRun": "23.4754",
+        "Trend": "23.4569",
+        "Year": 1983
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "22.8954",
+        "9yrRun": "23.511",
+        "Trend": "23.4672",
+        "Year": 1984
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5514",
+        "9yrRun": "23.4877",
+        "Trend": "23.4775",
+        "Year": 1985
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5183",
+        "9yrRun": "23.5146",
+        "Trend": "23.4878",
+        "Year": 1986
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9937",
+        "9yrRun": "23.5836",
+        "Trend": "23.4981",
+        "Year": 1987
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.6915",
+        "9yrRun": "23.6033",
+        "Trend": "23.5084",
+        "Year": 1988
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.6338",
+        "9yrRun": "23.6986",
+        "Trend": "23.5187",
+        "Year": 1989
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.8089",
+        "9yrRun": "23.739",
+        "Trend": "23.529",
+        "Year": 1990
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9696",
+        "9yrRun": "23.7094",
+        "Trend": "23.5393",
+        "Year": 1991
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.3667",
+        "9yrRun": "23.6275",
+        "Trend": "23.5495",
+        "Year": 1992
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.7534",
+        "9yrRun": "23.5978",
+        "Trend": "23.5598",
+        "Year": 1993
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9153",
+        "9yrRun": "23.6493",
+        "Trend": "23.5701",
+        "Year": 1994
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.2512",
+        "9yrRun": "23.6096",
+        "Trend": "23.5804",
+        "Year": 1995
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.2569",
+        "9yrRun": "23.5598",
+        "Trend": "23.5907",
+        "Year": 1996
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4245",
+        "9yrRun": "23.587",
+        "Trend": "23.601",
+        "Year": 1997
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.0971",
+        "9yrRun": "23.6164",
+        "Trend": "23.6113",
+        "Year": 1998
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4513",
+        "9yrRun": "23.5989",
+        "Trend": "23.6216",
+        "Year": 1999
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5219",
+        "9yrRun": "23.6179",
+        "Trend": "23.6319",
+        "Year": 2000
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.6113",
+        "9yrRun": "23.6149",
+        "Trend": "23.6422",
+        "Year": 2001
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.0178",
+        "9yrRun": "23.6642",
+        "Trend": "23.6525",
+        "Year": 2002
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.7583",
+        "9yrRun": "23.6273",
+        "Trend": "23.6628",
+        "Year": 2003
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4224",
+        "9yrRun": "23.6252",
+        "Trend": "23.673",
+        "Year": 2004
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.2299",
+        "9yrRun": "23.6453",
+        "Trend": "23.6833",
+        "Year": 2005
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.868",
+        "9yrRun": "23.6379",
+        "Trend": "23.6936",
+        "Year": 2006
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.7647",
+        "9yrRun": "23.5368",
+        "Trend": "23.7039",
+        "Year": 2007
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4322",
+        "9yrRun": "23.498",
+        "Trend": "23.7142",
+        "Year": 2008
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.7028",
+        "9yrRun": "23.5058",
+        "Trend": "23.7245",
+        "Year": 2009
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.545",
+        "9yrRun": "23.5373",
+        "Trend": "23.7348",
+        "Year": 2010
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.1083",
+        "9yrRun": "23.5611",
+        "Trend": "23.7451",
+        "Year": 2011
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.409",
+        "9yrRun": "23.5776",
+        "Trend": "23.7554",
+        "Year": 2012
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.4924",
+        "9yrRun": "23.6531",
+        "Trend": "23.7657",
+        "Year": 2013
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.5133",
+        "9yrRun": "23.6672",
+        "Trend": "23.776",
+        "Year": 2014
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.0823",
+        "9yrRun": "23.729",
+        "Trend": "23.7863",
+        "Year": 2015
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9129",
+        "9yrRun": "23.8554",
+        "Trend": "23.7966",
+        "Year": 2016
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.1118",
+        "9yrRun": "23.9141",
+        "Trend": "23.8068",
+        "Year": 2017
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.8299",
+        "9yrRun": "23.9584",
+        "Trend": "23.8171",
+        "Year": 2018
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.1007",
+        "9yrRun": null,
+        "Trend": "23.8274",
+        "Year": 2019
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "24.2462",
+        "9yrRun": null,
+        "Trend": "23.8377",
+        "Year": 2020
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.9372",
+        "9yrRun": null,
+        "Trend": "23.848",
+        "Year": 2021
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgTemp": "23.5393",
+        "Temp": "23.8912",
+        "9yrRun": null,
+        "Trend": "23.8583",
+        "Year": 2022
+    }
+]
+}
