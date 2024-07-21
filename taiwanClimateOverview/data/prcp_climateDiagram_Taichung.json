@@ -5,73 +5,73 @@
 "DataList":
 [
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "34.2",
         "Month": 1
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "45.4",
         "Month": 2
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "84.2",
         "Month": 3
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "149.2",
         "Month": 4
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "204.9",
         "Month": 5
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "254.4",
         "Month": 6
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "218.7",
         "Month": 7
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "205.6",
         "Month": 8
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "82.6",
         "Month": 9
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "24.1",
         "Month": 10
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "14.2",
         "Month": 11
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "Rain": "35.5",
         "Month": 12
