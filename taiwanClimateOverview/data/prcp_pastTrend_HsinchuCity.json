@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1737.84",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "823.505",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "965.883",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "777.316",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "626.019",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "740.576",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1469.34",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "702.955",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1427.1",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1714.61",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1384.49",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "775.009",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1262.13",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "805.973",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1317.81",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1453.54",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1165.51",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1453.35",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1455.28",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1294.22",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1000.98",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "2079.89",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1476.27",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1712.76",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1631.9",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1362.9",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1458.57",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "927.756",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "842.744",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "927.594",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1433.05",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "825.163",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1225.81",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "851.159",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1117.97",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "836.846",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1065.8",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1066.2",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1142.04",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "729.453",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1201.96",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1738.03",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "667.167",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "505.822",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1446.69",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1969.71",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1666.97",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1513.55",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1513.79",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "903.774",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1388.07",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1009.44",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "2254.52",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "475.345",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "875.135",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1142.42",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1351.69",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1177.98",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "902.717",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1869.94",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "838.648",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1103.49",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 06,
+        "CTID": "06",
         "CTNM": "HsinchuCity",
         "AvgRain": "1212.71",
         "Rain": "1816.33",

@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2159.15",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2117.23",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1475.99",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1024.14",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1081.06",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1456.21",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1874.45",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1713.99",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2180.9",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1703.5",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1697.27",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1395.41",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2878.32",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2071.23",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3036.17",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1975.58",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1850.85",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2644.27",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1324.83",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1657.45",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "723.467",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2709.91",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1973.3",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1777.3",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1536.59",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2497.7",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1827.03",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2173.39",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2004.38",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1795.54",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2772.68",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2196.35",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1765.37",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "801.689",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2283.31",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1602.72",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1865.2",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2408.14",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2537.83",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2701.44",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2373.09",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3100.53",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1445.55",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1759.37",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1972.96",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3527.04",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2360.21",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2942.65",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2916.89",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2375.1",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2556.78",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2106.67",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3185.5",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2350.22",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1688.91",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1925.85",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3654.64",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2129.14",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3140.91",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "2506.71",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1890.46",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "3137.57",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 16,
+        "CTID": "16",
         "CTNM": "Pingtung",
         "AvgRain": "2120.78",
         "Rain": "1290.92",

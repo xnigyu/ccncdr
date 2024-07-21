@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "760.113",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "586.257",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "543.17",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "534.022",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "210.665",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "529.268",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "758.964",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "544.73",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1109.16",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "802.461",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "588.047",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "522.175",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1150.29",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "855.306",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "873.902",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1200.59",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "524.239",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "991.864",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "508.858",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "519.184",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "292.173",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "913.805",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "936.483",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "737.52",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "433.568",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "639.716",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "650.326",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "612.433",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "627.312",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "548.41",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "966.616",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "505.171",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "747.93",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "549.929",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "469.279",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "703.959",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "663.318",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "558.155",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1051.39",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "667.303",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "716.831",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "961.449",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "572.105",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "573.079",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "951.364",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1393.16",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1092.7",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "826.09",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1177.82",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "812.54",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "598.483",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "620.376",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "746.386",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "860.043",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "601.542",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1324.45",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "1368.46",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "656.09",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "917.269",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "825.73",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "572.467",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "681.925",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgRain": "745.858",
         "Rain": "750.609",

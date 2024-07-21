@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2144.73",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1546.7",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1609.69",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1372.95",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1069.21",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1237.64",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1887.88",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1432.51",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1860.43",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2342.25",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2027.15",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1512.16",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1831.15",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1306.22",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2141.73",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2230.54",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1380.21",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1845.37",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1911.06",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1826.18",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1306.77",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2331.47",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1721.87",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1954.45",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2195.74",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2313.7",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2210.9",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1793.66",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1494.44",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1572.65",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2310.83",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1388.74",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1902.61",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1244.78",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1890.71",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1396.01",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1708.5",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1944.09",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2550.2",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1303.28",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2332.51",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2387.14",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1077.39",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "781.419",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1808.98",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2091.33",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2042.78",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2418.15",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2335.34",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1254.46",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1695.98",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1752.75",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2930.07",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2219.24",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1388.81",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1657.5",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2241.71",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1731.89",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1362.15",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2035.55",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1191.91",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "1680.26",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 04,
+        "CTID": "04",
         "CTNM": "Taoyuan",
         "AvgRain": "1809.68",
         "Rain": "2541.12",

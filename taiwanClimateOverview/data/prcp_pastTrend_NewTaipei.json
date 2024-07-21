@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2403.82",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1672.29",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2012.72",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1606.21",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1744.34",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1819.62",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2382.8",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2259.57",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2240.47",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2899.97",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2872.88",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2363.53",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2290.39",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1983.63",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3056.37",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2286.38",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1583.75",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2230.47",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2290.1",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2027.88",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1857.84",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2620.32",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1959.9",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2321.22",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2800.32",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2908.43",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3080.5",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2510.36",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2879.83",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2369.34",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3144.21",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2172.38",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2408.3",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1802.08",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2679.77",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1942.37",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2634.87",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2476.4",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "4213.07",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2074.76",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3900.53",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3482.61",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1795.36",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "1593.26",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3201.45",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3621.23",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2862.46",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3501.37",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3246.69",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2488.87",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2471.58",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3038.64",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3668.19",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3088.21",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2488.97",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2793.54",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "3408.26",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2957.51",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": 2512,
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2841.99",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2472.01",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "2597.88",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 03,
+        "CTID": "03",
         "CTNM": "NewTaipei",
         "AvgRain": "2586.19",
         "Rain": "4014.07",

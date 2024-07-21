@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1355.78",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1062.27",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1028.06",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1072.99",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "683.475",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1133.58",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1451.99",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "906.625",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1435.34",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1132.21",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1111.09",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "958.226",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1831.93",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1149.87",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1271.32",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1669.28",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1067.14",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1696.98",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1086.42",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1273.52",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "682.378",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1562.45",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1245.04",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1370.28",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "987.852",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1339.31",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1098.07",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1216.79",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1271.29",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1173.61",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1661.25",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "927.257",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1427.33",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "817.578",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1253.23",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "991.765",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1169.25",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1230.17",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1701.9",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1136.32",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "946.45",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1552.39",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "961.196",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "761.203",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1173.82",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "2031.46",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1576.04",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1644.01",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1898.22",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1134.15",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1217.23",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "920.053",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1742.3",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1974.52",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1047.3",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1283.65",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1557.38",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1659.73",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1310.96",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1533.86",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "900.881",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1602.95",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgRain": "1271.82",
         "Rain": "1053.96",

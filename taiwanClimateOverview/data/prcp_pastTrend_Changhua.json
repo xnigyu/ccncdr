@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1115.68",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "802.715",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "923.868",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "971.815",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "524.936",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "979.855",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1230.25",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "736.807",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1295.36",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "966.366",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "837.7",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "649.01",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1451.91",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "945.062",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1003.88",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1290.22",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1081.35",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1480.18",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "933.384",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1095.49",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "656.672",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1669.9",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1237.66",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1323.65",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "932.921",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1326.39",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "858.848",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1142.56",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "967.102",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "985.864",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1481.33",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "676.011",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1033.28",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "665.87",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1107.83",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "844.65",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1031.93",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1188.88",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1515.85",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "913.229",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1015.16",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1473.27",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "801.308",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "525.849",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1182.2",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1615.04",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1348.22",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1683.58",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1488.38",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "982.174",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1092.95",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "648.552",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1587.56",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1788.67",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "935.453",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1168.39",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1209.64",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1411.07",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1131.75",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1469.44",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "629.892",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1437.56",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgRain": "1103.97",
         "Rain": "1047.97",

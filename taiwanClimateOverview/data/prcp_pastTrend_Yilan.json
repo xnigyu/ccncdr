@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2365.24",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1801.68",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2602.38",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1783.29",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2131.76",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": 2133,
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1992.46",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2981.92",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2669.5",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3114.08",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2572.93",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3007.05",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2128.57",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2151.64",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "4332.72",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2356.92",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1629.12",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2407.16",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2482.22",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1870.07",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2101.68",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": 2695,
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2185.1",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2118.95",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2695.74",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3080.35",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2992.46",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2685.55",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3415.44",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2807.16",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3355.02",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2256.18",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2917.82",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1607.73",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2932.56",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1875.9",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3085.86",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2046.85",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "4462.08",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2187.2",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3744.05",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3826.04",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1510.06",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1617.99",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2593.24",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3544.29",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2697.9",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3383.22",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3395.37",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2906.09",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2361.23",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2806.82",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3317.88",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2634.04",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "1804.65",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2528.34",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3342.79",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3052.65",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2408.1",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2668.51",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2343.57",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "2480.35",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgRain": "2650.01",
         "Rain": "3964.79",
