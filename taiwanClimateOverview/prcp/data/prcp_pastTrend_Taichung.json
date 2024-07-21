@@ -1,0 +1,575 @@
+{
+"ID":"08",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1832.69",
+        "9yrRun": null,
+        "Trend": "1517.05",
+        "Year": 1960
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1171.77",
+        "9yrRun": null,
+        "Trend": "1524.54",
+        "Year": 1961
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1524.58",
+        "9yrRun": null,
+        "Trend": "1532.02",
+        "Year": 1962
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1529.74",
+        "9yrRun": null,
+        "Trend": "1539.5",
+        "Year": 1963
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1003.97",
+        "9yrRun": "1474.75",
+        "Trend": "1546.99",
+        "Year": 1964
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1278.72",
+        "9yrRun": "1455.33",
+        "Trend": "1554.47",
+        "Year": 1965
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1826.74",
+        "9yrRun": "1495.62",
+        "Trend": "1561.95",
+        "Year": 1966
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1140.86",
+        "9yrRun": "1433.73",
+        "Trend": "1569.44",
+        "Year": 1967
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1963.72",
+        "9yrRun": "1480.62",
+        "Trend": "1576.92",
+        "Year": 1968
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1657.91",
+        "9yrRun": "1526.68",
+        "Trend": "1584.41",
+        "Year": 1969
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1534.38",
+        "9yrRun": "1610.16",
+        "Trend": "1591.89",
+        "Year": 1970
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "967.568",
+        "9yrRun": 1617,
+        "Trend": "1599.37",
+        "Year": 1971
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1951.72",
+        "9yrRun": "1684.03",
+        "Trend": "1606.86",
+        "Year": 1972
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1418.53",
+        "9yrRun": "1681.16",
+        "Trend": "1614.34",
+        "Year": 1973
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2030.03",
+        "9yrRun": "1664.8",
+        "Trend": "1621.83",
+        "Year": 1974
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1888.29",
+        "9yrRun": "1675.81",
+        "Trend": "1629.31",
+        "Year": 1975
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1744.12",
+        "9yrRun": "1691.97",
+        "Trend": "1636.79",
+        "Year": 1976
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1937.9",
+        "9yrRun": "1743.51",
+        "Trend": "1644.28",
+        "Year": 1977
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1510.66",
+        "9yrRun": "1785.79",
+        "Trend": "1651.76",
+        "Year": 1978
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1633.47",
+        "9yrRun": "1784.05",
+        "Trend": "1659.25",
+        "Year": 1979
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1112.99",
+        "9yrRun": "1752.49",
+        "Trend": "1666.73",
+        "Year": 1980
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2415.64",
+        "9yrRun": "1796.87",
+        "Trend": "1674.21",
+        "Year": 1981
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1798.98",
+        "9yrRun": "1775.77",
+        "Trend": "1681.7",
+        "Year": 1982
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2014.37",
+        "9yrRun": "1798.03",
+        "Trend": "1689.18",
+        "Year": 1983
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1604.28",
+        "9yrRun": "1769.02",
+        "Trend": "1696.66",
+        "Year": 1984
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2143.52",
+        "9yrRun": "1843.07",
+        "Trend": "1704.15",
+        "Year": 1985
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1748.02",
+        "9yrRun": "1848.06",
+        "Trend": "1711.63",
+        "Year": 1986
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1710.99",
+        "9yrRun": "1756.46",
+        "Trend": "1719.12",
+        "Year": 1987
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1372.38",
+        "9yrRun": "1738.26",
+        "Trend": "1726.6",
+        "Year": 1988
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1779.46",
+        "9yrRun": "1702.7",
+        "Trend": "1734.08",
+        "Year": 1989
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2460.55",
+        "9yrRun": "1674.24",
+        "Trend": "1741.57",
+        "Year": 1990
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "974.564",
+        "9yrRun": "1622.88",
+        "Trend": "1749.05",
+        "Year": 1991
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1850.52",
+        "9yrRun": "1610.4",
+        "Trend": "1756.54",
+        "Year": 1992
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1284.33",
+        "9yrRun": "1664.2",
+        "Trend": "1764.02",
+        "Year": 1993
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1887.38",
+        "9yrRun": "1711.61",
+        "Trend": "1771.5",
+        "Year": 1994
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1285.77",
+        "9yrRun": "1595.47",
+        "Trend": "1778.99",
+        "Year": 1995
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1598.6",
+        "9yrRun": "1698.07",
+        "Trend": "1786.47",
+        "Year": 1996
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1856.64",
+        "9yrRun": "1705.33",
+        "Trend": "1793.96",
+        "Year": 1997
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2206.1",
+        "9yrRun": "1676.7",
+        "Trend": "1801.44",
+        "Year": 1998
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1415.3",
+        "9yrRun": "1564.16",
+        "Trend": "1808.92",
+        "Year": 1999
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1897.98",
+        "9yrRun": "1652.87",
+        "Trend": "1816.41",
+        "Year": 2000
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1915.85",
+        "9yrRun": "1787.76",
+        "Trend": "1823.89",
+        "Year": 2001
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1026.69",
+        "9yrRun": "1852.98",
+        "Trend": "1831.38",
+        "Year": 2002
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "874.493",
+        "9yrRun": "1902.1",
+        "Trend": "1838.86",
+        "Year": 2003
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2084.16",
+        "9yrRun": "2032.12",
+        "Trend": "1846.34",
+        "Year": 2004
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2812.66",
+        "9yrRun": "2013.11",
+        "Trend": "1853.83",
+        "Year": 2005
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2443.63",
+        "9yrRun": "2008.5",
+        "Trend": "1861.31",
+        "Year": 2006
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2648.14",
+        "9yrRun": "2031.75",
+        "Trend": "1868.79",
+        "Year": 2007
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2585.47",
+        "9yrRun": "2219.74",
+        "Trend": "1876.28",
+        "Year": 2008
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1726.91",
+        "9yrRun": "2264.62",
+        "Trend": "1883.76",
+        "Year": 2009
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1874.32",
+        "9yrRun": "2119.77",
+        "Trend": "1891.25",
+        "Year": 2010
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1236.01",
+        "9yrRun": "2023.21",
+        "Trend": "1898.73",
+        "Year": 2011
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2566.33",
+        "9yrRun": "1949.98",
+        "Trend": "1906.21",
+        "Year": 2012
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2488.12",
+        "9yrRun": "1895.45",
+        "Trend": "1913.7",
+        "Year": 2013
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1508.97",
+        "9yrRun": "1867.28",
+        "Trend": "1921.18",
+        "Year": 2014
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1574.58",
+        "9yrRun": "1943.74",
+        "Trend": "1928.67",
+        "Year": 2015
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1989.15",
+        "9yrRun": "1919.98",
+        "Trend": "1936.15",
+        "Year": 2016
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2094.65",
+        "9yrRun": "1834.17",
+        "Trend": "1943.63",
+        "Year": 2017
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1473.4",
+        "9yrRun": "1771.31",
+        "Trend": "1951.12",
+        "Year": 2018
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "2562.41",
+        "9yrRun": null,
+        "Trend": "1958.6",
+        "Year": 2019
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1022.25",
+        "9yrRun": null,
+        "Trend": "1966.08",
+        "Year": 2020
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1793.97",
+        "9yrRun": null,
+        "Trend": "1973.57",
+        "Year": 2021
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgRain": "1749.05",
+        "Rain": "1922.4",
+        "9yrRun": null,
+        "Trend": "1981.05",
+        "Year": 2022
+    }
+]
+}

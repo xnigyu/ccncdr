@@ -1,0 +1,575 @@
+{
+"ID":"09",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1115.68",
+        "9yrRun": null,
+        "Trend": "966.155",
+        "Year": 1960
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "802.715",
+        "9yrRun": null,
+        "Trend": "970.601",
+        "Year": 1961
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "923.868",
+        "9yrRun": null,
+        "Trend": "975.046",
+        "Year": 1962
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "971.815",
+        "9yrRun": null,
+        "Trend": "979.493",
+        "Year": 1963
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "524.936",
+        "9yrRun": "953.476",
+        "Trend": "983.938",
+        "Year": 1964
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "979.855",
+        "9yrRun": "936.886",
+        "Trend": "988.384",
+        "Year": 1965
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1230.25",
+        "9yrRun": "940.773",
+        "Trend": "992.83",
+        "Year": 1966
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "736.807",
+        "9yrRun": "910.233",
+        "Trend": "997.276",
+        "Year": 1967
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1295.36",
+        "9yrRun": "963.577",
+        "Trend": "1001.72",
+        "Year": 1968
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "966.366",
+        "9yrRun": "1010.26",
+        "Trend": "1006.17",
+        "Year": 1969
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "837.7",
+        "9yrRun": "1012.93",
+        "Trend": "1010.61",
+        "Year": 1970
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "649.01",
+        "9yrRun": "1019.59",
+        "Trend": "1015.06",
+        "Year": 1971
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1451.91",
+        "9yrRun": "1057.87",
+        "Trend": "1019.5",
+        "Year": 1972
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "945.062",
+        "9yrRun": "1078.41",
+        "Trend": "1023.95",
+        "Year": 1973
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1003.88",
+        "9yrRun": "1074.74",
+        "Trend": "1028.4",
+        "Year": 1974
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1290.22",
+        "9yrRun": "1103.39",
+        "Trend": "1032.84",
+        "Year": 1975
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1081.35",
+        "9yrRun": "1104.24",
+        "Trend": "1037.29",
+        "Year": 1976
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1480.18",
+        "9yrRun": "1128.46",
+        "Trend": "1041.73",
+        "Year": 1977
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "933.384",
+        "9yrRun": "1160.97",
+        "Trend": "1046.18",
+        "Year": 1978
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1095.49",
+        "9yrRun": "1196.5",
+        "Trend": "1050.62",
+        "Year": 1979
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "656.672",
+        "9yrRun": "1156.8",
+        "Trend": "1055.07",
+        "Year": 1980
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1669.9",
+        "9yrRun": "1184.03",
+        "Trend": "1059.52",
+        "Year": 1981
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1237.66",
+        "9yrRun": "1114.99",
+        "Trend": "1063.96",
+        "Year": 1982
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1323.65",
+        "9yrRun": "1138.23",
+        "Trend": "1068.41",
+        "Year": 1983
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "932.921",
+        "9yrRun": "1123.97",
+        "Trend": "1072.85",
+        "Year": 1984
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1326.39",
+        "9yrRun": "1160.54",
+        "Trend": "1077.3",
+        "Year": 1985
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "858.848",
+        "9yrRun": "1139.59",
+        "Trend": "1081.74",
+        "Year": 1986
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1142.56",
+        "9yrRun": "1077.19",
+        "Trend": "1086.19",
+        "Year": 1987
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "967.102",
+        "9yrRun": "1044.92",
+        "Trend": "1090.64",
+        "Year": 1988
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "985.864",
+        "9yrRun": "1015.25",
+        "Trend": "1095.08",
+        "Year": 1989
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1481.33",
+        "9yrRun": "990.966",
+        "Trend": "1099.53",
+        "Year": 1990
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "676.011",
+        "9yrRun": "989.388",
+        "Trend": "1103.97",
+        "Year": 1991
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1033.28",
+        "9yrRun": "977.097",
+        "Trend": "1108.42",
+        "Year": 1992
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "665.87",
+        "9yrRun": "1001.74",
+        "Trend": "1112.87",
+        "Year": 1993
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1107.83",
+        "9yrRun": "1060.63",
+        "Trend": "1117.31",
+        "Year": 1994
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "844.65",
+        "9yrRun": "997.504",
+        "Trend": "1121.76",
+        "Year": 1995
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1031.93",
+        "9yrRun": "1035.19",
+        "Trend": "1126.2",
+        "Year": 1996
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1188.88",
+        "9yrRun": "1084.08",
+        "Trend": "1130.65",
+        "Year": 1997
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1515.85",
+        "9yrRun": "1099.12",
+        "Trend": "1135.09",
+        "Year": 1998
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "913.229",
+        "9yrRun": "1034.46",
+        "Trend": "1139.54",
+        "Year": 1999
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1015.16",
+        "9yrRun": "1071.97",
+        "Trend": "1143.99",
+        "Year": 2000
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1473.27",
+        "9yrRun": "1136.76",
+        "Trend": "1148.43",
+        "Year": 2001
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "801.308",
+        "9yrRun": "1154.46",
+        "Trend": "1152.88",
+        "Year": 2002
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "525.849",
+        "9yrRun": "1173.1",
+        "Trend": "1157.32",
+        "Year": 2003
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1182.2",
+        "9yrRun": 1237,
+        "Trend": "1161.77",
+        "Year": 2004
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1615.04",
+        "9yrRun": "1233.34",
+        "Trend": "1166.21",
+        "Year": 2005
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1348.22",
+        "9yrRun": "1191.08",
+        "Trend": "1170.66",
+        "Year": 2006
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1683.58",
+        "9yrRun": "1174.1",
+        "Trend": "1175.11",
+        "Year": 2007
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1488.38",
+        "9yrRun": "1292.07",
+        "Trend": "1179.55",
+        "Year": 2008
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "982.174",
+        "9yrRun": "1359.46",
+        "Trend": 1184,
+        "Year": 2009
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1092.95",
+        "9yrRun": "1283.95",
+        "Trend": "1188.44",
+        "Year": 2010
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "648.552",
+        "9yrRun": "1263.97",
+        "Trend": "1192.89",
+        "Year": 2011
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1587.56",
+        "9yrRun": "1211.31",
+        "Trend": "1197.33",
+        "Year": 2012
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1788.67",
+        "9yrRun": "1202.72",
+        "Trend": "1201.78",
+        "Year": 2013
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "935.453",
+        "9yrRun": "1219.34",
+        "Trend": "1206.23",
+        "Year": 2014
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1168.39",
+        "9yrRun": "1261.17",
+        "Trend": "1210.67",
+        "Year": 2015
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1209.64",
+        "9yrRun": "1259.1",
+        "Trend": "1215.12",
+        "Year": 2016
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1411.07",
+        "9yrRun": "1242.43",
+        "Trend": "1219.56",
+        "Year": 2017
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1131.75",
+        "9yrRun": "1160.13",
+        "Trend": "1224.01",
+        "Year": 2018
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1469.44",
+        "9yrRun": null,
+        "Trend": "1228.46",
+        "Year": 2019
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "629.892",
+        "9yrRun": null,
+        "Trend": "1232.9",
+        "Year": 2020
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1437.56",
+        "9yrRun": null,
+        "Trend": "1237.35",
+        "Year": 2021
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "AvgRain": "1103.97",
+        "Rain": "1047.97",
+        "9yrRun": null,
+        "Trend": "1241.79",
+        "Year": 2022
+    }
+]
+}

@@ -1,0 +1,575 @@
+{
+"ID":"07",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2067.71",
+        "9yrRun": null,
+        "Trend": "1557.93",
+        "Year": 1960
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1170.61",
+        "9yrRun": null,
+        "Trend": "1564.88",
+        "Year": 1961
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1530.5",
+        "9yrRun": null,
+        "Trend": "1571.83",
+        "Year": 1962
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1590.83",
+        "9yrRun": null,
+        "Trend": "1578.78",
+        "Year": 1963
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "891.908",
+        "9yrRun": "1468.24",
+        "Trend": "1585.73",
+        "Year": 1964
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1140.54",
+        "9yrRun": "1442.06",
+        "Trend": "1592.68",
+        "Year": 1965
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1828.19",
+        "9yrRun": "1491.9",
+        "Trend": "1599.63",
+        "Year": 1966
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1092.73",
+        "9yrRun": "1444.77",
+        "Trend": "1606.58",
+        "Year": 1967
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1901.14",
+        "9yrRun": "1496.86",
+        "Trend": "1613.52",
+        "Year": 1968
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1832.11",
+        "9yrRun": "1532.3",
+        "Trend": "1620.47",
+        "Year": 1969
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1619.16",
+        "9yrRun": "1634.76",
+        "Trend": "1627.42",
+        "Year": 1970
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1106.3",
+        "9yrRun": "1644.31",
+        "Trend": "1634.37",
+        "Year": 1971
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2059.68",
+        "9yrRun": "1711.83",
+        "Trend": "1641.32",
+        "Year": 1972
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1210.83",
+        "9yrRun": "1708.39",
+        "Trend": "1648.27",
+        "Year": 1973
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2062.68",
+        "9yrRun": "1678.41",
+        "Trend": "1655.22",
+        "Year": 1974
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1914.12",
+        "9yrRun": "1708.78",
+        "Trend": "1662.17",
+        "Year": 1975
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1700.44",
+        "9yrRun": "1720.38",
+        "Trend": "1669.12",
+        "Year": 1976
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1870.14",
+        "9yrRun": "1779.57",
+        "Trend": "1676.06",
+        "Year": 1977
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1562.32",
+        "9yrRun": "1842.29",
+        "Trend": "1683.01",
+        "Year": 1978
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1892.48",
+        "9yrRun": "1852.91",
+        "Trend": "1689.96",
+        "Year": 1979
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1210.76",
+        "9yrRun": "1855.87",
+        "Trend": "1696.91",
+        "Year": 1980
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2592.33",
+        "9yrRun": "1923.19",
+        "Trend": "1703.86",
+        "Year": 1981
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1775.36",
+        "9yrRun": "1922.87",
+        "Trend": "1710.81",
+        "Year": 1982
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2158.21",
+        "9yrRun": "1910.6",
+        "Trend": "1717.76",
+        "Year": 1983
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1940.75",
+        "9yrRun": "1842.69",
+        "Trend": "1724.71",
+        "Year": 1984
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2306.36",
+        "9yrRun": "1906.42",
+        "Trend": "1731.66",
+        "Year": 1985
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1867.24",
+        "9yrRun": "1885.72",
+        "Trend": "1738.6",
+        "Year": 1986
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1451.93",
+        "9yrRun": "1799.71",
+        "Trend": "1745.55",
+        "Year": 1987
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1281.29",
+        "9yrRun": "1751.78",
+        "Trend": "1752.5",
+        "Year": 1988
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1784.26",
+        "9yrRun": "1676.78",
+        "Trend": "1759.45",
+        "Year": 1989
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2406.08",
+        "9yrRun": "1632.09",
+        "Trend": "1766.4",
+        "Year": 1990
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1001.25",
+        "9yrRun": "1573.23",
+        "Trend": "1773.35",
+        "Year": 1991
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1726.84",
+        "9yrRun": "1612.91",
+        "Trend": "1780.3",
+        "Year": 1992
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1265.77",
+        "9yrRun": "1689.71",
+        "Trend": "1787.25",
+        "Year": 1993
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1904.15",
+        "9yrRun": "1715.8",
+        "Trend": "1794.2",
+        "Year": 1994
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1337.46",
+        "9yrRun": "1586.27",
+        "Trend": "1801.15",
+        "Year": 1995
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1809.04",
+        "9yrRun": "1696.68",
+        "Trend": "1808.09",
+        "Year": 1996
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1972.55",
+        "9yrRun": "1744.41",
+        "Trend": "1815.04",
+        "Year": 1997
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2019.01",
+        "9yrRun": "1733.09",
+        "Trend": "1821.99",
+        "Year": 1998
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1240.35",
+        "9yrRun": "1615.84",
+        "Trend": "1828.94",
+        "Year": 1999
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1994.96",
+        "9yrRun": "1710.08",
+        "Trend": "1835.89",
+        "Year": 2000
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2156.36",
+        "9yrRun": "1826.11",
+        "Trend": "1842.84",
+        "Year": 2001
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1163.9",
+        "9yrRun": "1889.89",
+        "Trend": "1849.79",
+        "Year": 2002
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "848.953",
+        "9yrRun": "1946.55",
+        "Trend": "1856.74",
+        "Year": 2003
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2185.59",
+        "9yrRun": "2084.76",
+        "Trend": "1863.69",
+        "Year": 2004
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2853.35",
+        "9yrRun": "2055.14",
+        "Trend": "1870.63",
+        "Year": 2005
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2546.51",
+        "9yrRun": "2018.03",
+        "Trend": "1877.58",
+        "Year": 2006
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2528.99",
+        "9yrRun": "2032.51",
+        "Trend": "1884.53",
+        "Year": 2007
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2484.24",
+        "9yrRun": "2233.61",
+        "Trend": "1891.48",
+        "Year": 2008
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1728.37",
+        "9yrRun": "2279.63",
+        "Trend": "1898.43",
+        "Year": 2009
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1822.4",
+        "9yrRun": "2121.98",
+        "Trend": "1905.38",
+        "Year": 2010
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1294.15",
+        "9yrRun": "2012.04",
+        "Trend": "1912.33",
+        "Year": 2011
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2658.91",
+        "9yrRun": "1949.74",
+        "Trend": "1919.28",
+        "Year": 2012
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2599.8",
+        "9yrRun": "1892.31",
+        "Trend": "1926.23",
+        "Year": 2013
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1434.42",
+        "9yrRun": "1847.01",
+        "Trend": "1933.17",
+        "Year": 2014
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1557.13",
+        "9yrRun": "1908.53",
+        "Trend": "1940.12",
+        "Year": 2015
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1968.22",
+        "9yrRun": "1877.07",
+        "Trend": "1947.07",
+        "Year": 2016
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1967.43",
+        "9yrRun": "1783.24",
+        "Trend": "1954.02",
+        "Year": 2017
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1320.63",
+        "9yrRun": "1751.01",
+        "Trend": "1960.97",
+        "Year": 2018
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2376.09",
+        "9yrRun": null,
+        "Trend": "1967.92",
+        "Year": 2019
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": 1011,
+        "9yrRun": null,
+        "Trend": "1974.87",
+        "Year": 2020
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "1814.41",
+        "9yrRun": null,
+        "Trend": "1981.82",
+        "Year": 2021
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgRain": "1773.35",
+        "Rain": "2309.74",
+        "9yrRun": null,
+        "Trend": "1988.77",
+        "Year": 2022
+    }
+]
+}

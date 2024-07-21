@@ -1,0 +1,80 @@
+{
+"ID":"09",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "10.8",
+        "Month": 1
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "17.0",
+        "Month": 2
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "32.3",
+        "Month": 3
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "70.4",
+        "Month": 4
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "132.1",
+        "Month": 5
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "192.2",
+        "Month": 6
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "168.2",
+        "Month": 7
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "160.8",
+        "Month": 8
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "33.6",
+        "Month": 9
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "2.8",
+        "Month": 10
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "3.1",
+        "Month": 11
+    },
+    {
+        "CTID": 09,
+        "CTNM": "Changhua",
+        "Rain": "13.3",
+        "Month": 12
+    }
+]
+}

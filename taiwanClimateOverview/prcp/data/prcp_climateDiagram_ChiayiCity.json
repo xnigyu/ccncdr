@@ -1,0 +1,80 @@
+{
+"ID":"13",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "13.5",
+        "Month": 1
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "12.9",
+        "Month": 2
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "33.9",
+        "Month": 3
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "56.9",
+        "Month": 4
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "152.4",
+        "Month": 5
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "299.3",
+        "Month": 6
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "334.0",
+        "Month": 7
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "327.9",
+        "Month": 8
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "109.7",
+        "Month": 9
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "5.7",
+        "Month": 10
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "4.3",
+        "Month": 11
+    },
+    {
+        "CTID": 13,
+        "CTNM": "ChiayiCity",
+        "Rain": "13.4",
+        "Month": 12
+    }
+]
+}

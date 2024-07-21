@@ -1,0 +1,575 @@
+{
+"ID":"12",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1910.82",
+        "9yrRun": null,
+        "Trend": "1640.24",
+        "Year": 1960
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1505.66",
+        "9yrRun": null,
+        "Trend": "1649.02",
+        "Year": 1961
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1357.09",
+        "9yrRun": null,
+        "Trend": "1657.79",
+        "Year": 1962
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1424.97",
+        "9yrRun": null,
+        "Trend": "1666.57",
+        "Year": 1963
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1118.63",
+        "9yrRun": "1571.5",
+        "Trend": "1675.35",
+        "Year": 1964
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1512.34",
+        "9yrRun": "1535.08",
+        "Trend": "1684.13",
+        "Year": 1965
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1880.65",
+        "9yrRun": "1528.05",
+        "Trend": "1692.91",
+        "Year": 1966
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1347.73",
+        "9yrRun": "1536.11",
+        "Trend": "1701.69",
+        "Year": 1967
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2085.62",
+        "9yrRun": "1675.99",
+        "Trend": "1710.47",
+        "Year": 1968
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1583.05",
+        "9yrRun": "1743.49",
+        "Trend": "1719.25",
+        "Year": 1969
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1442.34",
+        "9yrRun": "1782.76",
+        "Trend": "1728.02",
+        "Year": 1970
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1429.71",
+        "9yrRun": "1849.43",
+        "Trend": "1736.8",
+        "Year": 1971
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2683.82",
+        "9yrRun": "1902.55",
+        "Trend": "1745.58",
+        "Year": 1972
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1726.19",
+        "9yrRun": "1996.77",
+        "Trend": "1754.36",
+        "Year": 1973
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1865.75",
+        "9yrRun": "2051.21",
+        "Trend": "1763.14",
+        "Year": 1974
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2480.66",
+        "9yrRun": "2109.96",
+        "Trend": "1771.92",
+        "Year": 1975
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1825.81",
+        "9yrRun": "2064.38",
+        "Trend": "1780.7",
+        "Year": 1976
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2933.58",
+        "9yrRun": "2032.19",
+        "Trend": "1789.47",
+        "Year": 1977
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2073.05",
+        "9yrRun": "2042.43",
+        "Trend": "1798.25",
+        "Year": 1978
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1971.06",
+        "9yrRun": "2061.48",
+        "Trend": "1807.03",
+        "Year": 1979
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1019.5",
+        "9yrRun": "1951.03",
+        "Trend": "1815.81",
+        "Year": 1980
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2394.12",
+        "9yrRun": "1965.62",
+        "Trend": "1824.59",
+        "Year": 1981
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1818.33",
+        "9yrRun": "1820.38",
+        "Trend": "1833.37",
+        "Year": 1982
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2037.18",
+        "9yrRun": "1763.89",
+        "Trend": "1842.14",
+        "Year": 1983
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1486.61",
+        "9yrRun": "1745.17",
+        "Trend": "1850.92",
+        "Year": 1984
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1957.18",
+        "9yrRun": "1785.36",
+        "Trend": "1859.7",
+        "Year": 1985
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1626.37",
+        "9yrRun": "1774.8",
+        "Trend": "1868.48",
+        "Year": 1986
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1564.66",
+        "9yrRun": "1714.1",
+        "Trend": "1877.26",
+        "Year": 1987
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1802.57",
+        "9yrRun": "1723.41",
+        "Trend": "1886.04",
+        "Year": 1988
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1381.24",
+        "9yrRun": "1694.21",
+        "Trend": "1894.82",
+        "Year": 1989
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2299.05",
+        "9yrRun": "1690.67",
+        "Trend": "1903.6",
+        "Year": 1990
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1272.05",
+        "9yrRun": "1643.65",
+        "Trend": "1912.38",
+        "Year": 1991
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2120.98",
+        "9yrRun": "1670.66",
+        "Trend": "1921.15",
+        "Year": 1992
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1223.8",
+        "9yrRun": "1687.17",
+        "Trend": "1929.93",
+        "Year": 1993
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1925.32",
+        "9yrRun": "1801.76",
+        "Trend": "1938.71",
+        "Year": 1994
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1203.15",
+        "9yrRun": "1740.34",
+        "Trend": "1947.49",
+        "Year": 1995
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1807.77",
+        "9yrRun": "1770.59",
+        "Trend": "1956.27",
+        "Year": 1996
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1951.14",
+        "9yrRun": "1816.67",
+        "Trend": "1965.04",
+        "Year": 1997
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2412.62",
+        "9yrRun": "1833.54",
+        "Trend": "1973.82",
+        "Year": 1998
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1746.25",
+        "9yrRun": "1757.97",
+        "Trend": "1982.6",
+        "Year": 1999
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1544.25",
+        "9yrRun": "1834.11",
+        "Trend": "1991.38",
+        "Year": 2000
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2535.73",
+        "9yrRun": "2011.43",
+        "Trend": "2000.16",
+        "Year": 2001
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1375.6",
+        "9yrRun": "2104.46",
+        "Trend": "2008.94",
+        "Year": 2002
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1245.26",
+        "9yrRun": "2130.49",
+        "Trend": "2017.72",
+        "Year": 2003
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1888.34",
+        "9yrRun": "2279.26",
+        "Trend": "2026.5",
+        "Year": 2004
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "3403.68",
+        "9yrRun": "2357.92",
+        "Trend": "2035.28",
+        "Year": 2005
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2788.43",
+        "9yrRun": "2293.1",
+        "Trend": "2044.05",
+        "Year": 2006
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2646.86",
+        "9yrRun": "2309.42",
+        "Trend": "2052.83",
+        "Year": 2007
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "3085.21",
+        "9yrRun": "2462.97",
+        "Trend": "2061.61",
+        "Year": 2008
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2252.2",
+        "9yrRun": "2543.83",
+        "Trend": "2070.39",
+        "Year": 2009
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1952.28",
+        "9yrRun": "2334.59",
+        "Trend": "2079.17",
+        "Year": 2010
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1522.52",
+        "9yrRun": "2237.97",
+        "Trend": "2087.95",
+        "Year": 2011
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2627.17",
+        "9yrRun": "2228.79",
+        "Trend": "2096.72",
+        "Year": 2012
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2616.11",
+        "9yrRun": "2123.34",
+        "Trend": "2105.5",
+        "Year": 2013
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1520.54",
+        "9yrRun": "2121.28",
+        "Trend": "2114.28",
+        "Year": 2014
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1918.82",
+        "9yrRun": "2169.81",
+        "Trend": "2123.06",
+        "Year": 2015
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2564.29",
+        "9yrRun": "2143.1",
+        "Trend": "2131.84",
+        "Year": 2016
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2136.1",
+        "9yrRun": "2112.33",
+        "Trend": "2140.62",
+        "Year": 2017
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2233.69",
+        "9yrRun": "1976.39",
+        "Trend": "2149.4",
+        "Year": 2018
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2389.01",
+        "9yrRun": null,
+        "Trend": "2158.17",
+        "Year": 2019
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1282.16",
+        "9yrRun": null,
+        "Trend": "2166.95",
+        "Year": 2020
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "2350.26",
+        "9yrRun": null,
+        "Trend": "2175.73",
+        "Year": 2021
+    },
+    {
+        "CTID": 12,
+        "CTNM": "Chiayi",
+        "AvgRain": "1912.37",
+        "Rain": "1392.67",
+        "9yrRun": null,
+        "Trend": "2184.51",
+        "Year": 2022
+    }
+]
+}

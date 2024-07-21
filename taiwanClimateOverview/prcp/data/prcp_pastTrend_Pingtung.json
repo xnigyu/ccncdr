@@ -1,0 +1,575 @@
+{
+"ID":"16",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2159.15",
+        "9yrRun": null,
+        "Trend": "1680.55",
+        "Year": 1960
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2117.23",
+        "9yrRun": null,
+        "Trend": "1694.75",
+        "Year": 1961
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1475.99",
+        "9yrRun": null,
+        "Trend": "1708.95",
+        "Year": 1962
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1024.14",
+        "9yrRun": null,
+        "Trend": "1723.15",
+        "Year": 1963
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1081.06",
+        "9yrRun": "1675.9",
+        "Trend": "1737.35",
+        "Year": 1964
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1456.21",
+        "9yrRun": "1625.27",
+        "Trend": "1751.55",
+        "Year": 1965
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1874.45",
+        "9yrRun": "1578.61",
+        "Trend": "1765.75",
+        "Year": 1966
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1713.99",
+        "9yrRun": "1569.66",
+        "Trend": "1779.96",
+        "Year": 1967
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2180.9",
+        "9yrRun": "1775.68",
+        "Trend": "1794.16",
+        "Year": 1968
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1703.5",
+        "9yrRun": "1885.7",
+        "Trend": "1808.36",
+        "Year": 1969
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1697.27",
+        "9yrRun": "2061.25",
+        "Trend": "1822.56",
+        "Year": 1970
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1395.41",
+        "9yrRun": "2072.48",
+        "Trend": "1836.76",
+        "Year": 1971
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2878.32",
+        "9yrRun": "2087.69",
+        "Trend": "1850.96",
+        "Year": 1972
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2071.23",
+        "9yrRun": "2139.18",
+        "Trend": "1865.16",
+        "Year": 1973
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3036.17",
+        "9yrRun": "2097.1",
+        "Trend": "1879.36",
+        "Year": 1974
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1975.58",
+        "9yrRun": "2092.68",
+        "Trend": "1893.56",
+        "Year": 1975
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1850.85",
+        "9yrRun": "2018.02",
+        "Trend": "1907.76",
+        "Year": 1976
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2644.27",
+        "9yrRun": "1999.31",
+        "Trend": "1921.96",
+        "Year": 1977
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1324.83",
+        "9yrRun": "1988.42",
+        "Trend": "1936.17",
+        "Year": 1978
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1657.45",
+        "9yrRun": "1848.55",
+        "Trend": "1950.37",
+        "Year": 1979
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "723.467",
+        "9yrRun": "1799.77",
+        "Trend": "1964.57",
+        "Year": 1980
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2709.91",
+        "9yrRun": "1871.64",
+        "Trend": "1978.77",
+        "Year": 1981
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1973.3",
+        "9yrRun": "1780.84",
+        "Trend": "1992.97",
+        "Year": 1982
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1777.3",
+        "9yrRun": "1875.13",
+        "Trend": "2007.17",
+        "Year": 1983
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1536.59",
+        "9yrRun": "1913.67",
+        "Trend": "2021.37",
+        "Year": 1984
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2497.7",
+        "9yrRun": "2032.79",
+        "Trend": "2035.57",
+        "Year": 1985
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1827.03",
+        "9yrRun": "2039.77",
+        "Trend": "2049.77",
+        "Year": 1986
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2173.39",
+        "9yrRun": "2064.55",
+        "Trend": "2063.97",
+        "Year": 1987
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2004.38",
+        "9yrRun": "2063.23",
+        "Trend": "2078.18",
+        "Year": 1988
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1795.54",
+        "9yrRun": "1981.57",
+        "Trend": "2092.38",
+        "Year": 1989
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2772.68",
+        "9yrRun": "1957.75",
+        "Trend": "2106.58",
+        "Year": 1990
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2196.35",
+        "9yrRun": "1932.83",
+        "Trend": "2120.78",
+        "Year": 1991
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1765.37",
+        "9yrRun": "1898.58",
+        "Trend": "2134.98",
+        "Year": 1992
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "801.689",
+        "9yrRun": "1943.44",
+        "Trend": "2149.18",
+        "Year": 1993
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2283.31",
+        "9yrRun": "2025.92",
+        "Trend": "2163.38",
+        "Year": 1994
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1602.72",
+        "9yrRun": "2018.01",
+        "Trend": "2177.58",
+        "Year": 1995
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1865.2",
+        "9yrRun": "2037.64",
+        "Trend": "2191.78",
+        "Year": 1996
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2408.14",
+        "9yrRun": "2185.99",
+        "Trend": "2205.98",
+        "Year": 1997
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2537.83",
+        "9yrRun": "2257.53",
+        "Trend": "2220.18",
+        "Year": 1998
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2701.44",
+        "9yrRun": "2199.32",
+        "Trend": "2234.38",
+        "Year": 1999
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2373.09",
+        "9yrRun": "2240.46",
+        "Trend": "2248.59",
+        "Year": 2000
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3100.53",
+        "9yrRun": "2425.11",
+        "Trend": "2262.79",
+        "Year": 2001
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1445.55",
+        "9yrRun": "2419.78",
+        "Trend": "2276.99",
+        "Year": 2002
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1759.37",
+        "9yrRun": "2464.76",
+        "Trend": "2291.19",
+        "Year": 2003
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1972.96",
+        "9yrRun": "2488.7",
+        "Trend": "2305.39",
+        "Year": 2004
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3527.04",
+        "9yrRun": "2488.92",
+        "Trend": "2319.59",
+        "Year": 2005
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2360.21",
+        "9yrRun": "2428.51",
+        "Trend": "2333.79",
+        "Year": 2006
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2942.65",
+        "9yrRun": "2501.96",
+        "Trend": "2347.99",
+        "Year": 2007
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2916.89",
+        "9yrRun": "2660.42",
+        "Trend": "2362.19",
+        "Year": 2008
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2375.1",
+        "9yrRun": "2702.34",
+        "Trend": "2376.39",
+        "Year": 2009
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2556.78",
+        "9yrRun": "2498.1",
+        "Trend": "2390.6",
+        "Year": 2010
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2106.67",
+        "9yrRun": "2449.84",
+        "Trend": "2404.8",
+        "Year": 2011
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3185.5",
+        "9yrRun": "2528.95",
+        "Trend": 2419,
+        "Year": 2012
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2350.22",
+        "9yrRun": "2441.42",
+        "Trend": "2433.2",
+        "Year": 2013
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1688.91",
+        "9yrRun": "2526.51",
+        "Trend": "2447.4",
+        "Year": 2014
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1925.85",
+        "9yrRun": "2520.95",
+        "Trend": "2461.6",
+        "Year": 2015
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3654.64",
+        "9yrRun": "2496.93",
+        "Trend": "2475.8",
+        "Year": 2016
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2129.14",
+        "9yrRun": "2491.6",
+        "Trend": 2490,
+        "Year": 2017
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3140.91",
+        "9yrRun": "2373.9",
+        "Trend": "2504.2",
+        "Year": 2018
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "2506.71",
+        "9yrRun": null,
+        "Trend": "2518.4",
+        "Year": 2019
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1890.46",
+        "9yrRun": null,
+        "Trend": "2532.61",
+        "Year": 2020
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "3137.57",
+        "9yrRun": null,
+        "Trend": "2546.8",
+        "Year": 2021
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgRain": "2120.78",
+        "Rain": "1290.92",
+        "9yrRun": null,
+        "Trend": "2561.01",
+        "Year": 2022
+    }
+]
+}

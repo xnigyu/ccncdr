@@ -1,0 +1,575 @@
+{
+"ID":"02",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2530.51",
+        "9yrRun": null,
+        "Trend": "2044.92",
+        "Year": 1960
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1014.32",
+        "9yrRun": null,
+        "Trend": "2053.14",
+        "Year": 1961
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1224.38",
+        "9yrRun": null,
+        "Trend": "2061.36",
+        "Year": 1962
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1590.91",
+        "9yrRun": null,
+        "Trend": "2069.58",
+        "Year": 1963
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1822.44",
+        "9yrRun": "1937.72",
+        "Trend": "2077.8",
+        "Year": 1964
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1713.19",
+        "9yrRun": "2011.87",
+        "Trend": "2086.02",
+        "Year": 1965
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2674.96",
+        "9yrRun": "2217.73",
+        "Trend": "2094.24",
+        "Year": 1966
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2396.51",
+        "9yrRun": "2323.78",
+        "Trend": "2102.46",
+        "Year": 1967
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2472.26",
+        "9yrRun": "2417.01",
+        "Trend": "2110.68",
+        "Year": 1968
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3197.9",
+        "9yrRun": "2454.48",
+        "Trend": "2118.9",
+        "Year": 1969
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2867.03",
+        "9yrRun": "2574.57",
+        "Trend": "2127.12",
+        "Year": 1970
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2178.85",
+        "9yrRun": "2537.23",
+        "Trend": "2135.34",
+        "Year": 1971
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2429.93",
+        "9yrRun": "2428.64",
+        "Trend": "2143.56",
+        "Year": 1972
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2159.72",
+        "9yrRun": "2389.27",
+        "Trend": "2151.78",
+        "Year": 1973
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2793.95",
+        "9yrRun": "2286.25",
+        "Trend": 2160,
+        "Year": 1974
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2338.91",
+        "9yrRun": "2194.19",
+        "Trend": "2168.21",
+        "Year": 1975
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1419.23",
+        "9yrRun": "2147.84",
+        "Trend": "2176.44",
+        "Year": 1976
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2117.92",
+        "9yrRun": "2142.17",
+        "Trend": "2184.66",
+        "Year": 1977
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2270.7",
+        "9yrRun": "2099.26",
+        "Trend": "2192.88",
+        "Year": 1978
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2038.46",
+        "9yrRun": "2018.4",
+        "Trend": "2201.09",
+        "Year": 1979
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1761.76",
+        "9yrRun": "2068.16",
+        "Trend": "2209.31",
+        "Year": 1980
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2378.87",
+        "9yrRun": "2179.53",
+        "Trend": "2217.53",
+        "Year": 1981
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1773.52",
+        "9yrRun": "2229.2",
+        "Trend": "2225.75",
+        "Year": 1982
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2066.22",
+        "9yrRun": "2234.93",
+        "Trend": "2233.97",
+        "Year": 1983
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2786.81",
+        "9yrRun": "2279.5",
+        "Trend": "2242.19",
+        "Year": 1984
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2421.55",
+        "9yrRun": "2298.28",
+        "Trend": "2250.41",
+        "Year": 1985
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2564.9",
+        "9yrRun": "2321.92",
+        "Trend": "2258.63",
+        "Year": 1986
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2322.26",
+        "9yrRun": "2316.06",
+        "Trend": "2266.85",
+        "Year": 1987
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2439.58",
+        "9yrRun": "2266.84",
+        "Trend": "2275.07",
+        "Year": 1988
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1930.81",
+        "9yrRun": "2138.51",
+        "Trend": "2283.29",
+        "Year": 1989
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2591.68",
+        "9yrRun": "2130.63",
+        "Trend": "2291.51",
+        "Year": 1990
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1720.74",
+        "9yrRun": "2036.17",
+        "Trend": "2299.73",
+        "Year": 1991
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1623.2",
+        "9yrRun": "2020.31",
+        "Trend": "2307.95",
+        "Year": 1992
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1631.86",
+        "9yrRun": "1993.67",
+        "Trend": "2316.17",
+        "Year": 1993
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2350.64",
+        "9yrRun": "2224.32",
+        "Trend": "2324.39",
+        "Year": 1994
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1714.77",
+        "9yrRun": "2153.07",
+        "Trend": "2332.61",
+        "Year": 1995
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2179.52",
+        "9yrRun": "2295.47",
+        "Trend": "2340.83",
+        "Year": 1996
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2199.78",
+        "9yrRun": "2457.83",
+        "Trend": "2349.05",
+        "Year": 1997
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "4006.71",
+        "9yrRun": "2441.26",
+        "Trend": "2357.27",
+        "Year": 1998
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1950.45",
+        "9yrRun": "2321.3",
+        "Trend": "2365.49",
+        "Year": 1999
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3002.26",
+        "9yrRun": "2460.9",
+        "Trend": "2373.71",
+        "Year": 2000
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3084.45",
+        "9yrRun": "2559.24",
+        "Trend": "2381.93",
+        "Year": 2001
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1482.78",
+        "9yrRun": "2604.39",
+        "Trend": "2390.15",
+        "Year": 2002
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1270.96",
+        "9yrRun": "2500.28",
+        "Trend": "2398.37",
+        "Year": 2003
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2971.18",
+        "9yrRun": "2611.71",
+        "Trend": "2406.59",
+        "Year": 2004
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3064.54",
+        "9yrRun": "2486.48",
+        "Trend": "2414.81",
+        "Year": 2005
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2606.12",
+        "9yrRun": "2392.24",
+        "Trend": "2423.03",
+        "Year": 2006
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3069.74",
+        "9yrRun": "2461.46",
+        "Trend": "2431.25",
+        "Year": 2007
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2953.32",
+        "9yrRun": "2648.43",
+        "Trend": "2439.47",
+        "Year": 2008
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1875.2",
+        "9yrRun": "2604.39",
+        "Trend": "2447.69",
+        "Year": 2009
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2236.35",
+        "9yrRun": "2510.11",
+        "Trend": "2455.91",
+        "Year": 2010
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2105.68",
+        "9yrRun": "2451.88",
+        "Trend": "2464.13",
+        "Year": 2011
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2953.77",
+        "9yrRun": "2407.18",
+        "Trend": "2472.35",
+        "Year": 2012
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2574.77",
+        "9yrRun": "2374.89",
+        "Trend": "2480.57",
+        "Year": 2013
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2216.05",
+        "9yrRun": "2383.6",
+        "Trend": "2488.79",
+        "Year": 2014
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2082.03",
+        "9yrRun": "2437.83",
+        "Trend": "2497.01",
+        "Year": 2015
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2667.41",
+        "9yrRun": "2445.92",
+        "Trend": "2505.23",
+        "Year": 2016
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2662.77",
+        "9yrRun": "2351.9",
+        "Trend": "2513.45",
+        "Year": 2017
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "1953.55",
+        "9yrRun": "2440.48",
+        "Trend": "2521.67",
+        "Year": 2018
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2724.49",
+        "9yrRun": null,
+        "Trend": "2529.89",
+        "Year": 2019
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2178.47",
+        "9yrRun": null,
+        "Trend": "2538.11",
+        "Year": 2020
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "2107.57",
+        "9yrRun": null,
+        "Trend": "2546.33",
+        "Year": 2021
+    },
+    {
+        "CTID": 02,
+        "CTNM": "Taipei",
+        "AvgRain": "2299.73",
+        "Rain": "3371.97",
+        "9yrRun": null,
+        "Trend": "2554.54",
+        "Year": 2022
+    }
+]
+}
