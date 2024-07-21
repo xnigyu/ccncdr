@@ -1,0 +1,575 @@
+{
+"ID":"21",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1925.15",
+        "9yrRun": null,
+        "Trend": "1676.27",
+        "Year": 1960
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1577.76",
+        "9yrRun": null,
+        "Trend": "1684.09",
+        "Year": 1961
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1601.37",
+        "9yrRun": null,
+        "Trend": "1691.9",
+        "Year": 1962
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1315.75",
+        "9yrRun": null,
+        "Trend": "1699.72",
+        "Year": 1963
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1325.43",
+        "9yrRun": "1630.54",
+        "Trend": "1707.54",
+        "Year": 1964
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1509.63",
+        "9yrRun": "1625.12",
+        "Trend": "1715.35",
+        "Year": 1965
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1748.77",
+        "9yrRun": "1625.95",
+        "Trend": "1723.17",
+        "Year": 1966
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1566.68",
+        "9yrRun": "1612.49",
+        "Trend": "1730.99",
+        "Year": 1967
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2104.36",
+        "9yrRun": "1706.24",
+        "Trend": "1738.8",
+        "Year": 1968
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1876.37",
+        "9yrRun": "1760.35",
+        "Trend": "1746.62",
+        "Year": 1969
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1585.17",
+        "9yrRun": 1870,
+        "Trend": "1754.44",
+        "Year": 1970
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1480.26",
+        "9yrRun": "1901.31",
+        "Trend": "1762.25",
+        "Year": 1971
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2159.51",
+        "9yrRun": "1905.02",
+        "Trend": "1770.07",
+        "Year": 1972
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1812.39",
+        "9yrRun": "1918.23",
+        "Trend": "1777.89",
+        "Year": 1973
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2496.49",
+        "9yrRun": "1902.01",
+        "Trend": "1785.7",
+        "Year": 1974
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2030.54",
+        "9yrRun": "1912.3",
+        "Trend": "1793.52",
+        "Year": 1975
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1600.12",
+        "9yrRun": "1868.05",
+        "Trend": "1801.34",
+        "Year": 1976
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2223.2",
+        "9yrRun": "1881.04",
+        "Trend": "1809.15",
+        "Year": 1977
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1730.36",
+        "9yrRun": "1873.9",
+        "Trend": "1816.97",
+        "Year": 1978
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1677.87",
+        "9yrRun": "1799.11",
+        "Trend": "1824.79",
+        "Year": 1979
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1081.95",
+        "9yrRun": "1775.38",
+        "Trend": "1832.6",
+        "Year": 1980
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2276.44",
+        "9yrRun": "1844.48",
+        "Trend": "1840.42",
+        "Year": 1981
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1748.14",
+        "9yrRun": "1818.47",
+        "Trend": "1848.24",
+        "Year": 1982
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1823.36",
+        "9yrRun": "1835.35",
+        "Trend": "1856.05",
+        "Year": 1983
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1816.94",
+        "9yrRun": "1860.67",
+        "Trend": "1863.87",
+        "Year": 1984
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2222.08",
+        "9yrRun": "1938.73",
+        "Trend": "1871.69",
+        "Year": 1985
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1989.06",
+        "9yrRun": "1966.76",
+        "Trend": "1879.5",
+        "Year": 1986
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1882.34",
+        "9yrRun": "1944.5",
+        "Trend": "1887.32",
+        "Year": 1987
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1905.68",
+        "9yrRun": "1956.28",
+        "Trend": "1895.14",
+        "Year": 1988
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1784.52",
+        "9yrRun": "1881.32",
+        "Trend": "1902.95",
+        "Year": 1989
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2528.75",
+        "9yrRun": "1859.7",
+        "Trend": "1910.77",
+        "Year": 1990
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1547.73",
+        "9yrRun": "1799.99",
+        "Trend": "1918.59",
+        "Year": 1991
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1929.39",
+        "9yrRun": "1795.51",
+        "Trend": "1926.4",
+        "Year": 1992
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1142.33",
+        "9yrRun": "1784.78",
+        "Trend": "1934.22",
+        "Year": 1993
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2027.48",
+        "9yrRun": "1880.42",
+        "Trend": "1942.04",
+        "Year": 1994
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1451.7",
+        "9yrRun": "1801.99",
+        "Trend": "1949.85",
+        "Year": 1995
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1841.96",
+        "9yrRun": "1879.01",
+        "Trend": "1957.67",
+        "Year": 1996
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1809.2",
+        "9yrRun": "1941.75",
+        "Trend": "1965.49",
+        "Year": 1997
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2645.23",
+        "9yrRun": "1951.21",
+        "Trend": "1973.3",
+        "Year": 1998
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1822.87",
+        "9yrRun": "1866.79",
+        "Trend": "1981.12",
+        "Year": 1999
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2240.89",
+        "9yrRun": "1918.08",
+        "Trend": "1988.94",
+        "Year": 2000
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2494.1",
+        "9yrRun": "2041.35",
+        "Trend": "1996.75",
+        "Year": 2001
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1227.42",
+        "9yrRun": "2102.16",
+        "Trend": "2004.57",
+        "Year": 2002
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1267.74",
+        "9yrRun": "2094.67",
+        "Trend": "2012.39",
+        "Year": 2003
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1913.27",
+        "9yrRun": "2178.11",
+        "Trend": "2020.2",
+        "Year": 2004
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2951.41",
+        "9yrRun": "2153.08",
+        "Trend": "2028.02",
+        "Year": 2005
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2356.52",
+        "9yrRun": "2091.84",
+        "Trend": "2035.84",
+        "Year": 2006
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2577.86",
+        "9yrRun": "2161.99",
+        "Trend": "2043.65",
+        "Year": 2007
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2573.79",
+        "9yrRun": "2318.18",
+        "Trend": "2051.47",
+        "Year": 2008
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2015.58",
+        "9yrRun": "2362.99",
+        "Trend": "2059.29",
+        "Year": 2009
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1942.98",
+        "9yrRun": "2208.05",
+        "Trend": "2067.1",
+        "Year": 2010
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1858.75",
+        "9yrRun": "2136.41",
+        "Trend": "2074.92",
+        "Year": 2011
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2673.48",
+        "9yrRun": "2157.16",
+        "Trend": "2082.74",
+        "Year": 2012
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2316.51",
+        "9yrRun": "2112.05",
+        "Trend": "2090.55",
+        "Year": 2013
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1556.97",
+        "9yrRun": "2105.41",
+        "Trend": "2098.37",
+        "Year": 2014
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1711.8",
+        "9yrRun": "2136.66",
+        "Trend": "2106.19",
+        "Year": 2015
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2764.6",
+        "9yrRun": "2086.59",
+        "Trend": 2114,
+        "Year": 2016
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2167.77",
+        "9yrRun": "2026.84",
+        "Trend": "2121.82",
+        "Year": 2017
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1955.87",
+        "9yrRun": "1981.82",
+        "Trend": "2129.64",
+        "Year": 2018
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2224.2",
+        "9yrRun": null,
+        "Trend": "2137.45",
+        "Year": 2019
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1408.1",
+        "9yrRun": null,
+        "Trend": "2145.27",
+        "Year": 2020
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "2135.76",
+        "9yrRun": null,
+        "Trend": "2153.09",
+        "Year": 2021
+    },
+    {
+        "CTID": 21,
+        "CTNM": "Taiwan",
+        "AvgRain": "1918.59",
+        "Rain": "1911.31",
+        "9yrRun": null,
+        "Trend": "2160.9",
+        "Year": 2022
+    }
+]
+}

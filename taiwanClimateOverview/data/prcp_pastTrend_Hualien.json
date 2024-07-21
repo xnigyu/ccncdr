@@ -1,0 +1,575 @@
+{
+"ID":"18",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1419.68",
+        "9yrRun": null,
+        "Trend": "1751.5",
+        "Year": 1960
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1822.14",
+        "9yrRun": null,
+        "Trend": "1755.35",
+        "Year": 1961
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1988.66",
+        "9yrRun": null,
+        "Trend": "1759.2",
+        "Year": 1962
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "914.776",
+        "9yrRun": null,
+        "Trend": "1763.05",
+        "Year": 1963
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1914.04",
+        "9yrRun": "1655.29",
+        "Trend": "1766.9",
+        "Year": 1964
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1642.07",
+        "9yrRun": "1719.31",
+        "Trend": "1770.75",
+        "Year": 1965
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1085.73",
+        "9yrRun": "1665.92",
+        "Trend": "1774.59",
+        "Year": 1966
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1751.79",
+        "9yrRun": "1626.49",
+        "Trend": "1778.44",
+        "Year": 1967
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2358.74",
+        "9yrRun": "1703.52",
+        "Trend": "1782.29",
+        "Year": 1968
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1995.81",
+        "9yrRun": "1745.95",
+        "Trend": "1786.14",
+        "Year": 1969
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1341.66",
+        "9yrRun": "1879.31",
+        "Trend": "1789.99",
+        "Year": 1970
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1633.79",
+        "9yrRun": "1960.96",
+        "Trend": "1793.84",
+        "Year": 1971
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1608.05",
+        "9yrRun": "1899.44",
+        "Trend": "1797.69",
+        "Year": 1972
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2295.88",
+        "9yrRun": "1838.29",
+        "Trend": "1801.54",
+        "Year": 1973
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2842.35",
+        "9yrRun": "1808.11",
+        "Trend": "1805.39",
+        "Year": 1974
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1820.56",
+        "9yrRun": "1827.63",
+        "Trend": "1809.23",
+        "Year": 1975
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1198.1",
+        "9yrRun": "1774.16",
+        "Trend": "1813.08",
+        "Year": 1976
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1808.45",
+        "9yrRun": "1830.28",
+        "Trend": "1816.93",
+        "Year": 1977
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1724.16",
+        "9yrRun": "1745.76",
+        "Trend": "1820.78",
+        "Year": 1978
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1517.31",
+        "9yrRun": "1584.36",
+        "Trend": "1824.63",
+        "Year": 1979
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1152.62",
+        "9yrRun": "1606.25",
+        "Trend": "1828.48",
+        "Year": 1980
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2113.07",
+        "9yrRun": "1737.72",
+        "Trend": "1832.33",
+        "Year": 1981
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1535.2",
+        "9yrRun": "1813.92",
+        "Trend": "1836.18",
+        "Year": 1982
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1389.79",
+        "9yrRun": "1885.29",
+        "Trend": "1840.02",
+        "Year": 1983
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2017.57",
+        "9yrRun": "1972.11",
+        "Trend": "1843.87",
+        "Year": 1984
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2381.29",
+        "9yrRun": "2068.35",
+        "Trend": "1847.72",
+        "Year": 1985
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2494.26",
+        "9yrRun": "2147.14",
+        "Trend": "1851.57",
+        "Year": 1986
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2366.5",
+        "9yrRun": "2150.36",
+        "Trend": "1855.42",
+        "Year": 1987
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2298.66",
+        "9yrRun": "2223.06",
+        "Trend": "1859.27",
+        "Year": 1988
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2018.8",
+        "9yrRun": "2109.22",
+        "Trend": "1863.12",
+        "Year": 1989
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2822.22",
+        "9yrRun": "2055.83",
+        "Trend": "1866.97",
+        "Year": 1990
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1564.17",
+        "9yrRun": "1966.54",
+        "Trend": "1870.82",
+        "Year": 1991
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2044.12",
+        "9yrRun": "1910.95",
+        "Trend": "1874.66",
+        "Year": 1992
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "992.993",
+        "9yrRun": "1812.37",
+        "Trend": "1878.51",
+        "Year": 1993
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1900.78",
+        "9yrRun": "1931.26",
+        "Trend": "1882.36",
+        "Year": 1994
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1690.59",
+        "9yrRun": "1819.07",
+        "Trend": "1886.21",
+        "Year": 1995
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1866.18",
+        "9yrRun": "1925.02",
+        "Trend": "1890.06",
+        "Year": 1996
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1411.43",
+        "9yrRun": "1983.23",
+        "Trend": "1893.91",
+        "Year": 1997
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "3088.88",
+        "9yrRun": "1985.02",
+        "Trend": "1897.76",
+        "Year": 1998
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1812.48",
+        "9yrRun": "1929.21",
+        "Trend": "1901.61",
+        "Year": 1999
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2517.71",
+        "9yrRun": "1916.79",
+        "Trend": "1905.45",
+        "Year": 2000
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2568.01",
+        "9yrRun": "1985.32",
+        "Trend": "1909.3",
+        "Year": 2001
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1009.07",
+        "9yrRun": "2047.57",
+        "Trend": "1913.15",
+        "Year": 2002
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1398.55",
+        "9yrRun": "1969.21",
+        "Trend": 1917,
+        "Year": 2003
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1578.83",
+        "9yrRun": "1990.65",
+        "Trend": "1920.85",
+        "Year": 2004
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2482.93",
+        "9yrRun": "1946.11",
+        "Trend": "1924.7",
+        "Year": 2005
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1971.67",
+        "9yrRun": "1846.66",
+        "Trend": "1928.55",
+        "Year": 2006
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2383.65",
+        "9yrRun": "1981.46",
+        "Trend": "1932.4",
+        "Year": 2007
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2005.44",
+        "9yrRun": "2077.75",
+        "Trend": "1936.25",
+        "Year": 2008
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2116.86",
+        "9yrRun": "2106.16",
+        "Trend": "1940.09",
+        "Year": 2009
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1672.97",
+        "9yrRun": "1993.04",
+        "Trend": "1943.94",
+        "Year": 2010
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2222.26",
+        "9yrRun": "1935.53",
+        "Trend": "1947.79",
+        "Year": 2011
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2265.14",
+        "9yrRun": "2024.33",
+        "Trend": "1951.64",
+        "Year": 2012
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1834.51",
+        "9yrRun": "2042.83",
+        "Trend": "1955.49",
+        "Year": 2013
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1464.87",
+        "9yrRun": "1972.1",
+        "Trend": "1959.34",
+        "Year": 2014
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1454.09",
+        "9yrRun": "1976.62",
+        "Trend": "1963.19",
+        "Year": 2015
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "3182.79",
+        "9yrRun": "1858.97",
+        "Trend": "1967.04",
+        "Year": 2016
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "2171.96",
+        "9yrRun": "1806.79",
+        "Trend": "1970.88",
+        "Year": 2017
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1480.3",
+        "9yrRun": "1798.71",
+        "Trend": "1974.73",
+        "Year": 2018
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1713.68",
+        "9yrRun": null,
+        "Trend": "1978.58",
+        "Year": 2019
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1163.34",
+        "9yrRun": null,
+        "Trend": "1982.43",
+        "Year": 2020
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1795.54",
+        "9yrRun": null,
+        "Trend": "1986.28",
+        "Year": 2021
+    },
+    {
+        "CTID": 18,
+        "CTNM": "Hualien",
+        "AvgRain": "1870.82",
+        "Rain": "1761.83",
+        "9yrRun": null,
+        "Trend": "1990.13",
+        "Year": 2022
+    }
+]
+}

@@ -1,0 +1,575 @@
+{
+"ID":"14",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1782.93",
+        "9yrRun": null,
+        "Trend": "1393.79",
+        "Year": 1960
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1347.18",
+        "9yrRun": null,
+        "Trend": "1401.66",
+        "Year": 1961
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1036.8",
+        "9yrRun": null,
+        "Trend": "1409.54",
+        "Year": 1962
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1146.98",
+        "9yrRun": null,
+        "Trend": "1417.41",
+        "Year": 1963
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "879.114",
+        "9yrRun": "1327.58",
+        "Trend": "1425.29",
+        "Year": 1964
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1276.89",
+        "9yrRun": "1278.2",
+        "Trend": "1433.16",
+        "Year": 1965
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1585.42",
+        "9yrRun": "1249.43",
+        "Trend": "1441.04",
+        "Year": 1966
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1049.54",
+        "9yrRun": "1280.19",
+        "Trend": "1448.92",
+        "Year": 1967
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1843.33",
+        "9yrRun": "1420.14",
+        "Trend": "1456.79",
+        "Year": 1968
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1338.5",
+        "9yrRun": "1492.91",
+        "Trend": "1464.67",
+        "Year": 1969
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1088.27",
+        "9yrRun": "1529.91",
+        "Trend": "1472.54",
+        "Year": 1970
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1313.64",
+        "9yrRun": "1608.35",
+        "Trend": "1480.42",
+        "Year": 1971
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2406.53",
+        "9yrRun": "1656.71",
+        "Trend": "1488.29",
+        "Year": 1972
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1534.07",
+        "9yrRun": "1768.11",
+        "Trend": "1496.17",
+        "Year": 1973
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1609.88",
+        "9yrRun": "1776.3",
+        "Trend": "1504.04",
+        "Year": 1974
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2291.36",
+        "9yrRun": "1827.66",
+        "Trend": "1511.92",
+        "Year": 1975
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1484.79",
+        "9yrRun": "1751.65",
+        "Trend": "1519.8",
+        "Year": 1976
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2845.97",
+        "9yrRun": "1713.88",
+        "Trend": "1527.67",
+        "Year": 1977
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1412.16",
+        "9yrRun": "1738.69",
+        "Trend": "1535.55",
+        "Year": 1978
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1550.51",
+        "9yrRun": "1756.36",
+        "Trend": "1543.42",
+        "Year": 1979
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "629.542",
+        "9yrRun": "1654.56",
+        "Trend": "1551.3",
+        "Year": 1980
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2066.66",
+        "9yrRun": "1658.81",
+        "Trend": "1559.17",
+        "Year": 1981
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1757.35",
+        "9yrRun": "1486.68",
+        "Trend": "1567.05",
+        "Year": 1982
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1768.88",
+        "9yrRun": "1463.72",
+        "Trend": "1574.92",
+        "Year": 1983
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1375.2",
+        "9yrRun": "1479.06",
+        "Trend": "1582.8",
+        "Year": 1984
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": 1523,
+        "9yrRun": "1542.41",
+        "Trend": "1590.68",
+        "Year": 1985
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1296.85",
+        "9yrRun": "1525.1",
+        "Trend": "1598.55",
+        "Year": 1986
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1205.49",
+        "9yrRun": "1480.75",
+        "Trend": "1606.43",
+        "Year": 1987
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1688.57",
+        "9yrRun": "1499.37",
+        "Trend": "1614.3",
+        "Year": 1988
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1199.67",
+        "9yrRun": "1466.99",
+        "Trend": "1622.18",
+        "Year": 1989
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1910.84",
+        "9yrRun": "1501.74",
+        "Trend": "1630.05",
+        "Year": 1990
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1358.2",
+        "9yrRun": "1455.79",
+        "Trend": "1637.93",
+        "Year": 1991
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1936.49",
+        "9yrRun": "1460.09",
+        "Trend": "1645.81",
+        "Year": 1992
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1083.8",
+        "9yrRun": "1469.22",
+        "Trend": "1653.68",
+        "Year": 1993
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1835.77",
+        "9yrRun": "1550.34",
+        "Trend": "1661.56",
+        "Year": 1994
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "883.25",
+        "9yrRun": "1533.74",
+        "Trend": "1669.43",
+        "Year": 1995
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1244.2",
+        "9yrRun": "1555.99",
+        "Trend": "1677.31",
+        "Year": 1996
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1770.77",
+        "9yrRun": "1590.26",
+        "Trend": "1685.18",
+        "Year": 1997
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1929.77",
+        "9yrRun": "1595.65",
+        "Trend": "1693.06",
+        "Year": 1998
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1761.36",
+        "9yrRun": "1504.14",
+        "Trend": "1700.93",
+        "Year": 1999
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1558.49",
+        "9yrRun": "1547.18",
+        "Trend": "1708.81",
+        "Year": 2000
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2244.91",
+        "9yrRun": "1772.63",
+        "Trend": "1716.69",
+        "Year": 2001
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1132.35",
+        "9yrRun": "1808.47",
+        "Trend": "1724.56",
+        "Year": 2002
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1012.17",
+        "9yrRun": "1855.9",
+        "Trend": "1732.44",
+        "Year": 2003
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1270.57",
+        "9yrRun": "1930.98",
+        "Trend": "1740.31",
+        "Year": 2004
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "3273.24",
+        "9yrRun": "1948.98",
+        "Trend": "1748.19",
+        "Year": 2005
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2093.37",
+        "9yrRun": "1900.07",
+        "Trend": "1756.06",
+        "Year": 2006
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2356.59",
+        "9yrRun": "1904.15",
+        "Trend": "1763.94",
+        "Year": 2007
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2437.13",
+        "9yrRun": "2037.94",
+        "Trend": "1771.82",
+        "Year": 2008
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1720.46",
+        "9yrRun": "2109.27",
+        "Trend": "1779.69",
+        "Year": 2009
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1804.73",
+        "9yrRun": "1878.55",
+        "Trend": "1787.57",
+        "Year": 2010
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1169.05",
+        "9yrRun": "1831.88",
+        "Trend": "1795.44",
+        "Year": 2011
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2216.29",
+        "9yrRun": "1868.73",
+        "Trend": "1803.32",
+        "Year": 2012
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1912.57",
+        "9yrRun": "1757.6",
+        "Trend": "1811.19",
+        "Year": 2013
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1196.7",
+        "9yrRun": "1823.56",
+        "Trend": "1819.07",
+        "Year": 2014
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1673.42",
+        "9yrRun": "1850.11",
+        "Trend": "1826.94",
+        "Year": 2015
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2688.18",
+        "9yrRun": "1861.12",
+        "Trend": "1834.82",
+        "Year": 2016
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1436.94",
+        "9yrRun": "1864.25",
+        "Trend": "1842.7",
+        "Year": 2017
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2314.17",
+        "9yrRun": "1770.9",
+        "Trend": "1850.57",
+        "Year": 2018
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2043.66",
+        "9yrRun": null,
+        "Trend": "1858.45",
+        "Year": 2019
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1268.16",
+        "9yrRun": null,
+        "Trend": "1866.32",
+        "Year": 2020
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "2244.46",
+        "9yrRun": null,
+        "Trend": "1874.2",
+        "Year": 2021
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "AvgRain": "1637.93",
+        "Rain": "1072.37",
+        "9yrRun": null,
+        "Trend": "1882.07",
+        "Year": 2022
+    }
+]
+}

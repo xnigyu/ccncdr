@@ -1,0 +1,575 @@
+{
+"ID":"17",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.6386",
+        "9yrRun": null,
+        "Trend": "18.1239",
+        "Year": 1960
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2422",
+        "9yrRun": null,
+        "Trend": "18.129",
+        "Year": 1961
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.6645",
+        "9yrRun": null,
+        "Trend": "18.1342",
+        "Year": 1962
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.4575",
+        "9yrRun": null,
+        "Trend": "18.1393",
+        "Year": 1963
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.1005",
+        "9yrRun": "17.9383",
+        "Trend": "18.1445",
+        "Year": 1964
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.8207",
+        "9yrRun": "17.8867",
+        "Trend": "18.1496",
+        "Year": 1965
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4736",
+        "9yrRun": "17.8853",
+        "Trend": "18.1548",
+        "Year": 1966
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.7116",
+        "9yrRun": "17.8427",
+        "Trend": "18.1599",
+        "Year": 1967
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.3357",
+        "9yrRun": "17.8334",
+        "Trend": "18.165",
+        "Year": 1968
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.1736",
+        "9yrRun": "17.8026",
+        "Trend": "18.1702",
+        "Year": 1969
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2298",
+        "9yrRun": "17.7764",
+        "Trend": "18.1753",
+        "Year": 1970
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.2817",
+        "9yrRun": "17.7505",
+        "Trend": "18.1805",
+        "Year": 1971
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.3732",
+        "9yrRun": "17.7984",
+        "Trend": "18.1856",
+        "Year": 1972
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.8237",
+        "9yrRun": "17.9625",
+        "Trend": "18.1908",
+        "Year": 1973
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.5844",
+        "9yrRun": "17.9718",
+        "Trend": "18.1959",
+        "Year": 1974
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2408",
+        "9yrRun": "17.9956",
+        "Trend": "18.2011",
+        "Year": 1975
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.1429",
+        "9yrRun": "18.1644",
+        "Trend": "18.2062",
+        "Year": 1976
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.8125",
+        "9yrRun": "18.289",
+        "Trend": "18.2113",
+        "Year": 1977
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2571",
+        "9yrRun": "18.3895",
+        "Trend": "18.2165",
+        "Year": 1978
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4445",
+        "9yrRun": "18.5392",
+        "Trend": "18.2216",
+        "Year": 1979
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.8004",
+        "9yrRun": "18.5462",
+        "Trend": "18.2268",
+        "Year": 1980
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4951",
+        "9yrRun": "18.5933",
+        "Trend": "18.2319",
+        "Year": 1981
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.7282",
+        "9yrRun": "18.5261",
+        "Trend": "18.2371",
+        "Year": 1982
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.9317",
+        "9yrRun": "18.5973",
+        "Trend": "18.2422",
+        "Year": 1983
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3036",
+        "9yrRun": "18.6301",
+        "Trend": "18.2474",
+        "Year": 1984
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.567",
+        "9yrRun": "18.5885",
+        "Trend": "18.2525",
+        "Year": 1985
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2076",
+        "9yrRun": "18.6099",
+        "Trend": "18.2576",
+        "Year": 1986
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.8972",
+        "9yrRun": "18.6432",
+        "Trend": "18.2628",
+        "Year": 1987
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.7397",
+        "9yrRun": "18.5763",
+        "Trend": "18.2679",
+        "Year": 1988
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4265",
+        "9yrRun": "18.6257",
+        "Trend": "18.2731",
+        "Year": 1989
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.6874",
+        "9yrRun": "18.6821",
+        "Trend": "18.2782",
+        "Year": 1990
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "19.0284",
+        "9yrRun": "18.6675",
+        "Trend": "18.2834",
+        "Year": 1991
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3294",
+        "9yrRun": "18.5966",
+        "Trend": "18.2885",
+        "Year": 1992
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.7484",
+        "9yrRun": "18.5576",
+        "Trend": "18.2937",
+        "Year": 1993
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "19.0745",
+        "9yrRun": "18.68",
+        "Trend": "18.2988",
+        "Year": 1994
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.0762",
+        "9yrRun": "18.6588",
+        "Trend": "18.3039",
+        "Year": 1995
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2594",
+        "9yrRun": "18.6054",
+        "Trend": "18.3091",
+        "Year": 1996
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3879",
+        "9yrRun": "18.6038",
+        "Trend": "18.3142",
+        "Year": 1997
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "19.5283",
+        "9yrRun": "18.573",
+        "Trend": "18.3194",
+        "Year": 1998
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4967",
+        "9yrRun": "18.4824",
+        "Trend": "18.3245",
+        "Year": 1999
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.5483",
+        "9yrRun": "18.4656",
+        "Trend": "18.3297",
+        "Year": 2000
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3145",
+        "9yrRun": "18.4426",
+        "Trend": "18.3348",
+        "Year": 2001
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.4712",
+        "9yrRun": "18.4426",
+        "Trend": "18.34",
+        "Year": 2002
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2589",
+        "9yrRun": "18.3021",
+        "Trend": "18.3451",
+        "Year": 2003
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.9247",
+        "9yrRun": "18.2448",
+        "Trend": "18.3502",
+        "Year": 2004
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.0525",
+        "9yrRun": "18.2037",
+        "Trend": "18.3554",
+        "Year": 2005
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3885",
+        "9yrRun": "18.1837",
+        "Trend": "18.3605",
+        "Year": 2006
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.2633",
+        "9yrRun": "18.0834",
+        "Trend": "18.3657",
+        "Year": 2007
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.981",
+        "9yrRun": "18.0579",
+        "Trend": "18.3708",
+        "Year": 2008
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.1788",
+        "9yrRun": "18.0673",
+        "Trend": "18.376",
+        "Year": 2009
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.1346",
+        "9yrRun": "18.0479",
+        "Trend": "18.3811",
+        "Year": 2010
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.5682",
+        "9yrRun": "18.0399",
+        "Trend": "18.3862",
+        "Year": 2011
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.0299",
+        "9yrRun": "18.0676",
+        "Trend": "18.3914",
+        "Year": 2012
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.0085",
+        "9yrRun": "18.1076",
+        "Trend": "18.3965",
+        "Year": 2013
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "17.8782",
+        "9yrRun": "18.1095",
+        "Trend": "18.4017",
+        "Year": 2014
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3169",
+        "9yrRun": "18.1528",
+        "Trend": "18.4068",
+        "Year": 2015
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.5126",
+        "9yrRun": "18.2619",
+        "Trend": "18.412",
+        "Year": 2016
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3409",
+        "9yrRun": "18.3156",
+        "Trend": "18.4171",
+        "Year": 2017
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.196",
+        "9yrRun": "18.3563",
+        "Trend": "18.4223",
+        "Year": 2018
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.5238",
+        "9yrRun": null,
+        "Trend": "18.4274",
+        "Year": 2019
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.55",
+        "9yrRun": null,
+        "Trend": "18.4325",
+        "Year": 2020
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.5138",
+        "9yrRun": null,
+        "Trend": "18.4377",
+        "Year": 2021
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgTemp": "18.2834",
+        "Temp": "18.3741",
+        "9yrRun": null,
+        "Trend": "18.4428",
+        "Year": 2022
+    }
+]
+}

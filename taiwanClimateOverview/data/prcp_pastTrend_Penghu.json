@@ -1,0 +1,575 @@
+{
+"ID":"20",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "760.113",
+        "9yrRun": null,
+        "Trend": "632.973",
+        "Year": 1960
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "586.257",
+        "9yrRun": null,
+        "Trend": "636.614",
+        "Year": 1961
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "543.17",
+        "9yrRun": null,
+        "Trend": "640.256",
+        "Year": 1962
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "534.022",
+        "9yrRun": null,
+        "Trend": "643.897",
+        "Year": 1963
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "210.665",
+        "9yrRun": "619.594",
+        "Trend": "647.539",
+        "Year": 1964
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "529.268",
+        "9yrRun": "624.3",
+        "Trend": "651.18",
+        "Year": 1965
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "758.964",
+        "9yrRun": "624.498",
+        "Trend": "654.821",
+        "Year": 1966
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "544.73",
+        "9yrRun": "622.166",
+        "Trend": "658.463",
+        "Year": 1967
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1109.16",
+        "9yrRun": "690.64",
+        "Trend": "662.104",
+        "Year": 1968
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "802.461",
+        "9yrRun": "762.267",
+        "Trend": "665.746",
+        "Year": 1969
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "588.047",
+        "9yrRun": "800.56",
+        "Trend": "669.387",
+        "Year": 1970
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "522.175",
+        "9yrRun": "849.629",
+        "Trend": "673.029",
+        "Year": 1971
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1150.29",
+        "9yrRun": "847.353",
+        "Trend": "676.67",
+        "Year": 1972
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "855.306",
+        "9yrRun": "834.32",
+        "Trend": "680.312",
+        "Year": 1973
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "873.902",
+        "9yrRun": "801.697",
+        "Trend": "683.953",
+        "Year": 1974
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1200.59",
+        "9yrRun": "794.046",
+        "Trend": "687.595",
+        "Year": 1975
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "524.239",
+        "9yrRun": "768.49",
+        "Trend": "691.236",
+        "Year": 1976
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "991.864",
+        "9yrRun": "742.214",
+        "Trend": "694.877",
+        "Year": 1977
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "508.858",
+        "9yrRun": "751.233",
+        "Trend": "698.519",
+        "Year": 1978
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "519.184",
+        "9yrRun": "736.08",
+        "Trend": "702.16",
+        "Year": 1979
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "292.173",
+        "9yrRun": "650.855",
+        "Trend": "705.802",
+        "Year": 1980
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "913.805",
+        "9yrRun": "663.686",
+        "Trend": "709.443",
+        "Year": 1981
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "936.483",
+        "9yrRun": "625.737",
+        "Trend": "713.084",
+        "Year": 1982
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "737.52",
+        "9yrRun": "637.245",
+        "Trend": "716.726",
+        "Year": 1983
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "433.568",
+        "9yrRun": "649.26",
+        "Trend": "720.368",
+        "Year": 1984
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "639.716",
+        "9yrRun": "677.73",
+        "Trend": "724.009",
+        "Year": 1985
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "650.326",
+        "9yrRun": "683.598",
+        "Trend": "727.65",
+        "Year": 1986
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "612.433",
+        "9yrRun": "635.675",
+        "Trend": "731.292",
+        "Year": 1987
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "627.312",
+        "9yrRun": "636.831",
+        "Trend": "734.933",
+        "Year": 1988
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "548.41",
+        "9yrRun": "649.76",
+        "Trend": "738.575",
+        "Year": 1989
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "966.616",
+        "9yrRun": "630.823",
+        "Trend": "742.216",
+        "Year": 1990
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "505.171",
+        "9yrRun": "636.782",
+        "Trend": "745.857",
+        "Year": 1991
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "747.93",
+        "9yrRun": "642.436",
+        "Trend": "749.499",
+        "Year": 1992
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "549.929",
+        "9yrRun": "634.752",
+        "Trend": "753.141",
+        "Year": 1993
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "469.279",
+        "9yrRun": "690.639",
+        "Trend": "756.782",
+        "Year": 1994
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "703.959",
+        "9yrRun": "657.382",
+        "Trend": "760.423",
+        "Year": 1995
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "663.318",
+        "9yrRun": "680.899",
+        "Trend": "764.065",
+        "Year": 1996
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "558.155",
+        "9yrRun": "704.624",
+        "Trend": "767.706",
+        "Year": 1997
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1051.39",
+        "9yrRun": "707.088",
+        "Trend": "771.348",
+        "Year": 1998
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "667.303",
+        "9yrRun": "718.621",
+        "Trend": "774.989",
+        "Year": 1999
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "716.831",
+        "9yrRun": "746.111",
+        "Trend": "778.63",
+        "Year": 2000
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "961.449",
+        "9yrRun": "827.204",
+        "Trend": "782.272",
+        "Year": 2001
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "572.105",
+        "9yrRun": "886.598",
+        "Trend": "785.914",
+        "Year": 2002
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "573.079",
+        "9yrRun": "861.565",
+        "Trend": "789.555",
+        "Year": 2003
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "951.364",
+        "9yrRun": "918.288",
+        "Trend": "793.196",
+        "Year": 2004
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1393.16",
+        "9yrRun": "928.923",
+        "Trend": "796.838",
+        "Year": 2005
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1092.7",
+        "9yrRun": "888.593",
+        "Trend": "800.479",
+        "Year": 2006
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "826.09",
+        "9yrRun": "893.956",
+        "Trend": "804.121",
+        "Year": 2007
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1177.82",
+        "9yrRun": "913.213",
+        "Trend": "807.762",
+        "Year": 2008
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "812.54",
+        "9yrRun": "903.066",
+        "Trend": "811.404",
+        "Year": 2009
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "598.483",
+        "9yrRun": "815.109",
+        "Trend": "815.045",
+        "Year": 2010
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "620.376",
+        "9yrRun": "840.859",
+        "Trend": "818.687",
+        "Year": 2011
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "746.386",
+        "9yrRun": "901.122",
+        "Trend": "822.328",
+        "Year": 2012
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "860.043",
+        "9yrRun": "843.152",
+        "Trend": "825.969",
+        "Year": 2013
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "601.542",
+        "9yrRun": "854.789",
+        "Trend": "829.611",
+        "Year": 2014
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1324.45",
+        "9yrRun": "880.039",
+        "Trend": "833.252",
+        "Year": 2015
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "1368.46",
+        "9yrRun": "874.716",
+        "Trend": "836.894",
+        "Year": 2016
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "656.09",
+        "9yrRun": "867.553",
+        "Trend": "840.535",
+        "Year": 2017
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "917.269",
+        "9yrRun": "855.394",
+        "Trend": "844.177",
+        "Year": 2018
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "825.73",
+        "9yrRun": null,
+        "Trend": "847.818",
+        "Year": 2019
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "572.467",
+        "9yrRun": null,
+        "Trend": "851.459",
+        "Year": 2020
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "681.925",
+        "9yrRun": null,
+        "Trend": "855.101",
+        "Year": 2021
+    },
+    {
+        "CTID": 20,
+        "CTNM": "Penghu",
+        "AvgRain": "745.858",
+        "Rain": "750.609",
+        "9yrRun": null,
+        "Trend": "858.742",
+        "Year": 2022
+    }
+]
+}

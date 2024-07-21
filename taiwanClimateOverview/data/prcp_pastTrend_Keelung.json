@@ -1,0 +1,575 @@
+{
+"ID":"01",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2175.14",
+        "9yrRun": null,
+        "Trend": "2541.07",
+        "Year": 1960
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "1596.94",
+        "9yrRun": null,
+        "Trend": "2560.23",
+        "Year": 1961
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "1850.55",
+        "9yrRun": null,
+        "Trend": "2579.39",
+        "Year": 1962
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "1685.93",
+        "9yrRun": null,
+        "Trend": "2598.56",
+        "Year": 1963
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2960.05",
+        "9yrRun": "2503.04",
+        "Trend": "2617.72",
+        "Year": 1964
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2588.92",
+        "9yrRun": "2634.95",
+        "Trend": "2636.88",
+        "Year": 1965
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3404.15",
+        "9yrRun": "2907.72",
+        "Trend": "2656.05",
+        "Year": 1966
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3370.16",
+        "9yrRun": "3037.22",
+        "Trend": "2675.21",
+        "Year": 1967
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2895.52",
+        "9yrRun": "3123.16",
+        "Trend": "2694.37",
+        "Year": 1968
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3362.36",
+        "9yrRun": "3120.99",
+        "Trend": "2713.54",
+        "Year": 1969
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "4051.79",
+        "9yrRun": "3245.63",
+        "Trend": "2732.7",
+        "Year": 1970
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3016.06",
+        "9yrRun": "3177.85",
+        "Trend": "2751.86",
+        "Year": 1971
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2459.38",
+        "9yrRun": "3027.66",
+        "Trend": "2771.02",
+        "Year": 1972
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2940.53",
+        "9yrRun": "3026.32",
+        "Trend": "2790.19",
+        "Year": 1973
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3710.69",
+        "9yrRun": "2971.59",
+        "Trend": "2809.35",
+        "Year": 1974
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2794.16",
+        "9yrRun": "2785.83",
+        "Trend": "2828.51",
+        "Year": 1975
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2018.46",
+        "9yrRun": "2730.25",
+        "Trend": "2847.68",
+        "Year": 1976
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2883.42",
+        "9yrRun": "2793.89",
+        "Trend": "2866.84",
+        "Year": 1977
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2869.78",
+        "9yrRun": "2722.43",
+        "Trend": 2886,
+        "Year": 1978
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2379.99",
+        "9yrRun": "2617.64",
+        "Trend": "2905.16",
+        "Year": 1979
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2515.84",
+        "9yrRun": "2719.74",
+        "Trend": "2924.33",
+        "Year": 1980
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3032.14",
+        "9yrRun": "2864.06",
+        "Trend": "2943.49",
+        "Year": 1981
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2297.4",
+        "9yrRun": "2948.22",
+        "Trend": "2962.65",
+        "Year": 1982
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2767.52",
+        "9yrRun": "3023.07",
+        "Trend": "2981.82",
+        "Year": 1983
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3713.13",
+        "9yrRun": "3177.7",
+        "Trend": "3000.98",
+        "Year": 1984
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3317.32",
+        "9yrRun": "3226.58",
+        "Trend": "3020.14",
+        "Year": 1985
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3640.85",
+        "9yrRun": "3306.58",
+        "Trend": "3039.3",
+        "Year": 1986
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3543.42",
+        "9yrRun": "3315.74",
+        "Trend": "3058.47",
+        "Year": 1987
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3771.69",
+        "9yrRun": "3282.11",
+        "Trend": "3077.63",
+        "Year": 1988
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2955.75",
+        "9yrRun": "3157.24",
+        "Trend": "3096.79",
+        "Year": 1989
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3752.16",
+        "9yrRun": "3115.44",
+        "Trend": "3115.96",
+        "Year": 1990
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2379.86",
+        "9yrRun": "2983.85",
+        "Trend": "3135.12",
+        "Year": 1991
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2464.78",
+        "9yrRun": "2926.07",
+        "Trend": "3154.28",
+        "Year": 1992
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2589.35",
+        "9yrRun": "2795.78",
+        "Trend": "3173.45",
+        "Year": 1993
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2941.07",
+        "9yrRun": "2986.62",
+        "Trend": "3192.61",
+        "Year": 1994
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2456.6",
+        "9yrRun": "2838.45",
+        "Trend": "3211.77",
+        "Year": 1995
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3023.35",
+        "9yrRun": "3122.88",
+        "Trend": "3230.93",
+        "Year": 1996
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2599.08",
+        "9yrRun": "3227.7",
+        "Trend": "3250.1",
+        "Year": 1997
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "4673.29",
+        "9yrRun": "3190.63",
+        "Trend": "3269.26",
+        "Year": 1998
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2418.68",
+        "9yrRun": "3073.93",
+        "Trend": "3288.42",
+        "Year": 1999
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "4939.69",
+        "9yrRun": "3197.1",
+        "Trend": "3307.59",
+        "Year": 2000
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3408.22",
+        "9yrRun": "3327.84",
+        "Trend": "3326.75",
+        "Year": 2001
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2255.67",
+        "9yrRun": "3446.5",
+        "Trend": "3345.91",
+        "Year": 2002
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "1890.81",
+        "9yrRun": "3377.79",
+        "Trend": "3365.07",
+        "Year": 2003
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3565.09",
+        "9yrRun": "3521.82",
+        "Trend": "3384.23",
+        "Year": 2004
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "4200.06",
+        "9yrRun": "3336.77",
+        "Trend": "3403.4",
+        "Year": 2005
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3666.98",
+        "9yrRun": "3306.76",
+        "Trend": "3422.56",
+        "Year": 2006
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "4054.87",
+        "9yrRun": "3483.04",
+        "Trend": "3441.72",
+        "Year": 2007
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3714.97",
+        "9yrRun": "3686.95",
+        "Trend": "3460.89",
+        "Year": 2008
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3274.25",
+        "9yrRun": "3698.45",
+        "Trend": "3480.05",
+        "Year": 2009
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3138.11",
+        "9yrRun": "3539.61",
+        "Trend": "3499.21",
+        "Year": 2010
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3842.23",
+        "9yrRun": "3492.82",
+        "Trend": "3518.38",
+        "Year": 2011
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3725.95",
+        "9yrRun": "3456.95",
+        "Trend": "3537.54",
+        "Year": 2012
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3668.62",
+        "9yrRun": "3472.75",
+        "Trend": "3556.7",
+        "Year": 2013
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2770.52",
+        "9yrRun": "3482.41",
+        "Trend": "3575.86",
+        "Year": 2014
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3245.86",
+        "9yrRun": "3513.17",
+        "Trend": "3595.03",
+        "Year": 2015
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3732.06",
+        "9yrRun": "3481.95",
+        "Trend": "3614.19",
+        "Year": 2016
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3857.15",
+        "9yrRun": "3394.36",
+        "Trend": "3633.35",
+        "Year": 2017
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3361.23",
+        "9yrRun": "3588.86",
+        "Trend": "3652.52",
+        "Year": 2018
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3414.9",
+        "9yrRun": null,
+        "Trend": "3671.68",
+        "Year": 2019
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "3561.27",
+        "9yrRun": null,
+        "Trend": "3690.84",
+        "Year": 2020
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "2937.65",
+        "9yrRun": null,
+        "Trend": 3710,
+        "Year": 2021
+    },
+    {
+        "CTID": 01,
+        "CTNM": "Keelung",
+        "AvgRain": "3135.12",
+        "Rain": "5419.14",
+        "9yrRun": null,
+        "Trend": "3729.17",
+        "Year": 2022
+    }
+]
+}

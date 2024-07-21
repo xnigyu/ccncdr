@@ -1,0 +1,104 @@
+{
+"ID":"14",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "22.7",
+        "MeanTemp": "17.2",
+        "MinTemp": "13.4",
+        "Month": 1
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "23.6",
+        "MeanTemp": "18.2",
+        "MinTemp": "14.3",
+        "Month": 2
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "26.1",
+        "MeanTemp": "20.8",
+        "MinTemp": "16.7",
+        "Month": 3
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "28.7",
+        "MeanTemp": "23.9",
+        "MinTemp": "20.1",
+        "Month": 4
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "30.8",
+        "MeanTemp": "26.4",
+        "MinTemp": "22.9",
+        "Month": 5
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "31.8",
+        "MeanTemp": "27.7",
+        "MinTemp": "24.5",
+        "Month": 6
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "32.4",
+        "MeanTemp": "28.2",
+        "MinTemp": "24.9",
+        "Month": 7
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "31.9",
+        "MeanTemp": "27.8",
+        "MinTemp": "24.8",
+        "Month": 8
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "31.6",
+        "MeanTemp": "27.2",
+        "MinTemp": "24.0",
+        "Month": 9
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "30.0",
+        "MeanTemp": "25.2",
+        "MinTemp": "21.6",
+        "Month": 10
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "27.4",
+        "MeanTemp": "22.4",
+        "MinTemp": "18.8",
+        "Month": 11
+    },
+    {
+        "CTID": 14,
+        "CTNM": "Tainan",
+        "MaxTemp": "23.9",
+        "MeanTemp": "18.7",
+        "MinTemp": "15.0",
+        "Month": 12
+    }
+]
+}

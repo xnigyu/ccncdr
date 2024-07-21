@@ -1,0 +1,575 @@
+{
+"ID":"16",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.0893",
+        "9yrRun": null,
+        "Trend": "22.0108",
+        "Year": 1960
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2935",
+        "9yrRun": null,
+        "Trend": "22.0223",
+        "Year": 1961
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.0092",
+        "9yrRun": null,
+        "Trend": "22.0338",
+        "Year": 1962
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.7552",
+        "9yrRun": null,
+        "Trend": "22.0453",
+        "Year": 1963
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2239",
+        "9yrRun": "21.9006",
+        "Trend": "22.0568",
+        "Year": 1964
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.9109",
+        "9yrRun": "21.8513",
+        "Trend": "22.0683",
+        "Year": 1965
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.344",
+        "9yrRun": "21.8126",
+        "Trend": "22.0798",
+        "Year": 1966
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.4896",
+        "9yrRun": "21.7459",
+        "Trend": "22.0913",
+        "Year": 1967
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "20.9899",
+        "9yrRun": "21.7242",
+        "Trend": "22.1029",
+        "Year": 1968
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.6457",
+        "9yrRun": "21.7157",
+        "Trend": "22.1144",
+        "Year": 1969
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.9452",
+        "9yrRun": "21.7145",
+        "Trend": "22.1259",
+        "Year": 1970
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.4084",
+        "9yrRun": "21.6879",
+        "Trend": "22.1374",
+        "Year": 1971
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.5604",
+        "9yrRun": "21.7518",
+        "Trend": "22.1489",
+        "Year": 1972
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1474",
+        "9yrRun": "21.9088",
+        "Trend": "22.1604",
+        "Year": 1973
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.9003",
+        "9yrRun": "21.9557",
+        "Trend": "22.1719",
+        "Year": 1974
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1046",
+        "9yrRun": "21.99",
+        "Trend": "22.1834",
+        "Year": 1975
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.0647",
+        "9yrRun": "22.1401",
+        "Trend": "22.1949",
+        "Year": 1976
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.4027",
+        "9yrRun": "22.257",
+        "Trend": "22.2064",
+        "Year": 1977
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.0675",
+        "9yrRun": "22.2881",
+        "Trend": "22.218",
+        "Year": 1978
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2538",
+        "9yrRun": "22.3558",
+        "Trend": "22.2295",
+        "Year": 1979
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.7596",
+        "9yrRun": "22.3645",
+        "Trend": "22.241",
+        "Year": 1980
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.6128",
+        "9yrRun": "22.4254",
+        "Trend": "22.2525",
+        "Year": 1981
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.4273",
+        "9yrRun": "22.4808",
+        "Trend": "22.264",
+        "Year": 1982
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.5093",
+        "9yrRun": "22.6674",
+        "Trend": "22.2755",
+        "Year": 1983
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1829",
+        "9yrRun": "22.7676",
+        "Trend": "22.287",
+        "Year": 1984
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.613",
+        "9yrRun": "22.7586",
+        "Trend": "22.2985",
+        "Year": 1985
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.9008",
+        "9yrRun": "22.8328",
+        "Trend": "22.31",
+        "Year": 1986
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "23.7475",
+        "9yrRun": "22.9243",
+        "Trend": "22.3215",
+        "Year": 1987
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "23.1549",
+        "9yrRun": "22.9376",
+        "Trend": "22.333",
+        "Year": 1988
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.6788",
+        "9yrRun": "22.9681",
+        "Trend": "22.3446",
+        "Year": 1989
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "23.2804",
+        "9yrRun": "22.953",
+        "Trend": "22.3561",
+        "Year": 1990
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "23.2508",
+        "9yrRun": "22.8748",
+        "Trend": "22.3676",
+        "Year": 1991
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.6294",
+        "9yrRun": "22.7118",
+        "Trend": "22.3791",
+        "Year": 1992
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.4571",
+        "9yrRun": "22.6174",
+        "Trend": "22.3906",
+        "Year": 1993
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.4771",
+        "9yrRun": "22.6815",
+        "Trend": "22.4021",
+        "Year": 1994
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1974",
+        "9yrRun": "22.5773",
+        "Trend": "22.4136",
+        "Year": 1995
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2799",
+        "9yrRun": "22.4886",
+        "Trend": "22.4251",
+        "Year": 1996
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.3056",
+        "9yrRun": "22.4595",
+        "Trend": "22.4366",
+        "Year": 1997
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "23.2554",
+        "9yrRun": "22.4758",
+        "Trend": "22.4481",
+        "Year": 1998
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.343",
+        "9yrRun": "22.4611",
+        "Trend": "22.4596",
+        "Year": 1999
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.4526",
+        "9yrRun": "22.4506",
+        "Trend": "22.4712",
+        "Year": 2000
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.3675",
+        "9yrRun": "22.4328",
+        "Trend": "22.4827",
+        "Year": 2001
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.6037",
+        "9yrRun": "22.4758",
+        "Trend": "22.4942",
+        "Year": 2002
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.3445",
+        "9yrRun": "22.3961",
+        "Trend": "22.5057",
+        "Year": 2003
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1036",
+        "9yrRun": "22.3747",
+        "Trend": "22.5172",
+        "Year": 2004
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1196",
+        "9yrRun": "22.3604",
+        "Trend": "22.5287",
+        "Year": 2005
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.692",
+        "9yrRun": "22.3404",
+        "Trend": "22.5402",
+        "Year": 2006
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.5386",
+        "9yrRun": "22.2459",
+        "Trend": "22.5517",
+        "Year": 2007
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1504",
+        "9yrRun": "22.2317",
+        "Trend": "22.5632",
+        "Year": 2008
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.3234",
+        "9yrRun": "22.2492",
+        "Trend": "22.5747",
+        "Year": 2009
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.1876",
+        "9yrRun": "22.2598",
+        "Trend": "22.5862",
+        "Year": 2010
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "21.753",
+        "9yrRun": "22.2662",
+        "Trend": "22.5978",
+        "Year": 2011
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2174",
+        "9yrRun": "22.292",
+        "Trend": "22.6093",
+        "Year": 2012
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2602",
+        "9yrRun": "22.3742",
+        "Trend": "22.6208",
+        "Year": 2013
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.2153",
+        "9yrRun": "22.3941",
+        "Trend": "22.6323",
+        "Year": 2014
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.7498",
+        "9yrRun": "22.476",
+        "Trend": "22.6438",
+        "Year": 2015
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.7707",
+        "9yrRun": "22.6089",
+        "Trend": "22.6553",
+        "Year": 2016
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.8901",
+        "9yrRun": "22.6554",
+        "Trend": "22.6668",
+        "Year": 2017
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.503",
+        "9yrRun": "22.7082",
+        "Trend": "22.6783",
+        "Year": 2018
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.924",
+        "9yrRun": null,
+        "Trend": "22.6898",
+        "Year": 2019
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.9495",
+        "9yrRun": null,
+        "Trend": "22.7013",
+        "Year": 2020
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.6357",
+        "9yrRun": null,
+        "Trend": "22.7129",
+        "Year": 2021
+    },
+    {
+        "CTID": 16,
+        "CTNM": "Pingtung",
+        "AvgTemp": "22.3676",
+        "Temp": "22.7356",
+        "9yrRun": null,
+        "Trend": "22.7244",
+        "Year": 2022
+    }
+]
+}

@@ -1,0 +1,575 @@
+{
+"ID":"03",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.6667",
+        "9yrRun": null,
+        "Trend": "20.1552",
+        "Year": 1960
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4307",
+        "9yrRun": null,
+        "Trend": "20.1613",
+        "Year": 1961
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.7912",
+        "9yrRun": null,
+        "Trend": "20.1675",
+        "Year": 1962
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.8685",
+        "9yrRun": null,
+        "Trend": "20.1736",
+        "Year": 1963
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4095",
+        "9yrRun": "20.1799",
+        "Trend": "20.1798",
+        "Year": 1964
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1561",
+        "9yrRun": "20.1297",
+        "Trend": "20.1859",
+        "Year": 1965
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5786",
+        "9yrRun": "20.1119",
+        "Trend": "20.192",
+        "Year": 1966
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.9342",
+        "9yrRun": "20.1149",
+        "Trend": "20.1982",
+        "Year": 1967
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.7835",
+        "9yrRun": "20.1226",
+        "Trend": "20.2043",
+        "Year": 1968
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.2148",
+        "9yrRun": "20.1277",
+        "Trend": "20.2105",
+        "Year": 1969
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.271",
+        "9yrRun": "20.1301",
+        "Trend": "20.2166",
+        "Year": 1970
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.818",
+        "9yrRun": "20.1213",
+        "Trend": "20.2228",
+        "Year": 1971
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.9379",
+        "9yrRun": "20.1293",
+        "Trend": "20.2289",
+        "Year": 1972
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4551",
+        "9yrRun": "20.2597",
+        "Trend": "20.235",
+        "Year": 1973
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1775",
+        "9yrRun": "20.2572",
+        "Trend": "20.2412",
+        "Year": 1974
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4999",
+        "9yrRun": "20.2561",
+        "Trend": "20.2473",
+        "Year": 1975
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0057",
+        "9yrRun": "20.3345",
+        "Trend": "20.2535",
+        "Year": 1976
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.9578",
+        "9yrRun": "20.3667",
+        "Trend": "20.2596",
+        "Year": 1977
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1919",
+        "9yrRun": "20.3756",
+        "Trend": "20.2658",
+        "Year": 1978
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.2615",
+        "9yrRun": "20.4357",
+        "Trend": "20.2719",
+        "Year": 1979
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5229",
+        "9yrRun": "20.3892",
+        "Trend": "20.278",
+        "Year": 1980
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.228",
+        "9yrRun": "20.4295",
+        "Trend": "20.2842",
+        "Year": 1981
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5352",
+        "9yrRun": "20.3304",
+        "Trend": "20.2903",
+        "Year": 1982
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.7187",
+        "9yrRun": "20.3624",
+        "Trend": "20.2965",
+        "Year": 1983
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0813",
+        "9yrRun": "20.3555",
+        "Trend": "20.3026",
+        "Year": 1984
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.3684",
+        "9yrRun": "20.2987",
+        "Trend": "20.3088",
+        "Year": 1985
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0657",
+        "9yrRun": "20.3188",
+        "Trend": "20.3149",
+        "Year": 1986
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4795",
+        "9yrRun": "20.316",
+        "Trend": "20.321",
+        "Year": 1987
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.2001",
+        "9yrRun": "20.2031",
+        "Trend": "20.3272",
+        "Year": 1988
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0114",
+        "9yrRun": "20.2313",
+        "Trend": "20.3333",
+        "Year": 1989
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4092",
+        "9yrRun": "20.2688",
+        "Trend": "20.3395",
+        "Year": 1990
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.51",
+        "9yrRun": "20.2411",
+        "Trend": "20.3456",
+        "Year": 1991
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.7019",
+        "9yrRun": "20.1938",
+        "Trend": "20.3518",
+        "Year": 1992
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.3352",
+        "9yrRun": "20.1985",
+        "Trend": "20.3579",
+        "Year": 1993
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.7059",
+        "9yrRun": "20.3333",
+        "Trend": "20.364",
+        "Year": 1994
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.8168",
+        "9yrRun": "20.3457",
+        "Trend": "20.3702",
+        "Year": 1995
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0538",
+        "9yrRun": "20.3548",
+        "Trend": "20.3763",
+        "Year": 1996
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.2425",
+        "9yrRun": "20.4434",
+        "Trend": "20.3825",
+        "Year": 1997
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "21.2241",
+        "9yrRun": "20.4912",
+        "Trend": "20.3886",
+        "Year": 1998
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5212",
+        "9yrRun": "20.4645",
+        "Trend": "20.3948",
+        "Year": 1999
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5916",
+        "9yrRun": "20.5004",
+        "Trend": "20.4009",
+        "Year": 2000
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4995",
+        "9yrRun": "20.5065",
+        "Trend": "20.407",
+        "Year": 2001
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.7658",
+        "9yrRun": "20.5432",
+        "Trend": "20.4132",
+        "Year": 2002
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4648",
+        "9yrRun": "20.4618",
+        "Trend": "20.4193",
+        "Year": 2003
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1404",
+        "9yrRun": "20.4264",
+        "Trend": "20.4255",
+        "Year": 2004
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1088",
+        "9yrRun": "20.4015",
+        "Trend": "20.4316",
+        "Year": 2005
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5728",
+        "9yrRun": "20.3654",
+        "Trend": "20.4378",
+        "Year": 2006
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4914",
+        "9yrRun": "20.241",
+        "Trend": "20.4439",
+        "Year": 2007
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.2025",
+        "9yrRun": "20.1986",
+        "Trend": "20.45",
+        "Year": 2008
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.367",
+        "9yrRun": "20.2301",
+        "Trend": "20.4562",
+        "Year": 2009
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.1754",
+        "9yrRun": "20.2575",
+        "Trend": "20.4623",
+        "Year": 2010
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "19.6461",
+        "9yrRun": "20.2689",
+        "Trend": "20.4685",
+        "Year": 2011
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.0831",
+        "9yrRun": "20.3102",
+        "Trend": "20.4746",
+        "Year": 2012
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.4234",
+        "9yrRun": "20.37",
+        "Trend": "20.4808",
+        "Year": 2013
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.356",
+        "9yrRun": "20.3913",
+        "Trend": "20.4869",
+        "Year": 2014
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.6754",
+        "9yrRun": "20.4553",
+        "Trend": "20.493",
+        "Year": 2015
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.8628",
+        "9yrRun": "20.5828",
+        "Trend": "20.4992",
+        "Year": 2016
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.741",
+        "9yrRun": "20.6643",
+        "Trend": "20.5053",
+        "Year": 2017
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5581",
+        "9yrRun": "20.6777",
+        "Trend": "20.5115",
+        "Year": 2018
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.7521",
+        "9yrRun": null,
+        "Trend": "20.5176",
+        "Year": 2019
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.793",
+        "9yrRun": null,
+        "Trend": "20.5238",
+        "Year": 2020
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.8172",
+        "9yrRun": null,
+        "Trend": "20.5299",
+        "Year": 2021
+    },
+    {
+        "CTID": 03,
+        "CTNM": "NewTaipei",
+        "AvgTemp": "20.3456",
+        "Temp": "20.5433",
+        "9yrRun": null,
+        "Trend": "20.536",
+        "Year": 2022
+    }
+]
+}

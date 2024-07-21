@@ -1,0 +1,575 @@
+{
+"ID":"17",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2365.24",
+        "9yrRun": null,
+        "Trend": "2367.27",
+        "Year": 1960
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1801.68",
+        "9yrRun": null,
+        "Trend": "2376.39",
+        "Year": 1961
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2602.38",
+        "9yrRun": null,
+        "Trend": "2385.51",
+        "Year": 1962
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1783.29",
+        "9yrRun": null,
+        "Trend": "2394.63",
+        "Year": 1963
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2131.76",
+        "9yrRun": "2273.47",
+        "Trend": "2403.75",
+        "Year": 1964
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": 2133,
+        "9yrRun": "2356.67",
+        "Trend": "2412.87",
+        "Year": 1965
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1992.46",
+        "9yrRun": "2442.37",
+        "Trend": "2421.99",
+        "Year": 1966
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2981.92",
+        "9yrRun": "2487.33",
+        "Trend": "2431.11",
+        "Year": 1967
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2669.5",
+        "9yrRun": "2525.7",
+        "Trend": "2440.23",
+        "Year": 1968
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3114.08",
+        "9yrRun": "2527.91",
+        "Trend": "2449.35",
+        "Year": 1969
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2572.93",
+        "9yrRun": "2772.32",
+        "Trend": "2458.47",
+        "Year": 1970
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3007.05",
+        "9yrRun": "2812.81",
+        "Trend": "2467.59",
+        "Year": 1971
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2128.57",
+        "9yrRun": "2662.5",
+        "Trend": "2476.71",
+        "Year": 1972
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2151.64",
+        "9yrRun": "2633.36",
+        "Trend": "2485.83",
+        "Year": 1973
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "4332.72",
+        "9yrRun": "2563.15",
+        "Trend": "2494.96",
+        "Year": 1974
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2356.92",
+        "9yrRun": "2485.05",
+        "Trend": "2504.08",
+        "Year": 1975
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1629.12",
+        "9yrRun": "2384.46",
+        "Trend": "2513.2",
+        "Year": 1976
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2407.16",
+        "9yrRun": "2447.39",
+        "Trend": "2522.32",
+        "Year": 1977
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2482.22",
+        "9yrRun": "2451.11",
+        "Trend": "2531.44",
+        "Year": 1978
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1870.07",
+        "9yrRun": "2205.14",
+        "Trend": "2540.56",
+        "Year": 1979
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2101.68",
+        "9yrRun": "2242.78",
+        "Trend": "2549.68",
+        "Year": 1980
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": 2695,
+        "9yrRun": "2404.03",
+        "Trend": "2558.8",
+        "Year": 1981
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2185.1",
+        "9yrRun": "2469.06",
+        "Trend": "2567.92",
+        "Year": 1982
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2118.95",
+        "9yrRun": "2491.66",
+        "Trend": "2577.04",
+        "Year": 1983
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2695.74",
+        "9yrRun": "2663.36",
+        "Trend": "2586.16",
+        "Year": 1984
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3080.35",
+        "9yrRun": "2741.75",
+        "Trend": "2595.28",
+        "Year": 1985
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2992.46",
+        "9yrRun": "2815.09",
+        "Trend": "2604.4",
+        "Year": 1986
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2685.55",
+        "9yrRun": "2822.98",
+        "Trend": "2613.52",
+        "Year": 1987
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3415.44",
+        "9yrRun": "2911.75",
+        "Trend": "2622.64",
+        "Year": 1988
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2807.16",
+        "9yrRun": "2790.86",
+        "Trend": "2631.76",
+        "Year": 1989
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3355.02",
+        "9yrRun": "2774.44",
+        "Trend": "2640.89",
+        "Year": 1990
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2256.18",
+        "9yrRun": "2650.37",
+        "Trend": "2650.01",
+        "Year": 1991
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2917.82",
+        "9yrRun": "2694.85",
+        "Trend": "2659.13",
+        "Year": 1992
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1607.73",
+        "9yrRun": "2542.79",
+        "Trend": "2668.25",
+        "Year": 1993
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2932.56",
+        "9yrRun": "2726.67",
+        "Trend": "2677.37",
+        "Year": 1994
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1875.9",
+        "9yrRun": "2596.91",
+        "Trend": "2686.49",
+        "Year": 1995
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3085.86",
+        "9yrRun": "2762.23",
+        "Trend": "2695.61",
+        "Year": 1996
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2046.85",
+        "9yrRun": "2863.14",
+        "Trend": "2704.73",
+        "Year": 1997
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "4462.08",
+        "9yrRun": "2852.29",
+        "Trend": "2713.85",
+        "Year": 1998
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2187.2",
+        "9yrRun": "2706.23",
+        "Trend": "2722.97",
+        "Year": 1999
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3744.05",
+        "9yrRun": "2785.93",
+        "Trend": "2732.09",
+        "Year": 2000
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3826.04",
+        "9yrRun": "2836.87",
+        "Trend": "2741.21",
+        "Year": 2001
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1510.06",
+        "9yrRun": "2909.21",
+        "Trend": "2750.33",
+        "Year": 2002
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1617.99",
+        "9yrRun": "2789.33",
+        "Trend": "2759.45",
+        "Year": 2003
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2593.24",
+        "9yrRun": "2923.57",
+        "Trend": "2768.58",
+        "Year": 2004
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3544.29",
+        "9yrRun": "2830.47",
+        "Trend": "2777.69",
+        "Year": 2005
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2697.9",
+        "9yrRun": "2667.71",
+        "Trend": "2786.82",
+        "Year": 2006
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3383.22",
+        "9yrRun": "2811.8",
+        "Trend": "2795.94",
+        "Year": 2007
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3395.37",
+        "9yrRun": "3000.67",
+        "Trend": "2805.06",
+        "Year": 2008
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2906.09",
+        "9yrRun": "3005.21",
+        "Trend": "2814.18",
+        "Year": 2009
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2361.23",
+        "9yrRun": "2811.91",
+        "Trend": "2823.3",
+        "Year": 2010
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2806.82",
+        "9yrRun": "2793.07",
+        "Trend": "2832.42",
+        "Year": 2011
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3317.88",
+        "9yrRun": "2788.58",
+        "Trend": "2841.54",
+        "Year": 2012
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2634.04",
+        "9yrRun": "2750.5",
+        "Trend": "2850.66",
+        "Year": 2013
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "1804.65",
+        "9yrRun": "2695.17",
+        "Trend": "2859.78",
+        "Year": 2014
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2528.34",
+        "9yrRun": "2729.31",
+        "Trend": "2868.9",
+        "Year": 2015
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3342.79",
+        "9yrRun": "2677.84",
+        "Trend": "2878.02",
+        "Year": 2016
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3052.65",
+        "9yrRun": "2584.78",
+        "Trend": "2887.14",
+        "Year": 2017
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2408.1",
+        "9yrRun": "2732.64",
+        "Trend": "2896.26",
+        "Year": 2018
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2668.51",
+        "9yrRun": null,
+        "Trend": "2905.38",
+        "Year": 2019
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2343.57",
+        "9yrRun": null,
+        "Trend": "2914.5",
+        "Year": 2020
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "2480.35",
+        "9yrRun": null,
+        "Trend": "2923.62",
+        "Year": 2021
+    },
+    {
+        "CTID": 17,
+        "CTNM": "Yilan",
+        "AvgRain": "2650.01",
+        "Rain": "3964.79",
+        "9yrRun": null,
+        "Trend": "2932.75",
+        "Year": 2022
+    }
+]
+}

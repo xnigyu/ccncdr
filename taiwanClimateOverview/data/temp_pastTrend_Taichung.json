@@ -1,0 +1,575 @@
+{
+"ID":"08",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9122",
+        "9yrRun": null,
+        "Trend": "18.0311",
+        "Year": 1960
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0799",
+        "9yrRun": null,
+        "Trend": "18.0412",
+        "Year": 1961
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.4835",
+        "9yrRun": null,
+        "Trend": "18.0512",
+        "Year": 1962
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.3185",
+        "9yrRun": null,
+        "Trend": "18.0612",
+        "Year": 1963
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0247",
+        "9yrRun": "17.8747",
+        "Trend": "18.0712",
+        "Year": 1964
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9058",
+        "9yrRun": "17.8935",
+        "Trend": "18.0813",
+        "Year": 1965
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.5246",
+        "9yrRun": "17.8984",
+        "Trend": "18.0913",
+        "Year": 1966
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.1339",
+        "9yrRun": "17.9303",
+        "Trend": "18.1013",
+        "Year": 1967
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.4892",
+        "9yrRun": "18.0088",
+        "Trend": "18.1113",
+        "Year": 1968
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0814",
+        "9yrRun": "18.0641",
+        "Trend": "18.1214",
+        "Year": 1969
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.1243",
+        "9yrRun": "18.1048",
+        "Trend": "18.1314",
+        "Year": 1970
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.7699",
+        "9yrRun": "18.0778",
+        "Trend": "18.1414",
+        "Year": 1971
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0254",
+        "9yrRun": "18.0603",
+        "Trend": "18.1515",
+        "Year": 1972
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.5224",
+        "9yrRun": "18.2095",
+        "Trend": "18.1615",
+        "Year": 1973
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.2718",
+        "9yrRun": "18.24",
+        "Trend": "18.1715",
+        "Year": 1974
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.2816",
+        "9yrRun": "18.2688",
+        "Trend": "18.1815",
+        "Year": 1975
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9768",
+        "9yrRun": "18.4046",
+        "Trend": "18.1916",
+        "Year": 1976
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.8314",
+        "9yrRun": "18.4763",
+        "Trend": "18.2016",
+        "Year": 1977
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3559",
+        "9yrRun": "18.455",
+        "Trend": "18.2116",
+        "Year": 1978
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3844",
+        "9yrRun": "18.4762",
+        "Trend": "18.2216",
+        "Year": 1979
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.992",
+        "9yrRun": "18.4583",
+        "Trend": "18.2317",
+        "Year": 1980
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.6704",
+        "9yrRun": "18.5088",
+        "Trend": "18.2417",
+        "Year": 1981
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3306",
+        "9yrRun": "18.4998",
+        "Trend": "18.2517",
+        "Year": 1982
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.4631",
+        "9yrRun": "18.5614",
+        "Trend": "18.2617",
+        "Year": 1983
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.1199",
+        "9yrRun": "18.6192",
+        "Trend": "18.2718",
+        "Year": 1984
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.4316",
+        "9yrRun": "18.5377",
+        "Trend": "18.2818",
+        "Year": 1985
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.7507",
+        "9yrRun": "18.5204",
+        "Trend": "18.2918",
+        "Year": 1986
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.91",
+        "9yrRun": "18.5513",
+        "Trend": "18.3019",
+        "Year": 1987
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.9045",
+        "9yrRun": "18.5036",
+        "Trend": "18.3119",
+        "Year": 1988
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.2588",
+        "9yrRun": "18.5506",
+        "Trend": "18.3219",
+        "Year": 1989
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.5142",
+        "9yrRun": "18.5688",
+        "Trend": "18.3319",
+        "Year": 1990
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.6088",
+        "9yrRun": "18.4795",
+        "Trend": "18.342",
+        "Year": 1991
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0342",
+        "9yrRun": "18.3858",
+        "Trend": "18.352",
+        "Year": 1992
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.5422",
+        "9yrRun": "18.2879",
+        "Trend": "18.362",
+        "Year": 1993
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.5961",
+        "9yrRun": "18.3737",
+        "Trend": "18.372",
+        "Year": 1994
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9467",
+        "9yrRun": "18.352",
+        "Trend": "18.3821",
+        "Year": 1995
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0671",
+        "9yrRun": "18.3284",
+        "Trend": "18.3921",
+        "Year": 1996
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0226",
+        "9yrRun": "18.3596",
+        "Trend": "18.4021",
+        "Year": 1997
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "19.0316",
+        "9yrRun": "18.3689",
+        "Trend": "18.4121",
+        "Year": 1998
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3191",
+        "9yrRun": "18.3542",
+        "Trend": "18.4222",
+        "Year": 1999
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3961",
+        "9yrRun": "18.3588",
+        "Trend": "18.4322",
+        "Year": 2000
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3148",
+        "9yrRun": "18.347",
+        "Trend": "18.4422",
+        "Year": 2001
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.6257",
+        "9yrRun": "18.3802",
+        "Trend": "18.4523",
+        "Year": 2002
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.4642",
+        "9yrRun": "18.2882",
+        "Trend": "18.4623",
+        "Year": 2003
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9881",
+        "9yrRun": "18.2569",
+        "Trend": "18.4723",
+        "Year": 2004
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "17.9604",
+        "9yrRun": "18.2504",
+        "Trend": "18.4823",
+        "Year": 2005
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3219",
+        "9yrRun": "18.2399",
+        "Trend": "18.4924",
+        "Year": 2006
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.2033",
+        "9yrRun": "18.1713",
+        "Trend": "18.5024",
+        "Year": 2007
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0375",
+        "9yrRun": "18.1733",
+        "Trend": "18.5124",
+        "Year": 2008
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3374",
+        "9yrRun": "18.2106",
+        "Trend": "18.5224",
+        "Year": 2009
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.2205",
+        "9yrRun": "18.2494",
+        "Trend": "18.5325",
+        "Year": 2010
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.0084",
+        "9yrRun": "18.3024",
+        "Trend": "18.5425",
+        "Year": 2011
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.4826",
+        "9yrRun": "18.3658",
+        "Trend": "18.5525",
+        "Year": 2012
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.3236",
+        "9yrRun": "18.4433",
+        "Trend": "18.5625",
+        "Year": 2013
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.309",
+        "9yrRun": "18.475",
+        "Trend": "18.5726",
+        "Year": 2014
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.799",
+        "9yrRun": "18.5485",
+        "Trend": "18.5826",
+        "Year": 2015
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.7738",
+        "9yrRun": "18.6652",
+        "Trend": "18.5926",
+        "Year": 2016
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.7356",
+        "9yrRun": "18.7155",
+        "Trend": "18.6027",
+        "Year": 2017
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.6226",
+        "9yrRun": "18.7608",
+        "Trend": "18.6127",
+        "Year": 2018
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.8819",
+        "9yrRun": null,
+        "Trend": "18.6227",
+        "Year": 2019
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "19.0587",
+        "9yrRun": null,
+        "Trend": "18.6327",
+        "Year": 2020
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.9357",
+        "9yrRun": null,
+        "Trend": "18.6428",
+        "Year": 2021
+    },
+    {
+        "CTID": 08,
+        "CTNM": "Taichung",
+        "AvgTemp": "18.342",
+        "Temp": "18.7311",
+        "9yrRun": null,
+        "Trend": "18.6528",
+        "Year": 2022
+    }
+]
+}

@@ -1,0 +1,575 @@
+{
+"ID":"07",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8436",
+        "9yrRun": null,
+        "Trend": "18.8157",
+        "Year": 1960
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8939",
+        "9yrRun": null,
+        "Trend": "18.8224",
+        "Year": 1961
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.3019",
+        "9yrRun": null,
+        "Trend": "18.829",
+        "Year": 1962
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.3391",
+        "9yrRun": null,
+        "Trend": "18.8356",
+        "Year": 1963
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8982",
+        "9yrRun": "18.7082",
+        "Trend": "18.8423",
+        "Year": 1964
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.7728",
+        "9yrRun": "18.7135",
+        "Trend": "18.8489",
+        "Year": 1965
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.3382",
+        "9yrRun": "18.7173",
+        "Trend": "18.8555",
+        "Year": 1966
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.656",
+        "9yrRun": "18.7412",
+        "Trend": "18.8622",
+        "Year": 1967
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.3302",
+        "9yrRun": "18.7759",
+        "Trend": "18.8688",
+        "Year": 1968
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.891",
+        "9yrRun": "18.8085",
+        "Trend": "18.8754",
+        "Year": 1969
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.928",
+        "9yrRun": "18.8271",
+        "Trend": "18.8821",
+        "Year": 1970
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.517",
+        "9yrRun": "18.7824",
+        "Trend": "18.8887",
+        "Year": 1971
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.6518",
+        "9yrRun": "18.7652",
+        "Trend": "18.8953",
+        "Year": 1972
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.1913",
+        "9yrRun": "18.8776",
+        "Trend": "18.902",
+        "Year": 1973
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.9401",
+        "9yrRun": "18.8727",
+        "Trend": "18.9086",
+        "Year": 1974
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.936",
+        "9yrRun": "18.8708",
+        "Trend": "18.9152",
+        "Year": 1975
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.5018",
+        "9yrRun": "18.9818",
+        "Trend": "18.9219",
+        "Year": 1976
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.3413",
+        "9yrRun": "19.0446",
+        "Trend": "18.9285",
+        "Year": 1977
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8471",
+        "9yrRun": "19.0437",
+        "Trend": "18.9351",
+        "Year": 1978
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.9111",
+        "9yrRun": "19.0845",
+        "Trend": "18.9418",
+        "Year": 1979
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.5161",
+        "9yrRun": "19.0895",
+        "Trend": "18.9484",
+        "Year": 1980
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2167",
+        "9yrRun": "19.1706",
+        "Trend": "18.955",
+        "Year": 1981
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.183",
+        "9yrRun": "19.2164",
+        "Trend": "18.9617",
+        "Year": 1982
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.3076",
+        "9yrRun": "19.3316",
+        "Trend": "18.9683",
+        "Year": 1983
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.9805",
+        "9yrRun": "19.391",
+        "Trend": "18.9749",
+        "Year": 1984
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2318",
+        "9yrRun": "19.3138",
+        "Trend": "18.9815",
+        "Year": 1985
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.7539",
+        "9yrRun": "19.2949",
+        "Trend": "18.9882",
+        "Year": 1986
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.8841",
+        "9yrRun": "19.2942",
+        "Trend": "18.9948",
+        "Year": 1987
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.4452",
+        "9yrRun": "19.2189",
+        "Trend": "19.0014",
+        "Year": 1988
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8215",
+        "9yrRun": "19.277",
+        "Trend": "19.0081",
+        "Year": 1989
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.0462",
+        "9yrRun": "19.2773",
+        "Trend": "19.0147",
+        "Year": 1990
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.1772",
+        "9yrRun": "19.1322",
+        "Trend": "19.0213",
+        "Year": 1991
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.6301",
+        "9yrRun": "18.9857",
+        "Trend": "19.028",
+        "Year": 1992
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.5034",
+        "9yrRun": "18.8894",
+        "Trend": "19.0346",
+        "Year": 1993
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2339",
+        "9yrRun": "18.998",
+        "Trend": "19.0412",
+        "Year": 1994
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.4486",
+        "9yrRun": "19.0035",
+        "Trend": "19.0479",
+        "Year": 1995
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.5654",
+        "9yrRun": "18.986",
+        "Trend": "19.0545",
+        "Year": 1996
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.5783",
+        "9yrRun": "19.0103",
+        "Trend": "19.0611",
+        "Year": 1997
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.7986",
+        "9yrRun": "18.9784",
+        "Trend": "19.0678",
+        "Year": 1998
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.0964",
+        "9yrRun": "18.9771",
+        "Trend": "19.0744",
+        "Year": 1999
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.0192",
+        "9yrRun": "19.0042",
+        "Trend": "19.081",
+        "Year": 2000
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8484",
+        "9yrRun": "19.0154",
+        "Trend": "19.0877",
+        "Year": 2001
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2165",
+        "9yrRun": "19.0756",
+        "Trend": "19.0943",
+        "Year": 2002
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2223",
+        "9yrRun": "18.9874",
+        "Trend": "19.1009",
+        "Year": 2003
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.6923",
+        "9yrRun": "18.9505",
+        "Trend": "19.1076",
+        "Year": 2004
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.6664",
+        "9yrRun": "18.9473",
+        "Trend": "19.1142",
+        "Year": 2005
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.1207",
+        "9yrRun": "18.9434",
+        "Trend": "19.1208",
+        "Year": 2006
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.0042",
+        "9yrRun": "18.8703",
+        "Trend": "19.1275",
+        "Year": 2007
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.7646",
+        "9yrRun": "18.8396",
+        "Trend": "19.1341",
+        "Year": 2008
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.9904",
+        "9yrRun": "18.8613",
+        "Trend": "19.1407",
+        "Year": 2009
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8131",
+        "9yrRun": "18.879",
+        "Trend": "19.1474",
+        "Year": 2010
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.5587",
+        "9yrRun": "18.9088",
+        "Trend": "19.154",
+        "Year": 2011
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.9461",
+        "9yrRun": "18.9588",
+        "Trend": "19.1606",
+        "Year": 2012
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8877",
+        "9yrRun": "19.0318",
+        "Trend": "19.1673",
+        "Year": 2013
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "18.8256",
+        "9yrRun": "19.0623",
+        "Trend": "19.1739",
+        "Year": 2014
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.3885",
+        "9yrRun": "19.1399",
+        "Trend": "19.1805",
+        "Year": 2015
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.4546",
+        "9yrRun": "19.259",
+        "Trend": "19.1872",
+        "Year": 2016
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.4215",
+        "9yrRun": "19.3206",
+        "Trend": "19.1938",
+        "Year": 2017
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.2651",
+        "9yrRun": "19.3494",
+        "Trend": "19.2004",
+        "Year": 2018
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.5109",
+        "9yrRun": null,
+        "Trend": "19.207",
+        "Year": 2019
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.6312",
+        "9yrRun": null,
+        "Trend": "19.2137",
+        "Year": 2020
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.5007",
+        "9yrRun": null,
+        "Trend": "19.2203",
+        "Year": 2021
+    },
+    {
+        "CTID": 07,
+        "CTNM": "Miaoli",
+        "AvgTemp": "19.0213",
+        "Temp": "19.1468",
+        "9yrRun": null,
+        "Trend": "19.2269",
+        "Year": 2022
+    }
+]
+}

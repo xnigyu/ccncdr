@@ -1,0 +1,575 @@
+{
+"ID":"15",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4945",
+        "9yrRun": null,
+        "Trend": "19.335",
+        "Year": 1960
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.671",
+        "9yrRun": null,
+        "Trend": "19.3499",
+        "Year": 1961
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.2836",
+        "9yrRun": null,
+        "Trend": "19.3648",
+        "Year": 1962
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "18.9683",
+        "9yrRun": null,
+        "Trend": "19.3797",
+        "Year": 1963
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4789",
+        "9yrRun": "19.3401",
+        "Trend": "19.3947",
+        "Year": 1964
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.2444",
+        "9yrRun": "19.3209",
+        "Trend": "19.4096",
+        "Year": 1965
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9696",
+        "9yrRun": "19.3077",
+        "Trend": "19.4245",
+        "Year": 1966
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.2299",
+        "9yrRun": "19.2608",
+        "Trend": "19.4394",
+        "Year": 1967
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "18.7208",
+        "9yrRun": "19.2667",
+        "Trend": "19.4543",
+        "Year": 1968
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.3218",
+        "9yrRun": "19.2652",
+        "Trend": "19.4693",
+        "Year": 1969
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.5519",
+        "9yrRun": "19.2745",
+        "Trend": "19.4842",
+        "Year": 1970
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "18.8611",
+        "9yrRun": "19.2281",
+        "Trend": "19.4991",
+        "Year": 1971
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.0217",
+        "9yrRun": "19.2295",
+        "Trend": "19.514",
+        "Year": 1972
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4657",
+        "9yrRun": "19.3153",
+        "Trend": "19.5289",
+        "Year": 1973
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.3281",
+        "9yrRun": "19.3157",
+        "Trend": "19.5439",
+        "Year": 1974
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.5519",
+        "9yrRun": "19.3014",
+        "Trend": "19.5588",
+        "Year": 1975
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.2421",
+        "9yrRun": "19.4141",
+        "Trend": "19.5737",
+        "Year": 1976
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4931",
+        "9yrRun": "19.5042",
+        "Trend": "19.5886",
+        "Year": 1977
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.3256",
+        "9yrRun": "19.5289",
+        "Trend": "19.6035",
+        "Year": 1978
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4236",
+        "9yrRun": "19.5562",
+        "Trend": "19.6185",
+        "Year": 1979
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.8748",
+        "9yrRun": "19.5436",
+        "Trend": "19.6334",
+        "Year": 1980
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.833",
+        "9yrRun": "19.6257",
+        "Trend": "19.6483",
+        "Year": 1981
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.6875",
+        "9yrRun": "19.7266",
+        "Trend": "19.6632",
+        "Year": 1982
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.5745",
+        "9yrRun": "19.914",
+        "Trend": "19.6782",
+        "Year": 1983
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4377",
+        "9yrRun": "20.0606",
+        "Trend": "19.6931",
+        "Year": 1984
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9813",
+        "9yrRun": "20.1119",
+        "Trend": "19.708",
+        "Year": 1985
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.4016",
+        "9yrRun": "20.2081",
+        "Trend": "19.7229",
+        "Year": 1986
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "21.0117",
+        "9yrRun": "20.314",
+        "Trend": "19.7378",
+        "Year": 1987
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.7437",
+        "9yrRun": "20.3182",
+        "Trend": "19.7528",
+        "Year": 1988
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.3361",
+        "9yrRun": "20.3497",
+        "Trend": "19.7677",
+        "Year": 1989
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.699",
+        "9yrRun": "20.3381",
+        "Trend": "19.7826",
+        "Year": 1990
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.6404",
+        "9yrRun": "20.2536",
+        "Trend": "19.7975",
+        "Year": 1991
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.6127",
+        "9yrRun": "20.0856",
+        "Trend": "19.8124",
+        "Year": 1992
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.7208",
+        "9yrRun": "19.9505",
+        "Trend": "19.8274",
+        "Year": 1993
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.8765",
+        "9yrRun": "19.9707",
+        "Trend": "19.8423",
+        "Year": 1994
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.6414",
+        "9yrRun": "19.8763",
+        "Trend": "19.8572",
+        "Year": 1995
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4998",
+        "9yrRun": "19.8032",
+        "Trend": "19.8721",
+        "Year": 1996
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.5278",
+        "9yrRun": "19.84",
+        "Trend": "19.887",
+        "Year": 1997
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.5183",
+        "9yrRun": "19.8896",
+        "Trend": "19.902",
+        "Year": 1998
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.8491",
+        "9yrRun": "19.893",
+        "Trend": "19.9169",
+        "Year": 1999
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9822",
+        "9yrRun": "19.8852",
+        "Trend": "19.9318",
+        "Year": 2000
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9439",
+        "9yrRun": "19.8981",
+        "Trend": "19.9467",
+        "Year": 2001
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.1672",
+        "9yrRun": "19.9589",
+        "Trend": "19.9616",
+        "Year": 2002
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9074",
+        "9yrRun": "19.8903",
+        "Trend": "19.9766",
+        "Year": 2003
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.5712",
+        "9yrRun": "19.8669",
+        "Trend": "19.9915",
+        "Year": 2004
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.6162",
+        "9yrRun": "19.8591",
+        "Trend": "20.0064",
+        "Year": 2005
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.0747",
+        "9yrRun": "19.8538",
+        "Trend": "20.0213",
+        "Year": 2006
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9006",
+        "9yrRun": "19.7744",
+        "Trend": "20.0362",
+        "Year": 2007
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.6389",
+        "9yrRun": "19.7686",
+        "Trend": "20.0512",
+        "Year": 2008
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9116",
+        "9yrRun": "19.8053",
+        "Trend": "20.0661",
+        "Year": 2009
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.8968",
+        "9yrRun": "19.8236",
+        "Trend": "20.081",
+        "Year": 2010
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.4521",
+        "9yrRun": "19.8532",
+        "Trend": "20.0959",
+        "Year": 2011
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.8553",
+        "9yrRun": "19.8978",
+        "Trend": "20.1108",
+        "Year": 2012
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.9018",
+        "9yrRun": "19.9841",
+        "Trend": "20.1258",
+        "Year": 2013
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "19.7807",
+        "9yrRun": "20.0006",
+        "Trend": "20.1407",
+        "Year": 2014
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.3409",
+        "9yrRun": "20.0568",
+        "Trend": "20.1556",
+        "Year": 2015
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.302",
+        "9yrRun": "20.1703",
+        "Trend": "20.1705",
+        "Year": 2016
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.4159",
+        "9yrRun": "20.2065",
+        "Trend": "20.1855",
+        "Year": 2017
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.0597",
+        "9yrRun": "20.2565",
+        "Trend": "20.2004",
+        "Year": 2018
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.403",
+        "9yrRun": null,
+        "Trend": "20.2153",
+        "Year": 2019
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.4735",
+        "9yrRun": null,
+        "Trend": "20.2302",
+        "Year": 2020
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.1809",
+        "9yrRun": null,
+        "Trend": "20.2451",
+        "Year": 2021
+    },
+    {
+        "CTID": 15,
+        "CTNM": "Kaohsiung",
+        "AvgTemp": "19.7975",
+        "Temp": "20.3516",
+        "9yrRun": null,
+        "Trend": "20.2601",
+        "Year": 2022
+    }
+]
+}

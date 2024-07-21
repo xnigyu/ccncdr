@@ -1,0 +1,575 @@
+{
+"ID":"11",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1355.78",
+        "9yrRun": null,
+        "Trend": "1141.94",
+        "Year": 1960
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1062.27",
+        "9yrRun": null,
+        "Trend": "1146.13",
+        "Year": 1961
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1028.06",
+        "9yrRun": null,
+        "Trend": "1150.31",
+        "Year": 1962
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1072.99",
+        "9yrRun": null,
+        "Trend": "1154.51",
+        "Year": 1963
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "683.475",
+        "9yrRun": "1125.57",
+        "Trend": "1158.69",
+        "Year": 1964
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1133.58",
+        "9yrRun": "1100.73",
+        "Trend": "1162.89",
+        "Year": 1965
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1451.99",
+        "9yrRun": "1106.15",
+        "Trend": "1167.08",
+        "Year": 1966
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "906.625",
+        "9yrRun": "1098.39",
+        "Trend": "1171.27",
+        "Year": 1967
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1435.34",
+        "9yrRun": "1182.72",
+        "Trend": "1175.46",
+        "Year": 1968
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1132.21",
+        "9yrRun": "1234.54",
+        "Trend": "1179.65",
+        "Year": 1969
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1111.09",
+        "9yrRun": "1249.84",
+        "Trend": "1183.84",
+        "Year": 1970
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "958.226",
+        "9yrRun": "1273.99",
+        "Trend": "1188.02",
+        "Year": 1971
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1831.93",
+        "9yrRun": "1291.82",
+        "Trend": "1192.22",
+        "Year": 1972
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1149.87",
+        "9yrRun": "1320.89",
+        "Trend": "1196.4",
+        "Year": 1973
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1271.32",
+        "9yrRun": "1315.81",
+        "Trend": "1200.6",
+        "Year": 1974
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1669.28",
+        "9yrRun": "1333.85",
+        "Trend": "1204.78",
+        "Year": 1975
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1067.14",
+        "9yrRun": "1303.2",
+        "Trend": "1208.98",
+        "Year": 1976
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1696.98",
+        "9yrRun": "1273.26",
+        "Trend": "1213.16",
+        "Year": 1977
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1086.42",
+        "9yrRun": "1283.84",
+        "Trend": "1217.35",
+        "Year": 1978
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1273.52",
+        "9yrRun": "1294.83",
+        "Trend": "1221.54",
+        "Year": 1979
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "682.378",
+        "9yrRun": "1219.12",
+        "Trend": "1225.73",
+        "Year": 1980
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1562.45",
+        "9yrRun": "1249.36",
+        "Trend": "1229.92",
+        "Year": 1981
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1245.04",
+        "9yrRun": "1182.81",
+        "Trend": "1234.11",
+        "Year": 1982
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1370.28",
+        "9yrRun": "1197.3",
+        "Trend": "1238.31",
+        "Year": 1983
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "987.852",
+        "9yrRun": "1197.05",
+        "Trend": "1242.49",
+        "Year": 1984
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1339.31",
+        "9yrRun": "1251.63",
+        "Trend": "1246.69",
+        "Year": 1985
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1098.07",
+        "9yrRun": "1262.61",
+        "Trend": "1250.87",
+        "Year": 1986
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1216.79",
+        "9yrRun": "1227.3",
+        "Trend": "1255.06",
+        "Year": 1987
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1271.29",
+        "9yrRun": "1233.64",
+        "Trend": "1259.25",
+        "Year": 1988
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1173.61",
+        "9yrRun": "1214.72",
+        "Trend": "1263.44",
+        "Year": 1989
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1661.25",
+        "9yrRun": "1205.16",
+        "Trend": "1267.63",
+        "Year": 1990
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "927.257",
+        "9yrRun": "1193.34",
+        "Trend": "1271.82",
+        "Year": 1991
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1427.33",
+        "9yrRun": "1188.06",
+        "Trend": "1276.01",
+        "Year": 1992
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "817.578",
+        "9yrRun": "1183.49",
+        "Trend": "1280.2",
+        "Year": 1993
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1253.23",
+        "9yrRun": "1242.19",
+        "Trend": "1284.39",
+        "Year": 1994
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "991.765",
+        "9yrRun": "1183.87",
+        "Trend": "1288.58",
+        "Year": 1995
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1169.25",
+        "9yrRun": 1186,
+        "Trend": "1292.77",
+        "Year": 1996
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1230.17",
+        "9yrRun": "1199.89",
+        "Trend": "1296.96",
+        "Year": 1997
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1701.9",
+        "9yrRun": "1215.85",
+        "Trend": "1301.15",
+        "Year": 1998
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1136.32",
+        "9yrRun": "1161.18",
+        "Trend": "1305.34",
+        "Year": 1999
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "946.45",
+        "9yrRun": "1181.41",
+        "Trend": "1309.53",
+        "Year": 2000
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1552.39",
+        "9yrRun": "1277.21",
+        "Trend": "1313.72",
+        "Year": 2001
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "961.196",
+        "9yrRun": "1315.64",
+        "Trend": "1317.91",
+        "Year": 2002
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "761.203",
+        "9yrRun": "1309.21",
+        "Trend": "1322.1",
+        "Year": 2003
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1173.82",
+        "9yrRun": "1393.87",
+        "Trend": "1326.29",
+        "Year": 2004
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "2031.46",
+        "9yrRun": "1414.72",
+        "Trend": "1330.48",
+        "Year": 2005
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1576.04",
+        "9yrRun": "1377.48",
+        "Trend": "1334.67",
+        "Year": 2006
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1644.01",
+        "9yrRun": "1372.91",
+        "Trend": "1338.86",
+        "Year": 2007
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1898.22",
+        "9yrRun": "1481.92",
+        "Trend": "1343.05",
+        "Year": 2008
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1134.15",
+        "9yrRun": "1570.89",
+        "Trend": "1347.24",
+        "Year": 2009
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1217.23",
+        "9yrRun": "1461.54",
+        "Trend": "1351.43",
+        "Year": 2010
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "920.053",
+        "9yrRun": "1429.05",
+        "Trend": "1355.62",
+        "Year": 2011
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1742.3",
+        "9yrRun": "1419.42",
+        "Trend": "1359.81",
+        "Year": 2012
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1974.52",
+        "9yrRun": "1392.92",
+        "Trend": 1364,
+        "Year": 2013
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1047.3",
+        "9yrRun": "1412.57",
+        "Trend": "1368.19",
+        "Year": 2014
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1283.65",
+        "9yrRun": "1447.75",
+        "Trend": "1372.38",
+        "Year": 2015
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1557.38",
+        "9yrRun": "1445.62",
+        "Trend": "1376.57",
+        "Year": 2016
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1659.73",
+        "9yrRun": "1430.14",
+        "Trend": "1380.76",
+        "Year": 2017
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1310.96",
+        "9yrRun": "1327.85",
+        "Trend": "1384.95",
+        "Year": 2018
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1533.86",
+        "9yrRun": null,
+        "Trend": "1389.14",
+        "Year": 2019
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "900.881",
+        "9yrRun": null,
+        "Trend": "1393.33",
+        "Year": 2020
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1602.95",
+        "9yrRun": null,
+        "Trend": "1397.52",
+        "Year": 2021
+    },
+    {
+        "CTID": 11,
+        "CTNM": "Yunlin",
+        "AvgRain": "1271.82",
+        "Rain": "1053.96",
+        "9yrRun": null,
+        "Trend": "1401.71",
+        "Year": 2022
+    }
+]
+}

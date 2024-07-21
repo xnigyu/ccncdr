@@ -1,0 +1,575 @@
+{
+"ID":"10",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2117.37",
+        "9yrRun": null,
+        "Trend": "1757.62",
+        "Year": 1960
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1642.69",
+        "9yrRun": null,
+        "Trend": "1762.92",
+        "Year": 1961
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1861.85",
+        "9yrRun": null,
+        "Trend": "1768.22",
+        "Year": 1962
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1548.89",
+        "9yrRun": null,
+        "Trend": "1773.53",
+        "Year": 1963
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1473.18",
+        "9yrRun": "1791.16",
+        "Trend": "1778.83",
+        "Year": 1964
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1732.64",
+        "9yrRun": "1748.74",
+        "Trend": "1784.13",
+        "Year": 1965
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2094.04",
+        "9yrRun": "1742.8",
+        "Trend": "1789.44",
+        "Year": 1966
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1570.67",
+        "9yrRun": "1667.4",
+        "Trend": "1794.74",
+        "Year": 1967
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2079.09",
+        "9yrRun": "1757.71",
+        "Trend": "1800.04",
+        "Year": 1968
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1735.66",
+        "9yrRun": "1782.55",
+        "Trend": "1805.35",
+        "Year": 1969
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1589.23",
+        "9yrRun": "1824.47",
+        "Trend": "1810.65",
+        "Year": 1970
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1183.2",
+        "9yrRun": "1833.82",
+        "Trend": "1815.95",
+        "Year": 1971
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2361.69",
+        "9yrRun": "1845.67",
+        "Trend": "1821.26",
+        "Year": 1972
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1696.72",
+        "9yrRun": "1855.17",
+        "Trend": "1826.56",
+        "Year": 1973
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2109.94",
+        "9yrRun": "1880.39",
+        "Trend": "1831.86",
+        "Year": 1974
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2178.17",
+        "9yrRun": "1902.94",
+        "Trend": "1837.17",
+        "Year": 1975
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1677.31",
+        "9yrRun": "1885.04",
+        "Trend": "1842.47",
+        "Year": 1976
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2164.62",
+        "9yrRun": "1871.86",
+        "Trend": "1847.77",
+        "Year": 1977
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1962.61",
+        "9yrRun": "1873.89",
+        "Trend": "1853.08",
+        "Year": 1978
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1792.2",
+        "9yrRun": "1869.83",
+        "Trend": "1858.38",
+        "Year": 1979
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1022.14",
+        "9yrRun": "1825.21",
+        "Trend": "1863.68",
+        "Year": 1980
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2243.05",
+        "9yrRun": "1890.44",
+        "Trend": "1868.99",
+        "Year": 1981
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1715.01",
+        "9yrRun": "1861.51",
+        "Trend": "1874.29",
+        "Year": 1982
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2073.33",
+        "9yrRun": "1867.47",
+        "Trend": "1879.59",
+        "Year": 1983
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1776.61",
+        "9yrRun": "1849.43",
+        "Trend": "1884.9",
+        "Year": 1984
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2264.36",
+        "9yrRun": "1968.24",
+        "Trend": "1890.2",
+        "Year": 1985
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1904.24",
+        "9yrRun": "2013.77",
+        "Trend": "1895.5",
+        "Year": 1986
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2016.25",
+        "9yrRun": "1958.41",
+        "Trend": "1900.81",
+        "Year": 1987
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1629.88",
+        "9yrRun": "1949.37",
+        "Trend": "1906.11",
+        "Year": 1988
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2091.4",
+        "9yrRun": "1887.23",
+        "Trend": "1911.42",
+        "Year": 1989
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2652.88",
+        "9yrRun": "1858.14",
+        "Trend": "1916.72",
+        "Year": 1990
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1216.74",
+        "9yrRun": "1810.34",
+        "Trend": "1922.02",
+        "Year": 1991
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1991.96",
+        "9yrRun": "1779.21",
+        "Trend": "1927.33",
+        "Year": 1992
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1217.36",
+        "9yrRun": "1797.51",
+        "Trend": "1932.63",
+        "Year": 1993
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2002.55",
+        "9yrRun": "1843.55",
+        "Trend": "1937.93",
+        "Year": 1994
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1474.06",
+        "9yrRun": "1737.07",
+        "Trend": "1943.24",
+        "Year": 1995
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1736.05",
+        "9yrRun": "1820.32",
+        "Trend": "1948.54",
+        "Year": 1996
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1794.63",
+        "9yrRun": "1833.51",
+        "Trend": "1953.84",
+        "Year": 1997
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2505.76",
+        "9yrRun": "1832.67",
+        "Trend": "1959.15",
+        "Year": 1998
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1694.54",
+        "9yrRun": "1745.41",
+        "Trend": "1964.45",
+        "Year": 1999
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1965.98",
+        "9yrRun": "1803.4",
+        "Trend": "1969.75",
+        "Year": 2000
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2110.63",
+        "9yrRun": "1932.22",
+        "Trend": "1975.06",
+        "Year": 2001
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1209.87",
+        "9yrRun": "2035.31",
+        "Trend": "1980.36",
+        "Year": 2002
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1217.18",
+        "9yrRun": "2049.33",
+        "Trend": "1985.66",
+        "Year": 2003
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1995.96",
+        "9yrRun": "2181.52",
+        "Trend": "1990.97",
+        "Year": 2004
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2895.4",
+        "9yrRun": "2175.65",
+        "Trend": "1996.27",
+        "Year": 2005
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2722.43",
+        "9yrRun": "2147.63",
+        "Trend": "2001.57",
+        "Year": 2006
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2632.01",
+        "9yrRun": "2191.66",
+        "Trend": "2006.88",
+        "Year": 2007
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2884.2",
+        "9yrRun": "2370.65",
+        "Trend": "2012.18",
+        "Year": 2008
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1913.17",
+        "9yrRun": "2431.01",
+        "Trend": "2017.48",
+        "Year": 2009
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1858.49",
+        "9yrRun": "2298.93",
+        "Trend": "2022.79",
+        "Year": 2010
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1606.1",
+        "9yrRun": 2160,
+        "Trend": "2028.09",
+        "Year": 2011
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2828.07",
+        "9yrRun": "2125.5",
+        "Trend": "2033.39",
+        "Year": 2012
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2539.21",
+        "9yrRun": "2083.24",
+        "Trend": "2038.7",
+        "Year": 2013
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1706.69",
+        "9yrRun": "2056.53",
+        "Trend": 2044,
+        "Year": 2014
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1472.08",
+        "9yrRun": "2137.62",
+        "Trend": "2049.3",
+        "Year": 2015
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2321.52",
+        "9yrRun": "2105.78",
+        "Trend": "2054.61",
+        "Year": 2016
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2503.88",
+        "9yrRun": "2001.71",
+        "Trend": "2059.91",
+        "Year": 2017
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1672.74",
+        "9yrRun": "1901.58",
+        "Trend": "2065.21",
+        "Year": 2018
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "2588.26",
+        "9yrRun": null,
+        "Trend": "2070.52",
+        "Year": 2019
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1319.55",
+        "9yrRun": null,
+        "Trend": "2075.82",
+        "Year": 2020
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1891.5",
+        "9yrRun": null,
+        "Trend": "2081.12",
+        "Year": 2021
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "AvgRain": "1922.02",
+        "Rain": "1637.97",
+        "9yrRun": null,
+        "Trend": "2086.43",
+        "Year": 2022
+    }
+]
+}

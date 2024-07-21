@@ -1,0 +1,575 @@
+{
+"ID":"06",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.546",
+        "9yrRun": null,
+        "Trend": "22.0794",
+        "Year": 1960
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.7055",
+        "9yrRun": null,
+        "Trend": "22.092",
+        "Year": 1961
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.0202",
+        "9yrRun": null,
+        "Trend": "22.1046",
+        "Year": 1962
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.502",
+        "9yrRun": null,
+        "Trend": "22.1171",
+        "Year": 1963
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.566",
+        "9yrRun": "22.3976",
+        "Trend": "22.1297",
+        "Year": 1964
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.5215",
+        "9yrRun": "22.3682",
+        "Trend": "22.1423",
+        "Year": 1965
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.6999",
+        "9yrRun": "22.3194",
+        "Trend": "22.1548",
+        "Year": 1966
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.9096",
+        "9yrRun": "22.3332",
+        "Trend": "22.1674",
+        "Year": 1967
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1073",
+        "9yrRun": "22.2763",
+        "Trend": "22.18",
+        "Year": 1968
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2815",
+        "9yrRun": "22.2613",
+        "Trend": "22.1925",
+        "Year": 1969
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2664",
+        "9yrRun": "22.2368",
+        "Trend": "22.2051",
+        "Year": 1970
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1448",
+        "9yrRun": "22.1938",
+        "Trend": "22.2177",
+        "Year": 1971
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.99",
+        "9yrRun": "22.1362",
+        "Trend": "22.2302",
+        "Year": 1972
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.4309",
+        "9yrRun": "22.1524",
+        "Trend": "22.2428",
+        "Year": 1973
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.301",
+        "9yrRun": "22.1124",
+        "Trend": "22.2554",
+        "Year": 1974
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.313",
+        "9yrRun": "22.0856",
+        "Trend": "22.2679",
+        "Year": 1975
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.3906",
+        "9yrRun": "22.078",
+        "Trend": "22.2805",
+        "Year": 1976
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.253",
+        "9yrRun": "22.1099",
+        "Trend": "22.2931",
+        "Year": 1977
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.9221",
+        "9yrRun": "22.0909",
+        "Trend": "22.3056",
+        "Year": 1978
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.025",
+        "9yrRun": "22.114",
+        "Trend": "22.3182",
+        "Year": 1979
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.0768",
+        "9yrRun": "22.0745",
+        "Trend": "22.3308",
+        "Year": 1980
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2769",
+        "9yrRun": "22.1267",
+        "Trend": "22.3433",
+        "Year": 1981
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2597",
+        "9yrRun": "22.1137",
+        "Trend": "22.3559",
+        "Year": 1982
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.5092",
+        "9yrRun": "22.1419",
+        "Trend": "22.3685",
+        "Year": 1983
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.9568",
+        "9yrRun": "22.1384",
+        "Trend": "22.381",
+        "Year": 1984
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.8607",
+        "9yrRun": "22.1102",
+        "Trend": "22.3936",
+        "Year": 1985
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1363",
+        "9yrRun": "22.143",
+        "Trend": "22.4062",
+        "Year": 1986
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1754",
+        "9yrRun": "22.2144",
+        "Trend": "22.4187",
+        "Year": 1987
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.9934",
+        "9yrRun": "22.1748",
+        "Trend": "22.4313",
+        "Year": 1988
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "21.8232",
+        "9yrRun": "22.2689",
+        "Trend": "22.4439",
+        "Year": 1989
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.5718",
+        "9yrRun": "22.3835",
+        "Trend": "22.4564",
+        "Year": 1990
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9026",
+        "9yrRun": "22.3792",
+        "Trend": "22.469",
+        "Year": 1991
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1532",
+        "9yrRun": "22.374",
+        "Trend": "22.4816",
+        "Year": 1992
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.8034",
+        "9yrRun": "22.3825",
+        "Trend": "22.4941",
+        "Year": 1993
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.8919",
+        "9yrRun": "22.5436",
+        "Trend": "22.5067",
+        "Year": 1994
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.098",
+        "9yrRun": "22.567",
+        "Trend": "22.5192",
+        "Year": 1995
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.1285",
+        "9yrRun": "22.542",
+        "Trend": "22.5318",
+        "Year": 1996
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.0702",
+        "9yrRun": "22.6085",
+        "Trend": "22.5444",
+        "Year": 1997
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.2726",
+        "9yrRun": "22.627",
+        "Trend": "22.5569",
+        "Year": 1998
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.7824",
+        "9yrRun": "22.6301",
+        "Trend": "22.5695",
+        "Year": 1999
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.6777",
+        "9yrRun": "22.6768",
+        "Trend": "22.5821",
+        "Year": 2000
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.7513",
+        "9yrRun": "22.7035",
+        "Trend": "22.5946",
+        "Year": 2001
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.97",
+        "9yrRun": "22.7979",
+        "Trend": "22.6072",
+        "Year": 2002
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9198",
+        "9yrRun": "22.7623",
+        "Trend": "22.6198",
+        "Year": 2003
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.5183",
+        "9yrRun": "22.7273",
+        "Trend": "22.6323",
+        "Year": 2004
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.3687",
+        "9yrRun": "22.7387",
+        "Trend": "22.6449",
+        "Year": 2005
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9206",
+        "9yrRun": "22.7119",
+        "Trend": "22.6575",
+        "Year": 2006
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9518",
+        "9yrRun": "22.6284",
+        "Trend": "22.67",
+        "Year": 2007
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.4674",
+        "9yrRun": "22.5487",
+        "Trend": "22.6826",
+        "Year": 2008
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.78",
+        "9yrRun": "22.5371",
+        "Trend": "22.6952",
+        "Year": 2009
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.5104",
+        "9yrRun": "22.5746",
+        "Trend": "22.7077",
+        "Year": 2010
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2187",
+        "9yrRun": "22.5781",
+        "Trend": "22.7203",
+        "Year": 2011
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.2026",
+        "9yrRun": "22.5928",
+        "Trend": "22.7329",
+        "Year": 2012
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.4133",
+        "9yrRun": "22.6576",
+        "Trend": "22.7454",
+        "Year": 2013
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.7065",
+        "9yrRun": "22.679",
+        "Trend": "22.758",
+        "Year": 2014
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9524",
+        "9yrRun": "22.7507",
+        "Trend": "22.7706",
+        "Year": 2015
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.0841",
+        "9yrRun": "22.8743",
+        "Trend": "22.7831",
+        "Year": 2016
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.0508",
+        "9yrRun": "22.9897",
+        "Trend": "22.7957",
+        "Year": 2017
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.9726",
+        "9yrRun": "23.0262",
+        "Trend": "22.8083",
+        "Year": 2018
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.1555",
+        "9yrRun": null,
+        "Trend": "22.8208",
+        "Year": 2019
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.3308",
+        "9yrRun": null,
+        "Trend": "22.8334",
+        "Year": 2020
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "23.2409",
+        "9yrRun": null,
+        "Trend": "22.846",
+        "Year": 2021
+    },
+    {
+        "CTID": 06,
+        "CTNM": "HsinchuCity",
+        "AvgTemp": "22.469",
+        "Temp": "22.742",
+        "9yrRun": null,
+        "Trend": "22.8585",
+        "Year": 2022
+    }
+]
+}

@@ -1,0 +1,104 @@
+{
+"ID":"10",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "16.3",
+        "MeanTemp": "11.0",
+        "MinTemp": "7.5",
+        "Month": 1
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "17.1",
+        "MeanTemp": "12.0",
+        "MinTemp": "8.6",
+        "Month": 2
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "19.1",
+        "MeanTemp": "14.2",
+        "MinTemp": "10.6",
+        "Month": 3
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "21.3",
+        "MeanTemp": "16.7",
+        "MinTemp": "13.3",
+        "Month": 4
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "23.1",
+        "MeanTemp": "18.9",
+        "MinTemp": "15.6",
+        "Month": 5
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "24.6",
+        "MeanTemp": "20.3",
+        "MinTemp": "16.9",
+        "Month": 6
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "25.7",
+        "MeanTemp": "20.9",
+        "MinTemp": "17.3",
+        "Month": 7
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "25.2",
+        "MeanTemp": "20.6",
+        "MinTemp": "17.3",
+        "Month": 8
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "24.7",
+        "MeanTemp": "19.9",
+        "MinTemp": "16.5",
+        "Month": 9
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "23.2",
+        "MeanTemp": "18.1",
+        "MinTemp": "14.5",
+        "Month": 10
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "21.0",
+        "MeanTemp": "15.7",
+        "MinTemp": "12.2",
+        "Month": 11
+    },
+    {
+        "CTID": 10,
+        "CTNM": "Nantou",
+        "MaxTemp": "17.7",
+        "MeanTemp": "12.4",
+        "MinTemp": "9.0",
+        "Month": 12
+    }
+]
+}
