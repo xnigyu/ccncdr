@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.2626",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.0521",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.3814",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.4626",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7876",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7061",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.9746",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.2815",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.1111",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.2596",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.5251",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.372",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.4611",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.9902",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7632",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7581",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.3258",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.0282",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7757",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.8964",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.8522",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.6114",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7271",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.9168",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.4367",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.434",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.3322",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7462",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.651",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.3483",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.6789",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.0018",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.372",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.8787",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.154",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.4966",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7811",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.9484",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.841",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.1961",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.1328",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.3267",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.8572",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.5026",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.2985",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.2059",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.5404",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.5171",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.2594",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.4137",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.1567",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "22.7295",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.406",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.4103",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.5483",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "24.1185",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.9651",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.9186",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.702",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.9707",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "24.2666",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.9712",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 09,
+        "CTID": "09",
         "CTNM": "Changhua",
         "AvgTemp": "23.0251",
         "Temp": "23.7869",
