@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6428",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6417",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.1005",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "18.9274",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5371",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.3233",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0204",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.2928",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "18.8728",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4234",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5975",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.0521",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.198",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6799",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4497",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.628",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.269",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.8191",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4864",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5523",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.9899",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.7832",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6519",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.7258",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4192",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.781",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0118",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.4436",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.2486",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.8162",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.1384",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.2447",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5674",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.9112",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0855",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4895",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5808",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.559",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.5289",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.7962",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.8471",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.7956",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0342",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.8002",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.4696",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5095",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.9277",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.826",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.5381",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.7479",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6568",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.2219",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6315",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6757",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.6399",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.1189",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.1338",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.1188",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "19.8539",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.1837",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.2614",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0963",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "AvgTemp": "19.7206",
         "Temp": "20.0232",

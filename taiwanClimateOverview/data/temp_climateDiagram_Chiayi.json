@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "20.1",
         "MeanTemp": "15.0",
@@ -13,7 +13,7 @@
         "Month": 1
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "20.9",
         "MeanTemp": "15.9",
@@ -21,7 +21,7 @@
         "Month": 2
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "23.1",
         "MeanTemp": "18.2",
@@ -29,7 +29,7 @@
         "Month": 3
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "25.6",
         "MeanTemp": "21.1",
@@ -37,7 +37,7 @@
         "Month": 4
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "27.6",
         "MeanTemp": "23.4",
@@ -45,7 +45,7 @@
         "Month": 5
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "28.9",
         "MeanTemp": "24.8",
@@ -53,7 +53,7 @@
         "Month": 6
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "29.6",
         "MeanTemp": "25.3",
@@ -61,7 +61,7 @@
         "Month": 7
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "29.1",
         "MeanTemp": "25.0",
@@ -69,7 +69,7 @@
         "Month": 8
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "28.6",
         "MeanTemp": "24.3",
@@ -77,7 +77,7 @@
         "Month": 9
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "27.0",
         "MeanTemp": "22.3",
@@ -85,7 +85,7 @@
         "Month": 10
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "24.6",
         "MeanTemp": "19.8",
@@ -93,7 +93,7 @@
         "Month": 11
     },
     {
-        "CTID": 12,
+        "CTID": "12",
         "CTNM": "Chiayi",
         "MaxTemp": "21.4",
         "MeanTemp": "16.5",

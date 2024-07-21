@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "18.4",
         "MeanTemp": "13.8",
@@ -13,7 +13,7 @@
         "Month": 1
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "19.2",
         "MeanTemp": "14.6",
@@ -21,7 +21,7 @@
         "Month": 2
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "21.3",
         "MeanTemp": "16.8",
@@ -29,7 +29,7 @@
         "Month": 3
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "24.0",
         "MeanTemp": "19.6",
@@ -37,7 +37,7 @@
         "Month": 4
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "26.2",
         "MeanTemp": "22.1",
@@ -45,7 +45,7 @@
         "Month": 5
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "28.0",
         "MeanTemp": "23.8",
@@ -53,7 +53,7 @@
         "Month": 6
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "29.1",
         "MeanTemp": "24.6",
@@ -61,7 +61,7 @@
         "Month": 7
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "28.6",
         "MeanTemp": "24.2",
@@ -69,7 +69,7 @@
         "Month": 8
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "27.5",
         "MeanTemp": "23.2",
@@ -77,7 +77,7 @@
         "Month": 9
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "25.4",
         "MeanTemp": "21.0",
@@ -85,7 +85,7 @@
         "Month": 10
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "23.0",
         "MeanTemp": "18.5",
@@ -93,7 +93,7 @@
         "Month": 11
     },
     {
-        "CTID": 21,
+        "CTID": "21",
         "CTNM": "Taiwan",
         "MaxTemp": "19.7",
         "MeanTemp": "15.2",

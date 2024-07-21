@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.4434",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.2797",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.6386",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.7433",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.3225",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.133",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.5301",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.9803",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.8093",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.1466",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.176",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.7376",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.7877",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.2854",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.9563",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.2661",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.8396",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.7265",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.0005",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.0816",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.3568",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.0477",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.3572",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.5571",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.9496",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.1848",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.074",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.3555",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.1639",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.0277",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.5381",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.3796",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.5719",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.2725",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.6649",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "20.8451",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.0383",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.2335",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.3465",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.7628",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.8516",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.8134",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.1895",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.8873",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.4886",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.4602",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.9899",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.8741",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.5997",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.7098",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.5532",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.1205",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.6004",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.9506",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.8572",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.1442",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.2779",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.2086",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.0517",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.2471",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.3186",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "22.4203",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 02,
+        "CTID": "02",
         "CTNM": "Taipei",
         "AvgTemp": "21.4474",
         "Temp": "21.9579",

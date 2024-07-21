@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.6386",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2422",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.6645",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.4575",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.1005",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.8207",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4736",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.7116",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.3357",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.1736",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2298",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.2817",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.3732",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.8237",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.5844",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2408",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.1429",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.8125",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2571",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4445",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.8004",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4951",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.7282",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.9317",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3036",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.567",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2076",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.8972",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.7397",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4265",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.6874",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "19.0284",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3294",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.7484",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "19.0745",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.0762",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2594",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3879",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "19.5283",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4967",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.5483",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3145",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.4712",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2589",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.9247",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.0525",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3885",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.2633",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.981",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.1788",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.1346",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.5682",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.0299",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.0085",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "17.8782",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3169",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.5126",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3409",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.196",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.5238",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.55",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.5138",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 17,
+        "CTID": "17",
         "CTNM": "Yilan",
         "AvgTemp": "18.2834",
         "Temp": "18.3741",

@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.233",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.9187",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.2754",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.0984",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6591",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6408",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.0591",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.3042",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.0037",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.2931",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.4694",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.2063",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.361",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.8413",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.4988",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.5904",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.1445",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.8664",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6245",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6553",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.99",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.8825",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6682",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6558",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.3764",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6111",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.5979",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.0768",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.661",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.5366",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.8325",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1913",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.747",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.9479",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.2497",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.5909",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.643",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.8681",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.84",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1815",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.9724",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.2432",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.7367",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.5358",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1974",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1944",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.4736",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.5453",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.3251",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.3386",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1232",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "22.6552",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.026",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.1123",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.3181",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.7228",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.4935",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.5287",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.3389",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.5926",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.7656",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.5251",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 11,
+        "CTID": "11",
         "CTNM": "Yunlin",
         "AvgTemp": "22.937",
         "Temp": "23.3762",

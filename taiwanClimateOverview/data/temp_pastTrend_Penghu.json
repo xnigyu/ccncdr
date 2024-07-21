@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.8151",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3189",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.1116",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.0674",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.221",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3667",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.7528",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.8993",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.7243",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.8517",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.9067",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.8227",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.973",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4167",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.9976",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.2815",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.7147",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.2835",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.2874",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3076",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4252",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4825",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3099",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4693",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "22.8981",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.1776",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3977",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.5877",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4398",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.3939",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.6582",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.066",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4294",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.6978",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.9069",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.1071",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.2563",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.5978",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.4818",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.106",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.2954",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.8723",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.5168",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.0842",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.6152",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.5881",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.0453",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.0103",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.62",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.85",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.7781",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.0244",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4241",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.5601",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.7545",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "24.1029",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.9569",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.8371",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.622",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.8884",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.9423",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.7483",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 20,
+        "CTID": "20",
         "CTNM": "Penghu",
         "AvgTemp": "23.5011",
         "Temp": "23.4236",

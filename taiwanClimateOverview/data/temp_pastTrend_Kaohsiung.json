@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4945",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.671",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.2836",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "18.9683",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4789",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.2444",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9696",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.2299",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "18.7208",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.3218",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.5519",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "18.8611",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.0217",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4657",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.3281",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.5519",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.2421",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4931",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.3256",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4236",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.8748",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.833",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.6875",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.5745",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4377",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9813",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.4016",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "21.0117",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.7437",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.3361",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.699",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.6404",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.6127",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.7208",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.8765",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.6414",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4998",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.5278",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.5183",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.8491",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9822",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9439",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.1672",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9074",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.5712",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.6162",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.0747",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9006",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.6389",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9116",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.8968",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.4521",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.8553",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.9018",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "19.7807",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.3409",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.302",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.4159",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.0597",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.403",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.4735",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.1809",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "AvgTemp": "19.7975",
         "Temp": "20.3516",

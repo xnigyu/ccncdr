@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9122",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0799",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.4835",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.3185",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0247",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9058",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.5246",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.1339",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.4892",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0814",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.1243",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.7699",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0254",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.5224",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.2718",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.2816",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9768",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.8314",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3559",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3844",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.992",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.6704",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3306",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.4631",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.1199",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.4316",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.7507",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.91",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.9045",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.2588",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.5142",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.6088",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0342",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.5422",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.5961",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9467",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0671",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0226",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "19.0316",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3191",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3961",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3148",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.6257",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.4642",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9881",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "17.9604",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3219",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.2033",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0375",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3374",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.2205",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.0084",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.4826",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.3236",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.309",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.799",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.7738",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.7356",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.6226",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.8819",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "19.0587",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.9357",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 08,
+        "CTID": "08",
         "CTNM": "Taichung",
         "AvgTemp": "18.342",
         "Temp": "18.7311",

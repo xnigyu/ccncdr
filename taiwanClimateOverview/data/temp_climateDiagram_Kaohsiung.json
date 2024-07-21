@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "19.9",
         "MeanTemp": "14.5",
@@ -13,7 +13,7 @@
         "Month": 1
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "20.8",
         "MeanTemp": "15.5",
@@ -21,7 +21,7 @@
         "Month": 2
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "22.8",
         "MeanTemp": "17.8",
@@ -29,7 +29,7 @@
         "Month": 3
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "25.0",
         "MeanTemp": "20.2",
@@ -37,7 +37,7 @@
         "Month": 4
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "26.5",
         "MeanTemp": "22.2",
@@ -45,7 +45,7 @@
         "Month": 5
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "27.5",
         "MeanTemp": "23.3",
@@ -53,7 +53,7 @@
         "Month": 6
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "28.2",
         "MeanTemp": "23.7",
@@ -61,7 +61,7 @@
         "Month": 7
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "27.6",
         "MeanTemp": "23.3",
@@ -69,7 +69,7 @@
         "Month": 8
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "27.2",
         "MeanTemp": "22.7",
@@ -77,7 +77,7 @@
         "Month": 9
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "25.8",
         "MeanTemp": "21.2",
@@ -85,7 +85,7 @@
         "Month": 10
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "23.8",
         "MeanTemp": "18.9",
@@ -93,7 +93,7 @@
         "Month": 11
     },
     {
-        "CTID": 15,
+        "CTID": "15",
         "CTNM": "Kaohsiung",
         "MaxTemp": "20.9",
         "MeanTemp": "15.8",

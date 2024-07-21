@@ -5,7 +5,7 @@
 "DataList":
 [
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9955",
@@ -14,7 +14,7 @@
         "Year": 1960
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9825",
@@ -23,7 +23,7 @@
         "Year": 1961
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.3693",
@@ -32,7 +32,7 @@
         "Year": 1962
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.0018",
@@ -41,7 +41,7 @@
         "Year": 1963
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8524",
@@ -50,7 +50,7 @@
         "Year": 1964
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.6378",
@@ -59,7 +59,7 @@
         "Year": 1965
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.7211",
@@ -68,7 +68,7 @@
         "Year": 1966
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0064",
@@ -77,7 +77,7 @@
         "Year": 1967
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.4327",
@@ -86,7 +86,7 @@
         "Year": 1968
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1189",
@@ -95,7 +95,7 @@
         "Year": 1969
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2608",
@@ -104,7 +104,7 @@
         "Year": 1970
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.5118",
@@ -113,7 +113,7 @@
         "Year": 1971
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.5942",
@@ -122,7 +122,7 @@
         "Year": 1972
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0548",
@@ -131,7 +131,7 @@
         "Year": 1973
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8939",
@@ -140,7 +140,7 @@
         "Year": 1974
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0601",
@@ -149,7 +149,7 @@
         "Year": 1975
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.7532",
@@ -158,7 +158,7 @@
         "Year": 1976
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1155",
@@ -167,7 +167,7 @@
         "Year": 1977
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8429",
@@ -176,7 +176,7 @@
         "Year": 1978
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9491",
@@ -185,7 +185,7 @@
         "Year": 1979
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.3465",
@@ -194,7 +194,7 @@
         "Year": 1980
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0636",
@@ -203,7 +203,7 @@
         "Year": 1981
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8165",
@@ -212,7 +212,7 @@
         "Year": 1982
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9583",
@@ -221,7 +221,7 @@
         "Year": 1983
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.7792",
@@ -230,7 +230,7 @@
         "Year": 1984
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0332",
@@ -239,7 +239,7 @@
         "Year": 1985
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.526",
@@ -248,7 +248,7 @@
         "Year": 1986
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.8559",
@@ -257,7 +257,7 @@
         "Year": 1987
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "18.026",
@@ -266,7 +266,7 @@
         "Year": 1988
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.3756",
@@ -275,7 +275,7 @@
         "Year": 1989
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.6485",
@@ -284,7 +284,7 @@
         "Year": 1990
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.7491",
@@ -293,7 +293,7 @@
         "Year": 1991
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1334",
@@ -302,7 +302,7 @@
         "Year": 1992
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.5415",
@@ -311,7 +311,7 @@
         "Year": 1993
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.7093",
@@ -320,7 +320,7 @@
         "Year": 1994
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0085",
@@ -329,7 +329,7 @@
         "Year": 1995
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1419",
@@ -338,7 +338,7 @@
         "Year": 1996
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9137",
@@ -347,7 +347,7 @@
         "Year": 1997
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.8802",
@@ -356,7 +356,7 @@
         "Year": 1998
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1476",
@@ -365,7 +365,7 @@
         "Year": 1999
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2204",
@@ -374,7 +374,7 @@
         "Year": 2000
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0533",
@@ -383,7 +383,7 @@
         "Year": 2001
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1957",
@@ -392,7 +392,7 @@
         "Year": 2002
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9769",
@@ -401,7 +401,7 @@
         "Year": 2003
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.6959",
@@ -410,7 +410,7 @@
         "Year": 2004
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8943",
@@ -419,7 +419,7 @@
         "Year": 2005
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1794",
@@ -428,7 +428,7 @@
         "Year": 2006
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0783",
@@ -437,7 +437,7 @@
         "Year": 2007
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.7932",
@@ -446,7 +446,7 @@
         "Year": 2008
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9776",
@@ -455,7 +455,7 @@
         "Year": 2009
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.0287",
@@ -464,7 +464,7 @@
         "Year": 2010
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.5346",
@@ -473,7 +473,7 @@
         "Year": 2011
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9027",
@@ -482,7 +482,7 @@
         "Year": 2012
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.9289",
@@ -491,7 +491,7 @@
         "Year": 2013
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.818",
@@ -500,7 +500,7 @@
         "Year": 2014
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2309",
@@ -509,7 +509,7 @@
         "Year": 2015
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2856",
@@ -518,7 +518,7 @@
         "Year": 2016
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1789",
@@ -527,7 +527,7 @@
         "Year": 2017
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "16.8006",
@@ -536,7 +536,7 @@
         "Year": 2018
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.24",
@@ -545,7 +545,7 @@
         "Year": 2019
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2908",
@@ -554,7 +554,7 @@
         "Year": 2020
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.1648",
@@ -563,7 +563,7 @@
         "Year": 2021
     },
     {
-        "CTID": 18,
+        "CTID": "18",
         "CTNM": "Hualien",
         "AvgTemp": "17.0713",
         "Temp": "17.2154",
