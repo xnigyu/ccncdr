@@ -1,0 +1,80 @@
+{
+"ID":"10",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "17.5",
+        "Month": 1
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "22.6",
+        "Month": 2
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "52.1",
+        "Month": 3
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "93.5",
+        "Month": 4
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "192.4",
+        "Month": 5
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "314.0",
+        "Month": 6
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "296.2",
+        "Month": 7
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "281.9",
+        "Month": 8
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "94.3",
+        "Month": 9
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "13.3",
+        "Month": 10
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "7.9",
+        "Month": 11
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "Rain": "24.2",
+        "Month": 12
+    }
+]
+}

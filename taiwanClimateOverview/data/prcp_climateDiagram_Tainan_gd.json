@@ -1,0 +1,80 @@
+{
+"ID":"14",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "9.1",
+        "Month": 1
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "10.2",
+        "Month": 2
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "16.5",
+        "Month": 3
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "42.7",
+        "Month": 4
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "157.7",
+        "Month": 5
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "320.1",
+        "Month": 6
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "332.0",
+        "Month": 7
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "367.0",
+        "Month": 8
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "93.5",
+        "Month": 9
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "10.5",
+        "Month": 10
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "5.7",
+        "Month": 11
+    },
+    {
+        "CTID": "14",
+        "CTNM": "Tainan",
+        "Rain": "8.9",
+        "Month": 12
+    }
+]
+}

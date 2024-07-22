@@ -1,0 +1,80 @@
+{
+"ID":"19",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "27.9",
+        "Month": 1
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "23.8",
+        "Month": 2
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "31.4",
+        "Month": 3
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "61.8",
+        "Month": 4
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "151.1",
+        "Month": 5
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "259.1",
+        "Month": 6
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "273.9",
+        "Month": 7
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "353.9",
+        "Month": 8
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "247.6",
+        "Month": 9
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "59.1",
+        "Month": 10
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "37.7",
+        "Month": 11
+    },
+    {
+        "CTID": "19",
+        "CTNM": "Taitung",
+        "Rain": "35.0",
+        "Month": 12
+    }
+]
+}

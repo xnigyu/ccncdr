@@ -1,0 +1,80 @@
+{
+"ID":"04",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "63.9",
+        "Month": 1
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "65.8",
+        "Month": 2
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "105.7",
+        "Month": 3
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "119.4",
+        "Month": 4
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "199.7",
+        "Month": 5
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "235.8",
+        "Month": 6
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "217.1",
+        "Month": 7
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "245.3",
+        "Month": 8
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "246.0",
+        "Month": 9
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "140.1",
+        "Month": 10
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "60.5",
+        "Month": 11
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "Rain": "74.5",
+        "Month": 12
+    }
+]
+}

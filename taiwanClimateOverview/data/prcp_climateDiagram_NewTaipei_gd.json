@@ -1,0 +1,80 @@
+{
+"ID":"03",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "180.8",
+        "Month": 1
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "163.1",
+        "Month": 2
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "188.6",
+        "Month": 3
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "149.9",
+        "Month": 4
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "220.7",
+        "Month": 5
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "250.4",
+        "Month": 6
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "139.9",
+        "Month": 7
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "192.5",
+        "Month": 8
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "247.0",
+        "Month": 9
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "207.4",
+        "Month": 10
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "183.4",
+        "Month": 11
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "Rain": "166.1",
+        "Month": 12
+    }
+]
+}

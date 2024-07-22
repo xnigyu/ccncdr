@@ -1,0 +1,80 @@
+{
+"ID":"21",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "51.1",
+        "Month": 1
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "54.1",
+        "Month": 2
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "87.5",
+        "Month": 3
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "127.0",
+        "Month": 4
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "224.8",
+        "Month": 5
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "295.1",
+        "Month": 6
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "243.1",
+        "Month": 7
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "302.6",
+        "Month": 8
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "159.4",
+        "Month": 9
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "64.5",
+        "Month": 10
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "46.2",
+        "Month": 11
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "Rain": "48.6",
+        "Month": 12
+    }
+]
+}

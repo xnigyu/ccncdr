@@ -1,0 +1,80 @@
+{
+"ID":"07",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "76.8",
+        "Month": 1
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "82.2",
+        "Month": 2
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "147.1",
+        "Month": 3
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "172.6",
+        "Month": 4
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "299.8",
+        "Month": 5
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "267.2",
+        "Month": 6
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "188.3",
+        "Month": 7
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "139.8",
+        "Month": 8
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "94.7",
+        "Month": 9
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "45.3",
+        "Month": 10
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "33.6",
+        "Month": 11
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "Rain": "60.2",
+        "Month": 12
+    }
+]
+}

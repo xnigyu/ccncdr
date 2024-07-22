@@ -1,0 +1,80 @@
+{
+"ID":"15",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "7.8",
+        "Month": 1
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "7.2",
+        "Month": 2
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "11.3",
+        "Month": 3
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "40.0",
+        "Month": 4
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "174.2",
+        "Month": 5
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "309.2",
+        "Month": 6
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "392.0",
+        "Month": 7
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "380.9",
+        "Month": 8
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "128.9",
+        "Month": 9
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "15.4",
+        "Month": 10
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "6.2",
+        "Month": 11
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "Rain": "6.0",
+        "Month": 12
+    }
+]
+}

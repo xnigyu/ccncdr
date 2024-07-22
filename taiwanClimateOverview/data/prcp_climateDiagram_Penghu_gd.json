@@ -1,0 +1,80 @@
+{
+"ID":"20",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "7.0",
+        "Month": 1
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "14.6",
+        "Month": 2
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "19.4",
+        "Month": 3
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "48.2",
+        "Month": 4
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "69.2",
+        "Month": 5
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "118.2",
+        "Month": 6
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "128.1",
+        "Month": 7
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "144.8",
+        "Month": 8
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "15.2",
+        "Month": 9
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "1.7",
+        "Month": 10
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "5.6",
+        "Month": 11
+    },
+    {
+        "CTID": "20",
+        "CTNM": "Penghu",
+        "Rain": "7.4",
+        "Month": 12
+    }
+]
+}

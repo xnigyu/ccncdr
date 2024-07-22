@@ -1,0 +1,80 @@
+{
+"ID":"05",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "67.1",
+        "Month": 1
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "87.3",
+        "Month": 2
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "145.7",
+        "Month": 3
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "155.8",
+        "Month": 4
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "228.5",
+        "Month": 5
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "247.9",
+        "Month": 6
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "210.5",
+        "Month": 7
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "276.9",
+        "Month": 8
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "179.4",
+        "Month": 9
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "66.7",
+        "Month": 10
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "22.0",
+        "Month": 11
+    },
+    {
+        "CTID": "05",
+        "CTNM": "Hsinchu",
+        "Rain": "53.6",
+        "Month": 12
+    }
+]
+}

@@ -1,0 +1,80 @@
+{
+"ID":"18",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "58.1",
+        "Month": 1
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "56.5",
+        "Month": 2
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "89.3",
+        "Month": 3
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "95.5",
+        "Month": 4
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "174.6",
+        "Month": 5
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "169.4",
+        "Month": 6
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "193.1",
+        "Month": 7
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "218.5",
+        "Month": 8
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "180.9",
+        "Month": 9
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "78.8",
+        "Month": 10
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "76.8",
+        "Month": 11
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "Rain": "62.7",
+        "Month": 12
+    }
+]
+}

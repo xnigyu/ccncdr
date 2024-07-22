@@ -1,0 +1,80 @@
+{
+"ID":"11",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "33.3",
+        "Month": 1
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "35.9",
+        "Month": 2
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "51.7",
+        "Month": 3
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "105.4",
+        "Month": 4
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "259.9",
+        "Month": 5
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "339.0",
+        "Month": 6
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "288.4",
+        "Month": 7
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "311.9",
+        "Month": 8
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "129.5",
+        "Month": 9
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "30.6",
+        "Month": 10
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "17.6",
+        "Month": 11
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "Rain": "27.9",
+        "Month": 12
+    }
+]
+}

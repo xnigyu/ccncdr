@@ -1,0 +1,80 @@
+{
+"ID":"17",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "133.1",
+        "Month": 1
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "144.9",
+        "Month": 2
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "106.4",
+        "Month": 3
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "104.9",
+        "Month": 4
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "206.1",
+        "Month": 5
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "180.9",
+        "Month": 6
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "153.6",
+        "Month": 7
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "163.0",
+        "Month": 8
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "355.9",
+        "Month": 9
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "398.4",
+        "Month": 10
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "351.6",
+        "Month": 11
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "Rain": "197.6",
+        "Month": 12
+    }
+]
+}
