@@ -1,0 +1,104 @@
+{
+"ID":"11",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "15.2",
+        "MeanTemp": "10.6",
+        "MinTemp": "7.6",
+        "Month": 1
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "16.2",
+        "MeanTemp": "11.6",
+        "MinTemp": "8.6",
+        "Month": 2
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "17.8",
+        "MeanTemp": "13.4",
+        "MinTemp": "10.3",
+        "Month": 3
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "19.8",
+        "MeanTemp": "15.6",
+        "MinTemp": "12.7",
+        "Month": 4
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "21.3",
+        "MeanTemp": "17.4",
+        "MinTemp": "14.7",
+        "Month": 5
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "22.8",
+        "MeanTemp": "18.7",
+        "MinTemp": "16.0",
+        "Month": 6
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "23.4",
+        "MeanTemp": "19.2",
+        "MinTemp": "16.3",
+        "Month": 7
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "22.9",
+        "MeanTemp": "18.9",
+        "MinTemp": "16.4",
+        "Month": 8
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "22.4",
+        "MeanTemp": "18.3",
+        "MinTemp": "15.7",
+        "Month": 9
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "20.9",
+        "MeanTemp": "16.7",
+        "MinTemp": "13.9",
+        "Month": 10
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "19.2",
+        "MeanTemp": "14.7",
+        "MinTemp": "11.9",
+        "Month": 11
+    },
+    {
+        "CTID": "11",
+        "CTNM": "Yunlin",
+        "MaxTemp": "16.4",
+        "MeanTemp": "11.9",
+        "MinTemp": "9.0",
+        "Month": 12
+    }
+]
+}

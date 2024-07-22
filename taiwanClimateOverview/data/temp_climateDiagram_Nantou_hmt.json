@@ -1,0 +1,104 @@
+{
+"ID":"10",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "12.0",
+        "MeanTemp": "6.9",
+        "MinTemp": "3.5",
+        "Month": 1
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "12.8",
+        "MeanTemp": "7.9",
+        "MinTemp": "4.6",
+        "Month": 2
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "14.8",
+        "MeanTemp": "10.0",
+        "MinTemp": "6.5",
+        "Month": 3
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "16.8",
+        "MeanTemp": "12.3",
+        "MinTemp": "9.0",
+        "Month": 4
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "18.5",
+        "MeanTemp": "14.2",
+        "MinTemp": "11.0",
+        "Month": 5
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "20.0",
+        "MeanTemp": "15.6",
+        "MinTemp": "12.4",
+        "Month": 6
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "21.1",
+        "MeanTemp": "16.2",
+        "MinTemp": "12.6",
+        "Month": 7
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "20.6",
+        "MeanTemp": "15.9",
+        "MinTemp": "12.6",
+        "Month": 8
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "20.1",
+        "MeanTemp": "15.2",
+        "MinTemp": "11.8",
+        "Month": 9
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "18.8",
+        "MeanTemp": "13.5",
+        "MinTemp": "9.9",
+        "Month": 10
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "16.6",
+        "MeanTemp": "11.4",
+        "MinTemp": "7.9",
+        "Month": 11
+    },
+    {
+        "CTID": "10",
+        "CTNM": "Nantou",
+        "MaxTemp": "13.5",
+        "MeanTemp": "8.4",
+        "MinTemp": "5.0",
+        "Month": 12
+    }
+]
+}

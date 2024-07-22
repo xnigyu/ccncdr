@@ -1,0 +1,104 @@
+{
+"ID":"21",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "12.4",
+        "MeanTemp": "7.2",
+        "MinTemp": "3.8",
+        "Month": 1
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "13.2",
+        "MeanTemp": "8.2",
+        "MinTemp": "4.9",
+        "Month": 2
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "15.4",
+        "MeanTemp": "10.4",
+        "MinTemp": "6.9",
+        "Month": 3
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "17.5",
+        "MeanTemp": "12.8",
+        "MinTemp": "9.4",
+        "Month": 4
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "19.1",
+        "MeanTemp": "14.8",
+        "MinTemp": "11.5",
+        "Month": 5
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "20.7",
+        "MeanTemp": "16.3",
+        "MinTemp": "13.0",
+        "Month": 6
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "21.8",
+        "MeanTemp": "16.8",
+        "MinTemp": "13.2",
+        "Month": 7
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "21.2",
+        "MeanTemp": "16.5",
+        "MinTemp": "13.2",
+        "Month": 8
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "20.5",
+        "MeanTemp": "15.6",
+        "MinTemp": "12.3",
+        "Month": 9
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "19.0",
+        "MeanTemp": "13.7",
+        "MinTemp": "10.2",
+        "Month": 10
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "16.8",
+        "MeanTemp": "11.6",
+        "MinTemp": "8.2",
+        "Month": 11
+    },
+    {
+        "CTID": "21",
+        "CTNM": "Taiwan",
+        "MaxTemp": "13.8",
+        "MeanTemp": "8.6",
+        "MinTemp": "5.2",
+        "Month": 12
+    }
+]
+}

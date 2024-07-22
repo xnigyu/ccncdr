@@ -1,0 +1,104 @@
+{
+"ID":"12",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "19.1",
+        "MeanTemp": "14.0",
+        "MinTemp": "10.8",
+        "Month": 1
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "20.0",
+        "MeanTemp": "15.0",
+        "MinTemp": "11.7",
+        "Month": 2
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "21.8",
+        "MeanTemp": "16.9",
+        "MinTemp": "13.5",
+        "Month": 3
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "23.8",
+        "MeanTemp": "19.2",
+        "MinTemp": "16.0",
+        "Month": 4
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "25.3",
+        "MeanTemp": "21.1",
+        "MinTemp": "18.2",
+        "Month": 5
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "26.5",
+        "MeanTemp": "22.3",
+        "MinTemp": "19.4",
+        "Month": 6
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "27.1",
+        "MeanTemp": "22.7",
+        "MinTemp": "19.8",
+        "Month": 7
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "26.6",
+        "MeanTemp": "22.4",
+        "MinTemp": "19.7",
+        "Month": 8
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "26.1",
+        "MeanTemp": "21.8",
+        "MinTemp": "19.1",
+        "Month": 9
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "24.7",
+        "MeanTemp": "20.3",
+        "MinTemp": "17.4",
+        "Month": 10
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "23.0",
+        "MeanTemp": "18.3",
+        "MinTemp": "15.2",
+        "Month": 11
+    },
+    {
+        "CTID": "12",
+        "CTNM": "Chiayi",
+        "MaxTemp": "20.0",
+        "MeanTemp": "15.3",
+        "MinTemp": "12.2",
+        "Month": 12
+    }
+]
+}

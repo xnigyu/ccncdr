@@ -1,0 +1,104 @@
+{
+"ID":"15",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "19.9",
+        "MeanTemp": "14.5",
+        "MinTemp": "11.2",
+        "Month": 1
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "20.8",
+        "MeanTemp": "15.4",
+        "MinTemp": "12.0",
+        "Month": 2
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "22.7",
+        "MeanTemp": "17.3",
+        "MinTemp": "13.8",
+        "Month": 3
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "24.6",
+        "MeanTemp": "19.5",
+        "MinTemp": "16.1",
+        "Month": 4
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "26.0",
+        "MeanTemp": "21.2",
+        "MinTemp": "18.1",
+        "Month": 5
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "26.9",
+        "MeanTemp": "22.3",
+        "MinTemp": "19.3",
+        "Month": 6
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "27.5",
+        "MeanTemp": "22.7",
+        "MinTemp": "19.5",
+        "Month": 7
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "26.9",
+        "MeanTemp": "22.3",
+        "MinTemp": "19.5",
+        "Month": 8
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "26.5",
+        "MeanTemp": "21.8",
+        "MinTemp": "18.9",
+        "Month": 9
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "25.2",
+        "MeanTemp": "20.3",
+        "MinTemp": "17.3",
+        "Month": 10
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "23.4",
+        "MeanTemp": "18.3",
+        "MinTemp": "15.3",
+        "Month": 11
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "MaxTemp": "20.6",
+        "MeanTemp": "15.5",
+        "MinTemp": "12.5",
+        "Month": 12
+    }
+]
+}

@@ -7,97 +7,97 @@
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "18.4",
-        "MeanTemp": "13.8",
-        "MinTemp": "10.6",
+        "MaxTemp": "20.9",
+        "MeanTemp": "16.7",
+        "MinTemp": "13.5",
         "Month": 1
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "19.2",
-        "MeanTemp": "14.6",
-        "MinTemp": "11.4",
+        "MaxTemp": "21.7",
+        "MeanTemp": "17.4",
+        "MinTemp": "14.1",
         "Month": 2
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "21.3",
-        "MeanTemp": "16.8",
-        "MinTemp": "13.3",
+        "MaxTemp": "23.9",
+        "MeanTemp": "19.6",
+        "MinTemp": "16.1",
         "Month": 3
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "24.0",
-        "MeanTemp": "19.6",
-        "MinTemp": "16.3",
+        "MaxTemp": "26.8",
+        "MeanTemp": "22.7",
+        "MinTemp": "19.3",
         "Month": 4
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "26.2",
-        "MeanTemp": "22.1",
-        "MinTemp": "18.9",
+        "MaxTemp": "29.3",
+        "MeanTemp": "25.4",
+        "MinTemp": "22.1",
         "Month": 5
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "28.0",
-        "MeanTemp": "23.8",
-        "MinTemp": "20.6",
+        "MaxTemp": "31.2",
+        "MeanTemp": "27.3",
+        "MinTemp": "24.1",
         "Month": 6
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "29.1",
-        "MeanTemp": "24.6",
-        "MinTemp": "21.2",
+        "MaxTemp": "32.3",
+        "MeanTemp": "28.1",
+        "MinTemp": "24.8",
         "Month": 7
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "28.6",
-        "MeanTemp": "24.2",
-        "MinTemp": "21.0",
+        "MaxTemp": "31.8",
+        "MeanTemp": "27.7",
+        "MinTemp": "24.6",
         "Month": 8
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "27.5",
-        "MeanTemp": "23.2",
-        "MinTemp": "20.1",
+        "MaxTemp": "30.7",
+        "MeanTemp": "26.7",
+        "MinTemp": "23.6",
         "Month": 9
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "25.4",
-        "MeanTemp": "21.0",
-        "MinTemp": "17.9",
+        "MaxTemp": "28.4",
+        "MeanTemp": "24.3",
+        "MinTemp": "21.2",
         "Month": 10
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "23.0",
-        "MeanTemp": "18.5",
-        "MinTemp": "15.4",
+        "MaxTemp": "25.8",
+        "MeanTemp": "21.7",
+        "MinTemp": "18.5",
         "Month": 11
     },
     {
         "CTID": "21",
         "CTNM": "Taiwan",
-        "MaxTemp": "19.7",
-        "MeanTemp": "15.2",
-        "MinTemp": "12.1",
+        "MaxTemp": "22.3",
+        "MeanTemp": "18.2",
+        "MinTemp": "15.1",
         "Month": 12
     }
 ]

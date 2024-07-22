@@ -1,0 +1,104 @@
+{
+"ID":"08",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "18.5",
+        "MeanTemp": "12.9",
+        "MinTemp": "9.4",
+        "Month": 1
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "19.4",
+        "MeanTemp": "14.0",
+        "MinTemp": "10.5",
+        "Month": 2
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "21.4",
+        "MeanTemp": "16.3",
+        "MinTemp": "12.6",
+        "Month": 3
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "23.9",
+        "MeanTemp": "19.3",
+        "MinTemp": "15.6",
+        "Month": 4
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "25.9",
+        "MeanTemp": "21.8",
+        "MinTemp": "18.2",
+        "Month": 5
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "27.4",
+        "MeanTemp": "23.3",
+        "MinTemp": "19.7",
+        "Month": 6
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "28.5",
+        "MeanTemp": "24.0",
+        "MinTemp": "20.1",
+        "Month": 7
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "28.0",
+        "MeanTemp": "23.6",
+        "MinTemp": "20.0",
+        "Month": 8
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "27.4",
+        "MeanTemp": "22.8",
+        "MinTemp": "19.2",
+        "Month": 9
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "25.7",
+        "MeanTemp": "20.6",
+        "MinTemp": "16.9",
+        "Month": 10
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "23.3",
+        "MeanTemp": "17.8",
+        "MinTemp": "14.2",
+        "Month": 11
+    },
+    {
+        "CTID": "08",
+        "CTNM": "Taichung",
+        "MaxTemp": "19.8",
+        "MeanTemp": "14.2",
+        "MinTemp": "10.8",
+        "Month": 12
+    }
+]
+}

@@ -1,0 +1,104 @@
+{
+"ID":"03",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "11.3",
+        "MeanTemp": "7.3",
+        "MinTemp": "4.5",
+        "Month": 1
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "12.7",
+        "MeanTemp": "8.4",
+        "MinTemp": "5.4",
+        "Month": 2
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "15.6",
+        "MeanTemp": "11.0",
+        "MinTemp": "7.5",
+        "Month": 3
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "18.5",
+        "MeanTemp": "14.0",
+        "MinTemp": "10.8",
+        "Month": 4
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "20.6",
+        "MeanTemp": "16.5",
+        "MinTemp": "13.6",
+        "Month": 5
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "22.9",
+        "MeanTemp": "18.6",
+        "MinTemp": "15.8",
+        "Month": 6
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "23.8",
+        "MeanTemp": "19.2",
+        "MinTemp": "16.3",
+        "Month": 7
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "23.1",
+        "MeanTemp": "18.8",
+        "MinTemp": "16.1",
+        "Month": 8
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "21.2",
+        "MeanTemp": "17.3",
+        "MinTemp": "14.7",
+        "Month": 9
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "18.0",
+        "MeanTemp": "14.5",
+        "MinTemp": "12.0",
+        "Month": 10
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "15.7",
+        "MeanTemp": "12.1",
+        "MinTemp": "9.6",
+        "Month": 11
+    },
+    {
+        "CTID": "03",
+        "CTNM": "NewTaipei",
+        "MaxTemp": "12.2",
+        "MeanTemp": "8.6",
+        "MinTemp": "6.0",
+        "Month": 12
+    }
+]
+}

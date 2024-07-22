@@ -1,0 +1,104 @@
+{
+"ID":"04",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "11.8",
+        "MeanTemp": "7.5",
+        "MinTemp": "4.5",
+        "Month": 1
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "13.1",
+        "MeanTemp": "8.6",
+        "MinTemp": "5.5",
+        "Month": 2
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "15.8",
+        "MeanTemp": "11.1",
+        "MinTemp": "7.6",
+        "Month": 3
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "18.5",
+        "MeanTemp": "14.0",
+        "MinTemp": "10.7",
+        "Month": 4
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "20.6",
+        "MeanTemp": "16.4",
+        "MinTemp": "13.4",
+        "Month": 5
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "22.7",
+        "MeanTemp": "18.4",
+        "MinTemp": "15.4",
+        "Month": 6
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "23.6",
+        "MeanTemp": "19.0",
+        "MinTemp": "15.8",
+        "Month": 7
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "23.0",
+        "MeanTemp": "18.6",
+        "MinTemp": "15.7",
+        "Month": 8
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "21.3",
+        "MeanTemp": "17.2",
+        "MinTemp": "14.3",
+        "Month": 9
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "18.5",
+        "MeanTemp": "14.5",
+        "MinTemp": "11.7",
+        "Month": 10
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "16.2",
+        "MeanTemp": "12.2",
+        "MinTemp": "9.3",
+        "Month": 11
+    },
+    {
+        "CTID": "04",
+        "CTNM": "Taoyuan",
+        "MaxTemp": "12.8",
+        "MeanTemp": "8.7",
+        "MinTemp": "5.8",
+        "Month": 12
+    }
+]
+}

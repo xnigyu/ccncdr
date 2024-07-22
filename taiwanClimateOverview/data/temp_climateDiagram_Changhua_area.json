@@ -1,0 +1,104 @@
+{
+"ID":"09",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "20.7",
+        "MeanTemp": "16.5",
+        "MinTemp": "13.3",
+        "Month": 1
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "21.3",
+        "MeanTemp": "17.1",
+        "MinTemp": "14.0",
+        "Month": 2
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "23.7",
+        "MeanTemp": "19.5",
+        "MinTemp": "16.3",
+        "Month": 3
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "27.0",
+        "MeanTemp": "23.1",
+        "MinTemp": "19.9",
+        "Month": 4
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "29.7",
+        "MeanTemp": "25.9",
+        "MinTemp": "22.9",
+        "Month": 5
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "31.7",
+        "MeanTemp": "27.9",
+        "MinTemp": "24.9",
+        "Month": 6
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "32.7",
+        "MeanTemp": "28.9",
+        "MinTemp": "25.8",
+        "Month": 7
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "32.3",
+        "MeanTemp": "28.5",
+        "MinTemp": "25.6",
+        "Month": 8
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "31.5",
+        "MeanTemp": "27.5",
+        "MinTemp": "24.5",
+        "Month": 9
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "29.2",
+        "MeanTemp": "24.9",
+        "MinTemp": "21.8",
+        "Month": 10
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "26.3",
+        "MeanTemp": "22.0",
+        "MinTemp": "18.8",
+        "Month": 11
+    },
+    {
+        "CTID": "09",
+        "CTNM": "Changhua",
+        "MaxTemp": "22.6",
+        "MeanTemp": "18.3",
+        "MinTemp": "15.1",
+        "Month": 12
+    }
+]
+}

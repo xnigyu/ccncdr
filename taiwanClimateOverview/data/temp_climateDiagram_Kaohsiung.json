@@ -7,97 +7,97 @@
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "19.9",
-        "MeanTemp": "14.5",
-        "MinTemp": "10.8",
+        "MaxTemp": "23.9",
+        "MeanTemp": "18.4",
+        "MinTemp": "14.2",
         "Month": 1
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "20.8",
-        "MeanTemp": "15.5",
-        "MinTemp": "11.8",
+        "MaxTemp": "24.9",
+        "MeanTemp": "19.5",
+        "MinTemp": "15.2",
         "Month": 2
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "22.8",
-        "MeanTemp": "17.8",
-        "MinTemp": "13.9",
+        "MaxTemp": "27.2",
+        "MeanTemp": "22.0",
+        "MinTemp": "17.7",
         "Month": 3
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "25.0",
-        "MeanTemp": "20.2",
-        "MinTemp": "16.6",
+        "MaxTemp": "29.4",
+        "MeanTemp": "24.7",
+        "MinTemp": "20.8",
         "Month": 4
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "26.5",
-        "MeanTemp": "22.2",
-        "MinTemp": "18.9",
+        "MaxTemp": "31.1",
+        "MeanTemp": "26.8",
+        "MinTemp": "23.3",
         "Month": 5
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "27.5",
-        "MeanTemp": "23.3",
-        "MinTemp": "20.2",
+        "MaxTemp": "31.9",
+        "MeanTemp": "27.9",
+        "MinTemp": "24.6",
         "Month": 6
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "28.2",
-        "MeanTemp": "23.7",
-        "MinTemp": "20.4",
+        "MaxTemp": "32.5",
+        "MeanTemp": "28.2",
+        "MinTemp": "24.9",
         "Month": 7
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "27.6",
-        "MeanTemp": "23.3",
-        "MinTemp": "20.3",
+        "MaxTemp": "31.9",
+        "MeanTemp": "27.7",
+        "MinTemp": "24.6",
         "Month": 8
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "27.2",
-        "MeanTemp": "22.7",
-        "MinTemp": "19.7",
+        "MaxTemp": "31.7",
+        "MeanTemp": "27.4",
+        "MinTemp": "24.1",
         "Month": 9
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "25.8",
-        "MeanTemp": "21.2",
-        "MinTemp": "17.9",
+        "MaxTemp": "30.2",
+        "MeanTemp": "25.8",
+        "MinTemp": "22.3",
         "Month": 10
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "23.8",
-        "MeanTemp": "18.9",
-        "MinTemp": "15.6",
+        "MaxTemp": "28.0",
+        "MeanTemp": "23.2",
+        "MinTemp": "19.5",
         "Month": 11
     },
     {
         "CTID": "15",
         "CTNM": "Kaohsiung",
-        "MaxTemp": "20.9",
-        "MeanTemp": "15.8",
-        "MinTemp": "12.3",
+        "MaxTemp": "24.9",
+        "MeanTemp": "19.8",
+        "MinTemp": "15.9",
         "Month": 12
     }
 ]

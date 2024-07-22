@@ -1,0 +1,104 @@
+{
+"ID":"17",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "15.3",
+        "MeanTemp": "11.0",
+        "MinTemp": "8.1",
+        "Month": 1
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "16.3",
+        "MeanTemp": "11.9",
+        "MinTemp": "8.9",
+        "Month": 2
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "18.7",
+        "MeanTemp": "14.0",
+        "MinTemp": "10.5",
+        "Month": 3
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "21.6",
+        "MeanTemp": "17.2",
+        "MinTemp": "13.6",
+        "Month": 4
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "24.3",
+        "MeanTemp": "20.0",
+        "MinTemp": "16.5",
+        "Month": 5
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "26.9",
+        "MeanTemp": "22.4",
+        "MinTemp": "18.7",
+        "Month": 6
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "28.4",
+        "MeanTemp": "23.5",
+        "MinTemp": "19.3",
+        "Month": 7
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "27.9",
+        "MeanTemp": "23.0",
+        "MinTemp": "19.3",
+        "Month": 8
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "25.8",
+        "MeanTemp": "21.3",
+        "MinTemp": "18.1",
+        "Month": 9
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "22.4",
+        "MeanTemp": "18.3",
+        "MinTemp": "15.4",
+        "Month": 10
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "19.8",
+        "MeanTemp": "15.7",
+        "MinTemp": "12.9",
+        "Month": 11
+    },
+    {
+        "CTID": "17",
+        "CTNM": "Yilan",
+        "MaxTemp": "16.4",
+        "MeanTemp": "12.3",
+        "MinTemp": "9.5",
+        "Month": 12
+    }
+]
+}

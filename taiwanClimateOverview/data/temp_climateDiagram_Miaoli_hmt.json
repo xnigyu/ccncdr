@@ -1,0 +1,104 @@
+{
+"ID":"07",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "11.7",
+        "MeanTemp": "6.2",
+        "MinTemp": "2.6",
+        "Month": 1
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "12.7",
+        "MeanTemp": "7.4",
+        "MinTemp": "3.9",
+        "Month": 2
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "15.1",
+        "MeanTemp": "9.7",
+        "MinTemp": "6.0",
+        "Month": 3
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "17.2",
+        "MeanTemp": "12.3",
+        "MinTemp": "8.6",
+        "Month": 4
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "19.0",
+        "MeanTemp": "14.5",
+        "MinTemp": "10.9",
+        "Month": 5
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "20.5",
+        "MeanTemp": "16.0",
+        "MinTemp": "12.5",
+        "Month": 6
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "22.0",
+        "MeanTemp": "16.7",
+        "MinTemp": "12.6",
+        "Month": 7
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "21.4",
+        "MeanTemp": "16.3",
+        "MinTemp": "12.6",
+        "Month": 8
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "20.6",
+        "MeanTemp": "15.3",
+        "MinTemp": "11.6",
+        "Month": 9
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "19.0",
+        "MeanTemp": "13.3",
+        "MinTemp": "9.4",
+        "Month": 10
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "16.5",
+        "MeanTemp": "10.8",
+        "MinTemp": "7.1",
+        "Month": 11
+    },
+    {
+        "CTID": "07",
+        "CTNM": "Miaoli",
+        "MaxTemp": "13.3",
+        "MeanTemp": "7.6",
+        "MinTemp": "4.0",
+        "Month": 12
+    }
+]
+}

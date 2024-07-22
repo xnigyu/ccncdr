@@ -1,0 +1,104 @@
+{
+"ID":"01",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "15.1",
+        "MeanTemp": "12.2",
+        "MinTemp": "10.0",
+        "Month": 1
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "16.2",
+        "MeanTemp": "12.9",
+        "MinTemp": "10.5",
+        "Month": 2
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "18.7",
+        "MeanTemp": "14.8",
+        "MinTemp": "12.0",
+        "Month": 3
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "22.0",
+        "MeanTemp": "18.1",
+        "MinTemp": "15.2",
+        "Month": 4
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "25.0",
+        "MeanTemp": "21.1",
+        "MinTemp": "18.4",
+        "Month": 5
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "27.8",
+        "MeanTemp": "23.7",
+        "MinTemp": "21.1",
+        "Month": 6
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "29.8",
+        "MeanTemp": "25.2",
+        "MinTemp": "22.2",
+        "Month": 7
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "29.3",
+        "MeanTemp": "24.8",
+        "MinTemp": "22.0",
+        "Month": 8
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "26.5",
+        "MeanTemp": "22.9",
+        "MinTemp": "20.6",
+        "Month": 9
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "22.5",
+        "MeanTemp": "19.7",
+        "MinTemp": "17.8",
+        "Month": 10
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "19.9",
+        "MeanTemp": "17.2",
+        "MinTemp": "15.3",
+        "Month": 11
+    },
+    {
+        "CTID": "01",
+        "CTNM": "Keelung",
+        "MaxTemp": "16.4",
+        "MeanTemp": "13.7",
+        "MinTemp": "11.7",
+        "Month": 12
+    }
+]
+}

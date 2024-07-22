@@ -1,0 +1,104 @@
+{
+"ID":"06",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "19.0",
+        "MeanTemp": "15.5",
+        "MinTemp": "12.8",
+        "Month": 1
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "19.3",
+        "MeanTemp": "15.8",
+        "MinTemp": "13.1",
+        "Month": 2
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "21.5",
+        "MeanTemp": "17.9",
+        "MinTemp": "14.9",
+        "Month": 3
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "25.3",
+        "MeanTemp": "21.8",
+        "MinTemp": "18.6",
+        "Month": 4
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "28.6",
+        "MeanTemp": "25.2",
+        "MinTemp": "21.9",
+        "Month": 5
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "31.1",
+        "MeanTemp": "27.8",
+        "MinTemp": "24.7",
+        "Month": 6
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "32.7",
+        "MeanTemp": "29.1",
+        "MinTemp": "25.7",
+        "Month": 7
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "32.4",
+        "MeanTemp": "28.7",
+        "MinTemp": "25.4",
+        "Month": 8
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "31.0",
+        "MeanTemp": "27.2",
+        "MinTemp": "23.9",
+        "Month": 9
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "27.9",
+        "MeanTemp": "24.3",
+        "MinTemp": "21.4",
+        "Month": 10
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "25.1",
+        "MeanTemp": "21.3",
+        "MinTemp": "18.3",
+        "Month": 11
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "MaxTemp": "21.1",
+        "MeanTemp": "17.5",
+        "MinTemp": "14.6",
+        "Month": 12
+    }
+]
+}

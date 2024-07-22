@@ -7,97 +7,97 @@
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "17.1",
-        "MeanTemp": "11.9",
-        "MinTemp": "8.5",
+        "MaxTemp": "20.5",
+        "MeanTemp": "15.8",
+        "MinTemp": "12.4",
         "Month": 1
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "17.8",
-        "MeanTemp": "12.8",
-        "MinTemp": "9.4",
+        "MaxTemp": "21.0",
+        "MeanTemp": "16.4",
+        "MinTemp": "13.1",
         "Month": 2
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "20.1",
-        "MeanTemp": "15.2",
-        "MinTemp": "11.5",
+        "MaxTemp": "23.3",
+        "MeanTemp": "18.9",
+        "MinTemp": "15.3",
         "Month": 3
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "22.8",
-        "MeanTemp": "18.3",
-        "MinTemp": "14.7",
+        "MaxTemp": "26.5",
+        "MeanTemp": "22.4",
+        "MinTemp": "19.0",
         "Month": 4
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "25.0",
-        "MeanTemp": "20.9",
-        "MinTemp": "17.4",
+        "MaxTemp": "29.2",
+        "MeanTemp": "25.4",
+        "MinTemp": "22.1",
         "Month": 5
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "26.7",
-        "MeanTemp": "22.6",
-        "MinTemp": "19.2",
+        "MaxTemp": "31.1",
+        "MeanTemp": "27.3",
+        "MinTemp": "24.2",
         "Month": 6
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "28.0",
-        "MeanTemp": "23.4",
-        "MinTemp": "19.7",
+        "MaxTemp": "32.2",
+        "MeanTemp": "28.3",
+        "MinTemp": "24.9",
         "Month": 7
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "27.5",
-        "MeanTemp": "23.0",
-        "MinTemp": "19.6",
+        "MaxTemp": "31.8",
+        "MeanTemp": "27.9",
+        "MinTemp": "24.7",
         "Month": 8
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "26.7",
-        "MeanTemp": "22.1",
-        "MinTemp": "18.6",
+        "MaxTemp": "31.0",
+        "MeanTemp": "26.8",
+        "MinTemp": "23.6",
         "Month": 9
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "24.8",
-        "MeanTemp": "19.8",
-        "MinTemp": "16.1",
+        "MaxTemp": "28.8",
+        "MeanTemp": "24.2",
+        "MinTemp": "20.8",
         "Month": 10
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "22.2",
-        "MeanTemp": "17.1",
-        "MinTemp": "13.4",
+        "MaxTemp": "26.0",
+        "MeanTemp": "21.3",
+        "MinTemp": "17.9",
         "Month": 11
     },
     {
         "CTID": "08",
         "CTNM": "Taichung",
-        "MaxTemp": "18.7",
-        "MeanTemp": "13.5",
-        "MinTemp": "10.0",
+        "MaxTemp": "22.2",
+        "MeanTemp": "17.5",
+        "MinTemp": "14.1",
         "Month": 12
     }
 ]

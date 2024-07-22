@@ -7,97 +7,97 @@
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "17.0",
-        "MeanTemp": "12.3",
-        "MinTemp": "9.1",
+        "MaxTemp": "19.2",
+        "MeanTemp": "15.0",
+        "MinTemp": "11.9",
         "Month": 1
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "17.7",
-        "MeanTemp": "13.1",
-        "MinTemp": "9.9",
+        "MaxTemp": "19.6",
+        "MeanTemp": "15.5",
+        "MinTemp": "12.4",
         "Month": 2
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "20.0",
-        "MeanTemp": "15.4",
-        "MinTemp": "12.0",
+        "MaxTemp": "22.0",
+        "MeanTemp": "17.7",
+        "MinTemp": "14.4",
         "Month": 3
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "23.1",
-        "MeanTemp": "18.8",
-        "MinTemp": "15.3",
+        "MaxTemp": "25.6",
+        "MeanTemp": "21.5",
+        "MinTemp": "18.1",
         "Month": 4
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "25.7",
-        "MeanTemp": "21.6",
-        "MinTemp": "18.2",
+        "MaxTemp": "28.6",
+        "MeanTemp": "24.7",
+        "MinTemp": "21.3",
         "Month": 5
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "27.7",
-        "MeanTemp": "23.6",
-        "MinTemp": "20.4",
+        "MaxTemp": "30.8",
+        "MeanTemp": "27.1",
+        "MinTemp": "23.9",
         "Month": 6
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "29.0",
-        "MeanTemp": "24.5",
-        "MinTemp": "20.9",
+        "MaxTemp": "32.1",
+        "MeanTemp": "28.1",
+        "MinTemp": "24.6",
         "Month": 7
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "28.4",
-        "MeanTemp": "24.0",
-        "MinTemp": "20.7",
+        "MaxTemp": "31.7",
+        "MeanTemp": "27.6",
+        "MinTemp": "24.3",
         "Month": 8
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "27.4",
-        "MeanTemp": "22.9",
-        "MinTemp": "19.5",
+        "MaxTemp": "30.5",
+        "MeanTemp": "26.2",
+        "MinTemp": "22.9",
         "Month": 9
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "25.1",
-        "MeanTemp": "20.3",
-        "MinTemp": "16.9",
+        "MaxTemp": "27.8",
+        "MeanTemp": "23.5",
+        "MinTemp": "20.1",
         "Month": 10
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "22.5",
-        "MeanTemp": "17.6",
-        "MinTemp": "14.2",
+        "MaxTemp": "25.0",
+        "MeanTemp": "20.6",
+        "MinTemp": "17.1",
         "Month": 11
     },
     {
         "CTID": "07",
         "CTNM": "Miaoli",
-        "MaxTemp": "18.8",
-        "MeanTemp": "14.0",
-        "MinTemp": "10.6",
+        "MaxTemp": "21.1",
+        "MeanTemp": "16.8",
+        "MinTemp": "13.5",
         "Month": 12
     }
 ]

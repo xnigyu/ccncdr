@@ -7,97 +7,97 @@
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "22.7",
-        "MeanTemp": "17.2",
+        "MaxTemp": "22.8",
+        "MeanTemp": "17.3",
         "MinTemp": "13.4",
         "Month": 1
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "23.6",
-        "MeanTemp": "18.2",
-        "MinTemp": "14.3",
+        "MaxTemp": "23.7",
+        "MeanTemp": "18.3",
+        "MinTemp": "14.4",
         "Month": 2
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "26.1",
-        "MeanTemp": "20.8",
-        "MinTemp": "16.7",
+        "MaxTemp": "26.2",
+        "MeanTemp": "20.9",
+        "MinTemp": "16.8",
         "Month": 3
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "28.7",
-        "MeanTemp": "23.9",
-        "MinTemp": "20.1",
+        "MaxTemp": "28.9",
+        "MeanTemp": "24.1",
+        "MinTemp": "20.2",
         "Month": 4
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "30.8",
-        "MeanTemp": "26.4",
-        "MinTemp": "22.9",
+        "MaxTemp": "30.9",
+        "MeanTemp": "26.6",
+        "MinTemp": "23.1",
         "Month": 5
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "31.8",
-        "MeanTemp": "27.7",
-        "MinTemp": "24.5",
+        "MaxTemp": "32.0",
+        "MeanTemp": "27.9",
+        "MinTemp": "24.7",
         "Month": 6
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "32.4",
-        "MeanTemp": "28.2",
-        "MinTemp": "24.9",
+        "MaxTemp": "32.6",
+        "MeanTemp": "28.3",
+        "MinTemp": "25.1",
         "Month": 7
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "31.9",
-        "MeanTemp": "27.8",
-        "MinTemp": "24.8",
+        "MaxTemp": "32.1",
+        "MeanTemp": "28.0",
+        "MinTemp": "24.9",
         "Month": 8
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "31.6",
-        "MeanTemp": "27.2",
-        "MinTemp": "24.0",
+        "MaxTemp": "31.8",
+        "MeanTemp": "27.4",
+        "MinTemp": "24.2",
         "Month": 9
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "30.0",
-        "MeanTemp": "25.2",
-        "MinTemp": "21.6",
+        "MaxTemp": "30.2",
+        "MeanTemp": "25.3",
+        "MinTemp": "21.8",
         "Month": 10
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "27.4",
-        "MeanTemp": "22.4",
-        "MinTemp": "18.8",
+        "MaxTemp": "27.5",
+        "MeanTemp": "22.5",
+        "MinTemp": "18.9",
         "Month": 11
     },
     {
         "CTID": "14",
         "CTNM": "Tainan",
-        "MaxTemp": "23.9",
-        "MeanTemp": "18.7",
-        "MinTemp": "15.0",
+        "MaxTemp": "24.0",
+        "MeanTemp": "18.8",
+        "MinTemp": "15.1",
         "Month": 12
     }
 ]

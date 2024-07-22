@@ -1,0 +1,104 @@
+{
+"ID":"18",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "11.9",
+        "MeanTemp": "6.7",
+        "MinTemp": "3.2",
+        "Month": 1
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "12.7",
+        "MeanTemp": "7.7",
+        "MinTemp": "4.3",
+        "Month": 2
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "14.9",
+        "MeanTemp": "9.9",
+        "MinTemp": "6.3",
+        "Month": 3
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "16.9",
+        "MeanTemp": "12.3",
+        "MinTemp": "8.8",
+        "Month": 4
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "18.6",
+        "MeanTemp": "14.3",
+        "MinTemp": "11.0",
+        "Month": 5
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "20.2",
+        "MeanTemp": "15.8",
+        "MinTemp": "12.4",
+        "Month": 6
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "21.4",
+        "MeanTemp": "16.4",
+        "MinTemp": "12.6",
+        "Month": 7
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "20.9",
+        "MeanTemp": "16.0",
+        "MinTemp": "12.6",
+        "Month": 8
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "20.2",
+        "MeanTemp": "15.2",
+        "MinTemp": "11.7",
+        "Month": 9
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "18.7",
+        "MeanTemp": "13.4",
+        "MinTemp": "9.7",
+        "Month": 10
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "16.4",
+        "MeanTemp": "11.1",
+        "MinTemp": "7.6",
+        "Month": 11
+    },
+    {
+        "CTID": "18",
+        "CTNM": "Hualien",
+        "MaxTemp": "13.3",
+        "MeanTemp": "8.0",
+        "MinTemp": "4.6",
+        "Month": 12
+    }
+]
+}
