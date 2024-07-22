@@ -1,0 +1,2570 @@
+{
+"ID":"03",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "7.20",
+        "Date": "2020/5/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "16.80",
+        "Date": "2020/5/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "17.40",
+        "Date": "2020/5/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "20.90",
+        "Date": "2020/5/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "30.10",
+        "Date": "2020/5/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "36.40",
+        "Date": "2020/5/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "38.10",
+        "Date": "2020/5/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "41.80",
+        "Date": "2020/5/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "0.00",
+        "AverageRain": "45.90",
+        "Date": "2020/5/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "1.95",
+        "AverageRain": "50.20",
+        "Date": "2020/5/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "1.95",
+        "AverageRain": "58.10",
+        "Date": "2020/5/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "2.39",
+        "AverageRain": "64.70",
+        "Date": "2020/5/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "2.39",
+        "AverageRain": "73.50",
+        "Date": "2020/5/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "2.39",
+        "AverageRain": "78.70",
+        "Date": "2020/5/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "2.39",
+        "AverageRain": "89.90",
+        "Date": "2020/5/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "9.57",
+        "AverageRain": "98.30",
+        "Date": "2020/5/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "9.57",
+        "AverageRain": "108.20",
+        "Date": "2020/5/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "34.47",
+        "AverageRain": "126.40",
+        "Date": "2020/5/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "57.85",
+        "AverageRain": "139.00",
+        "Date": "2020/5/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "60.57",
+        "AverageRain": "162.90",
+        "Date": "2020/5/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "109.72",
+        "AverageRain": "179.00",
+        "Date": "2020/5/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "211.81",
+        "AverageRain": "187.20",
+        "Date": "2020/5/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "226.42",
+        "AverageRain": "206.60",
+        "Date": "2020/5/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "232.16",
+        "AverageRain": "215.20",
+        "Date": "2020/5/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "232.43",
+        "AverageRain": "219.10",
+        "Date": "2020/5/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "268.56",
+        "AverageRain": "223.30",
+        "Date": "2020/5/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "314.07",
+        "AverageRain": "231.30",
+        "Date": "2020/5/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "351.92",
+        "AverageRain": "242.40",
+        "Date": "2020/5/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "365.75",
+        "AverageRain": "254.40",
+        "Date": "2020/5/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "261.60",
+        "Date": "2020/5/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "266.20",
+        "Date": "2020/5/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "268.70",
+        "Date": "2020/6/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "291.40",
+        "Date": "2020/6/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "311.80",
+        "Date": "2020/6/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.77",
+        "AverageRain": "331.00",
+        "Date": "2020/6/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "367.83",
+        "AverageRain": "337.90",
+        "Date": "2020/6/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "368.02",
+        "AverageRain": "345.10",
+        "Date": "2020/6/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "392.19",
+        "AverageRain": "359.80",
+        "Date": "2020/6/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "409.81",
+        "AverageRain": "382.60",
+        "Date": "2020/6/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "417.79",
+        "AverageRain": "395.50",
+        "Date": "2020/6/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "417.79",
+        "AverageRain": "419.00",
+        "Date": "2020/6/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "417.79",
+        "AverageRain": "449.90",
+        "Date": "2020/6/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "417.79",
+        "AverageRain": "484.00",
+        "Date": "2020/6/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "417.79",
+        "AverageRain": "508.00",
+        "Date": "2020/6/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "540.10",
+        "Date": "2020/6/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "558.10",
+        "Date": "2020/6/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "566.20",
+        "Date": "2020/6/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "575.40",
+        "Date": "2020/6/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "580.50",
+        "Date": "2020/6/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "586.90",
+        "Date": "2020/6/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "599.10",
+        "Date": "2020/6/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "610.90",
+        "Date": "2020/6/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "619.20",
+        "Date": "2020/6/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "635.60",
+        "Date": "2020/6/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.27",
+        "AverageRain": "645.60",
+        "Date": "2020/6/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "445.43",
+        "AverageRain": "656.00",
+        "Date": "2020/6/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "451.14",
+        "AverageRain": "661.30",
+        "Date": "2020/6/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "451.14",
+        "AverageRain": "669.10",
+        "Date": "2020/6/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "451.14",
+        "AverageRain": "675.60",
+        "Date": "2020/6/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "451.14",
+        "AverageRain": "680.60",
+        "Date": "2020/6/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "458.75",
+        "AverageRain": "686.40",
+        "Date": "2020/6/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "482.47",
+        "AverageRain": "690.30",
+        "Date": "2020/7/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "495.28",
+        "AverageRain": "713.20",
+        "Date": "2020/7/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "495.28",
+        "AverageRain": "733.60",
+        "Date": "2020/7/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "495.28",
+        "AverageRain": "752.40",
+        "Date": "2020/7/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "495.28",
+        "AverageRain": "758.80",
+        "Date": "2020/7/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "497.49",
+        "AverageRain": "766.60",
+        "Date": "2020/7/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "497.70",
+        "AverageRain": "773.00",
+        "Date": "2020/7/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "780.00",
+        "Date": "2020/7/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "788.90",
+        "Date": "2020/7/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "798.70",
+        "Date": "2020/7/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "805.60",
+        "Date": "2020/7/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "812.30",
+        "Date": "2020/7/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "844.30",
+        "Date": "2020/7/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "860.20",
+        "Date": "2020/7/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.06",
+        "AverageRain": "864.80",
+        "Date": "2020/7/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.09",
+        "AverageRain": "867.70",
+        "Date": "2020/7/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.09",
+        "AverageRain": "872.90",
+        "Date": "2020/7/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.09",
+        "AverageRain": "905.10",
+        "Date": "2020/7/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "501.13",
+        "AverageRain": "935.60",
+        "Date": "2020/7/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "507.96",
+        "AverageRain": "939.60",
+        "Date": "2020/7/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "507.96",
+        "AverageRain": "940.90",
+        "Date": "2020/7/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "507.96",
+        "AverageRain": "946.50",
+        "Date": "2020/7/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "509.70",
+        "AverageRain": "951.80",
+        "Date": "2020/7/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "509.70",
+        "AverageRain": "957.20",
+        "Date": "2020/7/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "517.96",
+        "AverageRain": "961.30",
+        "Date": "2020/7/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "520.57",
+        "AverageRain": "967.70",
+        "Date": "2020/7/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "534.16",
+        "AverageRain": "977.10",
+        "Date": "2020/7/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "545.49",
+        "AverageRain": "993.70",
+        "Date": "2020/7/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "545.87",
+        "AverageRain": "999.80",
+        "Date": "2020/7/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "545.87",
+        "AverageRain": "1006.10",
+        "Date": "2020/7/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "545.87",
+        "AverageRain": "1010.40",
+        "Date": "2020/7/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "563.73",
+        "AverageRain": "1016.70",
+        "Date": "2020/8/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "563.81",
+        "AverageRain": "1049.80",
+        "Date": "2020/8/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "628.78",
+        "AverageRain": "1056.30",
+        "Date": "2020/8/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1074.00",
+        "Date": "2020/8/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1095.10",
+        "Date": "2020/8/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1104.00",
+        "Date": "2020/8/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1112.00",
+        "Date": "2020/8/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1120.40",
+        "Date": "2020/8/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "640.08",
+        "AverageRain": "1150.60",
+        "Date": "2020/8/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "662.57",
+        "AverageRain": "1160.80",
+        "Date": "2020/8/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "663.79",
+        "AverageRain": "1175.50",
+        "Date": "2020/8/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "664.88",
+        "AverageRain": "1195.70",
+        "Date": "2020/8/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "664.88",
+        "AverageRain": "1203.60",
+        "Date": "2020/8/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "665.62",
+        "AverageRain": "1215.60",
+        "Date": "2020/8/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "684.85",
+        "AverageRain": "1224.90",
+        "Date": "2020/8/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "685.37",
+        "AverageRain": "1239.20",
+        "Date": "2020/8/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "685.37",
+        "AverageRain": "1252.80",
+        "Date": "2020/8/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "702.78",
+        "AverageRain": "1268.10",
+        "Date": "2020/8/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "706.83",
+        "AverageRain": "1286.50",
+        "Date": "2020/8/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "706.83",
+        "AverageRain": "1293.70",
+        "Date": "2020/8/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "706.83",
+        "AverageRain": "1308.40",
+        "Date": "2020/8/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "720.99",
+        "AverageRain": "1318.20",
+        "Date": "2020/8/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "721.98",
+        "AverageRain": "1330.20",
+        "Date": "2020/8/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "722.16",
+        "AverageRain": "1356.40",
+        "Date": "2020/8/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "722.16",
+        "AverageRain": "1374.20",
+        "Date": "2020/8/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "723.23",
+        "AverageRain": "1383.80",
+        "Date": "2020/8/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "729.08",
+        "AverageRain": "1386.30",
+        "Date": "2020/8/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "733.50",
+        "AverageRain": "1390.10",
+        "Date": "2020/8/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "736.78",
+        "AverageRain": "1401.00",
+        "Date": "2020/8/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "736.94",
+        "AverageRain": "1407.40",
+        "Date": "2020/8/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "736.94",
+        "AverageRain": "1424.30",
+        "Date": "2020/8/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "736.94",
+        "AverageRain": "1435.30",
+        "Date": "2020/9/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1440.50",
+        "Date": "2020/9/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1442.90",
+        "Date": "2020/9/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1447.40",
+        "Date": "2020/9/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1450.70",
+        "Date": "2020/9/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1457.50",
+        "Date": "2020/9/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1463.10",
+        "Date": "2020/9/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.72",
+        "AverageRain": "1467.10",
+        "Date": "2020/9/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.74",
+        "AverageRain": "1469.50",
+        "Date": "2020/9/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.74",
+        "AverageRain": "1470.90",
+        "Date": "2020/9/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "757.74",
+        "AverageRain": "1477.50",
+        "Date": "2020/9/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.15",
+        "AverageRain": "1482.30",
+        "Date": "2020/9/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1494.10",
+        "Date": "2020/9/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1524.30",
+        "Date": "2020/9/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1530.80",
+        "Date": "2020/9/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1533.10",
+        "Date": "2020/9/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1535.70",
+        "Date": "2020/9/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1555.20",
+        "Date": "2020/9/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1559.10",
+        "Date": "2020/9/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1560.70",
+        "Date": "2020/9/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1560.80",
+        "Date": "2020/9/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1563.70",
+        "Date": "2020/9/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1564.70",
+        "Date": "2020/9/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1567.80",
+        "Date": "2020/9/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1568.50",
+        "Date": "2020/9/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.16",
+        "AverageRain": "1568.60",
+        "Date": "2020/9/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "759.43",
+        "AverageRain": "1573.50",
+        "Date": "2020/9/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.23",
+        "AverageRain": "1583.60",
+        "Date": "2020/9/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.23",
+        "AverageRain": "1602.30",
+        "Date": "2020/9/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1603.70",
+        "Date": "2020/9/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1606.10",
+        "Date": "2020/10/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1607.50",
+        "Date": "2020/10/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1607.60",
+        "Date": "2020/10/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1607.60",
+        "Date": "2020/10/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1608.50",
+        "Date": "2020/10/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1628.20",
+        "Date": "2020/10/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1640.80",
+        "Date": "2020/10/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1641.50",
+        "Date": "2020/10/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1642.10",
+        "Date": "2020/10/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1642.10",
+        "Date": "2020/10/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1642.30",
+        "Date": "2020/10/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1642.40",
+        "Date": "2020/10/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1643.30",
+        "Date": "2020/10/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1643.90",
+        "Date": "2020/10/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.40",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.00",
+        "Date": "2020/10/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.20",
+        "Date": "2020/10/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "766.45",
+        "AverageRain": "1645.30",
+        "Date": "2020/10/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1645.30",
+        "Date": "2020/10/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1645.30",
+        "Date": "2020/10/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.40",
+        "Date": "2020/10/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": "775.07",
+        "AverageRain": "1647.70",
+        "Date": "2020/10/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1647.90",
+        "Date": "2020/11/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1648.90",
+        "Date": "2020/11/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1650.40",
+        "Date": "2020/11/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1650.50",
+        "Date": "2020/11/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1650.70",
+        "Date": "2020/11/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1650.70",
+        "Date": "2020/11/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1651.00",
+        "Date": "2020/11/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1651.90",
+        "Date": "2020/11/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1656.30",
+        "Date": "2020/11/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1661.40",
+        "Date": "2020/11/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1662.50",
+        "Date": "2020/11/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1662.70",
+        "Date": "2020/11/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1664.20",
+        "Date": "2020/11/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1664.40",
+        "Date": "2020/11/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1665.60",
+        "Date": "2020/11/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1666.00",
+        "Date": "2020/11/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1667.40",
+        "Date": "2020/11/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1668.90",
+        "Date": "2020/11/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1670.60",
+        "Date": "2020/11/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1671.10",
+        "Date": "2020/11/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1672.00",
+        "Date": "2020/11/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1673.30",
+        "Date": "2020/11/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1678.60",
+        "Date": "2020/11/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1679.00",
+        "Date": "2020/11/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1680.50",
+        "Date": "2020/11/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1682.60",
+        "Date": "2020/11/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1685.50",
+        "Date": "2020/11/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1686.60",
+        "Date": "2020/11/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1689.30",
+        "Date": "2020/11/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1691.40",
+        "Date": "2020/11/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1692.00",
+        "Date": "2020/12/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1692.30",
+        "Date": "2020/12/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1694.00",
+        "Date": "2020/12/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1696.40",
+        "Date": "2020/12/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1701.00",
+        "Date": "2020/12/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1702.80",
+        "Date": "2020/12/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1703.20",
+        "Date": "2020/12/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1704.20",
+        "Date": "2020/12/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1705.70",
+        "Date": "2020/12/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1708.00",
+        "Date": "2020/12/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1708.00",
+        "Date": "2020/12/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1708.20",
+        "Date": "2020/12/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1708.30",
+        "Date": "2020/12/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1709.30",
+        "Date": "2020/12/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1712.00",
+        "Date": "2020/12/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1715.50",
+        "Date": "2020/12/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1718.30",
+        "Date": "2020/12/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1719.10",
+        "Date": "2020/12/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1719.30",
+        "Date": "2020/12/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1719.40",
+        "Date": "2020/12/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1719.50",
+        "Date": "2020/12/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1719.50",
+        "Date": "2020/12/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1720.40",
+        "Date": "2020/12/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1721.40",
+        "Date": "2020/12/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1722.80",
+        "Date": "2020/12/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1723.00",
+        "Date": "2020/12/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1724.40",
+        "Date": "2020/12/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1726.90",
+        "Date": "2020/12/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1729.70",
+        "Date": "2020/12/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1732.90",
+        "Date": "2020/12/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1733.20",
+        "Date": "2020/12/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1733.20",
+        "Date": "2021/1/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1733.60",
+        "Date": "2021/1/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1735.30",
+        "Date": "2021/1/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1735.50",
+        "Date": "2021/1/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1736.60",
+        "Date": "2021/1/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1739.90",
+        "Date": "2021/1/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1741.30",
+        "Date": "2021/1/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1745.40",
+        "Date": "2021/1/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1747.40",
+        "Date": "2021/1/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1747.50",
+        "Date": "2021/1/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1748.50",
+        "Date": "2021/1/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1749.90",
+        "Date": "2021/1/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1751.50",
+        "Date": "2021/1/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1752.60",
+        "Date": "2021/1/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1753.00",
+        "Date": "2021/1/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1755.10",
+        "Date": "2021/1/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1757.20",
+        "Date": "2021/1/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1757.80",
+        "Date": "2021/1/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1758.50",
+        "Date": "2021/1/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1759.20",
+        "Date": "2021/1/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1759.90",
+        "Date": "2021/1/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1761.80",
+        "Date": "2021/1/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1762.50",
+        "Date": "2021/1/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1763.20",
+        "Date": "2021/1/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1763.80",
+        "Date": "2021/1/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1766.40",
+        "Date": "2021/1/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1766.80",
+        "Date": "2021/1/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1767.00",
+        "Date": "2021/1/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1768.40",
+        "Date": "2021/1/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1768.70",
+        "Date": "2021/1/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1769.10",
+        "Date": "2021/1/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1769.60",
+        "Date": "2021/2/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1770.10",
+        "Date": "2021/2/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1771.40",
+        "Date": "2021/2/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1772.80",
+        "Date": "2021/2/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1775.20",
+        "Date": "2021/2/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1776.30",
+        "Date": "2021/2/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1778.90",
+        "Date": "2021/2/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1782.50",
+        "Date": "2021/2/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1785.60",
+        "Date": "2021/2/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1785.70",
+        "Date": "2021/2/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1786.10",
+        "Date": "2021/2/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1787.10",
+        "Date": "2021/2/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1789.80",
+        "Date": "2021/2/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1790.50",
+        "Date": "2021/2/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1791.50",
+        "Date": "2021/2/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1794.40",
+        "Date": "2021/2/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1797.00",
+        "Date": "2021/2/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1803.00",
+        "Date": "2021/2/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1807.20",
+        "Date": "2021/2/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1809.60",
+        "Date": "2021/2/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1810.20",
+        "Date": "2021/2/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1812.60",
+        "Date": "2021/2/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1815.00",
+        "Date": "2021/2/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1823.70",
+        "Date": "2021/2/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1829.80",
+        "Date": "2021/2/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1832.80",
+        "Date": "2021/2/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1834.30",
+        "Date": "2021/2/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1838.70",
+        "Date": "2021/2/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1838.70",
+        "Date": "2021/3/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1839.80",
+        "Date": "2021/3/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1843.90",
+        "Date": "2021/3/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1847.70",
+        "Date": "2021/3/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1848.20",
+        "Date": "2021/3/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1851.80",
+        "Date": "2021/3/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1859.10",
+        "Date": "2021/3/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1866.50",
+        "Date": "2021/3/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1870.50",
+        "Date": "2021/3/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1879.80",
+        "Date": "2021/3/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1886.90",
+        "Date": "2021/3/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1889.40",
+        "Date": "2021/3/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1894.30",
+        "Date": "2021/3/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1899.70",
+        "Date": "2021/3/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1901.60",
+        "Date": "2021/3/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1904.00",
+        "Date": "2021/3/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1905.10",
+        "Date": "2021/3/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1905.10",
+        "Date": "2021/3/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1907.70",
+        "Date": "2021/3/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1909.30",
+        "Date": "2021/3/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1910.70",
+        "Date": "2021/3/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1911.00",
+        "Date": "2021/3/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1912.20",
+        "Date": "2021/3/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1917.60",
+        "Date": "2021/3/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1923.30",
+        "Date": "2021/3/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1926.40",
+        "Date": "2021/3/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1930.20",
+        "Date": "2021/3/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1939.40",
+        "Date": "2021/3/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1942.30",
+        "Date": "2021/3/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1946.30",
+        "Date": "2021/3/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1949.70",
+        "Date": "2021/3/31"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1955.50",
+        "Date": "2021/4/1"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1959.70",
+        "Date": "2021/4/2"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1962.20",
+        "Date": "2021/4/3"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1967.30",
+        "Date": "2021/4/4"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1968.30",
+        "Date": "2021/4/5"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1973.60",
+        "Date": "2021/4/6"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1976.10",
+        "Date": "2021/4/7"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1977.70",
+        "Date": "2021/4/8"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1981.70",
+        "Date": "2021/4/9"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1983.90",
+        "Date": "2021/4/10"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "1995.30",
+        "Date": "2021/4/11"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2001.50",
+        "Date": "2021/4/12"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2006.30",
+        "Date": "2021/4/13"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2012.30",
+        "Date": "2021/4/14"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2016.30",
+        "Date": "2021/4/15"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2023.20",
+        "Date": "2021/4/16"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2030.00",
+        "Date": "2021/4/17"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2032.20",
+        "Date": "2021/4/18"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2036.20",
+        "Date": "2021/4/19"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2038.40",
+        "Date": "2021/4/20"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2048.10",
+        "Date": "2021/4/21"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2058.10",
+        "Date": "2021/4/22"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2060.80",
+        "Date": "2021/4/23"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2064.50",
+        "Date": "2021/4/24"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2067.20",
+        "Date": "2021/4/25"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2070.20",
+        "Date": "2021/4/26"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2077.90",
+        "Date": "2021/4/27"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2087.50",
+        "Date": "2021/4/28"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2091.60",
+        "Date": "2021/4/29"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2093.80",
+        "Date": "2021/4/30"
+    },
+    {
+        "RSID": "03",
+        "RSNmae": "Liyutan",
+        "2020Rain": null,
+        "AverageRain": "2098.40",
+        "Date": "2021/5/1"
+    }
+]
+}

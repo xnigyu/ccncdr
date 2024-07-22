@@ -1,0 +1,2570 @@
+{
+"ID":"04",
+"Name":"",
+"Exec":"",
+"DataList":
+[
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "0.00",
+        "AverageRain": "8.20",
+        "Date": "2020/5/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "0.00",
+        "AverageRain": "16.10",
+        "Date": "2020/5/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "0.00",
+        "AverageRain": "20.40",
+        "Date": "2020/5/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "0.00",
+        "AverageRain": "24.20",
+        "Date": "2020/5/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "0.00",
+        "AverageRain": "34.20",
+        "Date": "2020/5/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "1.30",
+        "AverageRain": "40.80",
+        "Date": "2020/5/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "7.90",
+        "AverageRain": "44.10",
+        "Date": "2020/5/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "8.00",
+        "AverageRain": "47.50",
+        "Date": "2020/5/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "8.00",
+        "AverageRain": "51.70",
+        "Date": "2020/5/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "15.50",
+        "AverageRain": "56.30",
+        "Date": "2020/5/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "15.50",
+        "AverageRain": "62.70",
+        "Date": "2020/5/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "30.00",
+        "AverageRain": "76.60",
+        "Date": "2020/5/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "30.00",
+        "AverageRain": "83.60",
+        "Date": "2020/5/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "30.50",
+        "AverageRain": "87.80",
+        "Date": "2020/5/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "30.80",
+        "AverageRain": "97.10",
+        "Date": "2020/5/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "71.60",
+        "AverageRain": "103.70",
+        "Date": "2020/5/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "73.70",
+        "AverageRain": "114.60",
+        "Date": "2020/5/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "77.40",
+        "AverageRain": "121.60",
+        "Date": "2020/5/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "84.10",
+        "AverageRain": "128.30",
+        "Date": "2020/5/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "87.70",
+        "AverageRain": "140.50",
+        "Date": "2020/5/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "102.70",
+        "AverageRain": "150.50",
+        "Date": "2020/5/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "141.80",
+        "AverageRain": "155.70",
+        "Date": "2020/5/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "150.90",
+        "AverageRain": "162.10",
+        "Date": "2020/5/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "157.40",
+        "AverageRain": "168.70",
+        "Date": "2020/5/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "160.80",
+        "AverageRain": "172.80",
+        "Date": "2020/5/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "165.30",
+        "AverageRain": "175.60",
+        "Date": "2020/5/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "174.50",
+        "AverageRain": "181.90",
+        "Date": "2020/5/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "209.10",
+        "AverageRain": "192.60",
+        "Date": "2020/5/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "227.60",
+        "AverageRain": "199.80",
+        "Date": "2020/5/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "227.60",
+        "AverageRain": "207.90",
+        "Date": "2020/5/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.10",
+        "AverageRain": "210.50",
+        "Date": "2020/5/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.50",
+        "AverageRain": "212.40",
+        "Date": "2020/6/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.70",
+        "AverageRain": "221.90",
+        "Date": "2020/6/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.70",
+        "AverageRain": "236.20",
+        "Date": "2020/6/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.70",
+        "AverageRain": "247.70",
+        "Date": "2020/6/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "228.70",
+        "AverageRain": "253.30",
+        "Date": "2020/6/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "229.20",
+        "AverageRain": "259.00",
+        "Date": "2020/6/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "233.10",
+        "AverageRain": "272.70",
+        "Date": "2020/6/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "235.70",
+        "AverageRain": "279.90",
+        "Date": "2020/6/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "236.70",
+        "AverageRain": "292.60",
+        "Date": "2020/6/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "236.70",
+        "AverageRain": "304.70",
+        "Date": "2020/6/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "236.70",
+        "AverageRain": "316.20",
+        "Date": "2020/6/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "238.40",
+        "AverageRain": "341.50",
+        "Date": "2020/6/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "240.80",
+        "AverageRain": "350.20",
+        "Date": "2020/6/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "364.80",
+        "Date": "2020/6/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "375.80",
+        "Date": "2020/6/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "385.50",
+        "Date": "2020/6/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "393.10",
+        "Date": "2020/6/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "400.30",
+        "Date": "2020/6/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "405.40",
+        "Date": "2020/6/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "411.10",
+        "Date": "2020/6/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "417.60",
+        "Date": "2020/6/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.40",
+        "AverageRain": "422.10",
+        "Date": "2020/6/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "248.90",
+        "AverageRain": "429.30",
+        "Date": "2020/6/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "253.10",
+        "AverageRain": "436.10",
+        "Date": "2020/6/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "255.60",
+        "AverageRain": "449.20",
+        "Date": "2020/6/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "261.40",
+        "AverageRain": "454.20",
+        "Date": "2020/6/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "263.00",
+        "AverageRain": "460.20",
+        "Date": "2020/6/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "269.20",
+        "AverageRain": "467.90",
+        "Date": "2020/6/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "269.80",
+        "AverageRain": "475.40",
+        "Date": "2020/6/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "270.20",
+        "AverageRain": "481.90",
+        "Date": "2020/6/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "277.40",
+        "AverageRain": "487.70",
+        "Date": "2020/7/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "300.60",
+        "AverageRain": "493.50",
+        "Date": "2020/7/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "303.50",
+        "AverageRain": "498.40",
+        "Date": "2020/7/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "315.90",
+        "AverageRain": "503.20",
+        "Date": "2020/7/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "316.80",
+        "AverageRain": "505.70",
+        "Date": "2020/7/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "318.40",
+        "AverageRain": "507.20",
+        "Date": "2020/7/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "323.20",
+        "AverageRain": "512.10",
+        "Date": "2020/7/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "323.20",
+        "AverageRain": "521.40",
+        "Date": "2020/7/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "323.20",
+        "AverageRain": "524.60",
+        "Date": "2020/7/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "325.20",
+        "AverageRain": "540.80",
+        "Date": "2020/7/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "325.50",
+        "AverageRain": "549.60",
+        "Date": "2020/7/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "326.70",
+        "AverageRain": "557.40",
+        "Date": "2020/7/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "326.70",
+        "AverageRain": "582.30",
+        "Date": "2020/7/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "326.70",
+        "AverageRain": "587.00",
+        "Date": "2020/7/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "330.20",
+        "AverageRain": "591.50",
+        "Date": "2020/7/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "331.90",
+        "AverageRain": "594.50",
+        "Date": "2020/7/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "331.90",
+        "AverageRain": "612.60",
+        "Date": "2020/7/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "332.00",
+        "AverageRain": "631.40",
+        "Date": "2020/7/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "334.00",
+        "AverageRain": "638.70",
+        "Date": "2020/7/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "344.50",
+        "AverageRain": "640.00",
+        "Date": "2020/7/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "344.60",
+        "AverageRain": "641.50",
+        "Date": "2020/7/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "344.60",
+        "AverageRain": "645.50",
+        "Date": "2020/7/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "361.30",
+        "AverageRain": "651.60",
+        "Date": "2020/7/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "361.30",
+        "AverageRain": "653.40",
+        "Date": "2020/7/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "376.00",
+        "AverageRain": "659.10",
+        "Date": "2020/7/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "379.00",
+        "AverageRain": "666.00",
+        "Date": "2020/7/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "388.20",
+        "AverageRain": "673.80",
+        "Date": "2020/7/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "399.40",
+        "AverageRain": "684.10",
+        "Date": "2020/7/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "399.40",
+        "AverageRain": "692.50",
+        "Date": "2020/7/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "399.40",
+        "AverageRain": "696.60",
+        "Date": "2020/7/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "400.00",
+        "AverageRain": "707.70",
+        "Date": "2020/7/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "400.00",
+        "AverageRain": "724.40",
+        "Date": "2020/8/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "400.80",
+        "AverageRain": "749.70",
+        "Date": "2020/8/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "410.50",
+        "AverageRain": "752.80",
+        "Date": "2020/8/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "418.20",
+        "AverageRain": "776.10",
+        "Date": "2020/8/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "422.40",
+        "AverageRain": "797.70",
+        "Date": "2020/8/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "422.90",
+        "AverageRain": "805.50",
+        "Date": "2020/8/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "422.90",
+        "AverageRain": "832.30",
+        "Date": "2020/8/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "422.90",
+        "AverageRain": "862.40",
+        "Date": "2020/8/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "423.10",
+        "AverageRain": "880.90",
+        "Date": "2020/8/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "440.20",
+        "AverageRain": "885.60",
+        "Date": "2020/8/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "441.20",
+        "AverageRain": "894.00",
+        "Date": "2020/8/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "442.70",
+        "AverageRain": "903.00",
+        "Date": "2020/8/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "444.10",
+        "AverageRain": "907.00",
+        "Date": "2020/8/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "445.40",
+        "AverageRain": "915.10",
+        "Date": "2020/8/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "445.50",
+        "AverageRain": "917.70",
+        "Date": "2020/8/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "445.70",
+        "AverageRain": "921.80",
+        "Date": "2020/8/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "445.70",
+        "AverageRain": "931.30",
+        "Date": "2020/8/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "447.50",
+        "AverageRain": "946.30",
+        "Date": "2020/8/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "447.50",
+        "AverageRain": "950.60",
+        "Date": "2020/8/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "447.50",
+        "AverageRain": "959.10",
+        "Date": "2020/8/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "447.50",
+        "AverageRain": "976.20",
+        "Date": "2020/8/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "465.50",
+        "AverageRain": "981.10",
+        "Date": "2020/8/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "467.40",
+        "AverageRain": "994.80",
+        "Date": "2020/8/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "467.40",
+        "AverageRain": "1025.00",
+        "Date": "2020/8/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "467.40",
+        "AverageRain": "1037.40",
+        "Date": "2020/8/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "476.00",
+        "AverageRain": "1041.50",
+        "Date": "2020/8/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "490.10",
+        "AverageRain": "1048.20",
+        "Date": "2020/8/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "491.90",
+        "AverageRain": "1055.00",
+        "Date": "2020/8/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "492.70",
+        "AverageRain": "1058.40",
+        "Date": "2020/8/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "492.70",
+        "AverageRain": "1064.20",
+        "Date": "2020/8/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "497.30",
+        "AverageRain": "1081.30",
+        "Date": "2020/8/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.10",
+        "AverageRain": "1098.10",
+        "Date": "2020/9/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.20",
+        "AverageRain": "1105.00",
+        "Date": "2020/9/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.80",
+        "AverageRain": "1109.10",
+        "Date": "2020/9/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.80",
+        "AverageRain": "1111.00",
+        "Date": "2020/9/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.80",
+        "AverageRain": "1115.60",
+        "Date": "2020/9/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.80",
+        "AverageRain": "1119.70",
+        "Date": "2020/9/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.80",
+        "AverageRain": "1124.60",
+        "Date": "2020/9/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "512.90",
+        "AverageRain": "1127.40",
+        "Date": "2020/9/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "514.10",
+        "AverageRain": "1132.00",
+        "Date": "2020/9/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "515.90",
+        "AverageRain": "1146.30",
+        "Date": "2020/9/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "518.00",
+        "AverageRain": "1155.40",
+        "Date": "2020/9/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "534.20",
+        "AverageRain": "1174.80",
+        "Date": "2020/9/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "534.20",
+        "AverageRain": "1197.80",
+        "Date": "2020/9/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "536.10",
+        "AverageRain": "1222.60",
+        "Date": "2020/9/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "546.30",
+        "AverageRain": "1230.80",
+        "Date": "2020/9/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "547.30",
+        "AverageRain": "1239.40",
+        "Date": "2020/9/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "547.30",
+        "AverageRain": "1249.00",
+        "Date": "2020/9/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "547.60",
+        "AverageRain": "1267.30",
+        "Date": "2020/9/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.40",
+        "AverageRain": "1271.10",
+        "Date": "2020/9/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.40",
+        "AverageRain": "1279.40",
+        "Date": "2020/9/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.50",
+        "AverageRain": "1292.40",
+        "Date": "2020/9/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.50",
+        "AverageRain": "1302.20",
+        "Date": "2020/9/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.50",
+        "AverageRain": "1306.30",
+        "Date": "2020/9/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "552.90",
+        "AverageRain": "1309.70",
+        "Date": "2020/9/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "554.50",
+        "AverageRain": "1311.10",
+        "Date": "2020/9/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "554.60",
+        "AverageRain": "1313.80",
+        "Date": "2020/9/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "564.80",
+        "AverageRain": "1344.30",
+        "Date": "2020/9/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "575.50",
+        "AverageRain": "1393.00",
+        "Date": "2020/9/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "575.60",
+        "AverageRain": "1399.10",
+        "Date": "2020/9/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "580.50",
+        "AverageRain": "1405.20",
+        "Date": "2020/9/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "580.50",
+        "AverageRain": "1410.90",
+        "Date": "2020/10/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "580.50",
+        "AverageRain": "1424.30",
+        "Date": "2020/10/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "580.50",
+        "AverageRain": "1429.60",
+        "Date": "2020/10/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "580.50",
+        "AverageRain": "1433.30",
+        "Date": "2020/10/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.10",
+        "AverageRain": "1449.60",
+        "Date": "2020/10/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.20",
+        "AverageRain": "1492.90",
+        "Date": "2020/10/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.20",
+        "AverageRain": "1496.80",
+        "Date": "2020/10/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.20",
+        "AverageRain": "1501.20",
+        "Date": "2020/10/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.30",
+        "AverageRain": "1505.30",
+        "Date": "2020/10/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.40",
+        "AverageRain": "1508.00",
+        "Date": "2020/10/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.50",
+        "AverageRain": "1512.10",
+        "Date": "2020/10/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "581.80",
+        "AverageRain": "1517.10",
+        "Date": "2020/10/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "583.40",
+        "AverageRain": "1525.60",
+        "Date": "2020/10/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "584.20",
+        "AverageRain": "1528.90",
+        "Date": "2020/10/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "584.40",
+        "AverageRain": "1531.00",
+        "Date": "2020/10/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "587.10",
+        "AverageRain": "1531.10",
+        "Date": "2020/10/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "590.50",
+        "AverageRain": "1532.50",
+        "Date": "2020/10/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "591.80",
+        "AverageRain": "1533.90",
+        "Date": "2020/10/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "593.20",
+        "AverageRain": "1536.20",
+        "Date": "2020/10/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "593.80",
+        "AverageRain": "1537.30",
+        "Date": "2020/10/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "596.00",
+        "AverageRain": "1539.70",
+        "Date": "2020/10/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "596.60",
+        "AverageRain": "1545.30",
+        "Date": "2020/10/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "618.70",
+        "AverageRain": "1548.10",
+        "Date": "2020/10/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "618.90",
+        "AverageRain": "1550.20",
+        "Date": "2020/10/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "618.90",
+        "AverageRain": "1555.00",
+        "Date": "2020/10/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.00",
+        "AverageRain": "1555.80",
+        "Date": "2020/10/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.00",
+        "AverageRain": "1556.10",
+        "Date": "2020/10/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.10",
+        "AverageRain": "1556.50",
+        "Date": "2020/10/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.20",
+        "AverageRain": "1556.80",
+        "Date": "2020/10/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.30",
+        "AverageRain": "1557.50",
+        "Date": "2020/10/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": "619.30",
+        "AverageRain": "1560.20",
+        "Date": "2020/10/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1562.00",
+        "Date": "2020/11/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1563.60",
+        "Date": "2020/11/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1566.20",
+        "Date": "2020/11/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1566.60",
+        "Date": "2020/11/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1567.20",
+        "Date": "2020/11/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1568.30",
+        "Date": "2020/11/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1568.80",
+        "Date": "2020/11/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1572.90",
+        "Date": "2020/11/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1577.40",
+        "Date": "2020/11/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1583.10",
+        "Date": "2020/11/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1585.70",
+        "Date": "2020/11/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1586.40",
+        "Date": "2020/11/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1588.90",
+        "Date": "2020/11/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1590.60",
+        "Date": "2020/11/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1593.10",
+        "Date": "2020/11/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1594.40",
+        "Date": "2020/11/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1598.70",
+        "Date": "2020/11/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1600.50",
+        "Date": "2020/11/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1604.60",
+        "Date": "2020/11/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1606.60",
+        "Date": "2020/11/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1608.30",
+        "Date": "2020/11/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1612.80",
+        "Date": "2020/11/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1616.90",
+        "Date": "2020/11/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1617.20",
+        "Date": "2020/11/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1619.50",
+        "Date": "2020/11/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1624.70",
+        "Date": "2020/11/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1629.80",
+        "Date": "2020/11/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1632.60",
+        "Date": "2020/11/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1633.00",
+        "Date": "2020/11/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1635.20",
+        "Date": "2020/11/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1636.90",
+        "Date": "2020/12/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1638.60",
+        "Date": "2020/12/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1641.80",
+        "Date": "2020/12/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1646.70",
+        "Date": "2020/12/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1652.30",
+        "Date": "2020/12/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1655.60",
+        "Date": "2020/12/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1656.90",
+        "Date": "2020/12/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1659.50",
+        "Date": "2020/12/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1662.40",
+        "Date": "2020/12/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1664.30",
+        "Date": "2020/12/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1665.30",
+        "Date": "2020/12/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1666.90",
+        "Date": "2020/12/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1667.30",
+        "Date": "2020/12/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1670.70",
+        "Date": "2020/12/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1674.40",
+        "Date": "2020/12/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1677.70",
+        "Date": "2020/12/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1682.00",
+        "Date": "2020/12/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1683.70",
+        "Date": "2020/12/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1684.30",
+        "Date": "2020/12/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1685.30",
+        "Date": "2020/12/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1686.20",
+        "Date": "2020/12/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1686.80",
+        "Date": "2020/12/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1687.40",
+        "Date": "2020/12/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1689.00",
+        "Date": "2020/12/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1691.30",
+        "Date": "2020/12/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1692.80",
+        "Date": "2020/12/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1695.40",
+        "Date": "2020/12/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1698.20",
+        "Date": "2020/12/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1700.30",
+        "Date": "2020/12/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1705.30",
+        "Date": "2020/12/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1707.20",
+        "Date": "2020/12/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1707.30",
+        "Date": "2021/1/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1708.20",
+        "Date": "2021/1/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1711.50",
+        "Date": "2021/1/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1713.10",
+        "Date": "2021/1/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1714.30",
+        "Date": "2021/1/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1719.60",
+        "Date": "2021/1/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1721.60",
+        "Date": "2021/1/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1724.90",
+        "Date": "2021/1/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1726.80",
+        "Date": "2021/1/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1727.30",
+        "Date": "2021/1/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1730.10",
+        "Date": "2021/1/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1732.60",
+        "Date": "2021/1/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1734.80",
+        "Date": "2021/1/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1736.60",
+        "Date": "2021/1/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1738.10",
+        "Date": "2021/1/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1741.40",
+        "Date": "2021/1/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1744.80",
+        "Date": "2021/1/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1746.00",
+        "Date": "2021/1/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1748.40",
+        "Date": "2021/1/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1749.80",
+        "Date": "2021/1/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1752.30",
+        "Date": "2021/1/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1756.60",
+        "Date": "2021/1/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1762.30",
+        "Date": "2021/1/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1763.90",
+        "Date": "2021/1/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1765.60",
+        "Date": "2021/1/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1768.70",
+        "Date": "2021/1/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1769.90",
+        "Date": "2021/1/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1771.60",
+        "Date": "2021/1/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1776.20",
+        "Date": "2021/1/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1778.30",
+        "Date": "2021/1/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1779.60",
+        "Date": "2021/1/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1780.90",
+        "Date": "2021/2/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1782.40",
+        "Date": "2021/2/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1784.40",
+        "Date": "2021/2/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1786.40",
+        "Date": "2021/2/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1791.10",
+        "Date": "2021/2/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1792.80",
+        "Date": "2021/2/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1796.50",
+        "Date": "2021/2/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1801.60",
+        "Date": "2021/2/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1806.50",
+        "Date": "2021/2/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1807.30",
+        "Date": "2021/2/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1808.10",
+        "Date": "2021/2/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1809.00",
+        "Date": "2021/2/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1811.10",
+        "Date": "2021/2/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1812.60",
+        "Date": "2021/2/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1813.70",
+        "Date": "2021/2/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1818.40",
+        "Date": "2021/2/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1821.90",
+        "Date": "2021/2/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1828.00",
+        "Date": "2021/2/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1835.90",
+        "Date": "2021/2/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1840.50",
+        "Date": "2021/2/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1841.40",
+        "Date": "2021/2/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1844.40",
+        "Date": "2021/2/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1846.50",
+        "Date": "2021/2/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1855.90",
+        "Date": "2021/2/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1861.80",
+        "Date": "2021/2/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1867.60",
+        "Date": "2021/2/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1870.50",
+        "Date": "2021/2/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1876.20",
+        "Date": "2021/2/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1876.20",
+        "Date": "2021/3/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1878.60",
+        "Date": "2021/3/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1882.90",
+        "Date": "2021/3/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1889.00",
+        "Date": "2021/3/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1889.30",
+        "Date": "2021/3/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1893.70",
+        "Date": "2021/3/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1902.60",
+        "Date": "2021/3/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1911.10",
+        "Date": "2021/3/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1915.80",
+        "Date": "2021/3/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1924.40",
+        "Date": "2021/3/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1933.50",
+        "Date": "2021/3/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1938.30",
+        "Date": "2021/3/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1942.80",
+        "Date": "2021/3/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1949.50",
+        "Date": "2021/3/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1953.00",
+        "Date": "2021/3/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1954.20",
+        "Date": "2021/3/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1955.30",
+        "Date": "2021/3/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1955.50",
+        "Date": "2021/3/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1959.00",
+        "Date": "2021/3/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1961.20",
+        "Date": "2021/3/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1963.00",
+        "Date": "2021/3/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1964.20",
+        "Date": "2021/3/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1966.00",
+        "Date": "2021/3/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1974.70",
+        "Date": "2021/3/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1980.80",
+        "Date": "2021/3/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1987.10",
+        "Date": "2021/3/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "1991.30",
+        "Date": "2021/3/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2002.20",
+        "Date": "2021/3/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2006.00",
+        "Date": "2021/3/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2011.10",
+        "Date": "2021/3/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2015.70",
+        "Date": "2021/3/31"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2024.00",
+        "Date": "2021/4/1"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2029.90",
+        "Date": "2021/4/2"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2033.00",
+        "Date": "2021/4/3"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2038.10",
+        "Date": "2021/4/4"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2039.40",
+        "Date": "2021/4/5"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2042.40",
+        "Date": "2021/4/6"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2045.90",
+        "Date": "2021/4/7"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2047.90",
+        "Date": "2021/4/8"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2051.80",
+        "Date": "2021/4/9"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2053.80",
+        "Date": "2021/4/10"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2061.30",
+        "Date": "2021/4/11"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2065.70",
+        "Date": "2021/4/12"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2069.70",
+        "Date": "2021/4/13"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2075.60",
+        "Date": "2021/4/14"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2080.10",
+        "Date": "2021/4/15"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2084.60",
+        "Date": "2021/4/16"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2090.30",
+        "Date": "2021/4/17"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2093.80",
+        "Date": "2021/4/18"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2097.90",
+        "Date": "2021/4/19"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2099.70",
+        "Date": "2021/4/20"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2104.40",
+        "Date": "2021/4/21"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2113.10",
+        "Date": "2021/4/22"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2117.70",
+        "Date": "2021/4/23"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2121.70",
+        "Date": "2021/4/24"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2126.40",
+        "Date": "2021/4/25"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2127.90",
+        "Date": "2021/4/26"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2138.50",
+        "Date": "2021/4/27"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2147.10",
+        "Date": "2021/4/28"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2150.50",
+        "Date": "2021/4/29"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2152.80",
+        "Date": "2021/4/30"
+    },
+    {
+        "RSID": "04",
+        "RSNmae": "Shimen",
+        "2020Rain": null,
+        "AverageRain": "2155.00",
+        "Date": "2021/5/1"
+    }
+]
+}
