@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>雨量數據圖表</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <style>
+        #chart_div {
+            min-width: 500px;
+            min-height: 350px;
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+        .annotation {
+            position: absolute;
+            font-size: 14px;
+            color: black;
+            pointer-events: none;
+            white-space: nowrap;
+        }
+    </style>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function getParameterByName(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function drawChart() {
+            // 從 URL 參數 'file' 中獲取 JSON 檔案的 URL
+            const fileUrl = getParameterByName('file');
+
+            if (!fileUrl) {
+                console.error('未指定檔案 URL');
+                return;
+            }
+
+            fetch(fileUrl)
+                .then(response => response.json())
+                .then(data => {
+                    const dataList = data.DataList;
+
+                    if (!dataList || !Array.isArray(dataList)) {
+                        console.error('數據格式無效');
+                        return;
+                    }
+
+                    let dataTable = new google.visualization.DataTable();
+                    dataTable.addColumn('string', '日期');
+                    dataTable.addColumn('number', '2020年累積雨量');
+                    dataTable.addColumn('number', '歷史同期平均雨量');
+
+                    let date20201031 = '';
+                    let rain2020Oct31 = 0;
+                    let rainAvgOct31 = 0;
+
+                    dataList.forEach(item => {
+                        dataTable.addRow([
+                            item.Date,
+                            parseFloat(item['2020Rain']),
+                            parseFloat(item['AverageRain'])
+                        ]);
+
+                        if (item.Date === '2020/10/31') {
+                            date20201031 = item.Date;
+                            rain2020Oct31 = parseFloat(item['2020Rain']);
+                            rainAvgOct31 = parseFloat(item['AverageRain']);
+                        }
+                    });
+
+                    let diff = rainAvgOct31 - rain2020Oct31;
+
+                    let options = {
+                        title: `雨量數據 (${fileUrl.split('/').pop().split('.')[0]})`,
+                        curveType: 'function',
+                        legend: { 
+                            position: 'top', 
+                            textStyle: { 
+                                color: 'black', 
+                                fontSize: 12 
+                            }
+                        },
+                        hAxis: { 
+                            title: '日期' 
+                        },
+                        vAxis: { 
+                            title: '雨量 (毫米)', 
+                            format: 'decimal',
+                            viewWindow: { min: 0 }
+                        },
+                        series: {
+                            0: { 
+                                color: 'red',
+                                targetAxisIndex: 0
+                            },
+                            1: { 
+                                color: 'blue',
+                                targetAxisIndex: 0
+                            }
+                        },
+                        height: 350,
+                        width: 500
+                    };
+
+                    let chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+                    chart.draw(dataTable, options);
+
+                    // 顯示 2020/10/31 的數據差異
+                    if (date20201031) {
+                        google.visualization.events.addListener(chart, 'ready', function () {
+                            const chartWrapper = document.getElementById('chart_div');
+                            const chartArea = chartWrapper.getBoundingClientRect();
+                            const xAxisLabels = document.querySelectorAll('.google-visualization-axis-label');
+
+                            let xPos = 0;
+                            let yPos = 0;
+
+                            xAxisLabels.forEach(label => {
+                                if (label.textContent === '2020/10/31') {
+                                    const rect = label.getBoundingClientRect();
+                                    xPos = rect.left + (rect.width / 2) - chartArea.left;
+                                    yPos = rect.top + rect.height - chartArea.top; // 將文字顯示在 x 軸標籤的下方
+                                }
+                            });
+
+                            let annotation = document.createElement('div');
+                            annotation.classList.add('annotation');
+                            annotation.textContent = `差異: ${diff.toFixed(1)} mm`;
+                            annotation.style.left = `${xPos}px`;
+                            annotation.style.top = `${yPos}px`;
+                            annotation.style.transform = `translateX(-50%)`;
+
+                            chartWrapper.appendChild(annotation);
+                        });
+                    }
+                })
+                .catch(error => console.error('獲取數據時出錯:', error));
+        }
+
+        window.onresize = drawChart;
+    </script>
+</head>
+<body>
+    <div id="chart_div"></div>
+</body>
+</html>
