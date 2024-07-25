@@ -47,17 +47,18 @@
                     dataTable.addColumn('number', '歷史同期平均雨量');
 
                     dataList.forEach(item => {
-                        const date = new Date(item.Date);
-                        const day = date.getDate();
-
-                        if (day === 1) {
-                            dataTable.addRow([
-                                item.Date,
-                                parseFloat(item['2020Rain']),
-                                parseFloat(item['AverageRain'])
-                            ]);
-                        }
+                        let date = new Date(item.Date);
+                        let formattedDate = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
+                        dataTable.addRow([
+                            formattedDate,
+                            parseFloat(item['2020Rain']),
+                            parseFloat(item['AverageRain'])
+                        ]);
                     });
+
+                    // 設置x軸的ticks，以便更好地顯示日期
+                    let dates = dataTable.getDistinctValues(0);
+                    let ticks = dates.filter(date => date.endsWith('-01')); // 每月1日顯示一次
 
                     let options = {
                         title: `雨量數據 (${fileUrl.split('/').pop().split('.')[0]})`,
@@ -72,13 +73,14 @@
                         hAxis: { 
                             title: '日期',
                             gridlines: { count: -1 },
-                            ticks: dataTable.getDistinctValues(0).filter(date => date.endsWith('/01')) // 僅顯示每月1日
+                            ticks: ticks, // 使用設定的 ticks
+                            textStyle: { fontSize: 10 } // 調整字體大小
                         },
                         vAxis: { 
                             title: '雨量 (毫米)', 
                             format: 'decimal',
                             viewWindow: { min: 0 },
-                            gridlines: { count: -1 } // 每日標示線
+                            gridlines: { count: -1 } 
                         },
                         series: {
                             0: { 
