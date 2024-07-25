@@ -11,7 +11,7 @@ body {
 
 .container {
     text-align: center;
-    width: 90%;
+    width: 100%;
     max-width: 1200px;
     padding: 20px;
     box-sizing: border-box;
@@ -84,6 +84,15 @@ body {
     height: auto;
     border: 5px solid black;
     cursor: pointer;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+.fade-in {
+    opacity: 1;
 }
 
 /* Media Queries for responsiveness */

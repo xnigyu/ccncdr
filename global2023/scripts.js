@@ -5,8 +5,9 @@ for (let year = 1; year <= 143; year++) {
 
 let currentIndex = 0;
 let intervalId = null;
-let isPlaying = true; // 用於跟蹤播放狀態
-
+let isPlaying = true; // 用於跟踪播放狀態
+let startTime = null;
+const duration = 300; // 動畫持續時間（毫秒）
 const imageElement = document.getElementById('image');
 const slider = document.getElementById('slider');
 const yearsContainer = document.querySelector('.years');
@@ -18,6 +19,30 @@ for (let year = 1; year <= 143; year += 10) {
     yearsContainer.appendChild(span);
 }
 
+// 緩動函數：easeInOutQuad
+function easeInOutQuad(t) {
+    return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+}
+
+function animateImageTransition(timestamp) {
+    if (!startTime) startTime = timestamp;
+    const elapsed = timestamp - startTime;
+
+    const progress = Math.min(elapsed / duration, 1);
+    const easedProgress = easeInOutQuad(progress);
+
+    const nextIndex = (currentIndex + 1) % images.length;
+    imageElement.style.opacity = 1 - easedProgress;
+
+    if (progress < 1) {
+        requestAnimationFrame(animateImageTransition);
+    } else {
+        showImage(nextIndex);
+        startTime = null;
+        imageElement.style.opacity = 1;
+    }
+}
+
 function showImage(index) {
     if (index >= 0 && index < images.length) {
         currentIndex = index;
@@ -26,13 +51,24 @@ function showImage(index) {
     }
 }
 
+function fadeImage(index) {
+    imageElement.classList.add('fade-out');
+    setTimeout(() => {
+        showImage(index);
+        imageElement.classList.remove('fade-out');
+        imageElement.classList.add('fade-in');
+    }, 500);
+    setTimeout(() => {
+        imageElement.classList.remove('fade-in');
+    }, 1000);
+}
+
 function showNextImage() {
-    let nextIndex = (currentIndex + 1) % images.length;
-    showImage(nextIndex);
+    fadeImage((currentIndex + 1) % images.length);
 }
 
 function startAutoPlay() {
-    intervalId = setInterval(showNextImage, 1500); // 每張圖片1.5秒
+    intervalId = setInterval(showNextImage, duration); // 每張圖片1秒
     isPlaying = true;
 }
 
