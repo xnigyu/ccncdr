@@ -1,2570 +1,2562 @@
 {
-"ID":"01",
-"Name":"",
-"Exec":"",
-"DataList":
-[
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.00",
-        "AverageRain": "9.20",
-        "Date": "2020/5/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.00",
-        "AverageRain": "18.10",
-        "Date": "2020/5/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.00",
-        "AverageRain": "23.40",
-        "Date": "2020/5/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.00",
-        "AverageRain": "28.10",
-        "Date": "2020/5/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.00",
-        "AverageRain": "38.70",
-        "Date": "2020/5/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.03",
-        "AverageRain": "48.00",
-        "Date": "2020/5/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.03",
-        "AverageRain": "51.60",
-        "Date": "2020/5/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.03",
-        "AverageRain": "56.00",
-        "Date": "2020/5/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "0.03",
-        "AverageRain": "62.30",
-        "Date": "2020/5/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "1.08",
-        "AverageRain": "68.00",
-        "Date": "2020/5/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "5.06",
-        "AverageRain": "73.50",
-        "Date": "2020/5/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "13.04",
-        "AverageRain": "84.70",
-        "Date": "2020/5/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "13.04",
-        "AverageRain": "93.80",
-        "Date": "2020/5/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "13.04",
-        "AverageRain": "99.40",
-        "Date": "2020/5/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "13.04",
-        "AverageRain": "107.60",
-        "Date": "2020/5/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "23.35",
-        "AverageRain": "117.50",
-        "Date": "2020/5/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "23.92",
-        "AverageRain": "136.70",
-        "Date": "2020/5/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "27.68",
-        "AverageRain": "151.90",
-        "Date": "2020/5/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "40.82",
-        "AverageRain": "165.40",
-        "Date": "2020/5/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "44.54",
-        "AverageRain": "186.70",
-        "Date": "2020/5/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "73.96",
-        "AverageRain": "199.60",
-        "Date": "2020/5/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "149.84",
-        "AverageRain": "207.60",
-        "Date": "2020/5/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "159.68",
-        "AverageRain": "222.70",
-        "Date": "2020/5/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "170.70",
-        "AverageRain": "231.00",
-        "Date": "2020/5/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "172.31",
-        "AverageRain": "234.80",
-        "Date": "2020/5/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "209.49",
-        "AverageRain": "242.50",
-        "Date": "2020/5/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "228.47",
-        "AverageRain": "249.90",
-        "Date": "2020/5/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "261.01",
-        "AverageRain": "259.60",
-        "Date": "2020/5/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "270.25",
-        "AverageRain": "273.70",
-        "Date": "2020/5/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "282.40",
-        "Date": "2020/5/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "286.50",
-        "Date": "2020/5/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "291.90",
-        "Date": "2020/6/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "313.60",
-        "Date": "2020/6/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "331.30",
-        "Date": "2020/6/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "345.60",
-        "Date": "2020/6/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "272.63",
-        "AverageRain": "351.20",
-        "Date": "2020/6/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "284.54",
-        "AverageRain": "357.40",
-        "Date": "2020/6/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "299.15",
-        "AverageRain": "370.80",
-        "Date": "2020/6/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "319.22",
-        "AverageRain": "389.10",
-        "Date": "2020/6/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "324.92",
-        "AverageRain": "411.00",
-        "Date": "2020/6/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "324.92",
-        "AverageRain": "433.40",
-        "Date": "2020/6/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "324.92",
-        "AverageRain": "465.20",
-        "Date": "2020/6/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "325.62",
-        "AverageRain": "499.50",
-        "Date": "2020/6/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.02",
-        "AverageRain": "516.70",
-        "Date": "2020/6/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "537.40",
-        "Date": "2020/6/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "550.90",
-        "Date": "2020/6/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "556.70",
-        "Date": "2020/6/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "568.40",
-        "Date": "2020/6/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "573.30",
-        "Date": "2020/6/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "578.90",
-        "Date": "2020/6/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "586.70",
-        "Date": "2020/6/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "594.30",
-        "Date": "2020/6/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "597.80",
-        "Date": "2020/6/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "603.80",
-        "Date": "2020/6/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "608.40",
-        "Date": "2020/6/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.04",
-        "AverageRain": "614.60",
-        "Date": "2020/6/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "326.05",
-        "AverageRain": "616.60",
-        "Date": "2020/6/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "329.61",
-        "AverageRain": "619.00",
-        "Date": "2020/6/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "329.61",
-        "AverageRain": "621.40",
-        "Date": "2020/6/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "329.66",
-        "AverageRain": "623.10",
-        "Date": "2020/6/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "329.98",
-        "AverageRain": "625.90",
-        "Date": "2020/6/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "334.84",
-        "AverageRain": "631.10",
-        "Date": "2020/7/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "338.02",
-        "AverageRain": "643.30",
-        "Date": "2020/7/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "338.02",
-        "AverageRain": "658.40",
-        "Date": "2020/7/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "338.91",
-        "AverageRain": "666.20",
-        "Date": "2020/7/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "338.91",
-        "AverageRain": "668.40",
-        "Date": "2020/7/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "338.91",
-        "AverageRain": "668.80",
-        "Date": "2020/7/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "339.48",
-        "AverageRain": "671.80",
-        "Date": "2020/7/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "342.25",
-        "AverageRain": "680.30",
-        "Date": "2020/7/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.05",
-        "AverageRain": "681.50",
-        "Date": "2020/7/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.05",
-        "AverageRain": "686.60",
-        "Date": "2020/7/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.14",
-        "AverageRain": "693.90",
-        "Date": "2020/7/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.21",
-        "AverageRain": "697.40",
-        "Date": "2020/7/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.21",
-        "AverageRain": "720.70",
-        "Date": "2020/7/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.21",
-        "AverageRain": "726.70",
-        "Date": "2020/7/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.23",
-        "AverageRain": "730.10",
-        "Date": "2020/7/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.40",
-        "AverageRain": "731.30",
-        "Date": "2020/7/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.40",
-        "AverageRain": "748.00",
-        "Date": "2020/7/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "344.40",
-        "AverageRain": "776.80",
-        "Date": "2020/7/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "347.98",
-        "AverageRain": "794.20",
-        "Date": "2020/7/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "350.26",
-        "AverageRain": "798.00",
-        "Date": "2020/7/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "350.69",
-        "AverageRain": "798.70",
-        "Date": "2020/7/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "351.36",
-        "AverageRain": "804.20",
-        "Date": "2020/7/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "354.25",
-        "AverageRain": "815.90",
-        "Date": "2020/7/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "354.27",
-        "AverageRain": "819.20",
-        "Date": "2020/7/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "355.13",
-        "AverageRain": "823.60",
-        "Date": "2020/7/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "355.58",
-        "AverageRain": "828.70",
-        "Date": "2020/7/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "357.02",
-        "AverageRain": "840.00",
-        "Date": "2020/7/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "365.89",
-        "AverageRain": "858.60",
-        "Date": "2020/7/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "365.91",
-        "AverageRain": "868.40",
-        "Date": "2020/7/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "367.92",
-        "AverageRain": "874.00",
-        "Date": "2020/7/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "369.00",
-        "AverageRain": "884.40",
-        "Date": "2020/7/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "369.00",
-        "AverageRain": "895.50",
-        "Date": "2020/8/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "369.93",
-        "AverageRain": "913.90",
-        "Date": "2020/8/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "378.76",
-        "AverageRain": "916.90",
-        "Date": "2020/8/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "380.57",
-        "AverageRain": "926.70",
-        "Date": "2020/8/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "381.37",
-        "AverageRain": "936.70",
-        "Date": "2020/8/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "382.32",
-        "AverageRain": "941.60",
-        "Date": "2020/8/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "382.32",
-        "AverageRain": "969.30",
-        "Date": "2020/8/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "382.37",
-        "AverageRain": "998.00",
-        "Date": "2020/8/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "382.37",
-        "AverageRain": "1021.30",
-        "Date": "2020/8/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "393.31",
-        "AverageRain": "1027.90",
-        "Date": "2020/8/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "393.41",
-        "AverageRain": "1035.80",
-        "Date": "2020/8/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "393.53",
-        "AverageRain": "1048.00",
-        "Date": "2020/8/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "396.05",
-        "AverageRain": "1056.70",
-        "Date": "2020/8/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "396.87",
-        "AverageRain": "1061.00",
-        "Date": "2020/8/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "397.14",
-        "AverageRain": "1066.90",
-        "Date": "2020/8/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "397.14",
-        "AverageRain": "1073.60",
-        "Date": "2020/8/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "397.39",
-        "AverageRain": "1083.90",
-        "Date": "2020/8/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "400.44",
-        "AverageRain": "1104.90",
-        "Date": "2020/8/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "400.44",
-        "AverageRain": "1111.50",
-        "Date": "2020/8/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "400.44",
-        "AverageRain": "1117.10",
-        "Date": "2020/8/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "400.66",
-        "AverageRain": "1125.00",
-        "Date": "2020/8/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "421.22",
-        "AverageRain": "1132.90",
-        "Date": "2020/8/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "421.51",
-        "AverageRain": "1141.00",
-        "Date": "2020/8/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "421.51",
-        "AverageRain": "1166.60",
-        "Date": "2020/8/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "421.51",
-        "AverageRain": "1176.70",
-        "Date": "2020/8/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "423.70",
-        "AverageRain": "1180.60",
-        "Date": "2020/8/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "428.89",
-        "AverageRain": "1185.60",
-        "Date": "2020/8/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "428.93",
-        "AverageRain": "1193.70",
-        "Date": "2020/8/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "429.41",
-        "AverageRain": "1201.10",
-        "Date": "2020/8/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "429.41",
-        "AverageRain": "1205.80",
-        "Date": "2020/8/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "429.51",
-        "AverageRain": "1218.30",
-        "Date": "2020/8/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "430.19",
-        "AverageRain": "1234.80",
-        "Date": "2020/9/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "430.71",
-        "AverageRain": "1240.40",
-        "Date": "2020/9/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "432.72",
-        "AverageRain": "1243.10",
-        "Date": "2020/9/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "432.94",
-        "AverageRain": "1245.30",
-        "Date": "2020/9/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "432.94",
-        "AverageRain": "1248.20",
-        "Date": "2020/9/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "432.94",
-        "AverageRain": "1250.40",
-        "Date": "2020/9/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "432.94",
-        "AverageRain": "1253.60",
-        "Date": "2020/9/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "434.35",
-        "AverageRain": "1256.60",
-        "Date": "2020/9/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "435.19",
-        "AverageRain": "1259.60",
-        "Date": "2020/9/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "435.30",
-        "AverageRain": "1263.40",
-        "Date": "2020/9/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "435.30",
-        "AverageRain": "1265.50",
-        "Date": "2020/9/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "457.81",
-        "AverageRain": "1271.70",
-        "Date": "2020/9/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "457.81",
-        "AverageRain": "1288.00",
-        "Date": "2020/9/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "459.01",
-        "AverageRain": "1313.10",
-        "Date": "2020/9/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "474.84",
-        "AverageRain": "1327.20",
-        "Date": "2020/9/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "474.89",
-        "AverageRain": "1330.90",
-        "Date": "2020/9/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "474.90",
-        "AverageRain": "1334.00",
-        "Date": "2020/9/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "474.90",
-        "AverageRain": "1341.90",
-        "Date": "2020/9/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "478.48",
-        "AverageRain": "1355.20",
-        "Date": "2020/9/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "480.84",
-        "AverageRain": "1358.20",
-        "Date": "2020/9/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "480.84",
-        "AverageRain": "1373.10",
-        "Date": "2020/9/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "480.85",
-        "AverageRain": "1386.90",
-        "Date": "2020/9/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "480.85",
-        "AverageRain": "1391.20",
-        "Date": "2020/9/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "480.85",
-        "AverageRain": "1393.20",
-        "Date": "2020/9/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "483.64",
-        "AverageRain": "1394.30",
-        "Date": "2020/9/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "483.64",
-        "AverageRain": "1395.50",
-        "Date": "2020/9/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "487.59",
-        "AverageRain": "1416.00",
-        "Date": "2020/9/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "508.23",
-        "AverageRain": "1450.30",
-        "Date": "2020/9/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "510.75",
-        "AverageRain": "1463.80",
-        "Date": "2020/9/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.13",
-        "AverageRain": "1469.00",
-        "Date": "2020/9/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.13",
-        "AverageRain": "1473.00",
-        "Date": "2020/10/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.13",
-        "AverageRain": "1488.80",
-        "Date": "2020/10/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.13",
-        "AverageRain": "1493.90",
-        "Date": "2020/10/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.13",
-        "AverageRain": "1495.80",
-        "Date": "2020/10/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.47",
-        "AverageRain": "1507.30",
-        "Date": "2020/10/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1530.00",
-        "Date": "2020/10/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1538.50",
-        "Date": "2020/10/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1540.40",
-        "Date": "2020/10/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1543.20",
-        "Date": "2020/10/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1544.60",
-        "Date": "2020/10/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.50",
-        "AverageRain": "1549.10",
-        "Date": "2020/10/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "514.56",
-        "AverageRain": "1552.30",
-        "Date": "2020/10/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "515.33",
-        "AverageRain": "1558.70",
-        "Date": "2020/10/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "518.07",
-        "AverageRain": "1563.70",
-        "Date": "2020/10/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "518.07",
-        "AverageRain": "1568.40",
-        "Date": "2020/10/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "519.27",
-        "AverageRain": "1569.30",
-        "Date": "2020/10/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "521.83",
-        "AverageRain": "1570.30",
-        "Date": "2020/10/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "522.50",
-        "AverageRain": "1570.70",
-        "Date": "2020/10/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "523.20",
-        "AverageRain": "1571.70",
-        "Date": "2020/10/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "523.20",
-        "AverageRain": "1573.00",
-        "Date": "2020/10/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "529.33",
-        "AverageRain": "1576.20",
-        "Date": "2020/10/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "531.48",
-        "AverageRain": "1577.50",
-        "Date": "2020/10/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.10",
-        "AverageRain": "1577.50",
-        "Date": "2020/10/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.10",
-        "AverageRain": "1578.90",
-        "Date": "2020/10/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.11",
-        "AverageRain": "1583.30",
-        "Date": "2020/10/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.11",
-        "AverageRain": "1583.30",
-        "Date": "2020/10/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.11",
-        "AverageRain": "1583.40",
-        "Date": "2020/10/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.11",
-        "AverageRain": "1583.40",
-        "Date": "2020/10/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.13",
-        "AverageRain": "1583.50",
-        "Date": "2020/10/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.13",
-        "AverageRain": "1584.10",
-        "Date": "2020/10/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": "547.13",
-        "AverageRain": "1587.00",
-        "Date": "2020/10/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1588.70",
-        "Date": "2020/11/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1591.80",
-        "Date": "2020/11/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1595.90",
-        "Date": "2020/11/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1597.00",
-        "Date": "2020/11/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1598.00",
-        "Date": "2020/11/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1598.50",
-        "Date": "2020/11/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1599.70",
-        "Date": "2020/11/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1602.00",
-        "Date": "2020/11/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1606.80",
-        "Date": "2020/11/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1614.90",
-        "Date": "2020/11/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1617.30",
-        "Date": "2020/11/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1620.90",
-        "Date": "2020/11/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1624.80",
-        "Date": "2020/11/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1627.10",
-        "Date": "2020/11/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1630.80",
-        "Date": "2020/11/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1633.10",
-        "Date": "2020/11/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1637.30",
-        "Date": "2020/11/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1639.60",
-        "Date": "2020/11/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1642.40",
-        "Date": "2020/11/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1645.20",
-        "Date": "2020/11/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1648.30",
-        "Date": "2020/11/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1652.40",
-        "Date": "2020/11/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1657.00",
-        "Date": "2020/11/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1658.30",
-        "Date": "2020/11/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1660.10",
-        "Date": "2020/11/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1665.30",
-        "Date": "2020/11/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1671.00",
-        "Date": "2020/11/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1672.70",
-        "Date": "2020/11/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1675.00",
-        "Date": "2020/11/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1677.90",
-        "Date": "2020/11/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1679.50",
-        "Date": "2020/12/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1681.60",
-        "Date": "2020/12/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1690.10",
-        "Date": "2020/12/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1696.20",
-        "Date": "2020/12/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1701.30",
-        "Date": "2020/12/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1703.90",
-        "Date": "2020/12/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1705.50",
-        "Date": "2020/12/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1707.60",
-        "Date": "2020/12/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1711.20",
-        "Date": "2020/12/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1713.60",
-        "Date": "2020/12/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1715.00",
-        "Date": "2020/12/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1717.00",
-        "Date": "2020/12/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1718.60",
-        "Date": "2020/12/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1721.70",
-        "Date": "2020/12/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1725.60",
-        "Date": "2020/12/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1730.60",
-        "Date": "2020/12/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1734.40",
-        "Date": "2020/12/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1735.50",
-        "Date": "2020/12/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1736.30",
-        "Date": "2020/12/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1737.20",
-        "Date": "2020/12/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1737.80",
-        "Date": "2020/12/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1738.30",
-        "Date": "2020/12/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1738.50",
-        "Date": "2020/12/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1739.80",
-        "Date": "2020/12/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1742.00",
-        "Date": "2020/12/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1743.50",
-        "Date": "2020/12/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1745.30",
-        "Date": "2020/12/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1749.80",
-        "Date": "2020/12/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1753.40",
-        "Date": "2020/12/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1759.00",
-        "Date": "2020/12/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1761.70",
-        "Date": "2020/12/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1761.80",
-        "Date": "2021/1/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1762.80",
-        "Date": "2021/1/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1768.50",
-        "Date": "2021/1/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1771.20",
-        "Date": "2021/1/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1772.50",
-        "Date": "2021/1/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1778.40",
-        "Date": "2021/1/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1782.20",
-        "Date": "2021/1/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1786.90",
-        "Date": "2021/1/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1791.40",
-        "Date": "2021/1/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1792.50",
-        "Date": "2021/1/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1796.30",
-        "Date": "2021/1/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1798.80",
-        "Date": "2021/1/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1802.40",
-        "Date": "2021/1/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1804.30",
-        "Date": "2021/1/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1806.20",
-        "Date": "2021/1/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1810.50",
-        "Date": "2021/1/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1815.40",
-        "Date": "2021/1/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1818.00",
-        "Date": "2021/1/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1821.90",
-        "Date": "2021/1/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1824.40",
-        "Date": "2021/1/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1828.60",
-        "Date": "2021/1/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1832.80",
-        "Date": "2021/1/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1839.10",
-        "Date": "2021/1/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1840.90",
-        "Date": "2021/1/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1843.00",
-        "Date": "2021/1/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1847.20",
-        "Date": "2021/1/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1849.30",
-        "Date": "2021/1/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1852.20",
-        "Date": "2021/1/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1858.60",
-        "Date": "2021/1/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1862.10",
-        "Date": "2021/1/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1863.30",
-        "Date": "2021/1/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1864.90",
-        "Date": "2021/2/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1866.00",
-        "Date": "2021/2/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1868.60",
-        "Date": "2021/2/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1871.90",
-        "Date": "2021/2/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1878.30",
-        "Date": "2021/2/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1879.70",
-        "Date": "2021/2/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1883.90",
-        "Date": "2021/2/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1891.20",
-        "Date": "2021/2/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1898.40",
-        "Date": "2021/2/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1899.90",
-        "Date": "2021/2/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1900.50",
-        "Date": "2021/2/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1902.40",
-        "Date": "2021/2/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1905.00",
-        "Date": "2021/2/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1907.10",
-        "Date": "2021/2/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1908.10",
-        "Date": "2021/2/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1913.70",
-        "Date": "2021/2/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1919.00",
-        "Date": "2021/2/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1928.50",
-        "Date": "2021/2/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1936.30",
-        "Date": "2021/2/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1942.00",
-        "Date": "2021/2/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1944.00",
-        "Date": "2021/2/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1950.40",
-        "Date": "2021/2/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1954.80",
-        "Date": "2021/2/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1962.50",
-        "Date": "2021/2/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1969.40",
-        "Date": "2021/2/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1976.30",
-        "Date": "2021/2/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1978.90",
-        "Date": "2021/2/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1984.90",
-        "Date": "2021/2/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1985.00",
-        "Date": "2021/3/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1988.30",
-        "Date": "2021/3/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "1993.80",
-        "Date": "2021/3/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2002.00",
-        "Date": "2021/3/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2002.60",
-        "Date": "2021/3/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2007.70",
-        "Date": "2021/3/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2017.40",
-        "Date": "2021/3/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2029.80",
-        "Date": "2021/3/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2037.60",
-        "Date": "2021/3/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2051.40",
-        "Date": "2021/3/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2064.60",
-        "Date": "2021/3/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2071.60",
-        "Date": "2021/3/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2081.10",
-        "Date": "2021/3/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2088.20",
-        "Date": "2021/3/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2093.00",
-        "Date": "2021/3/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2095.60",
-        "Date": "2021/3/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2098.20",
-        "Date": "2021/3/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2098.50",
-        "Date": "2021/3/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2101.70",
-        "Date": "2021/3/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2104.10",
-        "Date": "2021/3/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2105.90",
-        "Date": "2021/3/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2107.60",
-        "Date": "2021/3/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2109.50",
-        "Date": "2021/3/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2118.70",
-        "Date": "2021/3/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2127.90",
-        "Date": "2021/3/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2134.70",
-        "Date": "2021/3/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2141.20",
-        "Date": "2021/3/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2155.60",
-        "Date": "2021/3/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2161.40",
-        "Date": "2021/3/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2166.30",
-        "Date": "2021/3/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2171.70",
-        "Date": "2021/3/31"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2180.30",
-        "Date": "2021/4/1"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2186.60",
-        "Date": "2021/4/2"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2190.90",
-        "Date": "2021/4/3"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2196.90",
-        "Date": "2021/4/4"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2199.00",
-        "Date": "2021/4/5"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2205.70",
-        "Date": "2021/4/6"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2211.80",
-        "Date": "2021/4/7"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2215.50",
-        "Date": "2021/4/8"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2220.80",
-        "Date": "2021/4/9"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2224.10",
-        "Date": "2021/4/10"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2233.10",
-        "Date": "2021/4/11"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2238.90",
-        "Date": "2021/4/12"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2244.70",
-        "Date": "2021/4/13"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2254.10",
-        "Date": "2021/4/14"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2262.20",
-        "Date": "2021/4/15"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2270.50",
-        "Date": "2021/4/16"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2276.80",
-        "Date": "2021/4/17"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2281.60",
-        "Date": "2021/4/18"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2285.90",
-        "Date": "2021/4/19"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2289.30",
-        "Date": "2021/4/20"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2296.10",
-        "Date": "2021/4/21"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2306.20",
-        "Date": "2021/4/22"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2313.00",
-        "Date": "2021/4/23"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2319.50",
-        "Date": "2021/4/24"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2324.70",
-        "Date": "2021/4/25"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2328.60",
-        "Date": "2021/4/26"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2340.80",
-        "Date": "2021/4/27"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2355.50",
-        "Date": "2021/4/28"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2362.20",
-        "Date": "2021/4/29"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2366.30",
-        "Date": "2021/4/30"
-    },
-    {
-        "RSID": "01",
-        "RSNmae": "Deji",
-        "2020Rain": null,
-        "AverageRain": "2372.30",
-        "Date": "2021/5/1"
-    }
-]
+    "ID": "01",
+    "Name": "",
+    "Exec": "",
+    "DataList": [
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "7.3",
+            "Date": "2020/5/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "14.9",
+            "Date": "2020/5/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "22.1",
+            "Date": "2020/5/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "28.7",
+            "Date": "2020/5/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "37.4",
+            "Date": "2020/5/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "43.4",
+            "Date": "2020/5/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "47.5",
+            "Date": "2020/5/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "50.4",
+            "Date": "2020/5/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "0.0",
+            "AverageRain": "55.7",
+            "Date": "2020/5/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "1.4",
+            "AverageRain": "61.3",
+            "Date": "2020/5/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "4.5",
+            "AverageRain": "66.6",
+            "Date": "2020/5/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "12.8",
+            "AverageRain": "73.9",
+            "Date": "2020/5/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "12.8",
+            "AverageRain": "79.8",
+            "Date": "2020/5/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "12.8",
+            "AverageRain": "83.9",
+            "Date": "2020/5/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "12.8",
+            "AverageRain": "89.7",
+            "Date": "2020/5/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "24.9",
+            "AverageRain": "96.9",
+            "Date": "2020/5/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "25.4",
+            "AverageRain": "110.7",
+            "Date": "2020/5/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "29.6",
+            "AverageRain": "121.1",
+            "Date": "2020/5/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "40.6",
+            "AverageRain": "132.7",
+            "Date": "2020/5/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "44.2",
+            "AverageRain": "144.6",
+            "Date": "2020/5/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "73.6",
+            "AverageRain": "158.4",
+            "Date": "2020/5/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "149.8",
+            "AverageRain": "174.0",
+            "Date": "2020/5/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "158.3",
+            "AverageRain": "185.3",
+            "Date": "2020/5/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "169.6",
+            "AverageRain": "191.2",
+            "Date": "2020/5/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "170.9",
+            "AverageRain": "196.8",
+            "Date": "2020/5/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "208.6",
+            "AverageRain": "205.8",
+            "Date": "2020/5/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "228.1",
+            "AverageRain": "216.6",
+            "Date": "2020/5/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "260.7",
+            "AverageRain": "229.6",
+            "Date": "2020/5/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "269.9",
+            "AverageRain": "241.1",
+            "Date": "2020/5/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "251.8",
+            "Date": "2020/5/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "262.4",
+            "Date": "2020/5/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "269.5",
+            "Date": "2020/6/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "287.0",
+            "Date": "2020/6/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "304.2",
+            "Date": "2020/6/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "315.4",
+            "Date": "2020/6/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "272.5",
+            "AverageRain": "328.4",
+            "Date": "2020/6/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "284.4",
+            "AverageRain": "344.6",
+            "Date": "2020/6/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "299.2",
+            "AverageRain": "358.0",
+            "Date": "2020/6/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "319.1",
+            "AverageRain": "375.4",
+            "Date": "2020/6/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "324.8",
+            "AverageRain": "390.3",
+            "Date": "2020/6/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "324.8",
+            "AverageRain": "407.7",
+            "Date": "2020/6/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "324.8",
+            "AverageRain": "424.6",
+            "Date": "2020/6/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.5",
+            "AverageRain": "440.6",
+            "Date": "2020/6/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "454.9",
+            "Date": "2020/6/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "466.3",
+            "Date": "2020/6/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "475.1",
+            "Date": "2020/6/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "481.4",
+            "Date": "2020/6/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "488.6",
+            "Date": "2020/6/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "496.5",
+            "Date": "2020/6/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "503.1",
+            "Date": "2020/6/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "511.7",
+            "Date": "2020/6/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "519.3",
+            "Date": "2020/6/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "524.7",
+            "Date": "2020/6/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "536.1",
+            "Date": "2020/6/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "543.1",
+            "Date": "2020/6/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.8",
+            "AverageRain": "547.6",
+            "Date": "2020/6/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "325.9",
+            "AverageRain": "549.7",
+            "Date": "2020/6/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "330.2",
+            "AverageRain": "552.3",
+            "Date": "2020/6/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "330.2",
+            "AverageRain": "554.8",
+            "Date": "2020/6/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "330.3",
+            "AverageRain": "556.9",
+            "Date": "2020/6/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "330.6",
+            "AverageRain": "558.9",
+            "Date": "2020/6/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "335.8",
+            "AverageRain": "562.4",
+            "Date": "2020/7/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "339.6",
+            "AverageRain": "568.8",
+            "Date": "2020/7/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "339.6",
+            "AverageRain": "578.0",
+            "Date": "2020/7/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "340.3",
+            "AverageRain": "586.0",
+            "Date": "2020/7/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "340.3",
+            "AverageRain": "591.4",
+            "Date": "2020/7/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "340.3",
+            "AverageRain": "593.7",
+            "Date": "2020/7/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "341.0",
+            "AverageRain": "596.6",
+            "Date": "2020/7/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "343.5",
+            "AverageRain": "600.5",
+            "Date": "2020/7/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.6",
+            "AverageRain": "604.2",
+            "Date": "2020/7/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.6",
+            "AverageRain": "612.8",
+            "Date": "2020/7/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.7",
+            "AverageRain": "618.3",
+            "Date": "2020/7/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.8",
+            "AverageRain": "620.4",
+            "Date": "2020/7/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.8",
+            "AverageRain": "626.9",
+            "Date": "2020/7/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.8",
+            "AverageRain": "631.1",
+            "Date": "2020/7/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "345.8",
+            "AverageRain": "635.2",
+            "Date": "2020/7/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "346.0",
+            "AverageRain": "640.7",
+            "Date": "2020/7/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "346.0",
+            "AverageRain": "647.8",
+            "Date": "2020/7/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "346.1",
+            "AverageRain": "659.8",
+            "Date": "2020/7/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "349.4",
+            "AverageRain": "668.4",
+            "Date": "2020/7/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "351.6",
+            "AverageRain": "671.2",
+            "Date": "2020/7/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "351.9",
+            "AverageRain": "672.4",
+            "Date": "2020/7/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "352.3",
+            "AverageRain": "676.2",
+            "Date": "2020/7/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "355.8",
+            "AverageRain": "684.8",
+            "Date": "2020/7/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "355.9",
+            "AverageRain": "688.4",
+            "Date": "2020/7/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "356.6",
+            "AverageRain": "696.7",
+            "Date": "2020/7/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "357.1",
+            "AverageRain": "708.3",
+            "Date": "2020/7/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "359.1",
+            "AverageRain": "718.0",
+            "Date": "2020/7/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "365.6",
+            "AverageRain": "728.7",
+            "Date": "2020/7/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "365.6",
+            "AverageRain": "737.1",
+            "Date": "2020/7/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "368.2",
+            "AverageRain": "746.3",
+            "Date": "2020/7/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "369.3",
+            "AverageRain": "765.2",
+            "Date": "2020/7/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "369.3",
+            "AverageRain": "778.1",
+            "Date": "2020/8/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "370.6",
+            "AverageRain": "785.7",
+            "Date": "2020/8/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "379.2",
+            "AverageRain": "793.4",
+            "Date": "2020/8/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "380.8",
+            "AverageRain": "801.4",
+            "Date": "2020/8/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "381.5",
+            "AverageRain": "808.7",
+            "Date": "2020/8/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "382.2",
+            "AverageRain": "813.8",
+            "Date": "2020/8/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "382.2",
+            "AverageRain": "827.9",
+            "Date": "2020/8/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "382.3",
+            "AverageRain": "845.8",
+            "Date": "2020/8/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "382.3",
+            "AverageRain": "858.6",
+            "Date": "2020/8/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "392.8",
+            "AverageRain": "866.3",
+            "Date": "2020/8/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "392.9",
+            "AverageRain": "871.6",
+            "Date": "2020/8/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "392.9",
+            "AverageRain": "878.1",
+            "Date": "2020/8/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "395.7",
+            "AverageRain": "883.2",
+            "Date": "2020/8/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "396.7",
+            "AverageRain": "888.9",
+            "Date": "2020/8/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "397.1",
+            "AverageRain": "893.9",
+            "Date": "2020/8/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "397.1",
+            "AverageRain": "900.2",
+            "Date": "2020/8/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "397.3",
+            "AverageRain": "908.9",
+            "Date": "2020/8/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "400.3",
+            "AverageRain": "923.3",
+            "Date": "2020/8/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "400.3",
+            "AverageRain": "933.4",
+            "Date": "2020/8/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "400.3",
+            "AverageRain": "940.7",
+            "Date": "2020/8/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "400.5",
+            "AverageRain": "945.9",
+            "Date": "2020/8/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "422.1",
+            "AverageRain": "957.2",
+            "Date": "2020/8/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "422.4",
+            "AverageRain": "967.9",
+            "Date": "2020/8/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "422.4",
+            "AverageRain": "981.6",
+            "Date": "2020/8/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "422.4",
+            "AverageRain": "987.5",
+            "Date": "2020/8/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "424.4",
+            "AverageRain": "990.4",
+            "Date": "2020/8/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "428.9",
+            "AverageRain": "995.9",
+            "Date": "2020/8/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "429.0",
+            "AverageRain": "1003.8",
+            "Date": "2020/8/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "429.3",
+            "AverageRain": "1013.4",
+            "Date": "2020/8/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "429.3",
+            "AverageRain": "1022.3",
+            "Date": "2020/8/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "429.4",
+            "AverageRain": "1030.9",
+            "Date": "2020/8/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "429.8",
+            "AverageRain": "1039.3",
+            "Date": "2020/9/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "430.3",
+            "AverageRain": "1043.0",
+            "Date": "2020/9/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "432.1",
+            "AverageRain": "1045.7",
+            "Date": "2020/9/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "432.4",
+            "AverageRain": "1051.8",
+            "Date": "2020/9/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "432.4",
+            "AverageRain": "1057.7",
+            "Date": "2020/9/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "432.4",
+            "AverageRain": "1062.0",
+            "Date": "2020/9/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "432.4",
+            "AverageRain": "1071.0",
+            "Date": "2020/9/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "433.9",
+            "AverageRain": "1077.0",
+            "Date": "2020/9/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "434.8",
+            "AverageRain": "1083.1",
+            "Date": "2020/9/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "434.9",
+            "AverageRain": "1090.6",
+            "Date": "2020/9/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "434.9",
+            "AverageRain": "1099.7",
+            "Date": "2020/9/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "457.7",
+            "AverageRain": "1108.6",
+            "Date": "2020/9/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "457.7",
+            "AverageRain": "1116.7",
+            "Date": "2020/9/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "458.9",
+            "AverageRain": "1125.2",
+            "Date": "2020/9/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "476.3",
+            "AverageRain": "1132.5",
+            "Date": "2020/9/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "476.4",
+            "AverageRain": "1137.7",
+            "Date": "2020/9/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "476.4",
+            "AverageRain": "1145.9",
+            "Date": "2020/9/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "476.4",
+            "AverageRain": "1156.2",
+            "Date": "2020/9/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "480.4",
+            "AverageRain": "1166.5",
+            "Date": "2020/9/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "481.9",
+            "AverageRain": "1171.3",
+            "Date": "2020/9/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "481.9",
+            "AverageRain": "1183.3",
+            "Date": "2020/9/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "481.9",
+            "AverageRain": "1200.4",
+            "Date": "2020/9/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "481.9",
+            "AverageRain": "1208.8",
+            "Date": "2020/9/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "481.9",
+            "AverageRain": "1212.2",
+            "Date": "2020/9/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "484.8",
+            "AverageRain": "1216.5",
+            "Date": "2020/9/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "484.8",
+            "AverageRain": "1223.9",
+            "Date": "2020/9/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "489.0",
+            "AverageRain": "1235.3",
+            "Date": "2020/9/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "509.1",
+            "AverageRain": "1253.3",
+            "Date": "2020/9/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "511.6",
+            "AverageRain": "1261.3",
+            "Date": "2020/9/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "514.9",
+            "AverageRain": "1266.2",
+            "Date": "2020/9/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "514.9",
+            "AverageRain": "1269.6",
+            "Date": "2020/10/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "514.9",
+            "AverageRain": "1280.5",
+            "Date": "2020/10/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "514.9",
+            "AverageRain": "1285.1",
+            "Date": "2020/10/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "514.9",
+            "AverageRain": "1288.7",
+            "Date": "2020/10/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.3",
+            "AverageRain": "1293.2",
+            "Date": "2020/10/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1300.7",
+            "Date": "2020/10/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1303.5",
+            "Date": "2020/10/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1306.0",
+            "Date": "2020/10/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1311.2",
+            "Date": "2020/10/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1315.6",
+            "Date": "2020/10/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1318.1",
+            "Date": "2020/10/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "515.4",
+            "AverageRain": "1321.1",
+            "Date": "2020/10/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "516.1",
+            "AverageRain": "1324.0",
+            "Date": "2020/10/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "519.5",
+            "AverageRain": "1326.8",
+            "Date": "2020/10/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "519.5",
+            "AverageRain": "1332.8",
+            "Date": "2020/10/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "520.3",
+            "AverageRain": "1337.0",
+            "Date": "2020/10/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "522.0",
+            "AverageRain": "1339.7",
+            "Date": "2020/10/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "522.7",
+            "AverageRain": "1342.1",
+            "Date": "2020/10/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "523.5",
+            "AverageRain": "1344.1",
+            "Date": "2020/10/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "523.6",
+            "AverageRain": "1345.6",
+            "Date": "2020/10/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "528.8",
+            "AverageRain": "1347.6",
+            "Date": "2020/10/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "531.6",
+            "AverageRain": "1349.1",
+            "Date": "2020/10/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1349.9",
+            "Date": "2020/10/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1353.6",
+            "Date": "2020/10/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1358.7",
+            "Date": "2020/10/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1360.5",
+            "Date": "2020/10/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1361.7",
+            "Date": "2020/10/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1362.8",
+            "Date": "2020/10/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1364.3",
+            "Date": "2020/10/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1365.8",
+            "Date": "2020/10/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1369.6",
+            "Date": "2020/10/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1371.8",
+            "Date": "2020/11/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1373.9",
+            "Date": "2020/11/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1377.2",
+            "Date": "2020/11/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1377.9",
+            "Date": "2020/11/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "546.5",
+            "AverageRain": "1379.0",
+            "Date": "2020/11/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "548.2",
+            "AverageRain": "1379.5",
+            "Date": "2020/11/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "548.3",
+            "AverageRain": "1380.4",
+            "Date": "2020/11/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "548.3",
+            "AverageRain": "1381.8",
+            "Date": "2020/11/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "549.8",
+            "AverageRain": "1385.5",
+            "Date": "2020/11/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "554.7",
+            "AverageRain": "1389.9",
+            "Date": "2020/11/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "554.8",
+            "AverageRain": "1391.4",
+            "Date": "2020/11/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "555.0",
+            "AverageRain": "1393.3",
+            "Date": "2020/11/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "565.3",
+            "AverageRain": "1394.7",
+            "Date": "2020/11/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1395.9",
+            "Date": "2020/11/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1398.8",
+            "Date": "2020/11/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1401.2",
+            "Date": "2020/11/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1404.7",
+            "Date": "2020/11/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1408.4",
+            "Date": "2020/11/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1410.1",
+            "Date": "2020/11/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.4",
+            "AverageRain": "1411.7",
+            "Date": "2020/11/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.5",
+            "AverageRain": "1413.7",
+            "Date": "2020/11/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.5",
+            "AverageRain": "1416.0",
+            "Date": "2020/11/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.5",
+            "AverageRain": "1417.9",
+            "Date": "2020/11/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.6",
+            "AverageRain": "1419.4",
+            "Date": "2020/11/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.6",
+            "AverageRain": "1420.9",
+            "Date": "2020/11/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.6",
+            "AverageRain": "1423.1",
+            "Date": "2020/11/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "566.8",
+            "AverageRain": "1425.3",
+            "Date": "2020/11/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "567.1",
+            "AverageRain": "1426.6",
+            "Date": "2020/11/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "567.1",
+            "AverageRain": "1428.4",
+            "Date": "2020/11/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "567.5",
+            "AverageRain": "1430.8",
+            "Date": "2020/11/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "569.6",
+            "AverageRain": "1431.9",
+            "Date": "2020/12/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "569.9",
+            "AverageRain": "1433.2",
+            "Date": "2020/12/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "570.2",
+            "AverageRain": "1436.7",
+            "Date": "2020/12/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "570.3",
+            "AverageRain": "1439.2",
+            "Date": "2020/12/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "570.4",
+            "AverageRain": "1441.0",
+            "Date": "2020/12/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "570.4",
+            "AverageRain": "1442.0",
+            "Date": "2020/12/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "570.4",
+            "AverageRain": "1442.9",
+            "Date": "2020/12/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "571.7",
+            "AverageRain": "1444.1",
+            "Date": "2020/12/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "609.8",
+            "AverageRain": "1445.6",
+            "Date": "2020/12/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "614.0",
+            "AverageRain": "1447.3",
+            "Date": "2020/12/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.0",
+            "AverageRain": "1449.2",
+            "Date": "2020/12/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.0",
+            "AverageRain": "1451.4",
+            "Date": "2020/12/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.0",
+            "AverageRain": "1453.2",
+            "Date": "2020/12/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.0",
+            "AverageRain": "1455.4",
+            "Date": "2020/12/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.1",
+            "AverageRain": "1456.8",
+            "Date": "2020/12/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.2",
+            "AverageRain": "1458.9",
+            "Date": "2020/12/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.2",
+            "AverageRain": "1461.0",
+            "Date": "2020/12/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.2",
+            "AverageRain": "1462.7",
+            "Date": "2020/12/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.2",
+            "AverageRain": "1465.4",
+            "Date": "2020/12/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "617.5",
+            "AverageRain": "1467.8",
+            "Date": "2020/12/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "631.8",
+            "AverageRain": "1470.2",
+            "Date": "2020/12/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "631.8",
+            "AverageRain": "1470.8",
+            "Date": "2020/12/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "651.9",
+            "AverageRain": "1471.5",
+            "Date": "2020/12/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "661.1",
+            "AverageRain": "1472.6",
+            "Date": "2020/12/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "661.1",
+            "AverageRain": "1474.7",
+            "Date": "2020/12/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "661.1",
+            "AverageRain": "1476.4",
+            "Date": "2020/12/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "665.7",
+            "AverageRain": "1478.0",
+            "Date": "2020/12/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1480.9",
+            "Date": "2020/12/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1484.2",
+            "Date": "2020/12/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1487.0",
+            "Date": "2020/12/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1490.1",
+            "Date": "2020/12/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1491.9",
+            "Date": "2021/1/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1493.5",
+            "Date": "2021/1/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1496.6",
+            "Date": "2021/1/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1499.3",
+            "Date": "2021/1/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1501.2",
+            "Date": "2021/1/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "666.4",
+            "AverageRain": "1503.7",
+            "Date": "2021/1/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "667.7",
+            "AverageRain": "1506.0",
+            "Date": "2021/1/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "669.8",
+            "AverageRain": "1508.8",
+            "Date": "2021/1/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "670.9",
+            "AverageRain": "1511.1",
+            "Date": "2021/1/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "671.0",
+            "AverageRain": "1511.9",
+            "Date": "2021/1/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "676.1",
+            "AverageRain": "1513.4",
+            "Date": "2021/1/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "681.7",
+            "AverageRain": "1515.1",
+            "Date": "2021/1/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "681.8",
+            "AverageRain": "1517.4",
+            "Date": "2021/1/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "681.9",
+            "AverageRain": "1520.8",
+            "Date": "2021/1/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "681.9",
+            "AverageRain": "1524.8",
+            "Date": "2021/1/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.0",
+            "AverageRain": "1527.0",
+            "Date": "2021/1/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.4",
+            "AverageRain": "1529.5",
+            "Date": "2021/1/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.4",
+            "AverageRain": "1531.8",
+            "Date": "2021/1/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.4",
+            "AverageRain": "1534.7",
+            "Date": "2021/1/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.4",
+            "AverageRain": "1536.6",
+            "Date": "2021/1/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "682.4",
+            "AverageRain": "1538.4",
+            "Date": "2021/1/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1540.1",
+            "Date": "2021/1/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1543.6",
+            "Date": "2021/1/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1546.4",
+            "Date": "2021/1/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1550.2",
+            "Date": "2021/1/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1554.9",
+            "Date": "2021/1/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1557.9",
+            "Date": "2021/1/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1561.2",
+            "Date": "2021/1/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1565.9",
+            "Date": "2021/1/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1568.7",
+            "Date": "2021/1/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1571.1",
+            "Date": "2021/1/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1573.7",
+            "Date": "2021/2/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1577.6",
+            "Date": "2021/2/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1579.9",
+            "Date": "2021/2/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1583.4",
+            "Date": "2021/2/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1589.3",
+            "Date": "2021/2/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1594.8",
+            "Date": "2021/2/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.1",
+            "AverageRain": "1598.7",
+            "Date": "2021/2/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.3",
+            "AverageRain": "1604.2",
+            "Date": "2021/2/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "688.3",
+            "AverageRain": "1610.0",
+            "Date": "2021/2/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "698.0",
+            "AverageRain": "1612.8",
+            "Date": "2021/2/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.5",
+            "AverageRain": "1617.3",
+            "Date": "2021/2/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.6",
+            "AverageRain": "1620.4",
+            "Date": "2021/2/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1623.1",
+            "Date": "2021/2/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1627.6",
+            "Date": "2021/2/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1632.7",
+            "Date": "2021/2/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1637.4",
+            "Date": "2021/2/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1641.8",
+            "Date": "2021/2/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1647.7",
+            "Date": "2021/2/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1655.2",
+            "Date": "2021/2/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1662.9",
+            "Date": "2021/2/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1669.7",
+            "Date": "2021/2/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1676.5",
+            "Date": "2021/2/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1682.8",
+            "Date": "2021/2/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1690.1",
+            "Date": "2021/2/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1697.8",
+            "Date": "2021/2/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "719.8",
+            "AverageRain": "1705.1",
+            "Date": "2021/2/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "722.0",
+            "AverageRain": "1712.3",
+            "Date": "2021/2/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "722.0",
+            "AverageRain": "1718.2",
+            "Date": "2021/2/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "722.0",
+            "AverageRain": "1718.7",
+            "Date": "2021/3/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "722.0",
+            "AverageRain": "1722.6",
+            "Date": "2021/3/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "722.0",
+            "AverageRain": "1727.0",
+            "Date": "2021/3/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "729.0",
+            "AverageRain": "1731.8",
+            "Date": "2021/3/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "731.5",
+            "AverageRain": "1737.2",
+            "Date": "2021/3/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "734.1",
+            "AverageRain": "1741.7",
+            "Date": "2021/3/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "735.6",
+            "AverageRain": "1746.2",
+            "Date": "2021/3/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.1",
+            "AverageRain": "1753.0",
+            "Date": "2021/3/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.1",
+            "AverageRain": "1758.3",
+            "Date": "2021/3/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.1",
+            "AverageRain": "1764.3",
+            "Date": "2021/3/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.1",
+            "AverageRain": "1773.2",
+            "Date": "2021/3/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.1",
+            "AverageRain": "1780.8",
+            "Date": "2021/3/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.2",
+            "AverageRain": "1787.4",
+            "Date": "2021/3/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1792.2",
+            "Date": "2021/3/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1796.3",
+            "Date": "2021/3/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1800.8",
+            "Date": "2021/3/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1806.5",
+            "Date": "2021/3/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1811.6",
+            "Date": "2021/3/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1817.6",
+            "Date": "2021/3/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1823.5",
+            "Date": "2021/3/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1827.7",
+            "Date": "2021/3/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "742.3",
+            "AverageRain": "1833.6",
+            "Date": "2021/3/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "764.5",
+            "AverageRain": "1840.7",
+            "Date": "2021/3/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "765.7",
+            "AverageRain": "1848.8",
+            "Date": "2021/3/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1855.7",
+            "Date": "2021/3/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1863.9",
+            "Date": "2021/3/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1869.2",
+            "Date": "2021/3/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1875.9",
+            "Date": "2021/3/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1881.8",
+            "Date": "2021/3/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1886.4",
+            "Date": "2021/3/30"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1893.4",
+            "Date": "2021/3/31"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1900.1",
+            "Date": "2021/4/1"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1908.3",
+            "Date": "2021/4/2"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1913.5",
+            "Date": "2021/4/3"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1919.4",
+            "Date": "2021/4/4"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1926.8",
+            "Date": "2021/4/5"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1932.5",
+            "Date": "2021/4/6"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1938.7",
+            "Date": "2021/4/7"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1944.7",
+            "Date": "2021/4/8"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1950.5",
+            "Date": "2021/4/9"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1955.8",
+            "Date": "2021/4/10"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1961.5",
+            "Date": "2021/4/11"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1965.1",
+            "Date": "2021/4/12"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1971.5",
+            "Date": "2021/4/13"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1976.6",
+            "Date": "2021/4/14"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1983.8",
+            "Date": "2021/4/15"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1989.8",
+            "Date": "2021/4/16"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.1",
+            "AverageRain": "1994.2",
+            "Date": "2021/4/17"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.4",
+            "AverageRain": "1997.3",
+            "Date": "2021/4/18"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.4",
+            "AverageRain": "2001.4",
+            "Date": "2021/4/19"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.4",
+            "AverageRain": "2008.2",
+            "Date": "2021/4/20"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "793.4",
+            "AverageRain": "2016.0",
+            "Date": "2021/4/21"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "794.0",
+            "AverageRain": "2021.2",
+            "Date": "2021/4/22"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "796.3",
+            "AverageRain": "2029.7",
+            "Date": "2021/4/23"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "796.3",
+            "AverageRain": "2035.7",
+            "Date": "2021/4/24"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "796.3",
+            "AverageRain": "2040.5",
+            "Date": "2021/4/25"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "797.5",
+            "AverageRain": "2043.9",
+            "Date": "2021/4/26"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "797.6",
+            "AverageRain": "2050.1",
+            "Date": "2021/4/27"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "799.1",
+            "AverageRain": "2057.3",
+            "Date": "2021/4/28"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "809.1",
+            "AverageRain": "2062.5",
+            "Date": "2021/4/29"
+        },
+        {
+            "RSID": "1",
+            "RSNmae": "Deji",
+            "2020Rain": "829.7",
+            "AverageRain": "2067.1",
+            "Date": "2021/4/30"
+        }
+    ]
 }

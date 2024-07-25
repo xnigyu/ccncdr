@@ -1,2570 +1,2562 @@
 {
-"ID":"05",
-"Name":"",
-"Exec":"",
-"DataList":
-[
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "4.30",
-        "Date": "2020/5/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "10.80",
-        "Date": "2020/5/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "19.90",
-        "Date": "2020/5/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "24.60",
-        "Date": "2020/5/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "31.30",
-        "Date": "2020/5/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "39.60",
-        "Date": "2020/5/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "41.10",
-        "Date": "2020/5/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "44.70",
-        "Date": "2020/5/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "0.00",
-        "AverageRain": "50.90",
-        "Date": "2020/5/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "15.10",
-        "AverageRain": "54.30",
-        "Date": "2020/5/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "20.90",
-        "AverageRain": "57.40",
-        "Date": "2020/5/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "37.70",
-        "AverageRain": "64.00",
-        "Date": "2020/5/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "37.90",
-        "AverageRain": "81.00",
-        "Date": "2020/5/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "37.90",
-        "AverageRain": "82.70",
-        "Date": "2020/5/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "38.20",
-        "AverageRain": "88.00",
-        "Date": "2020/5/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "74.90",
-        "AverageRain": "95.00",
-        "Date": "2020/5/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "74.90",
-        "AverageRain": "109.30",
-        "Date": "2020/5/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "80.30",
-        "AverageRain": "131.60",
-        "Date": "2020/5/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "109.50",
-        "AverageRain": "150.40",
-        "Date": "2020/5/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "122.40",
-        "AverageRain": "184.30",
-        "Date": "2020/5/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "177.60",
-        "AverageRain": "195.70",
-        "Date": "2020/5/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "387.70",
-        "AverageRain": "207.80",
-        "Date": "2020/5/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "408.70",
-        "AverageRain": "232.10",
-        "Date": "2020/5/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "423.00",
-        "AverageRain": "257.00",
-        "Date": "2020/5/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "430.50",
-        "AverageRain": "272.00",
-        "Date": "2020/5/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "468.20",
-        "AverageRain": "279.80",
-        "Date": "2020/5/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "476.40",
-        "AverageRain": "287.00",
-        "Date": "2020/5/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "549.90",
-        "AverageRain": "297.40",
-        "Date": "2020/5/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "570.00",
-        "AverageRain": "317.80",
-        "Date": "2020/5/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "580.20",
-        "AverageRain": "331.00",
-        "Date": "2020/5/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "581.30",
-        "AverageRain": "343.80",
-        "Date": "2020/5/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "583.30",
-        "AverageRain": "349.50",
-        "Date": "2020/6/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "583.30",
-        "AverageRain": "372.70",
-        "Date": "2020/6/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "583.30",
-        "AverageRain": "415.70",
-        "Date": "2020/6/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "583.30",
-        "AverageRain": "437.60",
-        "Date": "2020/6/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "583.70",
-        "AverageRain": "446.70",
-        "Date": "2020/6/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "599.20",
-        "AverageRain": "455.30",
-        "Date": "2020/6/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "646.70",
-        "AverageRain": "478.40",
-        "Date": "2020/6/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "667.50",
-        "AverageRain": "496.10",
-        "Date": "2020/6/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "667.80",
-        "AverageRain": "536.20",
-        "Date": "2020/6/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "667.80",
-        "AverageRain": "568.50",
-        "Date": "2020/6/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "667.80",
-        "AverageRain": "608.90",
-        "Date": "2020/6/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "667.80",
-        "AverageRain": "657.20",
-        "Date": "2020/6/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "669.10",
-        "AverageRain": "687.20",
-        "Date": "2020/6/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "669.50",
-        "AverageRain": "737.40",
-        "Date": "2020/6/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "758.30",
-        "Date": "2020/6/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "775.20",
-        "Date": "2020/6/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "791.40",
-        "Date": "2020/6/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "800.80",
-        "Date": "2020/6/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "823.80",
-        "Date": "2020/6/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.70",
-        "AverageRain": "845.40",
-        "Date": "2020/6/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "670.80",
-        "AverageRain": "856.60",
-        "Date": "2020/6/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "671.60",
-        "AverageRain": "863.60",
-        "Date": "2020/6/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "671.80",
-        "AverageRain": "869.30",
-        "Date": "2020/6/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "682.60",
-        "AverageRain": "879.10",
-        "Date": "2020/6/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "682.90",
-        "AverageRain": "887.60",
-        "Date": "2020/6/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "687.30",
-        "AverageRain": "894.60",
-        "Date": "2020/6/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "699.90",
-        "AverageRain": "903.00",
-        "Date": "2020/6/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "699.90",
-        "AverageRain": "908.00",
-        "Date": "2020/6/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "700.00",
-        "AverageRain": "912.00",
-        "Date": "2020/6/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "706.50",
-        "AverageRain": "914.80",
-        "Date": "2020/6/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "715.00",
-        "AverageRain": "921.00",
-        "Date": "2020/7/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "738.30",
-        "AverageRain": "964.00",
-        "Date": "2020/7/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "745.90",
-        "AverageRain": "993.90",
-        "Date": "2020/7/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "760.00",
-        "AverageRain": "1010.60",
-        "Date": "2020/7/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "773.50",
-        "AverageRain": "1015.50",
-        "Date": "2020/7/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "774.50",
-        "AverageRain": "1021.20",
-        "Date": "2020/7/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "775.50",
-        "AverageRain": "1026.80",
-        "Date": "2020/7/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "778.80",
-        "AverageRain": "1038.80",
-        "Date": "2020/7/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "778.90",
-        "AverageRain": "1063.50",
-        "Date": "2020/7/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "778.90",
-        "AverageRain": "1072.50",
-        "Date": "2020/7/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "784.10",
-        "AverageRain": "1083.90",
-        "Date": "2020/7/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "792.00",
-        "AverageRain": "1093.30",
-        "Date": "2020/7/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "792.40",
-        "AverageRain": "1131.60",
-        "Date": "2020/7/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "792.70",
-        "AverageRain": "1151.90",
-        "Date": "2020/7/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "795.00",
-        "AverageRain": "1164.90",
-        "Date": "2020/7/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "797.30",
-        "AverageRain": "1168.70",
-        "Date": "2020/7/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "797.30",
-        "AverageRain": "1198.60",
-        "Date": "2020/7/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "797.30",
-        "AverageRain": "1250.30",
-        "Date": "2020/7/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "811.60",
-        "AverageRain": "1306.20",
-        "Date": "2020/7/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "844.90",
-        "AverageRain": "1321.10",
-        "Date": "2020/7/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "845.00",
-        "AverageRain": "1329.10",
-        "Date": "2020/7/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "850.00",
-        "AverageRain": "1337.30",
-        "Date": "2020/7/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "869.80",
-        "AverageRain": "1357.20",
-        "Date": "2020/7/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "873.50",
-        "AverageRain": "1371.40",
-        "Date": "2020/7/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "876.90",
-        "AverageRain": "1382.90",
-        "Date": "2020/7/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "898.20",
-        "AverageRain": "1393.70",
-        "Date": "2020/7/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "909.40",
-        "AverageRain": "1409.80",
-        "Date": "2020/7/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "949.10",
-        "AverageRain": "1443.90",
-        "Date": "2020/7/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "950.80",
-        "AverageRain": "1460.50",
-        "Date": "2020/7/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "951.90",
-        "AverageRain": "1469.00",
-        "Date": "2020/7/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "951.90",
-        "AverageRain": "1483.00",
-        "Date": "2020/7/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "967.00",
-        "AverageRain": "1489.80",
-        "Date": "2020/8/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "991.20",
-        "AverageRain": "1521.50",
-        "Date": "2020/8/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1014.80",
-        "AverageRain": "1529.20",
-        "Date": "2020/8/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1034.10",
-        "AverageRain": "1547.30",
-        "Date": "2020/8/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1035.50",
-        "AverageRain": "1561.50",
-        "Date": "2020/8/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1057.40",
-        "AverageRain": "1578.10",
-        "Date": "2020/8/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1064.40",
-        "AverageRain": "1606.70",
-        "Date": "2020/8/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1066.40",
-        "AverageRain": "1688.20",
-        "Date": "2020/8/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1066.50",
-        "AverageRain": "1727.80",
-        "Date": "2020/8/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1071.80",
-        "AverageRain": "1748.60",
-        "Date": "2020/8/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1076.40",
-        "AverageRain": "1771.00",
-        "Date": "2020/8/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1080.90",
-        "AverageRain": "1794.90",
-        "Date": "2020/8/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1086.90",
-        "AverageRain": "1812.30",
-        "Date": "2020/8/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1099.40",
-        "AverageRain": "1826.00",
-        "Date": "2020/8/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1104.70",
-        "AverageRain": "1846.50",
-        "Date": "2020/8/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1111.00",
-        "AverageRain": "1866.10",
-        "Date": "2020/8/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1111.00",
-        "AverageRain": "1881.80",
-        "Date": "2020/8/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1118.40",
-        "AverageRain": "1909.10",
-        "Date": "2020/8/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1126.90",
-        "AverageRain": "1933.50",
-        "Date": "2020/8/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1129.00",
-        "AverageRain": "1951.60",
-        "Date": "2020/8/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1146.90",
-        "AverageRain": "1971.40",
-        "Date": "2020/8/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1177.70",
-        "AverageRain": "1988.60",
-        "Date": "2020/8/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1182.00",
-        "AverageRain": "2013.40",
-        "Date": "2020/8/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1186.50",
-        "AverageRain": "2057.50",
-        "Date": "2020/8/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1186.60",
-        "AverageRain": "2077.90",
-        "Date": "2020/8/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1197.20",
-        "AverageRain": "2087.10",
-        "Date": "2020/8/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1283.00",
-        "AverageRain": "2095.70",
-        "Date": "2020/8/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1285.10",
-        "AverageRain": "2107.60",
-        "Date": "2020/8/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1301.90",
-        "AverageRain": "2141.60",
-        "Date": "2020/8/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1302.80",
-        "AverageRain": "2166.10",
-        "Date": "2020/8/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1309.30",
-        "AverageRain": "2197.10",
-        "Date": "2020/8/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1309.30",
-        "AverageRain": "2228.60",
-        "Date": "2020/9/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1310.50",
-        "AverageRain": "2236.80",
-        "Date": "2020/9/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1326.20",
-        "AverageRain": "2241.50",
-        "Date": "2020/9/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1329.40",
-        "AverageRain": "2255.60",
-        "Date": "2020/9/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1329.40",
-        "AverageRain": "2263.60",
-        "Date": "2020/9/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1329.40",
-        "AverageRain": "2273.60",
-        "Date": "2020/9/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1329.40",
-        "AverageRain": "2289.00",
-        "Date": "2020/9/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1330.80",
-        "AverageRain": "2297.10",
-        "Date": "2020/9/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1332.60",
-        "AverageRain": "2305.30",
-        "Date": "2020/9/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1334.60",
-        "AverageRain": "2312.90",
-        "Date": "2020/9/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1336.30",
-        "AverageRain": "2316.20",
-        "Date": "2020/9/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1343.00",
-        "AverageRain": "2323.10",
-        "Date": "2020/9/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1343.10",
-        "AverageRain": "2339.10",
-        "Date": "2020/9/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1344.00",
-        "AverageRain": "2371.00",
-        "Date": "2020/9/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1363.90",
-        "AverageRain": "2380.00",
-        "Date": "2020/9/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1364.10",
-        "AverageRain": "2381.80",
-        "Date": "2020/9/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1364.10",
-        "AverageRain": "2389.80",
-        "Date": "2020/9/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1371.50",
-        "AverageRain": "2402.80",
-        "Date": "2020/9/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1373.10",
-        "AverageRain": "2421.60",
-        "Date": "2020/9/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1375.00",
-        "AverageRain": "2424.30",
-        "Date": "2020/9/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1376.20",
-        "AverageRain": "2431.20",
-        "Date": "2020/9/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1376.30",
-        "AverageRain": "2436.30",
-        "Date": "2020/9/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1376.30",
-        "AverageRain": "2442.40",
-        "Date": "2020/9/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1376.30",
-        "AverageRain": "2449.40",
-        "Date": "2020/9/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1376.40",
-        "AverageRain": "2453.60",
-        "Date": "2020/9/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.40",
-        "AverageRain": "2456.70",
-        "Date": "2020/9/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.40",
-        "AverageRain": "2477.90",
-        "Date": "2020/9/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.40",
-        "AverageRain": "2521.90",
-        "Date": "2020/9/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.50",
-        "AverageRain": "2548.80",
-        "Date": "2020/9/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.60",
-        "AverageRain": "2553.10",
-        "Date": "2020/9/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.70",
-        "AverageRain": "2554.70",
-        "Date": "2020/10/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.80",
-        "AverageRain": "2561.10",
-        "Date": "2020/10/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.80",
-        "AverageRain": "2562.70",
-        "Date": "2020/10/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.80",
-        "AverageRain": "2563.80",
-        "Date": "2020/10/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.80",
-        "AverageRain": "2566.20",
-        "Date": "2020/10/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1382.80",
-        "AverageRain": "2600.40",
-        "Date": "2020/10/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1383.00",
-        "AverageRain": "2612.60",
-        "Date": "2020/10/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.00",
-        "AverageRain": "2614.60",
-        "Date": "2020/10/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.10",
-        "AverageRain": "2616.90",
-        "Date": "2020/10/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.10",
-        "AverageRain": "2619.30",
-        "Date": "2020/10/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.10",
-        "AverageRain": "2622.30",
-        "Date": "2020/10/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.20",
-        "AverageRain": "2624.50",
-        "Date": "2020/10/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.20",
-        "AverageRain": "2626.10",
-        "Date": "2020/10/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.20",
-        "AverageRain": "2629.70",
-        "Date": "2020/10/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.20",
-        "AverageRain": "2633.30",
-        "Date": "2020/10/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1384.20",
-        "AverageRain": "2633.60",
-        "Date": "2020/10/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1389.00",
-        "AverageRain": "2633.90",
-        "Date": "2020/10/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1389.20",
-        "AverageRain": "2635.10",
-        "Date": "2020/10/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1389.20",
-        "AverageRain": "2635.50",
-        "Date": "2020/10/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1389.20",
-        "AverageRain": "2635.70",
-        "Date": "2020/10/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1389.20",
-        "AverageRain": "2637.40",
-        "Date": "2020/10/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1390.10",
-        "AverageRain": "2639.10",
-        "Date": "2020/10/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1391.90",
-        "AverageRain": "2639.10",
-        "Date": "2020/10/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.10",
-        "AverageRain": "2639.20",
-        "Date": "2020/10/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.10",
-        "AverageRain": "2639.20",
-        "Date": "2020/10/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.10",
-        "AverageRain": "2639.30",
-        "Date": "2020/10/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.20",
-        "AverageRain": "2639.30",
-        "Date": "2020/10/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.20",
-        "AverageRain": "2639.30",
-        "Date": "2020/10/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.20",
-        "AverageRain": "2639.30",
-        "Date": "2020/10/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.50",
-        "AverageRain": "2639.70",
-        "Date": "2020/10/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": "1394.50",
-        "AverageRain": "2640.30",
-        "Date": "2020/10/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2640.30",
-        "Date": "2020/11/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2641.00",
-        "Date": "2020/11/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2642.40",
-        "Date": "2020/11/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2643.80",
-        "Date": "2020/11/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2644.60",
-        "Date": "2020/11/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2644.60",
-        "Date": "2020/11/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2645.00",
-        "Date": "2020/11/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2646.30",
-        "Date": "2020/11/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2649.30",
-        "Date": "2020/11/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2655.30",
-        "Date": "2020/11/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2656.20",
-        "Date": "2020/11/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2656.50",
-        "Date": "2020/11/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2658.20",
-        "Date": "2020/11/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2658.80",
-        "Date": "2020/11/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2659.00",
-        "Date": "2020/11/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2659.10",
-        "Date": "2020/11/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2663.30",
-        "Date": "2020/11/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2664.00",
-        "Date": "2020/11/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2664.70",
-        "Date": "2020/11/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2667.20",
-        "Date": "2020/11/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2668.30",
-        "Date": "2020/11/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2670.90",
-        "Date": "2020/11/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2673.20",
-        "Date": "2020/11/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2673.30",
-        "Date": "2020/11/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2674.10",
-        "Date": "2020/11/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2674.80",
-        "Date": "2020/11/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2678.70",
-        "Date": "2020/11/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2679.60",
-        "Date": "2020/11/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2679.70",
-        "Date": "2020/11/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2679.90",
-        "Date": "2020/11/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2680.00",
-        "Date": "2020/12/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2680.60",
-        "Date": "2020/12/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2684.30",
-        "Date": "2020/12/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2687.50",
-        "Date": "2020/12/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2690.80",
-        "Date": "2020/12/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2692.00",
-        "Date": "2020/12/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2692.20",
-        "Date": "2020/12/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2692.60",
-        "Date": "2020/12/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2693.70",
-        "Date": "2020/12/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2695.70",
-        "Date": "2020/12/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2695.90",
-        "Date": "2020/12/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2696.50",
-        "Date": "2020/12/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2696.60",
-        "Date": "2020/12/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2697.30",
-        "Date": "2020/12/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2697.50",
-        "Date": "2020/12/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2701.20",
-        "Date": "2020/12/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2703.40",
-        "Date": "2020/12/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2703.90",
-        "Date": "2020/12/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.20",
-        "Date": "2020/12/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.80",
-        "Date": "2020/12/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.80",
-        "Date": "2020/12/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.80",
-        "Date": "2020/12/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.90",
-        "Date": "2020/12/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2704.90",
-        "Date": "2020/12/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2705.20",
-        "Date": "2020/12/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2705.50",
-        "Date": "2020/12/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2705.60",
-        "Date": "2020/12/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2707.00",
-        "Date": "2020/12/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2710.20",
-        "Date": "2020/12/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2711.80",
-        "Date": "2020/12/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2713.10",
-        "Date": "2020/12/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2713.20",
-        "Date": "2021/1/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2713.80",
-        "Date": "2021/1/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2718.60",
-        "Date": "2021/1/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2719.60",
-        "Date": "2021/1/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2720.10",
-        "Date": "2021/1/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2722.30",
-        "Date": "2021/1/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2722.40",
-        "Date": "2021/1/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2724.00",
-        "Date": "2021/1/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2726.70",
-        "Date": "2021/1/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2727.10",
-        "Date": "2021/1/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2728.40",
-        "Date": "2021/1/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2729.20",
-        "Date": "2021/1/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2730.10",
-        "Date": "2021/1/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2731.30",
-        "Date": "2021/1/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2732.00",
-        "Date": "2021/1/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2733.70",
-        "Date": "2021/1/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2735.00",
-        "Date": "2021/1/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2737.10",
-        "Date": "2021/1/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2738.80",
-        "Date": "2021/1/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2739.20",
-        "Date": "2021/1/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2740.10",
-        "Date": "2021/1/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2741.10",
-        "Date": "2021/1/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2742.40",
-        "Date": "2021/1/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2743.40",
-        "Date": "2021/1/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2744.40",
-        "Date": "2021/1/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2746.20",
-        "Date": "2021/1/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2746.50",
-        "Date": "2021/1/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2747.20",
-        "Date": "2021/1/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2750.80",
-        "Date": "2021/1/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2752.00",
-        "Date": "2021/1/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2752.10",
-        "Date": "2021/1/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2752.60",
-        "Date": "2021/2/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2753.80",
-        "Date": "2021/2/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2754.30",
-        "Date": "2021/2/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2754.60",
-        "Date": "2021/2/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2756.10",
-        "Date": "2021/2/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2756.30",
-        "Date": "2021/2/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2757.50",
-        "Date": "2021/2/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2759.40",
-        "Date": "2021/2/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2760.30",
-        "Date": "2021/2/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2761.50",
-        "Date": "2021/2/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2762.90",
-        "Date": "2021/2/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2763.60",
-        "Date": "2021/2/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2764.40",
-        "Date": "2021/2/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2765.70",
-        "Date": "2021/2/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2766.20",
-        "Date": "2021/2/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2768.10",
-        "Date": "2021/2/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2769.20",
-        "Date": "2021/2/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2772.40",
-        "Date": "2021/2/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2775.70",
-        "Date": "2021/2/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2777.30",
-        "Date": "2021/2/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2778.50",
-        "Date": "2021/2/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2780.50",
-        "Date": "2021/2/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2781.50",
-        "Date": "2021/2/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2782.90",
-        "Date": "2021/2/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2784.30",
-        "Date": "2021/2/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2785.00",
-        "Date": "2021/2/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2785.20",
-        "Date": "2021/2/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2786.60",
-        "Date": "2021/2/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2786.60",
-        "Date": "2021/3/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2787.30",
-        "Date": "2021/3/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2788.10",
-        "Date": "2021/3/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2789.10",
-        "Date": "2021/3/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2790.20",
-        "Date": "2021/3/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2791.60",
-        "Date": "2021/3/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2795.60",
-        "Date": "2021/3/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2800.10",
-        "Date": "2021/3/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2802.50",
-        "Date": "2021/3/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2803.80",
-        "Date": "2021/3/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2808.30",
-        "Date": "2021/3/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2810.50",
-        "Date": "2021/3/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2812.40",
-        "Date": "2021/3/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2816.40",
-        "Date": "2021/3/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2818.90",
-        "Date": "2021/3/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2820.50",
-        "Date": "2021/3/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2820.70",
-        "Date": "2021/3/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2820.70",
-        "Date": "2021/3/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2821.10",
-        "Date": "2021/3/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2821.20",
-        "Date": "2021/3/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2821.70",
-        "Date": "2021/3/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2822.50",
-        "Date": "2021/3/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2823.10",
-        "Date": "2021/3/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2826.10",
-        "Date": "2021/3/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2830.50",
-        "Date": "2021/3/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2833.00",
-        "Date": "2021/3/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2836.00",
-        "Date": "2021/3/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2842.10",
-        "Date": "2021/3/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2843.40",
-        "Date": "2021/3/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2845.20",
-        "Date": "2021/3/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2848.10",
-        "Date": "2021/3/31"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2853.00",
-        "Date": "2021/4/1"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2854.40",
-        "Date": "2021/4/2"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2856.90",
-        "Date": "2021/4/3"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2863.10",
-        "Date": "2021/4/4"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2864.50",
-        "Date": "2021/4/5"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2869.30",
-        "Date": "2021/4/6"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2872.60",
-        "Date": "2021/4/7"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2874.20",
-        "Date": "2021/4/8"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2874.90",
-        "Date": "2021/4/9"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2875.60",
-        "Date": "2021/4/10"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2881.10",
-        "Date": "2021/4/11"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2886.10",
-        "Date": "2021/4/12"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2888.60",
-        "Date": "2021/4/13"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2895.10",
-        "Date": "2021/4/14"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2898.90",
-        "Date": "2021/4/15"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2906.00",
-        "Date": "2021/4/16"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2910.60",
-        "Date": "2021/4/17"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2913.80",
-        "Date": "2021/4/18"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2917.80",
-        "Date": "2021/4/19"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2921.70",
-        "Date": "2021/4/20"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2926.40",
-        "Date": "2021/4/21"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2935.40",
-        "Date": "2021/4/22"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2939.00",
-        "Date": "2021/4/23"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2944.60",
-        "Date": "2021/4/24"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2946.60",
-        "Date": "2021/4/25"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2949.10",
-        "Date": "2021/4/26"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2955.30",
-        "Date": "2021/4/27"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2960.80",
-        "Date": "2021/4/28"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2964.10",
-        "Date": "2021/4/29"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2965.10",
-        "Date": "2021/4/30"
-    },
-    {
-        "RSID": "05",
-        "RSNmae": "Zengwen",
-        "2020Rain": null,
-        "AverageRain": "2967.70",
-        "Date": "2021/5/1"
-    }
-]
+    "ID": "05",
+    "Name": "",
+    "Exec": "",
+    "DataList": [
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "6.0",
+            "Date": "2020/5/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "10.5",
+            "Date": "2020/5/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "17.0",
+            "Date": "2020/5/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "22.1",
+            "Date": "2020/5/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "28.2",
+            "Date": "2020/5/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "33.1",
+            "Date": "2020/5/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "35.8",
+            "Date": "2020/5/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "38.8",
+            "Date": "2020/5/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "0.0",
+            "AverageRain": "43.5",
+            "Date": "2020/5/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "15.3",
+            "AverageRain": "47.4",
+            "Date": "2020/5/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "21.3",
+            "AverageRain": "52.0",
+            "Date": "2020/5/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "37.7",
+            "AverageRain": "60.4",
+            "Date": "2020/5/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "38.0",
+            "AverageRain": "69.4",
+            "Date": "2020/5/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "38.0",
+            "AverageRain": "73.9",
+            "Date": "2020/5/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "38.4",
+            "AverageRain": "80.1",
+            "Date": "2020/5/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "74.6",
+            "AverageRain": "86.4",
+            "Date": "2020/5/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "74.6",
+            "AverageRain": "97.2",
+            "Date": "2020/5/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "80.2",
+            "AverageRain": "110.3",
+            "Date": "2020/5/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "109.3",
+            "AverageRain": "124.4",
+            "Date": "2020/5/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "122.5",
+            "AverageRain": "141.2",
+            "Date": "2020/5/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "177.4",
+            "AverageRain": "154.4",
+            "Date": "2020/5/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "387.3",
+            "AverageRain": "169.9",
+            "Date": "2020/5/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "409.0",
+            "AverageRain": "183.9",
+            "Date": "2020/5/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "423.7",
+            "AverageRain": "196.5",
+            "Date": "2020/5/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "430.8",
+            "AverageRain": "207.4",
+            "Date": "2020/5/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "467.5",
+            "AverageRain": "218.5",
+            "Date": "2020/5/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "475.2",
+            "AverageRain": "234.4",
+            "Date": "2020/5/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "546.4",
+            "AverageRain": "251.8",
+            "Date": "2020/5/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "566.3",
+            "AverageRain": "271.6",
+            "Date": "2020/5/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "576.6",
+            "AverageRain": "288.1",
+            "Date": "2020/5/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "577.5",
+            "AverageRain": "303.7",
+            "Date": "2020/5/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "579.3",
+            "AverageRain": "317.0",
+            "Date": "2020/6/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "579.3",
+            "AverageRain": "341.7",
+            "Date": "2020/6/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "579.3",
+            "AverageRain": "370.0",
+            "Date": "2020/6/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "579.3",
+            "AverageRain": "387.7",
+            "Date": "2020/6/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "579.5",
+            "AverageRain": "410.7",
+            "Date": "2020/6/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "595.3",
+            "AverageRain": "432.8",
+            "Date": "2020/6/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "642.5",
+            "AverageRain": "457.0",
+            "Date": "2020/6/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "662.6",
+            "AverageRain": "482.0",
+            "Date": "2020/6/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "663.3",
+            "AverageRain": "506.8",
+            "Date": "2020/6/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "663.3",
+            "AverageRain": "529.4",
+            "Date": "2020/6/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "663.3",
+            "AverageRain": "553.5",
+            "Date": "2020/6/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "663.3",
+            "AverageRain": "580.9",
+            "Date": "2020/6/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "664.8",
+            "AverageRain": "601.0",
+            "Date": "2020/6/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "665.4",
+            "AverageRain": "627.2",
+            "Date": "2020/6/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "638.8",
+            "Date": "2020/6/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "646.7",
+            "Date": "2020/6/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "657.4",
+            "Date": "2020/6/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "671.3",
+            "Date": "2020/6/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "685.5",
+            "Date": "2020/6/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "700.6",
+            "Date": "2020/6/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.5",
+            "AverageRain": "711.5",
+            "Date": "2020/6/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "666.9",
+            "AverageRain": "722.8",
+            "Date": "2020/6/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "667.0",
+            "AverageRain": "739.0",
+            "Date": "2020/6/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "677.5",
+            "AverageRain": "749.7",
+            "Date": "2020/6/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "677.8",
+            "AverageRain": "757.7",
+            "Date": "2020/6/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "683.3",
+            "AverageRain": "766.8",
+            "Date": "2020/6/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "695.7",
+            "AverageRain": "774.9",
+            "Date": "2020/6/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "695.7",
+            "AverageRain": "780.3",
+            "Date": "2020/6/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "695.7",
+            "AverageRain": "784.4",
+            "Date": "2020/6/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "701.9",
+            "AverageRain": "788.2",
+            "Date": "2020/6/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "710.0",
+            "AverageRain": "798.7",
+            "Date": "2020/7/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "734.1",
+            "AverageRain": "818.1",
+            "Date": "2020/7/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "740.7",
+            "AverageRain": "839.1",
+            "Date": "2020/7/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "756.1",
+            "AverageRain": "856.6",
+            "Date": "2020/7/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "769.3",
+            "AverageRain": "866.9",
+            "Date": "2020/7/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "770.1",
+            "AverageRain": "874.0",
+            "Date": "2020/7/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "770.7",
+            "AverageRain": "881.5",
+            "Date": "2020/7/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "773.2",
+            "AverageRain": "891.3",
+            "Date": "2020/7/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "773.5",
+            "AverageRain": "905.0",
+            "Date": "2020/7/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "773.5",
+            "AverageRain": "915.6",
+            "Date": "2020/7/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "778.9",
+            "AverageRain": "929.4",
+            "Date": "2020/7/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "786.7",
+            "AverageRain": "936.4",
+            "Date": "2020/7/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "787.1",
+            "AverageRain": "951.9",
+            "Date": "2020/7/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "787.2",
+            "AverageRain": "963.9",
+            "Date": "2020/7/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "789.8",
+            "AverageRain": "971.2",
+            "Date": "2020/7/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "792.2",
+            "AverageRain": "981.2",
+            "Date": "2020/7/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "792.2",
+            "AverageRain": "998.4",
+            "Date": "2020/7/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "792.2",
+            "AverageRain": "1020.5",
+            "Date": "2020/7/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "807.7",
+            "AverageRain": "1042.7",
+            "Date": "2020/7/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "841.3",
+            "AverageRain": "1051.6",
+            "Date": "2020/7/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "841.4",
+            "AverageRain": "1058.5",
+            "Date": "2020/7/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "846.9",
+            "AverageRain": "1071.5",
+            "Date": "2020/7/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "866.5",
+            "AverageRain": "1088.8",
+            "Date": "2020/7/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "870.5",
+            "AverageRain": "1099.6",
+            "Date": "2020/7/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "874.2",
+            "AverageRain": "1117.5",
+            "Date": "2020/7/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "895.7",
+            "AverageRain": "1136.1",
+            "Date": "2020/7/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "907.2",
+            "AverageRain": "1155.3",
+            "Date": "2020/7/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "947.6",
+            "AverageRain": "1173.3",
+            "Date": "2020/7/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "949.2",
+            "AverageRain": "1191.2",
+            "Date": "2020/7/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "950.3",
+            "AverageRain": "1209.3",
+            "Date": "2020/7/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "950.3",
+            "AverageRain": "1239.8",
+            "Date": "2020/7/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "965.4",
+            "AverageRain": "1257.7",
+            "Date": "2020/8/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "989.9",
+            "AverageRain": "1275.6",
+            "Date": "2020/8/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1012.9",
+            "AverageRain": "1296.2",
+            "Date": "2020/8/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1032.1",
+            "AverageRain": "1319.8",
+            "Date": "2020/8/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1033.8",
+            "AverageRain": "1334.5",
+            "Date": "2020/8/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1056.0",
+            "AverageRain": "1350.2",
+            "Date": "2020/8/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1062.5",
+            "AverageRain": "1374.3",
+            "Date": "2020/8/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1064.1",
+            "AverageRain": "1409.8",
+            "Date": "2020/8/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1064.2",
+            "AverageRain": "1437.8",
+            "Date": "2020/8/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1069.1",
+            "AverageRain": "1455.7",
+            "Date": "2020/8/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1073.6",
+            "AverageRain": "1473.2",
+            "Date": "2020/8/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1078.0",
+            "AverageRain": "1489.8",
+            "Date": "2020/8/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1084.0",
+            "AverageRain": "1505.1",
+            "Date": "2020/8/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1096.7",
+            "AverageRain": "1518.4",
+            "Date": "2020/8/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1101.6",
+            "AverageRain": "1530.9",
+            "Date": "2020/8/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1108.1",
+            "AverageRain": "1556.6",
+            "Date": "2020/8/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1108.1",
+            "AverageRain": "1573.9",
+            "Date": "2020/8/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1115.8",
+            "AverageRain": "1595.8",
+            "Date": "2020/8/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1124.5",
+            "AverageRain": "1616.5",
+            "Date": "2020/8/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1126.5",
+            "AverageRain": "1629.4",
+            "Date": "2020/8/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1143.8",
+            "AverageRain": "1645.3",
+            "Date": "2020/8/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1174.0",
+            "AverageRain": "1667.1",
+            "Date": "2020/8/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1178.8",
+            "AverageRain": "1689.1",
+            "Date": "2020/8/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1183.4",
+            "AverageRain": "1715.8",
+            "Date": "2020/8/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1183.6",
+            "AverageRain": "1729.8",
+            "Date": "2020/8/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1193.7",
+            "AverageRain": "1740.0",
+            "Date": "2020/8/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1279.2",
+            "AverageRain": "1752.8",
+            "Date": "2020/8/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1281.3",
+            "AverageRain": "1763.2",
+            "Date": "2020/8/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1298.1",
+            "AverageRain": "1781.3",
+            "Date": "2020/8/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1299.2",
+            "AverageRain": "1805.3",
+            "Date": "2020/8/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1305.5",
+            "AverageRain": "1825.8",
+            "Date": "2020/8/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1305.5",
+            "AverageRain": "1845.3",
+            "Date": "2020/9/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1306.7",
+            "AverageRain": "1858.0",
+            "Date": "2020/9/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1322.2",
+            "AverageRain": "1865.7",
+            "Date": "2020/9/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1326.1",
+            "AverageRain": "1876.7",
+            "Date": "2020/9/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1326.1",
+            "AverageRain": "1888.1",
+            "Date": "2020/9/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1326.1",
+            "AverageRain": "1901.6",
+            "Date": "2020/9/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1326.1",
+            "AverageRain": "1911.7",
+            "Date": "2020/9/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1327.7",
+            "AverageRain": "1918.7",
+            "Date": "2020/9/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1329.5",
+            "AverageRain": "1925.1",
+            "Date": "2020/9/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1331.5",
+            "AverageRain": "1932.5",
+            "Date": "2020/9/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1333.2",
+            "AverageRain": "1945.5",
+            "Date": "2020/9/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1339.7",
+            "AverageRain": "1959.2",
+            "Date": "2020/9/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1339.8",
+            "AverageRain": "1970.0",
+            "Date": "2020/9/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1340.6",
+            "AverageRain": "1982.2",
+            "Date": "2020/9/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1359.9",
+            "AverageRain": "1986.8",
+            "Date": "2020/9/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1360.0",
+            "AverageRain": "1990.4",
+            "Date": "2020/9/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1360.0",
+            "AverageRain": "2001.6",
+            "Date": "2020/9/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1367.0",
+            "AverageRain": "2018.1",
+            "Date": "2020/9/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1368.6",
+            "AverageRain": "2028.7",
+            "Date": "2020/9/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1370.1",
+            "AverageRain": "2033.3",
+            "Date": "2020/9/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1371.2",
+            "AverageRain": "2038.7",
+            "Date": "2020/9/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1371.3",
+            "AverageRain": "2048.8",
+            "Date": "2020/9/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1371.3",
+            "AverageRain": "2053.6",
+            "Date": "2020/9/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1371.3",
+            "AverageRain": "2058.7",
+            "Date": "2020/9/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1371.6",
+            "AverageRain": "2062.5",
+            "Date": "2020/9/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1377.8",
+            "AverageRain": "2072.9",
+            "Date": "2020/9/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1377.8",
+            "AverageRain": "2082.9",
+            "Date": "2020/9/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1377.8",
+            "AverageRain": "2097.8",
+            "Date": "2020/9/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1377.8",
+            "AverageRain": "2110.0",
+            "Date": "2020/9/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1377.9",
+            "AverageRain": "2114.4",
+            "Date": "2020/9/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.0",
+            "AverageRain": "2117.6",
+            "Date": "2020/10/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.1",
+            "AverageRain": "2121.7",
+            "Date": "2020/10/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.1",
+            "AverageRain": "2123.6",
+            "Date": "2020/10/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.1",
+            "AverageRain": "2125.5",
+            "Date": "2020/10/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.1",
+            "AverageRain": "2127.5",
+            "Date": "2020/10/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.1",
+            "AverageRain": "2138.3",
+            "Date": "2020/10/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1378.3",
+            "AverageRain": "2142.6",
+            "Date": "2020/10/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.4",
+            "AverageRain": "2144.0",
+            "Date": "2020/10/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2146.6",
+            "Date": "2020/10/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2148.6",
+            "Date": "2020/10/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2149.8",
+            "Date": "2020/10/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2152.1",
+            "Date": "2020/10/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2153.7",
+            "Date": "2020/10/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2155.1",
+            "Date": "2020/10/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2157.7",
+            "Date": "2020/10/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1379.6",
+            "AverageRain": "2160.2",
+            "Date": "2020/10/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1384.5",
+            "AverageRain": "2161.3",
+            "Date": "2020/10/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1384.6",
+            "AverageRain": "2162.6",
+            "Date": "2020/10/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1384.6",
+            "AverageRain": "2163.1",
+            "Date": "2020/10/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1384.6",
+            "AverageRain": "2163.6",
+            "Date": "2020/10/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1384.6",
+            "AverageRain": "2164.6",
+            "Date": "2020/10/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1385.7",
+            "AverageRain": "2165.4",
+            "Date": "2020/10/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1387.2",
+            "AverageRain": "2165.7",
+            "Date": "2020/10/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2167.0",
+            "Date": "2020/10/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2167.8",
+            "Date": "2020/10/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2169.0",
+            "Date": "2020/10/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2169.7",
+            "Date": "2020/10/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2170.1",
+            "Date": "2020/10/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.2",
+            "AverageRain": "2170.6",
+            "Date": "2020/10/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.5",
+            "AverageRain": "2171.1",
+            "Date": "2020/10/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.5",
+            "AverageRain": "2172.6",
+            "Date": "2020/10/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.5",
+            "AverageRain": "2172.9",
+            "Date": "2020/11/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.5",
+            "AverageRain": "2173.5",
+            "Date": "2020/11/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1389.6",
+            "AverageRain": "2174.0",
+            "Date": "2020/11/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1390.5",
+            "AverageRain": "2174.5",
+            "Date": "2020/11/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1390.5",
+            "AverageRain": "2174.9",
+            "Date": "2020/11/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1390.8",
+            "AverageRain": "2175.1",
+            "Date": "2020/11/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1390.8",
+            "AverageRain": "2175.4",
+            "Date": "2020/11/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1390.8",
+            "AverageRain": "2176.2",
+            "Date": "2020/11/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1406.6",
+            "AverageRain": "2178.3",
+            "Date": "2020/11/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1407.2",
+            "AverageRain": "2180.3",
+            "Date": "2020/11/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1407.3",
+            "AverageRain": "2180.7",
+            "Date": "2020/11/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1407.3",
+            "AverageRain": "2180.9",
+            "Date": "2020/11/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1407.3",
+            "AverageRain": "2181.4",
+            "Date": "2020/11/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.5",
+            "AverageRain": "2181.8",
+            "Date": "2020/11/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2182.3",
+            "Date": "2020/11/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2183.6",
+            "Date": "2020/11/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2185.6",
+            "Date": "2020/11/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2186.1",
+            "Date": "2020/11/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2186.6",
+            "Date": "2020/11/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2187.3",
+            "Date": "2020/11/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2187.9",
+            "Date": "2020/11/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2188.6",
+            "Date": "2020/11/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2189.4",
+            "Date": "2020/11/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2189.8",
+            "Date": "2020/11/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2190.8",
+            "Date": "2020/11/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2191.3",
+            "Date": "2020/11/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2192.8",
+            "Date": "2020/11/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2193.2",
+            "Date": "2020/11/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2193.5",
+            "Date": "2020/11/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2193.8",
+            "Date": "2020/11/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2194.0",
+            "Date": "2020/12/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2194.4",
+            "Date": "2020/12/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2195.8",
+            "Date": "2020/12/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2196.7",
+            "Date": "2020/12/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2197.6",
+            "Date": "2020/12/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2198.0",
+            "Date": "2020/12/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2198.5",
+            "Date": "2020/12/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1409.6",
+            "AverageRain": "2199.0",
+            "Date": "2020/12/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1423.2",
+            "AverageRain": "2199.4",
+            "Date": "2020/12/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2200.2",
+            "Date": "2020/12/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2200.5",
+            "Date": "2020/12/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2200.9",
+            "Date": "2020/12/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2201.1",
+            "Date": "2020/12/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2201.4",
+            "Date": "2020/12/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2201.6",
+            "Date": "2020/12/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2202.8",
+            "Date": "2020/12/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2203.8",
+            "Date": "2020/12/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2204.5",
+            "Date": "2020/12/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2205.5",
+            "Date": "2020/12/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1424.4",
+            "AverageRain": "2206.6",
+            "Date": "2020/12/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1433.9",
+            "AverageRain": "2207.9",
+            "Date": "2020/12/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1433.9",
+            "AverageRain": "2208.3",
+            "Date": "2020/12/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1437.0",
+            "AverageRain": "2208.5",
+            "Date": "2020/12/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.3",
+            "AverageRain": "2208.7",
+            "Date": "2020/12/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.4",
+            "AverageRain": "2209.4",
+            "Date": "2020/12/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.4",
+            "AverageRain": "2210.4",
+            "Date": "2020/12/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.6",
+            "AverageRain": "2210.7",
+            "Date": "2020/12/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.6",
+            "AverageRain": "2211.4",
+            "Date": "2020/12/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.8",
+            "AverageRain": "2213.1",
+            "Date": "2020/12/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1442.8",
+            "AverageRain": "2213.8",
+            "Date": "2020/12/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2215.2",
+            "Date": "2020/12/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2215.9",
+            "Date": "2021/1/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2216.6",
+            "Date": "2021/1/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2218.3",
+            "Date": "2021/1/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2219.2",
+            "Date": "2021/1/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2219.9",
+            "Date": "2021/1/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1443.0",
+            "AverageRain": "2220.9",
+            "Date": "2021/1/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1444.7",
+            "AverageRain": "2221.2",
+            "Date": "2021/1/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.2",
+            "AverageRain": "2222.3",
+            "Date": "2021/1/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.4",
+            "AverageRain": "2223.3",
+            "Date": "2021/1/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.4",
+            "AverageRain": "2223.5",
+            "Date": "2021/1/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.4",
+            "AverageRain": "2223.9",
+            "Date": "2021/1/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2224.2",
+            "Date": "2021/1/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2224.7",
+            "Date": "2021/1/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2226.2",
+            "Date": "2021/1/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2227.2",
+            "Date": "2021/1/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2228.4",
+            "Date": "2021/1/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2229.4",
+            "Date": "2021/1/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2230.8",
+            "Date": "2021/1/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2232.0",
+            "Date": "2021/1/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2232.8",
+            "Date": "2021/1/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1446.8",
+            "AverageRain": "2233.1",
+            "Date": "2021/1/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2233.7",
+            "Date": "2021/1/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2234.8",
+            "Date": "2021/1/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2235.5",
+            "Date": "2021/1/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2236.2",
+            "Date": "2021/1/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2238.0",
+            "Date": "2021/1/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2239.2",
+            "Date": "2021/1/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2240.4",
+            "Date": "2021/1/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2242.9",
+            "Date": "2021/1/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2243.7",
+            "Date": "2021/1/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2244.6",
+            "Date": "2021/1/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2245.2",
+            "Date": "2021/2/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2246.3",
+            "Date": "2021/2/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2247.2",
+            "Date": "2021/2/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2247.5",
+            "Date": "2021/2/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2248.7",
+            "Date": "2021/2/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2249.8",
+            "Date": "2021/2/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2251.1",
+            "Date": "2021/2/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2253.1",
+            "Date": "2021/2/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.5",
+            "AverageRain": "2254.5",
+            "Date": "2021/2/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1456.7",
+            "AverageRain": "2255.5",
+            "Date": "2021/2/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2257.0",
+            "Date": "2021/2/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2258.5",
+            "Date": "2021/2/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2259.4",
+            "Date": "2021/2/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2260.7",
+            "Date": "2021/2/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2262.9",
+            "Date": "2021/2/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2264.2",
+            "Date": "2021/2/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2265.3",
+            "Date": "2021/2/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2267.0",
+            "Date": "2021/2/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2271.3",
+            "Date": "2021/2/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2273.1",
+            "Date": "2021/2/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2274.2",
+            "Date": "2021/2/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2276.2",
+            "Date": "2021/2/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.0",
+            "AverageRain": "2277.0",
+            "Date": "2021/2/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2278.5",
+            "Date": "2021/2/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2280.3",
+            "Date": "2021/2/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2282.1",
+            "Date": "2021/2/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2284.6",
+            "Date": "2021/2/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2286.1",
+            "Date": "2021/2/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2286.2",
+            "Date": "2021/3/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2287.5",
+            "Date": "2021/3/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1474.1",
+            "AverageRain": "2288.8",
+            "Date": "2021/3/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2289.5",
+            "Date": "2021/3/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2291.7",
+            "Date": "2021/3/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2292.7",
+            "Date": "2021/3/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2294.2",
+            "Date": "2021/3/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2296.0",
+            "Date": "2021/3/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2297.2",
+            "Date": "2021/3/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2298.0",
+            "Date": "2021/3/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2302.1",
+            "Date": "2021/3/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2303.9",
+            "Date": "2021/3/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2305.9",
+            "Date": "2021/3/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2307.3",
+            "Date": "2021/3/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2309.0",
+            "Date": "2021/3/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2309.9",
+            "Date": "2021/3/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2311.7",
+            "Date": "2021/3/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2312.8",
+            "Date": "2021/3/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2314.5",
+            "Date": "2021/3/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2317.1",
+            "Date": "2021/3/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2318.4",
+            "Date": "2021/3/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1481.2",
+            "AverageRain": "2321.5",
+            "Date": "2021/3/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1482.9",
+            "AverageRain": "2324.2",
+            "Date": "2021/3/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1483.3",
+            "AverageRain": "2327.2",
+            "Date": "2021/3/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2330.0",
+            "Date": "2021/3/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2334.6",
+            "Date": "2021/3/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2336.6",
+            "Date": "2021/3/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2339.4",
+            "Date": "2021/3/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2341.9",
+            "Date": "2021/3/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2343.9",
+            "Date": "2021/3/30"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2346.9",
+            "Date": "2021/3/31"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2349.9",
+            "Date": "2021/4/1"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2353.0",
+            "Date": "2021/4/2"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2355.7",
+            "Date": "2021/4/3"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2360.5",
+            "Date": "2021/4/4"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2363.8",
+            "Date": "2021/4/5"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2366.6",
+            "Date": "2021/4/6"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.1",
+            "AverageRain": "2369.2",
+            "Date": "2021/4/7"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.2",
+            "AverageRain": "2371.0",
+            "Date": "2021/4/8"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.3",
+            "AverageRain": "2373.6",
+            "Date": "2021/4/9"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.3",
+            "AverageRain": "2376.8",
+            "Date": "2021/4/10"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.3",
+            "AverageRain": "2380.3",
+            "Date": "2021/4/11"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2383.8",
+            "Date": "2021/4/12"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2387.2",
+            "Date": "2021/4/13"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2391.8",
+            "Date": "2021/4/14"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2394.1",
+            "Date": "2021/4/15"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2397.2",
+            "Date": "2021/4/16"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2399.5",
+            "Date": "2021/4/17"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1491.4",
+            "AverageRain": "2401.4",
+            "Date": "2021/4/18"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1494.9",
+            "AverageRain": "2403.8",
+            "Date": "2021/4/19"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1495.8",
+            "AverageRain": "2408.5",
+            "Date": "2021/4/20"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1495.8",
+            "AverageRain": "2413.2",
+            "Date": "2021/4/21"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1496.1",
+            "AverageRain": "2418.0",
+            "Date": "2021/4/22"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1496.1",
+            "AverageRain": "2422.3",
+            "Date": "2021/4/23"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1496.1",
+            "AverageRain": "2426.7",
+            "Date": "2021/4/24"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1501.0",
+            "AverageRain": "2429.0",
+            "Date": "2021/4/25"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1506.2",
+            "AverageRain": "2431.6",
+            "Date": "2021/4/26"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1514.0",
+            "AverageRain": "2435.6",
+            "Date": "2021/4/27"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1515.2",
+            "AverageRain": "2439.9",
+            "Date": "2021/4/28"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1515.2",
+            "AverageRain": "2442.6",
+            "Date": "2021/4/29"
+        },
+        {
+            "RSID": "5",
+            "RSNmae": "Zengwen",
+            "2020Rain": "1527.8",
+            "AverageRain": "2445.9",
+            "Date": "2021/4/30"
+        }
+    ]
 }
