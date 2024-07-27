@@ -1,0 +1,386 @@
+{
+"ID": "16",
+"Name": "",
+"Exec": "",
+"DataList":
+[
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1960
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1961
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 7,
+        "Year": 1962
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1963
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 6,
+        "Year": 1964
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1965
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1966
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 3,
+        "Year": 1967
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1968
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 10,
+        "Year": 1969
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 13,
+        "Year": 1970
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 7,
+        "Year": 1971
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 2,
+        "Year": 1972
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1973
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1974
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1975
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1976
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 2,
+        "Year": 1977
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1978
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 4,
+        "Year": 1979
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 34,
+        "Year": 1980
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 9,
+        "Year": 1981
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 4,
+        "Year": 1982
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 26,
+        "Year": 1983
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1984
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1985
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1986
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 4,
+        "Year": 1987
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 4,
+        "Year": 1988
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 12,
+        "Year": 1989
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1990
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 11,
+        "Year": 1991
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 7,
+        "Year": 1992
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 1,
+        "Year": 1993
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 2,
+        "Year": 1994
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 0,
+        "Year": 1995
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 6,
+        "Year": 1996
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 6,
+        "Year": 1997
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 44,
+        "Year": 1998
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 9,
+        "Year": 1999
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 37,
+        "Year": 2000
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 25,
+        "Year": 2001
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 33,
+        "Year": 2002
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 47,
+        "Year": 2003
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 23,
+        "Year": 2004
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 19,
+        "Year": 2005
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 21,
+        "Year": 2006
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 42,
+        "Year": 2007
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 31,
+        "Year": 2008
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 42,
+        "Year": 2009
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 42,
+        "Year": 2010
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 46,
+        "Year": 2011
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 27,
+        "Year": 2012
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 38,
+        "Year": 2013
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 6,
+        "Year": 2014
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 16,
+        "Year": 2015
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 16,
+        "Year": 2016
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 19,
+        "Year": 2017
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 4,
+        "Year": 2018
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 2,
+        "Year": 2019
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 10,
+        "Year": 2020
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 14,
+        "Year": 2021
+    },
+    {
+        "CTID": "16",
+        "CTNM": "Pingtung",
+        "TX36": 17,
+        "Year": 2022
+    }
+]
+}
