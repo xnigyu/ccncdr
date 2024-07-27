@@ -5,19 +5,19 @@
     "DataList": [{
             "CurrDT": "2024/07/27 14:00",
             "Items": [{
-                    "Path": "https://xnigyu.github.io/ccncdr/taiwanClimateOverview/tavg_climate_normals_map.png",
+                    "Path": "https://xnigyu.github.io/ccncdr/taiwanClimateOverview/tx36/tx36.png",
                     "Name": "P6210",
-                    "Time": "2023/11/24 09:40",
+                    "Time": "2024/07/27 14:00",
                     "Lx": "116.020802472",
                     "Dy": "20.1318116630002",
                     "Rx": "124.234562472",
                     "Ty": "26.9412836630001",
                     "Cx": "120.128",
                     "Cy": "23.5365",
-                    "RelX": "212.517735651042",
-                    "RelY": "-1.77353748036452",
-                    "Width": "3840",
-                    "Height": "3183"
+                    "RelX": "109.68192609375",
+                    "RelY": "117.875529437637",
+                    "Width": "7680",
+                    "Height": "6366"
                 }
             ]
         }
