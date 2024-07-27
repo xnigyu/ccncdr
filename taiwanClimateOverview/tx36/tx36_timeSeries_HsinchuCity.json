@@ -1,0 +1,386 @@
+{
+"ID": "06",
+"Name": "",
+"Exec": "",
+"DataList":
+[
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1960
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1961
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 1962
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 4,
+        "Year": 1963
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 1964
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1965
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1966
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 1967
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 1968
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1969
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1970
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 1971
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1972
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1973
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1974
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1975
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1976
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1977
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 4,
+        "Year": 1978
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1979
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 4,
+        "Year": 1980
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1981
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1982
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 10,
+        "Year": 1983
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 1984
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1985
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 1986
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1987
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1988
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1989
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1990
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1991
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1992
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 1993
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1994
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 1995
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1996
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 1997
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 1998
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 1999
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 2000
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 2001
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 1,
+        "Year": 2002
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 2003
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 4,
+        "Year": 2004
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 2005
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 2006
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 2007
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 2008
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 10,
+        "Year": 2009
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 2010
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 2011
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 2012
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 2013
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 12,
+        "Year": 2014
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 2,
+        "Year": 2015
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 5,
+        "Year": 2016
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 6,
+        "Year": 2017
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 2018
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 5,
+        "Year": 2019
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 3,
+        "Year": 2020
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 4,
+        "Year": 2021
+    },
+    {
+        "CTID": "06",
+        "CTNM": "HsinchuCity",
+        "TX36": 0,
+        "Year": 2022
+    }
+]
+}

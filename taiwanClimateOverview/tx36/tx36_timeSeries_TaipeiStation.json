@@ -1,0 +1,770 @@
+{
+"ID": "466920",
+"Name": "",
+"Exec": "",
+"DataList":
+[
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1897
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1898
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1899
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1900
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1901
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1902
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1903
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1904
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1905
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1906
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1907
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1908
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1909
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1910
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1911
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1912
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1913
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1914
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1915
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1916
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1917
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1918
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1919
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1920
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 11,
+        "Year": 1921
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1922
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1923
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1924
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1925
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1926
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1927
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1928
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1929
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1930
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1931
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1932
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1933
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 12,
+        "Year": 1934
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1935
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1936
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1937
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1938
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1939
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1940
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1941
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1942
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1943
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1944
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1945
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1946
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1947
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1948
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1949
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1950
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1951
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1952
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1953
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 1954
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1955
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 8,
+        "Year": 1956
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 10,
+        "Year": 1957
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1958
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 8,
+        "Year": 1959
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1960
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 12,
+        "Year": 1961
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1962
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1963
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 14,
+        "Year": 1964
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1965
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1966
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 8,
+        "Year": 1967
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1968
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1969
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1970
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 1971
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1972
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 3,
+        "Year": 1973
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1974
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1975
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1976
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 14,
+        "Year": 1977
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1978
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1979
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 1980
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1981
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1982
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1983
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 7,
+        "Year": 1984
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1985
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 1,
+        "Year": 1986
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 5,
+        "Year": 1987
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 22,
+        "Year": 1988
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 15,
+        "Year": 1989
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 19,
+        "Year": 1990
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 16,
+        "Year": 1991
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1992
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 6,
+        "Year": 1993
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 4,
+        "Year": 1994
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 1995
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 9,
+        "Year": 1996
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 0,
+        "Year": 1997
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 8,
+        "Year": 1998
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 2,
+        "Year": 1999
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 9,
+        "Year": 2000
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 16,
+        "Year": 2001
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 19,
+        "Year": 2002
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 30,
+        "Year": 2003
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 11,
+        "Year": 2004
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 9,
+        "Year": 2005
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 17,
+        "Year": 2006
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 12,
+        "Year": 2007
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 10,
+        "Year": 2008
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 2009
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 15,
+        "Year": 2010
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 13,
+        "Year": 2011
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 16,
+        "Year": 2012
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 20,
+        "Year": 2013
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 29,
+        "Year": 2014
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 19,
+        "Year": 2015
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 46,
+        "Year": 2016
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 34,
+        "Year": 2017
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 38,
+        "Year": 2018
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 26,
+        "Year": 2019
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 64,
+        "Year": 2020
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 15,
+        "Year": 2021
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 20,
+        "Year": 2022
+    },
+    {
+        "STID": "466920",
+        "STNM": "TaipeiStation",
+        "TX36": 14,
+        "Year": 2023
+    }
+]
+}
