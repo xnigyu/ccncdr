@@ -1,0 +1,25 @@
+{
+    "ID": "1",
+    "Name": "P6210",
+    "Exec": "RealImage",
+    "DataList": [{
+            "CurrDT": "2024/07/27 14:00",
+            "Items": [{
+                    "Path": "https://xnigyu.github.io/ccncdr/taiwanClimateOverview/tavg_climate_normals_map.png",
+                    "Name": "P6210",
+                    "Time": "2023/11/24 09:40",
+                    "Lx": "116.020802472",
+                    "Dy": "20.1318116630002",
+                    "Rx": "124.234562472",
+                    "Ty": "26.9412836630001",
+                    "Cx": "120.128",
+                    "Cy": "23.5365",
+                    "RelX": "212.517735651042",
+                    "RelY": "-1.77353748036452",
+                    "Width": "3840",
+                    "Height": "3183"
+                }
+            ]
+        }
+    ]
+}
