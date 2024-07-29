@@ -38,7 +38,7 @@
             const data = new google.visualization.DataTable();
             data.addColumn('number', 'Year');
             data.addColumn('number', '超過36度的天數');
-            data.addColumn({type: 'string', role: 'annotation'}); // 添加標注列
+            data.addColumn({type: 'string', role: 'annotation',}); // 添加標注列
 
             let maxTx36 = 0;
 
@@ -79,6 +79,9 @@
                     textStyle: {
                         fontSize: 10,
                         auraColor: 'none',
+                        bold: true,
+                        italic: false,
+                        bold: true,
                         color: '#4D0000'
                     }
                 },
@@ -101,7 +104,7 @@
         #columnchart_material {
             min-width: 450px;
             min-height: 300px;
-            width: 100%;
+            width: auto;
             height: auto;
         }
     </style>
