@@ -58,11 +58,14 @@
           // 定義折線圖選項
           const options = {
             curveType: 'function',
-            legend: {
-              position: 'top', 
-              alignment: 'start', 
-              textStyle: { color: 'black', fontSize: 12 },
-              maxLines: 4  // 確保圖例完全顯示
+            legend: { position: 'bottom' },
+            width: '100%',
+            height: '100%',
+            chartArea: {
+              width: '90%',
+              height: '65%',
+              left: 50,
+              bottom: 50 // 為 x 軸標簽保留足夠的底部空間
             },
             hAxis: {
               title: '年',
@@ -86,8 +89,6 @@
               2: { color: '#FFD306' },
               3: { color: '#CE0000' }
             },
-            width: '100%',
-            height: '100%',
             tooltip: {
               isHtml: true,
               textStyle: {
