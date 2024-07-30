@@ -1,0 +1,575 @@
+{
+"ID": "15",
+"Name": "",
+"Exec": "",
+"DataList":
+[
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2125.93",
+        "9yrRun": null,
+        "Trend": "1496.38",
+        "Year": 1960
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1640.89",
+        "9yrRun": null,
+        "Trend": "1506.64",
+        "Year": 1961
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1155.83",
+        "9yrRun": null,
+        "Trend": "1516.9",
+        "Year": 1962
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1116.52",
+        "9yrRun": null,
+        "Trend": "1527.16",
+        "Year": 1963
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "951.365",
+        "9yrRun": "1520.79",
+        "Trend": "1537.43",
+        "Year": 1964
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1502.4",
+        "9yrRun": "1455.69",
+        "Trend": "1547.69",
+        "Year": 1965
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1837.34",
+        "9yrRun": "1418.66",
+        "Trend": "1557.95",
+        "Year": 1966
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1501.84",
+        "9yrRun": "1424.12",
+        "Trend": "1568.21",
+        "Year": 1967
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1854.98",
+        "9yrRun": "1598.96",
+        "Trend": "1578.47",
+        "Year": 1968
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1540.03",
+        "9yrRun": "1673.03",
+        "Trend": "1588.74",
+        "Year": 1969
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1307.63",
+        "9yrRun": "1747.16",
+        "Trend": 1599,
+        "Year": 1970
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1204.95",
+        "9yrRun": "1774.98",
+        "Trend": "1609.26",
+        "Year": 1971
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2690.11",
+        "9yrRun": "1797.14",
+        "Trend": "1619.52",
+        "Year": 1972
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1618.03",
+        "9yrRun": "1919.11",
+        "Trend": "1629.79",
+        "Year": 1973
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2169.58",
+        "9yrRun": "1898.05",
+        "Trend": "1640.05",
+        "Year": 1974
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2087.67",
+        "9yrRun": "1923.35",
+        "Trend": "1650.31",
+        "Year": 1975
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1701.25",
+        "9yrRun": "1849.76",
+        "Trend": "1660.57",
+        "Year": 1976
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2952.77",
+        "9yrRun": "1833.43",
+        "Trend": "1670.83",
+        "Year": 1977
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1350.44",
+        "9yrRun": "1860.2",
+        "Trend": "1681.09",
+        "Year": 1978
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1535.31",
+        "9yrRun": "1824.17",
+        "Trend": "1691.36",
+        "Year": 1979
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "542.635",
+        "9yrRun": "1742.36",
+        "Trend": "1701.62",
+        "Year": 1980
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2543.2",
+        "9yrRun": "1757.7",
+        "Trend": "1711.88",
+        "Year": 1981
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1858.93",
+        "9yrRun": "1589.33",
+        "Trend": "1722.14",
+        "Year": 1982
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1845.3",
+        "9yrRun": "1600.12",
+        "Trend": "1732.4",
+        "Year": 1983
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1351.41",
+        "9yrRun": "1618.43",
+        "Trend": "1742.67",
+        "Year": 1984
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1839.28",
+        "9yrRun": "1698.98",
+        "Trend": "1752.93",
+        "Year": 1985
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1437.48",
+        "9yrRun": "1645.86",
+        "Trend": "1763.19",
+        "Year": 1986
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1447.53",
+        "9yrRun": "1606.07",
+        "Trend": "1773.45",
+        "Year": 1987
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1700.06",
+        "9yrRun": "1591.9",
+        "Trend": "1783.71",
+        "Year": 1988
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1267.64",
+        "9yrRun": "1535.73",
+        "Trend": "1793.98",
+        "Year": 1989
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2065.12",
+        "9yrRun": "1594.19",
+        "Trend": "1804.24",
+        "Year": 1990
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1500.82",
+        "9yrRun": "1541.03",
+        "Trend": "1814.5",
+        "Year": 1991
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1717.76",
+        "9yrRun": "1526.12",
+        "Trend": "1824.76",
+        "Year": 1992
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "845.857",
+        "9yrRun": "1557.69",
+        "Trend": "1835.03",
+        "Year": 1993
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2365.45",
+        "9yrRun": "1638.24",
+        "Trend": "1845.29",
+        "Year": 1994
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "958.984",
+        "9yrRun": "1653.96",
+        "Trend": "1855.55",
+        "Year": 1995
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1313.39",
+        "9yrRun": "1687.31",
+        "Trend": "1865.81",
+        "Year": 1996
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1984.14",
+        "9yrRun": "1773.27",
+        "Trend": "1876.07",
+        "Year": 1997
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1992.59",
+        "9yrRun": "1796.37",
+        "Trend": "1886.34",
+        "Year": 1998
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2206.61",
+        "9yrRun": "1658.11",
+        "Trend": "1896.6",
+        "Year": 1999
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1801.03",
+        "9yrRun": "1712.58",
+        "Trend": "1906.86",
+        "Year": 2000
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2491.38",
+        "9yrRun": "1926.16",
+        "Trend": "1917.12",
+        "Year": 2001
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1053.74",
+        "9yrRun": "1946.3",
+        "Trend": "1927.38",
+        "Year": 2002
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1121.1",
+        "9yrRun": "2008.49",
+        "Trend": "1937.65",
+        "Year": 2003
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1449.25",
+        "9yrRun": "2075.93",
+        "Trend": "1947.91",
+        "Year": 2004
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "3235.61",
+        "9yrRun": "2085.15",
+        "Trend": "1958.17",
+        "Year": 2005
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2165.39",
+        "9yrRun": "2065.35",
+        "Trend": "1968.43",
+        "Year": 2006
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2552.32",
+        "9yrRun": "2129.1",
+        "Trend": "1978.69",
+        "Year": 2007
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2813.56",
+        "9yrRun": "2295.16",
+        "Trend": "1988.96",
+        "Year": 2008
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1884.06",
+        "9yrRun": "2337.87",
+        "Trend": "1999.22",
+        "Year": 2009
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2313.15",
+        "9yrRun": "2154.79",
+        "Trend": "2009.48",
+        "Year": 2010
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1627.48",
+        "9yrRun": "2080.85",
+        "Trend": "2019.74",
+        "Year": 2011
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2615.6",
+        "9yrRun": "2135.75",
+        "Trend": 2030,
+        "Year": 2012
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1833.66",
+        "9yrRun": "1984.66",
+        "Trend": "2040.27",
+        "Year": 2013
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1587.9",
+        "9yrRun": "2106.86",
+        "Trend": "2050.53",
+        "Year": 2014
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1499.91",
+        "9yrRun": "2110.41",
+        "Trend": "2060.79",
+        "Year": 2015
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "3046.47",
+        "9yrRun": "2117.6",
+        "Trend": "2071.05",
+        "Year": 2016
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1453.73",
+        "9yrRun": "2164.43",
+        "Trend": "2081.31",
+        "Year": 2017
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2983.84",
+        "9yrRun": "2080.79",
+        "Trend": "2091.58",
+        "Year": 2018
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "2345.06",
+        "9yrRun": null,
+        "Trend": "2101.84",
+        "Year": 2019
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1692.27",
+        "9yrRun": null,
+        "Trend": "2112.1",
+        "Year": 2020
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "3036.99",
+        "9yrRun": null,
+        "Trend": "2122.36",
+        "Year": 2021
+    },
+    {
+        "CTID": "15",
+        "CTNM": "Kaohsiung",
+        "AvgRain": "1814.5",
+        "Rain": "1080.97",
+        "9yrRun": null,
+        "Trend": "2132.62",
+        "Year": 2022
+    }
+]
+}
