@@ -69,7 +69,7 @@
               format: '####',
               viewWindow: {
                 min: 2020,
-                max: 2100
+                max: 2090
               },
               gridlines: { color: 'none' }
             },
@@ -110,14 +110,28 @@
     }
   </script>
   <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #chart_container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+    }
     #chart_div {
-      min-width: 480px;
-      min-height: 300px;
-      width: 100%; /* 確保圖表寬度為 100% */
+      width: 100%;
+      height: 95%;
     }
   </style>
 </head>
 <body>
-  <div id="chart_div"></div>
+  <div id="chart_container">
+    <div id="chart_div"></div>
+  </div>
 </body>
 </html>
