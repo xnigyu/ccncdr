@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Chart Example</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <style>
+        #chart_div {
+            min-width: 500px;
+            min-height: 350px;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <script type="text/javascript">
+        // Load the Visualization API and the corechart package.
+        google.charts.load('current', {'packages':['corechart']});
+
+        // Set a callback to run when the Google Visualization API is loaded.
+        google.charts.setOnLoadCallback(drawChart);
+
+        // Function to get query parameters from the URL
+        function getQueryParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function drawChart() {
+            // Get the 'file' parameter from the URL
+            const fileParam = getQueryParameter('file');
+
+            // Define the base URL for data files
+            const baseUrl = 'https://xnigyu.github.io/ccncdr/seaLevel/';
+
+            // Construct the full URL for the JSON file
+            const dataUrl = baseUrl + fileParam;
+
+            fetch(dataUrl)
+                .then(response => response.json())
+                .then(data => {
+                    const dataList = data.DataList;
+                    const dataTable = new google.visualization.DataTable();
+                    dataTable.addColumn('string', '年份');
+                    dataTable.addColumn('number', 'SHH');
+                    dataTable.addColumn('number', '趨勢');
+
+                    dataList.forEach(item => {
+                        const year = item.Year.toString(); // Format year as a string
+                        const shh = parseFloat(item.SHH) || 0;
+                        const trend = item.Trend.toLowerCase() === 'nan' ? 0 : parseFloat(item.Trend);
+                        dataTable.addRow([year, shh, trend]);
+                    });
+
+                    const options = {
+                        title: '海平面變化圖',
+                        hAxis: {
+                            title: '年份',
+                            gridlines: {color: '#ccc'},
+                            ticks: dataList.filter(item => item.Year % 10 === 0).map(item => item.Year.toString()), // Only show ticks every 10 years
+                        },
+                        vAxis: {
+                            title: '變化（毫米）',
+                            gridlines: {count: 5},
+                            ticks: [-200, -100, 0, 100, 200],
+                        },
+                        seriesType: 'bars',
+                        series: {
+                            0: {
+                                color: 'lightblue', // Default color for SHH < 0
+                                targetAxisIndex: 0,
+                                type: 'bars',
+                            },
+                            1: {
+                                type: 'line',
+                                color: 'black', // Color for trend line
+                                targetAxisIndex: 1,
+                            }
+                        },
+                        bar: {groupWidth: '75%'},
+                        legend: {position: 'top', textStyle: {fontSize: 12}, alignment: 'end'},
+                        isStacked: false,
+                        width: '100%',
+                        height: '100%',
+                        chartArea: {width: '80%', height: '70%'}
+                    };
+
+                    // Draw the chart inside the div with id 'chart_div'.
+                    const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+                    chart.draw(dataTable, options);
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        }
+    </script>
+</head>
+<body>
+    <div id="chart_div"></div>
+</body>
+</html>
