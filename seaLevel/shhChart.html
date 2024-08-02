@@ -48,9 +48,9 @@
         function processData(jsonData) {
             const dataTable = new google.visualization.DataTable();
             dataTable.addColumn('number', '年份');
-            dataTable.addColumn('number', 'SHH');
+            dataTable.addColumn('number', '潮位高度');
             dataTable.addColumn({ type: 'string', role: 'style' });
-            dataTable.addColumn('number', '趨勢');
+            dataTable.addColumn('number', '趨勢線');
 
             jsonData.DataList.forEach(item => {
                 const year = parseInt(item.Year);
