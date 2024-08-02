@@ -6,90 +6,103 @@
     <title>Google Chart Example</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <style>
-        #chart_div {
+        html, body, #chart_div {
             min-width: 500px;
             min-height: 350px;
             width: 100%;
             height: 100%;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* 隱藏整個頁面的滾動條 */
         }
     </style>
     <script type="text/javascript">
-        // Load the Visualization API and the corechart package.
+        // 加載核心圖表包
         google.charts.load('current', {'packages':['corechart']});
-
-        // Set a callback to run when the Google Visualization API is loaded.
+        // 當Google視覺化API加載完成後運行回調函數
         google.charts.setOnLoadCallback(drawChart);
 
-        // Function to get query parameters from the URL
+        // 從URL中獲取查詢參數的函數
         function getQueryParameter(name) {
             const urlParams = new URLSearchParams(window.location.search);
             return urlParams.get(name);
         }
 
         function drawChart() {
-            // Get the 'file' parameter from the URL
+            // 從URL中獲取'file'參數
             const fileParam = getQueryParameter('file');
-
-            // Define the base URL for data files
+            // 定義數據文件的基本URL
             const baseUrl = 'https://xnigyu.github.io/ccncdr/seaLevel/';
-
-            // Construct the full URL for the JSON file
+            // 構造JSON文件的完整URL
             const dataUrl = baseUrl + fileParam;
 
             fetch(dataUrl)
                 .then(response => response.json())
                 .then(data => {
-                    const dataList = data.DataList;
-                    const dataTable = new google.visualization.DataTable();
-                    dataTable.addColumn('string', '年份');
-                    dataTable.addColumn('number', 'SHH');
-                    dataTable.addColumn('number', '趨勢');
-
-                    dataList.forEach(item => {
-                        const year = item.Year.toString(); // Format year as a string
-                        const shh = parseFloat(item.SHH) || 0;
-                        const trend = item.Trend.toLowerCase() === 'nan' ? 0 : parseFloat(item.Trend);
-                        dataTable.addRow([year, shh, trend]);
-                    });
-
-                    const options = {
-                        title: '海平面變化圖',
-                        hAxis: {
-                            title: '年份',
-                            gridlines: {color: '#ccc'},
-                            ticks: dataList.filter(item => item.Year % 10 === 0).map(item => item.Year.toString()), // Only show ticks every 10 years
-                        },
-                        vAxis: {
-                            title: '變化（毫米）',
-                            gridlines: {count: 5},
-                            ticks: [-200, -100, 0, 100, 200],
-                        },
-                        seriesType: 'bars',
-                        series: {
-                            0: {
-                                color: 'lightblue', // Default color for SHH < 0
-                                targetAxisIndex: 0,
-                                type: 'bars',
-                            },
-                            1: {
-                                type: 'line',
-                                color: 'black', // Color for trend line
-                                targetAxisIndex: 1,
-                            }
-                        },
-                        bar: {groupWidth: '75%'},
-                        legend: {position: 'top', textStyle: {fontSize: 12}, alignment: 'end'},
-                        isStacked: false,
-                        width: '100%',
-                        height: '100%',
-                        chartArea: {width: '80%', height: '70%'}
-                    };
-
-                    // Draw the chart inside the div with id 'chart_div'.
-                    const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
-                    chart.draw(dataTable, options);
+                    processData(data);
                 })
                 .catch(error => console.error('Error fetching data:', error));
+        }
+
+        function processData(jsonData) {
+            const dataTable = new google.visualization.DataTable();
+            dataTable.addColumn('number', '年份');
+            dataTable.addColumn('number', 'SHH');
+            dataTable.addColumn({ type: 'string', role: 'style' });
+            dataTable.addColumn('number', '趨勢');
+
+            jsonData.DataList.forEach(item => {
+                const year = parseInt(item.Year);
+                const shh = parseFloat(item.SHH) || 0;
+                const color = shh < 0 ? '#7cd1f2' : '#0965e6';
+                const trend = item.Trend.toLowerCase() === 'nan' ? 0 : parseFloat(item.Trend);
+                dataTable.addRow([year, shh, color, trend]);
+            });
+
+            const options = {
+                
+                chartArea: {
+                    width: '80%',
+                    height: '65%',
+                    left: 50,
+                    bottom: 50, // 為 x 軸標籤保留足夠的底部空間
+                },
+                legend: { position: 'top' },
+                vAxis: {
+                    title: '變化（毫米）',
+                    ticks: [-200, -100, 0, 100, 200], // 設定y軸間隔
+                    baseline: 0,
+                    baselineColor: '#ccc',
+                },
+                hAxis: {
+                    title: '年份',
+                    format: '####', // 格式化年份為四位數
+                    ticks: jsonData.DataList.filter(item => item.Year % 10 === 0).map(item => parseInt(item.Year)),
+                },
+                series: {
+                    0: { type: 'bars' },
+                    1: { type: 'line', color: 'black' }
+                },
+                width: '100%',
+                height: '100%',
+                bar: { groupWidth: '75%' },
+                isStacked: false,
+            };
+
+            const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+            
+            function resizeChart() {
+                const chartDiv = document.getElementById('chart_div');
+                const parentWidth = chartDiv.parentElement.offsetWidth;
+                const parentHeight = chartDiv.parentElement.offsetHeight;
+                const width = Math.max(parentWidth, 500);
+                const height = Math.max(parentHeight, 350);
+                chart.draw(dataTable, { ...options, width: width, height: height });
+            }
+
+            window.addEventListener('resize', resizeChart);
+            resizeChart();
         }
     </script>
 </head>
