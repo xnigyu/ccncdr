@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>降水變化率圖表</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        // 載入 Google Charts API
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        let chart, dataTable, options;
+
+        function getParameterByName(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function drawChart() {
+            // 取得 URL 中的 file 參數
+            const fileParam = getParameterByName('file');
+            if (!fileParam) {
+                alert('缺少 file 參數');
+                return;
+            }
+
+            // 構建 JSON 文件的 URL
+            const dataUrl = `https://xnigyu.github.io/ccncdr/taiwanClimateOverview/projectionIndex/rx1day/data/${fileParam}.json`;
+
+            // 取得資料來源
+            fetch(dataUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('網路響應不正常');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // 準備資料，並格式化年份為字串以顯示在工具提示中
+                    const dataList = data.DataList.map(item => [
+                        { v: item.Year, f: item.Year.toString() }, // 格式化年份
+                        parseFloat(item['5th']),
+                        parseFloat(item['95th']),
+                        parseFloat(item.Mean),
+                        parseFloat(item.Max)
+                    ]);
+
+                    // 定義資料表格
+                    dataTable = new google.visualization.DataTable();
+                    dataTable.addColumn('number', '年份');
+                    dataTable.addColumn('number', '變化範圍(第5百分位)');
+                    dataTable.addColumn('number', '變化範圍(第95百分位)');
+                    dataTable.addColumn('number', '平均值');
+                    dataTable.addColumn('number', '最大值');
+
+                    // 設置工具提示內容
+                    dataTable.addRows(dataList);
+
+                    // 定義圖表選項
+                    options = {
+                        legend: { position: 'top', textStyle: { fontSize: 12, color: '#555' }, alignment: 'center' },
+                        chartArea: {
+                            width: '80%',
+                            height: '75%',
+                            left: 60,
+                            bottom: 60 // 為 x 軸標簽保留足夠的底部空間
+                        },
+                        hAxis: { 
+                            title: '年份', 
+                            format: '####',
+                            ticks: Array.from({length: (2090-2020)/10 + 1}, (_, i) => 2020 + i * 10), // 生成每 10 年的刻度
+                            gridlines: { color: 'none' } // 移除 x 軸網格線
+                        },
+                        vAxis: { 
+                            title: '變化率 (%)', 
+                            viewWindow: { max: 150, min: -50 },
+                            gridlines: { ticks: [150, 0, -50] } 
+                        },
+                        series: {
+                            0: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4 }, // 變化範圍
+                            1: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4, enableInteractivity: false }, // 上界
+                            2: { type: 'line', color: '#f1ca3a', lineWidth: 2 }, // 平均值
+                            3: { type: 'line', color: '#6f9654', lineWidth: 2 }  // 最大值
+                        },
+                        isStacked: false,
+                        interpolateNulls: true,
+                        tooltip: { isHtml: false }, // 使用內建工具提示
+                        focusTarget: 'category' // 在同一X軸的值上集中顯示工具提示
+                    };
+
+                    // 初始化並繪製圖表
+                    chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+                    chart.draw(dataTable, options);
+
+                    // 添加事件監聽器以在窗口大小改變時重新繪製圖表
+                    window.addEventListener('resize', drawChartOnResize);
+                })
+                .catch(error => {
+                    console.error('資料加載失敗:', error);
+                    alert('資料加載失敗');
+                });
+        }
+
+        function drawChartOnResize() {
+            // 確保圖表在窗口大小改變時自適應
+            if (chart && dataTable && options) {
+                chart.draw(dataTable, options);
+            }
+        }
+    </script>
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #chart_container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+        }
+        #chart_div {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="chart_container">
+        <div id="chart_div"></div>
+    </div>
+</body>
+</html>
