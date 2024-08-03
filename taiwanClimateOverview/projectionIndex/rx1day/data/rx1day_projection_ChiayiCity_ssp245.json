@@ -1,0 +1,602 @@
+{
+"ID": "13",
+"Name": "",
+"Exec": "",
+"DataList":
+[
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-11.5",
+        "Mean": "9.4",
+        "95th": "40.4",
+        "Max": "45.5",
+        "Year": 2025
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-11.4",
+        "Mean": "10.9",
+        "95th": "47.6",
+        "Max": "55.0",
+        "Year": 2026
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.5",
+        "Mean": "10.8",
+        "95th": "44.2",
+        "Max": "55.7",
+        "Year": 2027
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-18.6",
+        "Mean": "12.1",
+        "95th": "51.7",
+        "Max": "56.8",
+        "Year": 2028
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-16.1",
+        "Mean": "14.2",
+        "95th": "57.6",
+        "Max": "61.6",
+        "Year": 2029
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.2",
+        "Mean": "15.4",
+        "95th": "53.1",
+        "Max": "68.5",
+        "Year": 2030
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.0",
+        "Mean": "16.3",
+        "95th": "51.6",
+        "Max": "69.4",
+        "Year": 2031
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.6",
+        "Mean": "16.3",
+        "95th": "51.6",
+        "Max": "57.9",
+        "Year": 2032
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-16.6",
+        "Mean": "14.2",
+        "95th": "49.6",
+        "Max": "52.0",
+        "Year": 2033
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.6",
+        "Mean": "14.7",
+        "95th": "50.9",
+        "Max": "51.0",
+        "Year": 2034
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-12.8",
+        "Mean": "14.3",
+        "95th": "56.2",
+        "Max": "56.5",
+        "Year": 2035
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-12.4",
+        "Mean": "15.4",
+        "95th": "54.9",
+        "Max": "64.8",
+        "Year": 2036
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-9.8",
+        "Mean": "15.7",
+        "95th": "63.4",
+        "Max": "63.9",
+        "Year": 2037
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-9.6",
+        "Mean": "15.3",
+        "95th": "60.9",
+        "Max": "67.7",
+        "Year": 2038
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-9.2",
+        "Mean": "16.7",
+        "95th": "56.0",
+        "Max": "69.7",
+        "Year": 2039
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.9",
+        "Mean": "16.2",
+        "95th": "59.9",
+        "Max": "63.5",
+        "Year": 2040
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-16.5",
+        "Mean": "17.2",
+        "95th": "55.5",
+        "Max": "69.7",
+        "Year": 2041
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.3",
+        "Mean": "18.3",
+        "95th": "56.1",
+        "Max": "68.8",
+        "Year": 2042
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-23.8",
+        "Mean": "16.6",
+        "95th": "58.4",
+        "Max": "64.0",
+        "Year": 2043
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-23.4",
+        "Mean": "16.5",
+        "95th": "58.3",
+        "Max": "60.1",
+        "Year": 2044
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.7",
+        "Mean": "16.3",
+        "95th": "48.4",
+        "Max": "58.3",
+        "Year": 2045
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-14.9",
+        "Mean": "15.7",
+        "95th": "46.0",
+        "Max": "46.6",
+        "Year": 2046
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.3",
+        "Mean": "15.7",
+        "95th": "45.2",
+        "Max": "47.2",
+        "Year": 2047
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-10.3",
+        "Mean": "15.4",
+        "95th": "43.8",
+        "Max": "44.2",
+        "Year": 2048
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-8.3",
+        "Mean": "14.7",
+        "95th": "45.9",
+        "Max": "48.2",
+        "Year": 2049
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-9.2",
+        "Mean": "13.7",
+        "95th": "38.3",
+        "Max": "52.2",
+        "Year": 2050
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-7.6",
+        "Mean": "13.6",
+        "95th": "34.2",
+        "Max": "54.9",
+        "Year": 2051
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-7.3",
+        "Mean": "13.6",
+        "95th": "33.5",
+        "Max": "50.5",
+        "Year": 2052
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-8.8",
+        "Mean": "13.4",
+        "95th": "34.3",
+        "Max": "56.4",
+        "Year": 2053
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-5.9",
+        "Mean": "13.6",
+        "95th": "37.6",
+        "Max": "54.2",
+        "Year": 2054
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-9.2",
+        "Mean": "14.1",
+        "95th": "53.1",
+        "Max": "56.2",
+        "Year": 2055
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-4.9",
+        "Mean": "13.9",
+        "95th": "50.6",
+        "Max": "50.7",
+        "Year": 2056
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-7.2",
+        "Mean": "13.7",
+        "95th": "39.4",
+        "Max": "51.1",
+        "Year": 2057
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-8.7",
+        "Mean": "13.2",
+        "95th": "36.0",
+        "Max": "51.4",
+        "Year": 2058
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-13.1",
+        "Mean": "11.2",
+        "95th": "32.6",
+        "Max": "36.5",
+        "Year": 2059
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-11.8",
+        "Mean": "13.3",
+        "95th": "38.1",
+        "Max": "46.9",
+        "Year": 2060
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-13.1",
+        "Mean": "12.9",
+        "95th": "43.0",
+        "Max": "44.8",
+        "Year": 2061
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-16.0",
+        "Mean": "11.3",
+        "95th": "39.3",
+        "Max": "47.7",
+        "Year": 2062
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-20.0",
+        "Mean": "10.9",
+        "95th": "37.8",
+        "Max": "47.9",
+        "Year": 2063
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.4",
+        "Mean": "11.0",
+        "95th": "39.6",
+        "Max": "44.7",
+        "Year": 2064
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.9",
+        "Mean": "11.1",
+        "95th": "41.2",
+        "Max": "44.2",
+        "Year": 2065
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.0",
+        "Mean": "10.8",
+        "95th": "44.0",
+        "Max": "46.8",
+        "Year": 2066
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-15.5",
+        "Mean": "11.3",
+        "95th": "43.7",
+        "Max": "45.5",
+        "Year": 2067
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.0",
+        "Mean": "11.8",
+        "95th": "46.4",
+        "Max": "48.6",
+        "Year": 2068
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-14.7",
+        "Mean": "12.5",
+        "95th": "42.2",
+        "Max": "42.6",
+        "Year": 2069
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.1",
+        "Mean": "12.9",
+        "95th": "45.8",
+        "Max": "47.7",
+        "Year": 2070
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-16.5",
+        "Mean": "12.6",
+        "95th": "44.7",
+        "Max": "56.9",
+        "Year": 2071
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-22.5",
+        "Mean": "12.9",
+        "95th": "49.0",
+        "Max": "53.9",
+        "Year": 2072
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-24.1",
+        "Mean": "14.2",
+        "95th": "53.1",
+        "Max": "54.8",
+        "Year": 2073
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.3",
+        "Mean": "14.5",
+        "95th": "44.7",
+        "Max": "60.9",
+        "Year": 2074
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.8",
+        "Mean": "14.5",
+        "95th": "43.1",
+        "Max": "61.4",
+        "Year": 2075
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-21.5",
+        "Mean": "15.3",
+        "95th": "42.9",
+        "Max": "62.8",
+        "Year": 2076
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-24.4",
+        "Mean": "14.8",
+        "95th": "47.6",
+        "Max": "62.1",
+        "Year": 2077
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-23.9",
+        "Mean": "15.9",
+        "95th": "51.9",
+        "Max": "62.3",
+        "Year": 2078
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-24.4",
+        "Mean": "16.6",
+        "95th": "58.8",
+        "Max": "61.4",
+        "Year": 2079
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-22.6",
+        "Mean": "15.3",
+        "95th": "52.3",
+        "Max": "57.9",
+        "Year": 2080
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-21.3",
+        "Mean": "15.8",
+        "95th": "52.7",
+        "Max": "55.6",
+        "Year": 2081
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.8",
+        "Mean": "17.0",
+        "95th": "51.9",
+        "Max": "56.7",
+        "Year": 2082
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.0",
+        "Mean": "18.0",
+        "95th": "53.9",
+        "Max": "59.7",
+        "Year": 2083
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-19.9",
+        "Mean": "18.0",
+        "95th": "53.0",
+        "Max": "56.8",
+        "Year": 2084
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-22.0",
+        "Mean": "17.8",
+        "95th": "46.2",
+        "Max": "50.8",
+        "Year": 2085
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.8",
+        "Mean": "18.0",
+        "95th": "49.2",
+        "Max": "49.2",
+        "Year": 2086
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-23.8",
+        "Mean": "17.7",
+        "95th": "45.0",
+        "Max": "59.8",
+        "Year": 2087
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-17.9",
+        "Mean": "17.5",
+        "95th": "45.5",
+        "Max": "60.8",
+        "Year": 2088
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-12.1",
+        "Mean": "17.1",
+        "95th": "37.8",
+        "Max": "63.3",
+        "Year": 2089
+    },
+    {
+        "CTID": "13",
+        "CTNM": "ChiayiCity",
+        "5th": "-13.7",
+        "Mean": "17.8",
+        "95th": "43.3",
+        "Max": "60.8",
+        "Year": 2090
+    }
+]
+}
