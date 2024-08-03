@@ -17,6 +17,19 @@
             return urlParams.get(name);
         }
 
+        function setTitleBasedOnFile(dataUrl) {
+            let title = '';
+            if (dataUrl.includes('ssp126')) {
+                title = '全球溫室氣體低排放情境(SSP126)';
+            } else if (dataUrl.includes('ssp245')) {
+                title = '全球溫室氣體中排放情境(SSP245)';
+            } else if (dataUrl.includes('ssp585')) {
+                title = '全球溫室氣體高排放情境(SSP585)';
+            }
+            document.getElementById('chart_title').innerText = title;
+           
+        }
+
         function drawChart() {
             // 取得 URL 中的 file 參數
             const dataUrl = getParameterByName('file');
@@ -24,6 +37,8 @@
                 alert('缺少 file 參數');
                 return;
             }
+
+            setTitleBasedOnFile(dataUrl);
 
             // 取得資料來源
             fetch(dataUrl)
@@ -57,6 +72,8 @@
                     // 定義圖表選項
                     options = {
                         legend: { position: 'top', textStyle: { fontSize: 12, color: '#555' }, alignment: 'center' },
+                            
+                        
                         chartArea: {
                             width: '80%',
                             height: '75%',
@@ -117,17 +134,25 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
             width: 100%;
             height: 100%;
         }
         #chart_div {
             width: 100%;
-            height: 100%;
+            height: 90%; /* 調整高度以留出標題空間 */
+        }
+        #chart_title {
+            text-align: center;
+            font-size: 12; /* 使用相對單位以提高可視性 */
+            font-weight: bold;
+            margin-bottom: 10px; /* 標題和圖表之間的空隙 */
         }
     </style>
 </head>
 <body>
     <div id="chart_container">
+        <div id="chart_title"></div>
         <div id="chart_div"></div>
     </div>
 </body>
