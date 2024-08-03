@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SSP Temperature Projections</title>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+      // 從 URL 中提取 file 參數
+      const urlParams = new URLSearchParams(window.location.search);
+      const file = urlParams.get('file');
+
+      if (!file) {
+        console.error('No file parameter found in the URL');
+        return;
+      }
+
+      // 動態加載 JSON 數據
+      fetch(file)
+        .then(response => response.json())
+        .then(data => {
+          const dataList = data.DataList;
+
+          // 轉換資料格式
+          const chartData = [['Year', 'SSP126', 'SSP245', 'SSP370', 'SSP585']];
+          dataList.forEach(item => {
+            chartData.push([
+              item.Year,
+              parseFloat(item.SSP126),
+              parseFloat(item.SSP245),
+              parseFloat(item.SSP370),
+              parseFloat(item.SSP585)
+            ]);
+          });
+
+          const dataTable = google.visualization.arrayToDataTable(chartData);
+
+          // 計算 y 軸的最小值
+          const minY = Math.min(...dataList.flatMap(item => [
+            parseFloat(item.SSP126),
+            parseFloat(item.SSP245),
+            parseFloat(item.SSP370),
+            parseFloat(item.SSP585)
+          ]));
+          const roundedMinY = Math.floor(minY / 10) * 10;
+
+          // 計算 y 軸的最大值
+          const maxY = Math.max(...dataList.flatMap(item => [
+            parseFloat(item.SSP126),
+            parseFloat(item.SSP245),
+            parseFloat(item.SSP370),
+            parseFloat(item.SSP585)
+          ]));
+          const roundedMaxY = Math.ceil(maxY / 5) * 5;
+
+          // 定義折線圖選項
+          const options = {
+            curveType: 'function',
+            legend: { position: 'top' },
+            width: '100%',
+            height: '100%',
+            chartArea: {
+              width: '90%',
+              height: '65%',
+              left: 50,
+              bottom: 50 // 為 x 軸標簽保留足夠的底部空間
+            },
+            hAxis: {
+              title: '年',
+              format: '####',
+              viewWindow: {
+                min: 2020,
+                max: 2090
+              },
+              gridlines: { color: 'none' }
+            },
+            vAxis: {
+              title: '變化率(%) ',
+              viewWindow: {
+                min: roundedMinY,
+                max: 25 // Set maximum value of y-axis to 25
+              }
+            },
+            series: {
+              0: { color: '#003D79' },
+              1: { color: '#EAC100' },
+              2: { color: '#FF2D2D' },
+              3: { color: '#750000' }
+            },
+            tooltip: {
+              isHtml: true,
+              textStyle: {
+                fontSize: 12,
+                color: '#000'
+              }
+            },
+            crosshair: { trigger: 'both', orientation: 'vertical', color: 'gray' }
+          };
+
+          const chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+          chart.draw(dataTable, options);
+
+          // 使圖表隨視窗大小變化
+          window.addEventListener('resize', () => {
+            chart.draw(dataTable, options);
+          });
+        })
+        .catch(error => console.error('Error loading the JSON file:', error));
+    }
+  </script>
+  <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #chart_container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+    }
+    #chart_div {
+      width: 100%;
+      height: 95%;
+    }
+  </style>
+</head>
+<body>
+  <div id="chart_container">
+    <div id="chart_div"></div>
+  </div>
+</body>
+</html>
