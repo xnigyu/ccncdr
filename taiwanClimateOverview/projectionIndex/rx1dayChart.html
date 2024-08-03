@@ -19,14 +19,11 @@
 
         function drawChart() {
             // 取得 URL 中的 file 參數
-            const fileParam = getParameterByName('file');
-            if (!fileParam) {
+            const dataUrl = getParameterByName('file');
+            if (!dataUrl) {
                 alert('缺少 file 參數');
                 return;
             }
-
-            // 構建 JSON 文件的 URL
-            const dataUrl = `https://xnigyu.github.io/ccncdr/taiwanClimateOverview/projectionIndex/rx1day/data/${fileParam}.json`;
 
             // 取得資料來源
             fetch(dataUrl)
