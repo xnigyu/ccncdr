@@ -102,8 +102,13 @@
             };
 
             // 格式化年份
-            var formatter = new google.visualization.NumberFormat({ pattern: '####' });
-            formatter.format(dataTable, 0);  // 0 是 Year 列的索引
+            var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
+            yearFormatter.format(dataTable, 0);  // 0 是 Year 列的索引
+
+            // 格式化潮位高度和趨勢線
+            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '#,##0.00' });
+            decimalFormatter.format(dataTable, 1); // 1 是 潮位高度 列的索引
+            decimalFormatter.format(dataTable, 3); // 3 是 趨勢線 列的索引
 
             const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
 
