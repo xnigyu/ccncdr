@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,6 +15,20 @@
             margin: 0;
             padding: 0;
             overflow: hidden; /* 隱藏整個頁面的滾動條 */
+            position: relative;
+        }
+        #annotation_div {
+            position: absolute;
+            top: 60px; /* 調整此值以定位至紅色方框的頂部 */
+            left: 60px; /* 調整此值以定位至紅色方框的左側 */
+            z-index: 10;
+            font-size: 12px;
+            font-weight: bold;
+            color: black;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 5px;
+            border-radius: 5px;
+            text-align: left;
         }
     </style>
     <script type="text/javascript">
@@ -49,12 +63,12 @@
                     return response.json();
                 })
                 .then(data => {
-                    processData(data);
+                    processData(data, fileParam);
                 })
                 .catch(error => console.error('Error fetching or processing data:', error));
         }
 
-        function processData(jsonData) {
+        function processData(jsonData, fileParam) {
             const dataTable = new google.visualization.DataTable();
             dataTable.addColumn('number', '年份');
             dataTable.addColumn('number', '潮位高度');
@@ -69,6 +83,30 @@
                 dataTable.addRow([year, shh, color, trend]);
             });
 
+            // 設定趨勢值的註釋
+            let trendAnnotation = '';
+            switch (fileParam) {
+                case 'HH_HualienStation.json':
+                    trendAnnotation = '趨勢：9.5 mm/yr';
+                    break;
+                case 'SHH_KeelungStation.json':
+                    trendAnnotation = '趨勢：4.8 mm/yr';
+                    break;
+                case 'SHH_TamsuiStation.json':
+                    trendAnnotation = '趨勢：1.8 mm/yr';
+                    break;
+                case 'SHH_KaohsiungStation.json':
+                    trendAnnotation = '趨勢：2.4 mm/yr';
+                    break;
+                case 'SHH_PenghuStation.json':
+                    trendAnnotation = '趨勢：8.6 mm/yr';
+                    break;
+                case 'SHH_ShengangStation.json':
+                    trendAnnotation = '趨勢：2.6 mm/yr';
+                    break;
+                default:
+                    trendAnnotation = '趨勢：未知';
+            }
             const options = {
                 chartArea: {
                     width: '80%',
@@ -106,7 +144,7 @@
             yearFormatter.format(dataTable, 0);  // 0 是 Year 列的索引
 
             // 格式化潮位高度和趨勢線
-            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '##0.0' });
+            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '#,##0.0' });
             decimalFormatter.format(dataTable, 1); // 1 是 潮位高度 列的索引
             decimalFormatter.format(dataTable, 3); // 3 是 趨勢線 列的索引
 
@@ -124,10 +162,14 @@
 
             window.addEventListener('resize', resizeChart);
             resizeChart();
+
+            // 更新註釋文字，使用換行符號顯示多行文本
+            document.getElementById('annotation_div').innerText = trendAnnotation;
         }
     </script>
 </head>
 <body>
     <div id="chart_div"></div>
+    <div id="annotation_div"></div> <!-- 註釋文字 -->
 </body>
 </html>
