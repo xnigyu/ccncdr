@@ -93,7 +93,9 @@
                 bar: { groupWidth: '75%' },
                 isStacked: false,
             };
-
+            var formatter = new google.visualization.NumberFormat({
+                pattern: "####",
+              });
             const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
             
             function resizeChart() {
