@@ -32,17 +32,26 @@
         function drawChart() {
             // 從URL中獲取'file'參數
             const fileParam = getQueryParameter('file');
+            if (!fileParam) {
+                console.error('File parameter is missing in the URL');
+                return;
+            }
             // 定義數據文件的基本URL
             const baseUrl = 'https://xnigyu.github.io/ccncdr/seaLevel/';
             // 構造JSON文件的完整URL
             const dataUrl = baseUrl + fileParam;
 
             fetch(dataUrl)
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                    }
+                    return response.json();
+                })
                 .then(data => {
                     processData(data);
                 })
-                .catch(error => console.error('Error fetching data:', error));
+                .catch(error => console.error('Error fetching or processing data:', error));
         }
 
         function processData(jsonData) {
@@ -56,7 +65,7 @@
                 const year = parseInt(item.Year);
                 const shh = parseFloat(item.SHH) || 0;
                 const color = shh < 0 ? '#7cd1f2' : '#0965e6';
-                const trend = item.Trend.toLowerCase() === 'nan' ? 0 : parseFloat(item.Trend);
+                const trend = isNaN(parseFloat(item.Trend)) ? 0 : parseFloat(item.Trend);
                 dataTable.addRow([year, shh, color, trend]);
             });
 
@@ -81,7 +90,7 @@
                     slantedText: true, // 讓標籤傾斜顯示
                     slantedTextAngle: 45, // 設置標籤傾斜角度
                     textStyle: {
-                        fontSize: 12 // 調整字體大小
+                        fontSize: 14 // 調整字體大小
                     }
                 },
                 series: {
@@ -93,11 +102,13 @@
                 bar: { groupWidth: '75%' },
                 isStacked: false,
             };
-            var formatter = new google.visualization.NumberFormat({
-                pattern: "####",
-              });
+
+            // 格式化年份
+            var formatter = new google.visualization.NumberFormat({ pattern: '####' });
+            formatter.format(dataTable, 0);  // 0 是 Year 列的索引
+
             const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
-            
+
             function resizeChart() {
                 const chartDiv = document.getElementById('chart_div');
                 const parentWidth = chartDiv.parentElement.offsetWidth;
