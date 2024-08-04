@@ -47,7 +47,7 @@ async function showNextImage() {
 
 function startAutoPlay() {
     if (!intervalId) {
-        intervalId = setInterval(showNextImage, 500); // 每張圖片1秒
+        intervalId = setInterval(showNextImage, 750); // 每張圖片1秒
         isPlaying = true;
     }
 }
