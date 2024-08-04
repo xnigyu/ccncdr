@@ -48,6 +48,10 @@
                 }
             });
 
+            // 格式化年份
+            var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
+            yearFormatter.format(data, 0);  // 0 是 Year 列的索引
+
             const maxYValue = roundUpToNearest10Plus5(maxTx36);
 
             const options = {
@@ -76,8 +80,7 @@
                 tooltip: { 
                     textStyle: { fontSize: 12 }, 
                     isHtml: true,
-                    trigger: 'focus',
-                    format: '####'
+                    trigger: 'focus'
                 },
                 chartArea: {
                     width: '85%',
