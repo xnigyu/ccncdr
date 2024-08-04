@@ -106,7 +106,7 @@
             yearFormatter.format(dataTable, 0);  // 0 是 Year 列的索引
 
             // 格式化潮位高度和趨勢線
-            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '#,##0.00' });
+            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '#,#0.0' });
             decimalFormatter.format(dataTable, 1); // 1 是 潮位高度 列的索引
             decimalFormatter.format(dataTable, 3); // 3 是 趨勢線 列的索引
 
