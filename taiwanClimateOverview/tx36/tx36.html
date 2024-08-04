@@ -38,14 +38,11 @@
             const data = new google.visualization.DataTable();
             data.addColumn('number', 'Year');
             data.addColumn('number', '超過36度的天數');
-            // 移除或註釋掉標註列
-            // data.addColumn({type: 'string', role: 'annotation',}); // 添加標註列
 
             let maxTx36 = 0;
 
             dataList.forEach(item => {
-                // 修改此行以排除標註
-                data.addRow([item.Year, item.TX36]); 
+                data.addRow([item.Year, item.TX36]);
                 if (item.TX36 > maxTx36) {
                     maxTx36 = item.TX36;
                 }
@@ -63,7 +60,7 @@
                     format: '####'
                 },
                 vAxis: { 
-                    title: '超過36度的天數', 
+                    title: '>36度天數', 
                     format: 'decimal', 
                     viewWindow: { min: 0, max: maxYValue }, 
                     gridlines: { count: -1, color: '#e0e0e0' }
@@ -76,20 +73,11 @@
                     easing: 'swing',
                     startup: true
                 },
-                // 移除或註釋掉標註配置
-                /*
-                annotations: {
-                    alwaysOutside: true,
-                    textStyle: {
-                        fontSize: 10,
-                        auraColor: 'none',
-                        bold: true,
-                        italic: false,
-                        bold: true,
-                        color: '#4D0000'
-                    }
+                tooltip: { 
+                    textStyle: { fontSize: 12 }, 
+                    isHtml: true,
+                    trigger: 'focus'
                 },
-                */
                 chartArea: {
                     width: '85%',
                     height: '70%'
