@@ -112,7 +112,7 @@
                 const parentWidth = chartDiv.parentElement.offsetWidth;
                 const parentHeight = chartDiv.parentElement.offsetHeight;
                 const width = Math.max(parentWidth, 481);
-                const height = Math.max(parentHeight, 350);
+                const height = Math.max(parentHeight, 300);
                 // 根據視窗比例調整高度
                 chart.draw(dataTable, { ...options, width: width, height: Math.min(height, width * 0.75) });
             }
