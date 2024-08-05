@@ -93,7 +93,7 @@ body {
 .zoom-container {
     position: relative;
     display: inline-block;
-    transform: scale(3); /* Default scale to 3x original size */
+    transform: scale(1.5); /* Default scale to 3x original size */
     transform-origin: center; /* Ensure scaling occurs from the center */
     transition: transform 0.3s ease;
 }
