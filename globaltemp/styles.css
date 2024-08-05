@@ -12,9 +12,8 @@ body {
 .container {
     text-align: center;
     width: 90%;
-    height: 80%;
     max-width: 1200px;
-    padding: 25px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
