@@ -41,13 +41,17 @@ function showImage(index) {
 }
 
 async function showNextImage() {
-    let nextIndex = (currentIndex + 1) % images.length;
-    await showImage(nextIndex);
+    if (currentIndex < images.length - 1) {
+        let nextIndex = currentIndex + 1;
+        await showImage(nextIndex);
+    } else {
+        stopAutoPlay(); // Stop when reaching the last image
+    }
 }
 
 function startAutoPlay() {
     if (!intervalId) {
-        intervalId = setInterval(showNextImage, 500); // 每張圖片1秒
+        intervalId = setInterval(showNextImage, 300); // 每張圖片1秒
         isPlaying = true;
     }
 }
@@ -76,7 +80,12 @@ imageElement.addEventListener('click', () => {
     if (isPlaying) {
         stopAutoPlay();
     } else {
-        startAutoPlay();
+        if (currentIndex === images.length - 1) {
+            // Restart from the beginning if the last image is reached
+            showImage(0).then(startAutoPlay);
+        } else {
+            startAutoPlay();
+        }
     }
 });
 
