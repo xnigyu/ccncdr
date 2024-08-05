@@ -18,12 +18,14 @@ body {
 }
 
 .timeline-controls {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 20px 0;
-    position: relative;
-    width: 100%;
+    display: none; /* Initially hidden */
+    opacity: 0;
+    transition: opacity 0.3s ease; /* Smooth transition for visibility */
+}
+
+.zoom-container:hover .timeline-controls {
+    display: flex; /* Show on hover */
+    opacity: 1;
 }
 
 .timeline {
@@ -127,13 +129,5 @@ body {
     .container {
         width: 100%;
         padding: 10px;
-    }
-    
-    .timeline-controls {
-        flex-direction: column;
-    }
-    
-    .years {
-        top: -15px;
     }
 }
