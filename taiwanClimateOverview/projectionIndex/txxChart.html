@@ -20,14 +20,13 @@
         function setTitleBasedOnFile(dataUrl) {
             let title = '';
             if (dataUrl.includes('ssp126')) {
-                title = '全球溫室氣體低排放情境(SSP126)';
+                title = '全球溫室氣體濃度  低';
             } else if (dataUrl.includes('ssp245')) {
-                title = '全球溫室氣體中排放情境(SSP245)';
+                title = '全球溫室氣體濃度  中';
             } else if (dataUrl.includes('ssp585')) {
-                title = '全球溫室氣體高排放情境(SSP585)';
+                title = '全球溫室氣體濃度  高';
             }
             document.getElementById('chart_title').innerText = title;
-           
         }
 
         function drawChart() {
@@ -145,8 +144,8 @@
             height: 100%;
         }
         #chart_div {
-            width: 90%;
-            height: 85%; /* 調整高度以留出標題空間 */
+            width: 100%;
+            height: 90%; /* 調整高度以留出標題空間 */
         }
         #chart_title {
             text-align: center;
