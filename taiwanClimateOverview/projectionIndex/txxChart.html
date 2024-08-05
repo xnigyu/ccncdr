@@ -20,13 +20,13 @@
         function setTitleBasedOnFile(dataUrl) {
             let title = '';
             if (dataUrl.includes('ssp126')) {
-                title = '全球溫室氣體濃度  低';
+                title = '全球溫室氣體濃度  <strong>低</strong>';
             } else if (dataUrl.includes('ssp245')) {
-                title = '全球溫室氣體濃度  中';
+                title = '全球溫室氣體濃度  <strong>中</strong>';
             } else if (dataUrl.includes('ssp585')) {
-                title = '全球溫室氣體濃度  高';
+                title = '全球溫室氣體濃度  <strong>高</strong>';
             }
-            document.getElementById('chart_title').innerText = title;
+            document.getElementById('chart_title').innerHTML = title;
         }
 
         function drawChart() {
