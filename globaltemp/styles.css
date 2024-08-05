@@ -18,13 +18,20 @@ body {
 }
 
 .timeline-controls {
-    display: none; /* Initially hidden */
     opacity: 0;
     transition: opacity 0.3s ease; /* Smooth transition for visibility */
+    position: absolute; /* Position it absolutely */
+    bottom: -60px; /* Move it below the image */
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 90%; /* Make it full width under the image */
+    pointer-events: all; /* Enable interactions */
+    display: flex;
+    justify-content: center;
 }
 
 .zoom-container:hover .timeline-controls {
-    display: flex; /* Show on hover */
     opacity: 1;
 }
 
@@ -91,10 +98,10 @@ body {
 }
 
 .zoom-container {
-    position: relative;
+    position: relative; /* Ensure it is positioned relative */
     display: inline-block;
-    transform: scale(1.5); /* Default scale to 3x original size */
-    transform-origin: center; /* Ensure scaling occurs from the center */
+    transform: scale(1.5); /* Default scale */
+    transform-origin: center;
     transition: transform 0.3s ease;
 }
 
