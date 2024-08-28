@@ -24,6 +24,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
         }
 
         #slideshow-container img {
@@ -33,14 +34,21 @@
         }
 
         #controls {
-            position: absolute;
-            bottom: 10px;
-            left: 50%;
-            transform: translateX(-50%);
             display: flex;
             justify-content: center;
             align-items: center;
             gap: 10px;
+            margin-top: 10px;
+        }
+
+        #progress-bar-container {
+            width: 25%;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+
+        #progress-bar {
+            width: 100%;
         }
 
         button {
@@ -59,23 +67,26 @@
 <body>
     <div id="slideshow-container">
         <img id="slideshow" src="" alt="Image Slideshow">
+        <div id="progress-bar-container">
+            <input type="range" id="progress-bar" min="0" max="63" value="0">
+        </div>
         <div id="controls">
-            <button id="prev">上一張</button>
-            <button id="play">播放</button>
-            <button id="pause">暫停</button>
-            <button id="next">下一張</button>
-            <button id="faster">加快</button>
-            <button id="slower">放慢</button>
-            <button id="toggleLoop">循環播放</button>
+            <button id="prev">⏮️</button>
+            <button id="play">▶️</button>
+            <button id="pause">⏸️</button>
+            <button id="next">⏭️</button>
+            <button id="faster">⏩</button>
+            <button id="slower">⏪</button>
+            <button id="toggleLoop">🔁</button>
         </div>
     </div>
 
     <script>
-        const baseURL = "https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/";
+        const baseURL = " https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/";
         const years = Array.from({ length: 2023 - 1960 + 1 }, (_, i) => 1960 + i);
         let currentIndex = 0;
         let intervalId;
-        let intervalDuration = 500; // 預設每0.5秒切換一次
+        let intervalDuration = 600; // 預設每2秒切換一次
         let isLooping = false;
 
         const slideshow = document.getElementById('slideshow');
@@ -86,12 +97,15 @@
         const fasterButton = document.getElementById('faster');
         const slowerButton = document.getElementById('slower');
         const toggleLoopButton = document.getElementById('toggleLoop');
+        const progressBar = document.getElementById('progress-bar');
 
         function showImage(index) {
             slideshow.src = `${baseURL}${years[index]}.png`;
+            progressBar.value = index;
         }
 
         function playSlideshow() {
+            clearInterval(intervalId); // 確保不會有多個定時器同時運行
             intervalId = setInterval(() => {
                 currentIndex++;
                 if (currentIndex >= years.length) {
@@ -113,9 +127,12 @@
         function changeSpeed(factor) {
             intervalDuration = Math.max(500, intervalDuration * factor); // 最小間隔為500毫秒
             if (intervalId) {
-                pauseSlideshow();
-                playSlideshow();
+                playSlideshow(); // 立即更新速度
             }
+        }
+
+        function updateSlideshow() {
+            showImage(currentIndex);
         }
 
         playButton.addEventListener('click', playSlideshow);
@@ -123,20 +140,36 @@
 
         prevButton.addEventListener('click', () => {
             currentIndex = (currentIndex - 1 + years.length) % years.length;
-            showImage(currentIndex);
+            updateSlideshow();
+            pauseSlideshow(); // 保持暫停狀態
         });
 
         nextButton.addEventListener('click', () => {
             currentIndex = (currentIndex + 1) % years.length;
-            showImage(currentIndex);
+            updateSlideshow();
+            pauseSlideshow(); // 保持暫停狀態
         });
 
-        fasterButton.addEventListener('click', () => changeSpeed(0.8)); // 每次加快20%
-        slowerButton.addEventListener('click', () => changeSpeed(1.25)); // 每次放慢25%
+        fasterButton.addEventListener('click', () => {
+            changeSpeed(0.8); // 每次加快20%
+            pauseSlideshow(); // 保持暫停狀態
+        });
+
+        slowerButton.addEventListener('click', () => {
+            changeSpeed(1.25); // 每次放慢25%
+            pauseSlideshow(); // 保持暫停狀態
+        });
 
         toggleLoopButton.addEventListener('click', () => {
             isLooping = !isLooping;
-            toggleLoopButton.textContent = isLooping ? "取消循環" : "循環播放";
+            toggleLoopButton.textContent = isLooping ? "🔂" : "🔁";
+            pauseSlideshow(); // 保持暫停狀態
+        });
+
+        progressBar.addEventListener('input', (event) => {
+            currentIndex = parseInt(event.target.value, 10);
+            updateSlideshow();
+            pauseSlideshow(); // 保持暫停狀態
         });
 
         // 預設載入第一張圖片
