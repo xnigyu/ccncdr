@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>圖片幻燈片播放</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000;
+        }
+
+        #slideshow-container {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
+            max-height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #slideshow-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+
+        #controls {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: rgba(255, 255, 255, 1);
+        }
+    </style>
+</head>
+<body>
+    <div id="slideshow-container">
+        <img id="slideshow" src="" alt="Image Slideshow">
+        <div id="controls">
+            <button id="prev">上一張</button>
+            <button id="play">播放</button>
+            <button id="pause">暫停</button>
+            <button id="next">下一張</button>
+            <button id="faster">加快</button>
+            <button id="slower">放慢</button>
+            <button id="toggleLoop">循環播放</button>
+        </div>
+    </div>
+
+    <script>
+        const baseURL = "https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/";
+        const years = Array.from({ length: 2023 - 1960 + 1 }, (_, i) => 1960 + i);
+        let currentIndex = 0;
+        let intervalId;
+        let intervalDuration = 2000; // 預設每2秒切換一次
+        let isLooping = false;
+
+        const slideshow = document.getElementById('slideshow');
+        const playButton = document.getElementById('play');
+        const pauseButton = document.getElementById('pause');
+        const prevButton = document.getElementById('prev');
+        const nextButton = document.getElementById('next');
+        const fasterButton = document.getElementById('faster');
+        const slowerButton = document.getElementById('slower');
+        const toggleLoopButton = document.getElementById('toggleLoop');
+
+        function showImage(index) {
+            slideshow.src = `${baseURL}${years[index]}.png`;
+        }
+
+        function playSlideshow() {
+            intervalId = setInterval(() => {
+                currentIndex++;
+                if (currentIndex >= years.length) {
+                    if (isLooping) {
+                        currentIndex = 0;
+                    } else {
+                        clearInterval(intervalId);
+                        return;
+                    }
+                }
+                showImage(currentIndex);
+            }, intervalDuration);
+        }
+
+        function pauseSlideshow() {
+            clearInterval(intervalId);
+        }
+
+        function changeSpeed(factor) {
+            intervalDuration = Math.max(500, intervalDuration * factor); // 最小間隔為500毫秒
+            if (intervalId) {
+                pauseSlideshow();
+                playSlideshow();
+            }
+        }
+
+        playButton.addEventListener('click', playSlideshow);
+        pauseButton.addEventListener('click', pauseSlideshow);
+
+        prevButton.addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + years.length) % years.length;
+            showImage(currentIndex);
+        });
+
+        nextButton.addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % years.length;
+            showImage(currentIndex);
+        });
+
+        fasterButton.addEventListener('click', () => changeSpeed(0.8)); // 每次加快20%
+        slowerButton.addEventListener('click', () => changeSpeed(1.25)); // 每次放慢25%
+
+        toggleLoopButton.addEventListener('click', () => {
+            isLooping = !isLooping;
+            toggleLoopButton.textContent = isLooping ? "取消循環" : "循環播放";
+        });
+
+        // 預設載入第一張圖片
+        showImage(currentIndex);
+    </script>
+</body>
+</html>
