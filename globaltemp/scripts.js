@@ -1,6 +1,6 @@
 const images = [];
 for (let year = 1960; year <= 2023; year++) {
-    images.push({ year: year, src: `https://github.com/xnigyu/globaltemp/blob/main/${year}.png?raw=true` });
+    images.push({ year: year, src: ` https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/${year}.png?raw=true` });
 }
 
 let currentIndex = 0;
