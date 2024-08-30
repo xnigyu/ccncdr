@@ -26,7 +26,8 @@
             } else if (dataUrl.includes('ssp585')) {
                 title = '全球溫室氣體濃度  <strong>高</strong>';
             }
-            document.getElementById('chart_title').innerHTML = title;
+            // 设置标题文字大小
+    document.getElementById('chart_title').innerHTML = `<span style="font-size: 20px;">${title}</span>`;           
         }
 
         function drawChart() {
@@ -71,46 +72,51 @@
                     // 定義圖表選項
                     options = {
                         legend: { 
-                            position: 'top', 
-                            textStyle: { 
-                                fontSize: '1.2em', // 使用相對單位
-                                color: '#555' 
-                            }, 
-                            alignment: 'center' 
+                            position: 'none' // 禁用默认图例
                         },
-                        
                         chartArea: {
                             width: '80%',
                             height: '65%',
                             left: 60,
-                            bottom: 60 // 為 x 軸標簽保留足夠的底部空間
+                            bottom: 60 // 为 x 轴标签保留足够的底部空间
                         },
                         hAxis: { 
                             title: '年份', 
+                            titleTextStyle: {
+                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
                             format: '####',
                             ticks: Array.from({length: (2090-2020)/10 + 1}, (_, i) => 2020 + i * 10), // 生成每 10 年的刻度
-                            gridlines: { color: 'none' } // 移除 x 軸網格線
+                            gridlines: { color: 'none' } // 移除 x 轴网格线
                         },
                         vAxis: { 
                             title: '變化(℃)', 
+                            titleTextStyle: {
+                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
                             viewWindow: { max: 8, min: -2 },
                             gridlines: { ticks: [8, 0, -2] } 
                         },
                         series: {
-                            0: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4 }, // 變化範圍
+                            0: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4 }, // 变更范围
                             1: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4, enableInteractivity: false }, // 上界
                             2: { type: 'line', color: '#f1ca3a', lineWidth: 2 }, // 平均值
                             3: { type: 'line', color: '#6f9654', lineWidth: 2 }  // 最大值
                         },
                         isStacked: false,
                         interpolateNulls: true,
-                        tooltip: { isHtml: false }, // 使用內建工具提示
-                        focusTarget: 'category' // 在同一X軸的值上集中顯示工具提示
+                        tooltip: { isHtml: false }, // 使用内建工具提示
+                        focusTarget: 'category' // 在同一X轴的值上集中显示工具提示
                     };
 
                     // 初始化並繪製圖表
                     chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
                     chart.draw(dataTable, options);
+
+                    // 添加自定义图例
+                    addCustomLegend();
 
                     // 添加事件監聽器以在窗口大小改變時重新繪製圖表
                     window.addEventListener('resize', drawChartOnResize);
@@ -125,7 +131,28 @@
             // 確保圖表在窗口大小改變時自適應
             if (chart && dataTable && options) {
                 chart.draw(dataTable, options);
+                addCustomLegend(); // 重新添加自定义图例
             }
+        }
+
+        function addCustomLegend() {
+            const legendDiv = document.getElementById('custom_legend');
+            legendDiv.innerHTML = `
+                <div style="display: flex; flex-wrap: wrap;">
+                     <div style="margin-right: 20px;">
+                        <div style="display: inline-block; width: 12px; height: 12px; background-color: #d3e2f8;"></div>
+                        <span style="font-weight: bold;">變化範圍(第5~95百分位)</span>
+                    </div>
+                    <div style="margin-right: 20px;">
+                        <div style="display: inline-block; width: 12px; height: 12px; background-color: #f1ca3a;"></div>
+                        <span style="font-weight: bold;">平均值</span>
+                    </div>
+                    <div>
+                        <div style="display: inline-block; width: 12px; height: 12px; background-color: #6f9654;"></div>
+                        <span style="font-weight: bold;">最大值</span>
+                    </div>
+                </div>
+            `;
         }
     </script>
     <style>
@@ -145,7 +172,7 @@
         }
         #chart_div {
             width: 90%;
-            height: 85%; /* 調整高度以留出標題空間 */
+            height: 70%; /* 調整高度以留出標題和圖例空間 */
         }
         #chart_title {
             text-align: center;
@@ -153,11 +180,16 @@
             font-weight: bold;
             margin-bottom: 10px; /* 標題和圖表之間的空隙 */
         }
+        #custom_legend {
+            text-align: center;
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 <body>
     <div id="chart_container">
         <div id="chart_title"></div>
+        <div id="custom_legend"></div>
         <div id="chart_div"></div>
     </div>
 </body>
