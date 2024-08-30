@@ -55,19 +55,35 @@
             const maxYValue = roundUpToNearest10Plus5(maxTx36);
 
             const options = {
-                legend: { position: 'top', alignment: 'start', textStyle: { fontSize: 14, color: '#333' } },
+                legend: { position: 'top', alignment: 'start', textStyle: { fontSize: 14, color: '#333',bold: true } },
                 hAxis: { 
                     title: '年份', 
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
                     viewWindow: { min: 1960, max: 2022 }, 
                     ticks: [...Array(Math.ceil((2022 - 1960) / 10) + 1).keys()].map(i => 1960 + i * 10),
                     gridlines: { color: 'transparent' },
-                    format: '####'
+                    format: '####',
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    }
                 },
                 vAxis: { 
-                    title: '超過36度的天數', 
+                    title: '超過36度的天數',
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    }, 
                     format: 'decimal', 
                     viewWindow: { min: 0, max: maxYValue }, 
-                    gridlines: { count: -1, color: '#e0e0e0' }
+                    gridlines: { count: -1, color: '#e0e0e0' },
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    }
                 },
                 width: '100%',
                 height: '100%',
