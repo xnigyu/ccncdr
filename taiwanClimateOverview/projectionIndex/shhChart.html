@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Chart Example</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <style>
+        html, body, #chart_div {
+            min-width: 500px;
+            min-height: 350px;
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* 隱藏整個頁面的滾動條 */
+            position: relative;
+        }
+        #annotation_div {
+            position: absolute;
+            top: 60px; /* 調整此值以定位至紅色方框的頂部 */
+            left: 60px; /* 調整此值以定位至紅色方框的左側 */
+            z-index: 10;
+            font-size: 14px;
+            font-weight: bold;
+            color: black;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 5px;
+            border-radius: 5px;
+            text-align: left;
+        }
+    </style>
+    <script type="text/javascript">
+        // 加載核心圖表包
+        google.charts.load('current', {'packages':['corechart']});
+        // 當Google視覺化API加載完成後運行回調函數
+        google.charts.setOnLoadCallback(drawChart);
+
+        // 從URL中獲取查詢參數的函數
+        function getQueryParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function drawChart() {
+            // 從URL中獲取'file'參數
+            const fileParam = getQueryParameter('file');
+            if (!fileParam) {
+                console.error('File parameter is missing in the URL');
+                return;
+            }
+            // 定義數據文件的基本URL
+            const baseUrl = 'https://xnigyu.github.io/ccncdr/seaLevel/';
+            // 構造JSON文件的完整URL
+            const dataUrl = baseUrl + fileParam;
+
+            fetch(dataUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    processData(data, fileParam);
+                })
+                .catch(error => console.error('Error fetching or processing data:', error));
+        }
+
+        function processData(jsonData, fileParam) {
+            const dataTable = new google.visualization.DataTable();
+            dataTable.addColumn('number', '年份');
+            dataTable.addColumn('number', '潮位高度');
+            dataTable.addColumn({ type: 'string', role: 'style' });
+            dataTable.addColumn('number', '趨勢線');
+
+            jsonData.DataList.forEach(item => {
+                const year = parseInt(item.Year);
+                const shh = parseFloat(item.SHH) || 0;
+                const color = shh < 0 ? '#7cd1f2' : '#0965e6';
+                const trend = isNaN(parseFloat(item.Trend)) ? 0 : parseFloat(item.Trend);
+                dataTable.addRow([year, shh, color, trend]);
+            });
+
+            // 設定趨勢值的註釋
+            let trendAnnotation = '';
+            switch (fileParam) {
+                case 'SHH_HualienStation.json':
+                    trendAnnotation = '50年趨勢：2.5 mm/yr';
+                    break;
+                case 'SHH_KeelungStation.json':
+                    trendAnnotation = '50年趨勢：2.8 mm/yr';
+                    break;
+                case 'SHH_TamsuiStation.json':
+                    trendAnnotation = '50年趨勢：0.21 mm/yr';
+                    break;
+                case 'SHH_KaohsiungStation.json':
+                    trendAnnotation = '50年趨勢：2.2 mm/yr';
+                    break;
+                case 'SHH_PenghuStation.json':
+                    trendAnnotation = '50年趨勢：3.5 mm/yr';
+                    break;
+                case 'SHH_ShengangStation.json':
+                    trendAnnotation = '50年趨勢：2.5 mm/yr';
+                    break;
+                default:
+                    trendAnnotation = '趨勢：未知';
+            }
+            const options = {
+                chartArea: {
+                    width: '80%',
+                    height: '60%',
+                    left: 50,
+                    bottom: 100, // 增加底部空間為 x 軸標籤
+                },
+                legend: {
+                    position: 'top',
+                    textStyle: {
+                        fontSize: 14, // 修改此处调整图例文字大小
+                    }
+                },
+                vAxis: {
+                    title: '變化（公釐mm）',
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
+                    ticks: [-200, -100, 0, 100, 200], // 設定y軸間隔
+                    baseline: 0,
+                    baselineColor: '#ccc',
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    }
+                },
+                hAxis: {
+                    title: '年份',
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
+                    format: '####', // 格式化年份為四位數
+                    ticks: jsonData.DataList.filter(item => item.Year % 10 === 0).map(item => parseInt(item.Year)),
+                    slantedText: true, // 讓標籤傾斜顯示
+                    slantedTextAngle: 45, // 設置標籤傾斜角度
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    }
+                },
+                series: {
+                    0: { type: 'bars' },
+                    1: { type: 'line', color: 'black' }
+                },
+                bar: { groupWidth: '75%' },
+                isStacked: false,
+            };
+
+            
+            // 格式化年份
+            var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
+            yearFormatter.format(dataTable, 0);  // 0 是 Year 列的索引
+
+            // 格式化潮位高度和趨勢線
+            var decimalFormatter = new google.visualization.NumberFormat({ pattern: '#,##0.0' });
+            decimalFormatter.format(dataTable, 1); // 1 是 潮位高度 列的索引
+            decimalFormatter.format(dataTable, 3); // 3 是 趨勢線 列的索引
+
+            const chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+
+            function resizeChart() {
+                const chartDiv = document.getElementById('chart_div');
+                const parentWidth = chartDiv.parentElement.offsetWidth;
+                const parentHeight = chartDiv.parentElement.offsetHeight;
+                const width = Math.max(parentWidth, 481);
+                const height = Math.max(parentHeight, 300);
+                // 根據視窗比例調整高度
+                chart.draw(dataTable, { ...options, width: width, height: Math.min(height, width * 0.75) });
+            }
+
+            window.addEventListener('resize', resizeChart);
+            resizeChart();
+
+            // 更新註釋文字，使用換行符號顯示多行文本
+            document.getElementById('annotation_div').innerText = trendAnnotation;
+        }
+    </script>
+</head>
+<body>
+    <div id="chart_div"></div>
+    <div id="annotation_div"></div> <!-- 註釋文字 -->
+</body>
+</html>
