@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function getParameterByName(name, url = window.location.href) {
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        function drawChart() {
+            var jsonFile = getParameterByName('file') || 'data/monthly_temp_data.json';
+
+            fetch(jsonFile)
+                .then(response => response.json())
+                .then(jsonData => {
+                    var data = new google.visualization.DataTable();
+                    data.addColumn('string', '月份');
+                    data.addColumn('number', '最低溫度');
+                    data.addColumn({type: 'string', role: 'annotation'});
+                    data.addColumn('number', '平均溫度');
+                    data.addColumn({type: 'string', role: 'annotation'});
+                    data.addColumn('number', '最高溫度');
+                    data.addColumn({type: 'string', role: 'annotation'});
+                    var maxT=0,minT = 100
+                    jsonData.DataList.forEach(function(row) {
+                        //const tooltip = `<div style="padding:10px;"><strong>月份:</strong> ${Month}<br><strong>最高溫度:</strong> ${MaxTemp.toFixed(1)}°C<br>}</div>`;
+                        data.addRow([
+                            row.Month.toString(),
+                            parseFloat(row.MinTemp),
+                            row.MinTemp,
+                            parseFloat(row.MeanTemp),
+                            row.MeanTemp,
+                            parseFloat(row.MaxTemp),
+                            row.MaxTemp
+                            //tooltip
+                        ]);
+
+                        maxT =  (parseFloat(row.MaxTemp) > maxT)? parseFloat(row.MaxTemp):maxT
+                        minT =  (parseFloat(row.MinTemp) < minT)? parseFloat(row.MinTemp):minT
+                    });
+
+                    var options = {
+                        curveType: 'function',
+                        legend: { position: 'bottom',textStyle: { fontSize: 16, color: '#333',bold: true }  },
+                        width: '100%',
+                        height: '100%',
+                        chartArea: {
+                            width: '90%',
+                            height: '80%',
+                            left:50,
+                            bottom: 50 // 为 x 轴标签保留足够的底部空间
+                        },
+                        //tooltip: { isHtml: true },
+                        crosshair: { 
+                            trigger: 'both',
+                            orientation: 'vertical' // 垂直方向
+                        },
+                        vAxis: {
+                            title: '溫度 (°C)',
+                            titleTextStyle: {
+                                fontSize: 16, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
+                            textStyle: {
+                                fontSize: 16, // 調整字體大小
+                                bold: true
+                            },
+                            viewWindow: {
+                                min: minT -5,
+                                max: 40                               
+                            },
+                            format: 'decimal'  // 强制格式化
+                        },
+                        hAxis: {
+                            showTextEvery: 1,
+                            title: '月份',
+                            titleTextStyle: {
+                                fontSize: 16, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
+                            textStyle: {
+                                fontSize: 16, // 調整字體大小
+                                bold: true
+                            },
+                            ticks: [1,2,3,4,5,6,7,8,9,10,11,12]
+                        },
+                        series: {
+                            0: { color: 'green', lineWidth: 2 },
+                            1: { color: 'black', lineWidth: 2 },
+                            2: { color: 'red', lineWidth: 2 }
+                        },
+                        annotations: {
+                            textStyle: {
+                                fontSize: 12,
+                                bold: true,
+                                italic: true,
+                                color: '#871b47',
+                                opacity: 0.8
+                            }
+                        }
+                    };
+
+                    var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+                    
+                    function resizeChart() {
+                        var chartDiv = document.getElementById('chart_div');
+                        var width = chartDiv.offsetWidth;
+                        var height = chartDiv.offsetHeight;
+                        chart.draw(data, {...options, width: width, height: height});
+                    }
+
+                    window.addEventListener('resize', resizeChart);
+                    resizeChart();
+                })
+                .catch(error => console.error('Error loading the JSON file:', error));
+        }
+    </script>
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #chart_container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+        }
+        #chart_div {
+            width: 100%;
+            height: 95%;
+        }
+    </style>
+</head>
+<body>
+    <div id="chart_container">
+        <div id="chart_div"></div>
+    </div>
+</body>
+</html>

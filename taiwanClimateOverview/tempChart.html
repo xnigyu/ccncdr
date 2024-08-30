@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+        function getParameterByName(name, url = window.location.href) {
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+        function drawChart() {
+            var jsonData = null;
+            var jsonFile = getParameterByName('file') || 'data/temp_pastTrend_Changhua.json';
+
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', jsonFile, true);
+            xhr.responseType = 'json';
+            xhr.onload = function() {
+                var status = xhr.status;
+                if (status === 200) {
+                    jsonData = xhr.response;
+                    processData(jsonData);
+                } else {
+                    console.error('Failed to load data');
+                }
+            };
+            xhr.send();
+        }
+
+        function processData(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('number', '年份');
+            data.addColumn('number', '溫度');
+            data.addColumn({type: 'string', role: 'style'});
+            data.addColumn('number', '9年移動平均');
+            data.addColumn('number', '線性趨勢');
+
+            var avgTemp = parseFloat(jsonData.DataList[0].AvgTemp);
+
+            jsonData.DataList.forEach(function(row) {
+                var temp = parseFloat(row.Temp);
+                var color = temp >= avgTemp ? 'orange' : 'blue';
+                data.addRow([
+                    parseInt(row.Year),
+                    temp,
+                    color,
+                    row['9yrRun'] ? parseFloat(row['9yrRun']) : null,
+                    parseFloat(row.Trend)
+                ]);
+            });
+
+            var options = {
+                width: '100%',
+                height: '100%',
+                chartArea: {
+                            width: '86%',
+                            height: '65%',
+                            left:50,
+                            bottom: 50 // 为 x 轴标签保留足够的底部空间
+                        },
+                        legend: {position: 'top',textStyle: { fontSize: 16, color: '#333',bold: true }  },
+                vAxis: {
+                    title: '溫度 (°C)',
+                    titleTextStyle: {
+                        fontSize: 13, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    },
+                    format: '#.#',
+                    baseline: avgTemp,
+                    baselineColor: '#ccc',
+                    ticks: [
+                        {v: Math.round(avgTemp - 1), f: Math.round(avgTemp - 1)},
+                        {v: avgTemp, f: avgTemp.toFixed(1) + ' (平均)'},
+                        {v: Math.round(avgTemp + 1), f: Math.round(avgTemp + 1)},
+                        {v: Math.round(avgTemp + 2), f: Math.round(avgTemp + 2)}
+                    ]
+                },
+                hAxis: {
+                    title: '年份',
+                    titleTextStyle: {
+                        fontSize: 16, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
+                    textStyle: {
+                        fontSize: 16, // 調整字體大小
+                        bold: true
+                    },
+                    format: '####'
+                },
+                series: {
+                    0: {type: 'bars'},
+                    1: {type: 'line', color: 'black'},
+                    2: {type: 'line', color: 'green'}
+                }
+            };
+
+            var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+            var formatter = new google.visualization.NumberFormat({ pattern: '####' });
+            formatter.format(data, 0);  // 0 是 Year 列的索引
+            var tempFormatter = new google.visualization.NumberFormat({ pattern: '#,##0.0' });
+            tempFormatter.format(data, 1);  
+            tempFormatter.format(data, 3);  
+            tempFormatter.format(data, 4);  
+            function resizeChart() {
+                var chartDiv = document.getElementById('chart_div');
+                var parentWidth = chartDiv.parentElement.offsetWidth;
+                var parentHeight = chartDiv.parentElement.offsetHeight;
+                var width = Math.max(parentWidth, 400);
+                var height = Math.max(parentHeight, 230);
+                chart.draw(data, {...options, width: width, height: height});
+            }
+
+            window.addEventListener('resize', resizeChart);
+            resizeChart();
+        }
+    </script>
+    <style>
+        html, body, #chart_div {
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* 隱藏整個頁面的滾動條 */
+        }
+    </style>
+</head>
+<body>
+    <div id="chart_div"></div>
+</body>
+</html>
