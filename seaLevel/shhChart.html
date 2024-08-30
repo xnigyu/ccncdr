@@ -22,7 +22,7 @@
             top: 60px; /* 調整此值以定位至紅色方框的頂部 */
             left: 60px; /* 調整此值以定位至紅色方框的左側 */
             z-index: 10;
-            font-size: 12px;
+            font-size: 14px;
             font-weight: bold;
             color: black;
             background-color: rgba(255, 255, 255, 0.8);
@@ -114,21 +114,39 @@
                     left: 50,
                     bottom: 100, // 增加底部空間為 x 軸標籤
                 },
-                legend: { position: 'top' },
+                legend: {
+                    position: 'top',
+                    textStyle: {
+                        fontSize: 14, // 修改此处调整图例文字大小
+                    }
+                },
                 vAxis: {
                     title: '變化（公釐mm）',
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
                     ticks: [-200, -100, 0, 100, 200], // 設定y軸間隔
                     baseline: 0,
                     baselineColor: '#ccc',
+                    textStyle: {
+                        fontSize: 14, // 調整字體大小
+                        bold: true
+                    }
                 },
                 hAxis: {
                     title: '年份',
+                    titleTextStyle: {
+                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        bold: true    // 你也可以设置文字为粗体
+                    },
                     format: '####', // 格式化年份為四位數
                     ticks: jsonData.DataList.filter(item => item.Year % 10 === 0).map(item => parseInt(item.Year)),
                     slantedText: true, // 讓標籤傾斜顯示
                     slantedTextAngle: 45, // 設置標籤傾斜角度
                     textStyle: {
-                        fontSize: 12 // 調整字體大小
+                        fontSize: 14, // 調整字體大小
+                        bold: true
                     }
                 },
                 series: {
@@ -139,6 +157,7 @@
                 isStacked: false,
             };
 
+            
             // 格式化年份
             var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
             yearFormatter.format(dataTable, 0);  // 0 是 Year 列的索引
