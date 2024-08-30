@@ -82,12 +82,21 @@
                         },
                         hAxis: { 
                             title: '年份', 
+                            titleTextStyle: {
+                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
                             format: '####',
                             ticks: Array.from({length: (2090-2020)/10 + 1}, (_, i) => 2020 + i * 10), // 生成每 10 年的刻度
                             gridlines: { color: 'none' } // 移除 x 軸網格線
+                            
                         },
                         vAxis: { 
                             title: '變化率 (%)', 
+                            titleTextStyle: {
+                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                bold: true    // 你也可以设置文字为粗体
+                            },
                             viewWindow: { max: 150, min: -50 },
                             gridlines: { ticks: [150, 0, -50] } 
                         },
