@@ -88,7 +88,12 @@
                             },
                             format: '####',
                             ticks: Array.from({length: (2090-2020)/10 + 1}, (_, i) => 2020 + i * 10), // 生成每 10 年的刻度
-                            gridlines: { color: 'none' } // 移除 x 轴网格线
+                            gridlines: { color: 'none' }, // 移除 x 轴网格线
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            }
+                            
                         },
                         vAxis: { 
                             title: '變化(℃)', 
@@ -97,7 +102,11 @@
                                 bold: true    // 你也可以设置文字为粗体
                             },
                             viewWindow: { max: 8, min: -2 },
-                            gridlines: { ticks: [8, 0, -2] } 
+                            gridlines: { ticks: [8, 0, -2] },
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            }
                         },
                         series: {
                             0: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4 }, // 变更范围

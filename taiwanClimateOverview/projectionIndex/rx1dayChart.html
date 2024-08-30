@@ -83,22 +83,30 @@
                         hAxis: { 
                             title: '年份', 
                             titleTextStyle: {
-                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                fontSize: 16, // 调整标题文字大小，单位是像素
                                 bold: true    // 你也可以设置文字为粗体
                             },
                             format: '####',
                             ticks: Array.from({length: (2090-2020)/10 + 1}, (_, i) => 2020 + i * 10), // 生成每 10 年的刻度
-                            gridlines: { color: 'none' } // 移除 x 軸網格線
+                            gridlines: { color: 'none' } ,// 移除 x 軸網格線
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            }
                             
                         },
                         vAxis: { 
                             title: '變化率 (%)', 
                             titleTextStyle: {
-                                fontSize: 14, // 调整标题文字大小，单位是像素
+                                fontSize: 16, // 调整标题文字大小，单位是像素
                                 bold: true    // 你也可以设置文字为粗体
                             },
                             viewWindow: { max: 150, min: -50 },
-                            gridlines: { ticks: [150, 0, -50] } 
+                            gridlines: { ticks: [150, 0, -50] },
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            }
                         },
                         series: {
                             0: { type: 'area', color: '#d3e2f8', lineWidth: 0, areaOpacity: 0.4 }, // 變化範圍
@@ -173,7 +181,7 @@
         }
         #chart_div {
             width: 90%;
-            height: 70%; /* 調整高度以留出標題空間 */
+            height: 77%; /* 調整高度以留出標題空間 */
         }
         #chart_title {
             text-align: center;
