@@ -15,6 +15,7 @@
             align-items: center;
             background-color: #000;
             flex-direction: column;
+            position: relative;
         }
 
         #slideshow-container {
@@ -31,6 +32,18 @@
             width: 100%;
             height: 95%;
             object-fit: contain; /* 確保圖片適應屏幕，保持完整顯示 */
+        }
+
+        #source-text {
+            position: fixed;
+            right: 10px;
+            bottom: 10px;
+            color: #b1f5f5;
+            font-size: 18px;
+            background-color: rgba(0, 0, 0, 0.5); /* 半透明背景提升可見性 */
+            padding: 5px;
+            border-radius: 3px;
+            z-index: 1000; /* 保證文字在其他元素上方 */
         }
 
         #controls-container {
@@ -51,7 +64,7 @@
         }
 
         #progress-bar-container {
-            width:30%;
+            width: 30%;
             margin-bottom: 10px;
         }
 
@@ -77,6 +90,7 @@
     <div id="slideshow-container">
         <img id="slideshow" src="" alt="Image Slideshow">
     </div>
+    <div id="source-text">資料來源：Berkeley Earth</div>
     <div id="controls-container">
         <div id="progress-bar-container">
             <input type="range" id="progress-bar" min="0" max="63" value="0">
@@ -136,7 +150,7 @@
         }
 
         function changeSpeed(factor) {
-            intervalDuration = Math.max(500, intervalDuration * factor); // 最小間隔為500毫秒
+            intervalDuration = Math.max(150, intervalDuration * factor); // 最小間隔為500毫秒
             if (intervalId) {
                 playSlideshow(); // 立即更新速度
             }
@@ -163,12 +177,12 @@
 
         fasterButton.addEventListener('click', () => {
             changeSpeed(0.8); // 每次加快20%
-            pauseSlideshow(); // 保持暫停狀態
+           // 保持暫停狀態 pauseSlideshow(); 
         });
 
         slowerButton.addEventListener('click', () => {
             changeSpeed(1.25); // 每次放慢25%
-            pauseSlideshow(); // 保持暫停狀態
+          // 保持暫停狀態  pauseSlideshow(); 
         });
 
         toggleLoopButton.addEventListener('click', () => {
