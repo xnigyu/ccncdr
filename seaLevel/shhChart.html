@@ -118,12 +118,13 @@
                     position: 'top',
                     textStyle: {
                         fontSize: 14, // 修改此处调整图例文字大小
+                        old: true
                     }
                 },
                 vAxis: {
                     title: '變化（公釐mm）',
                     titleTextStyle: {
-                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        fontSize: 16, // 调整标题文字大小，单位是像素
                         bold: true    // 你也可以设置文字为粗体
                     },
                     ticks: [-200, -100, 0, 100, 200], // 設定y軸間隔
@@ -137,7 +138,7 @@
                 hAxis: {
                     title: '年份',
                     titleTextStyle: {
-                        fontSize: 14, // 调整标题文字大小，单位是像素
+                        fontSize: 16, // 调整标题文字大小，单位是像素
                         bold: true    // 你也可以设置文字为粗体
                     },
                     format: '####', // 格式化年份為四位數
@@ -145,7 +146,7 @@
                     slantedText: true, // 讓標籤傾斜顯示
                     slantedTextAngle: 45, // 設置標籤傾斜角度
                     textStyle: {
-                        fontSize: 14, // 調整字體大小
+                        fontSize: 16, // 調整字體大小
                         bold: true
                     }
                 },
@@ -155,6 +156,7 @@
                 },
                 bar: { groupWidth: '75%' },
                 isStacked: false,
+                
             };
 
             
