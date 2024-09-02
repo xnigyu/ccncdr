@@ -43,7 +43,7 @@
 
                     let dataTable = new google.visualization.DataTable();
                     dataTable.addColumn('string', '日期');
-                    dataTable.addColumn('number', '2020年累積雨量');
+                    dataTable.addColumn('number', '累積雨量');
                     dataTable.addColumn('number', '歷史同期平均雨量');
 
                     dataList.forEach(item => {
@@ -66,20 +66,28 @@
                             position: 'top', 
                             textStyle: { 
                                 color: 'black', 
-                                fontSize: 12 
+                                fontSize: 12 ,
+                                bold:true
                             }
                         },
                         hAxis: { 
                             title: '日期',
                             gridlines: { count: -1 },
                             ticks: ticks, // 使用設定的 ticks
-                            textStyle: { fontSize: 10 } // 調整字體大小
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            },
                         },
                         vAxis: { 
                             title: '雨量 (毫米)', 
                             format: 'decimal',
                             viewWindow: { min: 0 },
-                            gridlines: { count: -1 } 
+                            gridlines: { count: -1 } ,
+                            textStyle: {
+                                fontSize: 14, // 調整字體大小
+                                bold: true
+                            },
                         },
                         series: {
                             0: { 
