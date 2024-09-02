@@ -66,26 +66,26 @@
                             bottom: 50 // 为 x 轴标签保留足够的底部空间
                         },
                         legend: {position: 'top',textStyle: { fontSize: 16, color: '#333',bold: true }  },
-                vAxis: {
-                    title: '溫度 (°C)',
-                    titleTextStyle: {
-                        fontSize: 13, // 调整标题文字大小，单位是像素
-                        bold: true    // 你也可以设置文字为粗体
+                    vAxis: {
+                        title: '溫度 (°C)',
+                        titleTextStyle: {
+                            fontSize: 13, // 调整标题文字大小，单位是像素
+                            bold: true    // 你也可以设置文字为粗体
+                        },
+                        textStyle: {
+                            fontSize: 14, // 調整字體大小
+                            bold: true
+                        },
+                        format: '#.#',
+                        baseline: avgTemp,
+                        baselineColor: '#ccc',
+                        ticks: [
+                            {v: Math.round(avgTemp - 1), f: Math.round(avgTemp - 1).toString()},
+                            {v: avgTemp, f: avgTemp.toFixed(1)}, //  {v: avgTemp, f: avgTemp.toFixed(1) + ' (平均)'},
+                            {v: Math.round(avgTemp + 1), f: Math.round(avgTemp + 1).toString()},
+                            {v: Math.round(avgTemp + 2), f: Math.round(avgTemp + 2).toString()}
+                        ]
                     },
-                    textStyle: {
-                        fontSize: 14, // 調整字體大小
-                        bold: true
-                    },
-                    format: '#.#',
-                    baseline: avgTemp,
-                    baselineColor: '#ccc',
-                    ticks: [
-                        {v: Math.round(avgTemp - 1), f: Math.round(avgTemp - 1)},
-                        {v: avgTemp, f: avgTemp.toFixed(1) + ' (平均)'},
-                        {v: Math.round(avgTemp + 1), f: Math.round(avgTemp + 1)},
-                        {v: Math.round(avgTemp + 2), f: Math.round(avgTemp + 2)}
-                    ]
-                },
                 hAxis: {
                     title: '年份',
                     titleTextStyle: {
