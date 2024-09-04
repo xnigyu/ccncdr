@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prcp_climate_normals_map.tif",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "prcp_climate_normals_map.tif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.39672, 26.00928 ], [ 122.39672, 21.52032 ], [ 119.02328, 21.52032 ], [ 119.02328, 26.00928 ], [ 122.39672, 26.00928 ] ] ] } }
+]
+}
