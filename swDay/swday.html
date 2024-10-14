@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>氣候圖片播放</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000;
+            flex-direction: column;
+            position: relative;
+        }
+
+        #title {
+            color: #77fcfc;
+            font-size: 50px;
+            text-align: center;
+            position: absolute;
+            top: 20px;
+            width: 100%;
+            font-family: sans-serif;
+        }
+
+        #slideshow-container {
+            position: relative;
+            width: 100%;
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .slideshow-side {
+            width: 45%;
+            height: 80%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            margin-right: 10px;
+            flex-direction: column;
+        }
+
+        .slideshow-side img {
+            width: 100%;
+            height: 90%;
+            object-fit: contain;
+        }
+
+        .legend-container {
+            width: 100%;
+            padding: 10px;
+            background-color: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0 20px;
+        }
+
+        .legend-line {
+            width: 40px;
+            height: 5px;
+            margin-right: 10px;
+        }
+
+        .black-line {
+            background-color: rgb(255, 250, 250);
+        }
+
+        .blue-line {
+            background-color: blue;
+        }
+
+        .green-line {
+            background-color: green;
+        }
+
+        .orange-line {
+            background-color: orange;
+        }
+
+        .red-line {
+            background-color: red;
+        }
+
+        .legend-text {
+            color: white;
+            font-size: 16px;
+            font-family: sans-serif;
+        }
+
+        #controls-container {
+            width: 100%;
+            padding: 10px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        #progress-bar-container {
+            width: 30%;
+            margin-bottom: 10px;
+        }
+
+        #progress-bar {
+            width: 100%;
+        }
+
+        #controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            color: #000;
+        }
+
+        button:hover {
+            background-color: rgba(255, 255, 255, 1);
+        }
+    </style>
+</head>
+<body>
+    <div id="title">夏季變長，冬季變短</div>
+
+    <div id="slideshow-container">
+        <div class="slideshow-side">
+            <img id="summer-image" src="" alt="Summer Image">
+        </div>
+        <div class="slideshow-side">
+            <img id="winter-image" src="" alt="Winter Image">
+        </div>
+    </div>
+
+    <!-- 圖例區域 -->
+    <div class="legend-container">
+        <div class="legend-item">
+            <div class="legend-line black-line"></div>
+            <div class="legend-text">Historical</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-line blue-line"></div>
+            <div class="legend-text">SSP126</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-line green-line"></div>
+            <div class="legend-text">SSP245</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-line orange-line"></div>
+            <div class="legend-text">SSP370</div>
+        </div>
+        <div class="legend-item">
+            <div class="legend-line red-line"></div>
+            <div class="legend-text">SSP585</div>
+        </div>
+    </div>
+
+    <div id="controls-container">
+        <div id="progress-bar-container">
+            <input type="range" id="progress-bar" min="0" max="140" value="0">
+        </div>
+        <div id="controls">
+            <button id="prev">⏮️</button>
+            <button id="play">▶️</button>
+            <button id="pause">⏸️</button>
+            <button id="next">⏭️</button>
+            <button id="faster">⏩</button>
+            <button id="slower">⏪</button>
+            <button id="toggleLoop">🔁</button>
+        </div>
+    </div>
+
+    <script>
+        const summerBaseURL = "https://xnigyu.github.io/ccncdr/swDay/sunday/";
+        const winterBaseURL = "https://xnigyu.github.io/ccncdr/swDay/winterday/";
+        const years = Array.from({ length: 2100 - 1960 + 1 }, (_, i) => 1960 + i);
+        let currentIndex = 0;
+        let intervalId;
+        let intervalDuration = 200; // Default 0.2s transition
+        let isLooping = false;
+
+        const summerImage = document.getElementById('summer-image');
+        const winterImage = document.getElementById('winter-image');
+        const playButton = document.getElementById('play');
+        const pauseButton = document.getElementById('pause');
+        const prevButton = document.getElementById('prev');
+        const nextButton = document.getElementById('next');
+        const fasterButton = document.getElementById('faster');
+        const slowerButton = document.getElementById('slower');
+        const toggleLoopButton = document.getElementById('toggleLoop');
+        const progressBar = document.getElementById('progress-bar');
+
+        function showImages(index) {
+            summerImage.src = `${summerBaseURL}${years[index]}.png`;
+            winterImage.src = `${winterBaseURL}${years[index]}.png`;
+            progressBar.value = index;
+        }
+
+        function playSlideshow() {
+            clearInterval(intervalId);
+            intervalId = setInterval(() => {
+                currentIndex++;
+                if (currentIndex >= years.length) {
+                    if (isLooping) {
+                        currentIndex = 0;
+                    } else {
+                        clearInterval(intervalId);
+                        return;
+                    }
+                }
+                showImages(currentIndex);
+            }, intervalDuration);
+        }
+
+        function pauseSlideshow() {
+            clearInterval(intervalId);
+        }
+
+        function changeSpeed(factor) {
+            intervalDuration = Math.max(150, intervalDuration * factor); // Limit to minimum 150ms
+            if (intervalId) {
+                playSlideshow();
+            }
+        }
+
+        function updateSlideshow() {
+            showImages(currentIndex);
+        }
+
+        playButton.addEventListener('click', playSlideshow);
+        pauseButton.addEventListener('click', pauseSlideshow);
+
+        prevButton.addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + years.length) % years.length;
+            updateSlideshow();
+            pauseSlideshow();
+        });
+
+        nextButton.addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % years.length;
+            updateSlideshow();
+            pauseSlideshow();
+        });
+
+        fasterButton.addEventListener('click', () => {
+            changeSpeed(0.8);
+        });
+
+        slowerButton.addEventListener('click', () => {
+            changeSpeed(1.25);
+        });
+
+        toggleLoopButton.addEventListener('click', () => {
+            isLooping = !isLooping;
+            toggleLoopButton.textContent = isLooping ? "🔂" : "🔁";
+            pauseSlideshow();
+        });
+
+        progressBar.addEventListener('input', (event) => {
+            currentIndex = parseInt(event.target.value, 10);
+            updateSlideshow();
+            pauseSlideshow();
+        });
+
+        // Load the first images
+        showImages(currentIndex);
+    </script>
+</body>
+</html>
