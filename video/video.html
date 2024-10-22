@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Chart Display</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+        .left, .right {
+            flex: 1;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .left img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            cursor: pointer;
+        }
+
+        .right iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: none; /* 預設隱藏 */
+        }
+
+        @media screen and (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .left, .right {
+                height: 50%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 左邊顯示圖片 -->
+        <div class="left">
+            <img src="https://xnigyu.github.io/ccncdr/Layer0.png" alt="Layer0 Image" id="image">
+        </div>
+        <!-- 右邊 iframe 嵌入長條圖 -->
+        <div class="right">
+            <iframe id="chartIframe" src="https://xnigyu.github.io/ccncdr/taiwanClimateOverview/tx36/tx36.html?file=tx36_timeSeries_TaipeiStation.json"></iframe>
+        </div>
+    </div>
+
+    <script>
+        // 當點擊圖片時，顯示右側的長條圖
+        document.getElementById('image').addEventListener('click', function() {
+            var iframe = document.getElementById('chartIframe');
+            iframe.style.display = 'block'; // 顯示 iframe
+        });
+    </script>
+</body>
+</html>

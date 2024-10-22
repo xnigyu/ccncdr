@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Chart Example</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart', 'bar']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, '\\$&');
+            const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        async function fetchData(file) {
+            const response = await fetch(file);
+            const data = await response.json();
+            return data.DataList;
+        }
+
+        function roundUpToNearest10Plus5(num) {
+            return Math.ceil(num / 10) * 10 + 5;
+        }
+
+        async function drawChart() {
+            const file = getParameterByName('file');
+            if (!file) {
+                alert('缺少 file 參數');
+                return;
+            }
+
+            const dataList = await fetchData(file);
+            const data = new google.visualization.DataTable();
+            data.addColumn('number', 'Year');
+            data.addColumn('number', '超過36度的天數');
+
+            let maxTx36 = 0;
+
+            dataList.forEach(item => {
+                data.addRow([item.Year, item.TX36]);
+                if (item.TX36 > maxTx36) {
+                    maxTx36 = item.TX36;
+                }
+            });
+
+            // 格式化年份
+            var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
+            yearFormatter.format(data, 0);  // 0 是 Year 列的索引
+
+            const maxYValue = roundUpToNearest10Plus5(maxTx36);
+
+            const options = {
+                legend: { position: 'top', alignment: 'start', textStyle: { fontSize: 14, color: '#333', bold: true } },
+                hAxis: { 
+                    title: '年份', 
+                    titleTextStyle: {
+                        fontSize: 14, 
+                        bold: true    
+                    },
+                    viewWindow: { min: 1960, max: 2022 }, 
+                    ticks: [...Array(Math.ceil((2022 - 1960) / 10) + 1).keys()].map(i => 1960 + i * 10),
+                    gridlines: { color: 'transparent' },
+                    format: '####',
+                    textStyle: {
+                        fontSize: 14, 
+                        bold: true
+                    }
+                },
+                vAxis: { 
+                    title: '超過36度的天數',
+                    titleTextStyle: {
+                        fontSize: 14, 
+                        bold: true    
+                    }, 
+                    format: 'decimal', 
+                    viewWindow: { min: 0, max: maxYValue }, 
+                    gridlines: { count: -1, color: '#e0e0e0' },
+                    textStyle: {
+                        fontSize: 14, 
+                        bold: true
+                    }
+                },
+                width: '100%',
+                height: '100%',
+                colors: ['#EC7D31'],
+                animation: {
+                    duration: 500,
+                    easing: 'swing',
+                    startup: true
+                },
+                tooltip: { 
+                    textStyle: { fontSize: 14 }, 
+                    isHtml: true,
+                    trigger: 'focus'
+                },
+                chartArea: {
+                    width: '80%',
+                    height: '70%'
+                },
+                bar: { groupWidth: '80%' }
+            };
+
+            const chart = new google.visualization.ColumnChart(document.getElementById('columnchart_material'));
+            chart.draw(data, options);
+
+            window.addEventListener('resize', () => {
+                chart.draw(data, options);
+            });
+        }
+    </script>
+    <style>
+        #columnchart_material {
+            min-width: 450px;
+            min-height: 300px;
+            width: 100%;
+            height: 100%;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #chart-container {
+            width: 80%;
+            height: 80%;
+        }
+    </style>
+</head>
+<body>
+    <div id="chart-container">
+        <div id="columnchart_material"></div>
+    </div>
+</body>
+</html>
