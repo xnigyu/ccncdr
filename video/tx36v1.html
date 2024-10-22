@@ -58,8 +58,14 @@
                 legend: { 
                     position: 'top', 
                     alignment: 'start', 
-                    textStyle: { fontSize: 16, color: '#000', bold: true } // 調整圖例文字樣式
+                    textStyle: { fontSize: 16, color: '#000', bold: true } 
                 },
+                chartArea: {
+                    width: '70%',  // 減小圖表寬度以騰出更多空間給圖例
+                    height: '70%'  // 根據需要調整
+                },
+
+                
                 hAxis: { 
                     title: '年份', 
                     titleTextStyle: {
@@ -103,7 +109,7 @@
                     trigger: 'focus'
                 },
                 chartArea: {
-                    width: '80%',  // 調整圖表區域，給圖例留出更多空間
+                    width: '70%',  // 調整圖表區域，給圖例留出更多空間
                     height: '70%'
                 },
                 bar: { groupWidth: '80%' }
@@ -115,6 +121,8 @@
             window.addEventListener('resize', () => {
                 chart.draw(data, options);
             });
+
+            
         }
     </script>
     <style>
