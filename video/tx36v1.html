@@ -55,7 +55,11 @@
             const maxYValue = roundUpToNearest10Plus5(maxTx36);
 
             const options = {
-                legend: { position: 'top', alignment: 'start', textStyle: { fontSize: 14, color: '#333', bold: true } },
+                legend: { 
+                    position: 'top', 
+                    alignment: 'start', 
+                    textStyle: { fontSize: 16, color: '#000', bold: true } // 調整圖例文字樣式
+                },
                 hAxis: { 
                     title: '年份', 
                     titleTextStyle: {
@@ -74,14 +78,14 @@
                 vAxis: { 
                     title: '超過36度的天數',
                     titleTextStyle: {
-                        fontSize: 14, 
+                        fontSize: 16, 
                         bold: true    
                     }, 
                     format: 'decimal', 
                     viewWindow: { min: 0, max: maxYValue }, 
                     gridlines: { count: -1, color: '#e0e0e0' },
                     textStyle: {
-                        fontSize: 14, 
+                        fontSize: 16, 
                         bold: true
                     }
                 },
@@ -94,12 +98,12 @@
                     startup: true
                 },
                 tooltip: { 
-                    textStyle: { fontSize: 14 }, 
+                    textStyle: { fontSize: 16 }, 
                     isHtml: true,
                     trigger: 'focus'
                 },
                 chartArea: {
-                    width: '80%',
+                    width: '80%',  // 調整圖表區域，給圖例留出更多空間
                     height: '70%'
                 },
                 bar: { groupWidth: '80%' }
