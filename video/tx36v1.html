@@ -57,7 +57,7 @@
             const options = {
                 legend: { 
                     position: 'top',  
-                    alignment: 'start', 
+                    alignment: 'center',  // 改變對齊方式到中央
                     textStyle: { fontSize: 14, color: '#333', bold: true } 
                 },
                 hAxis: { 
@@ -71,7 +71,7 @@
                     gridlines: { color: 'transparent' },
                     format: '####',
                     textStyle: {
-                        fontSize: 14, 
+                        fontSize: 16, 
                         bold: true
                     }
                 },
@@ -103,8 +103,8 @@
                     trigger: 'focus'
                 },
                 chartArea: {
-                    width: '90%',  // 增加圖表寬度以適應滿版效果
-                    height: '80%'  // 增加圖表高度以適應滿版效果
+                    width: '85%',  // 減少圖表寬度，給圖例更多空間
+                    height: '65%'  // 減少圖表高度，避免擠壓圖例
                 },
                 bar: { groupWidth: '80%' }
             };
