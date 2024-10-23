@@ -22,14 +22,14 @@
         }
 
         .left {
-            flex: 0 0 40%; /* 左側占40% */
+            flex: 0 0 50%; /* 左側占40% */
             height: 100%;
             position: relative;
             overflow: hidden;
         }
 
         .right {
-            flex: 0 0 60%; /* 右側占60% */
+            flex: 0 0 50%; /* 右側占50% */
             height: 100%;
             position: relative;
             overflow: hidden;
@@ -38,7 +38,7 @@
         .left img {
             width: 100%;
             height: 100%;
-            object-fit: cover;
+            object-fit: contain; /* 確保圖片以完整比例顯示 */
             cursor: pointer;
         }
 
@@ -47,6 +47,18 @@
             height: 100%;
             border: none;
             display: none; /* 預設隱藏，點擊後顯示 */
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: gray;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            display: none; /* 預設隱藏 */
         }
 
         @media screen and (max-width: 768px) {
@@ -64,19 +76,30 @@
     <div class="container">
         <!-- 左側顯示圖片 -->
         <div class="left">
-            <img src="https://xnigyu.github.io/ccncdr/Layer0.png" alt="Layer0 Image" id="image">
+            <img src="https://xnigyu.github.io/ccncdr/video/tx36v1.png" alt="Layer0 Image" id="image">
         </div>
         <!-- 右側嵌入長條圖 iframe -->
         <div class="right">
             <iframe id="chartIframe" src="https://xnigyu.github.io/ccncdr/video/tx36v1.html?file=https://xnigyu.github.io/ccncdr/taiwanClimateOverview/tx36/city/tx36_timeSeries_TaipeiStation.json"></iframe>
+            <button id="closeBtn" class="close-btn">x</button>
         </div>
     </div>
 
     <script>
-        // 當點擊圖片時，顯示嵌入的長條圖 iframe
+        // 當點擊左側圖片時，顯示右側嵌入的長條圖 iframe
         document.getElementById('image').addEventListener('click', function() {
             var iframe = document.getElementById('chartIframe');
+            var closeBtn = document.getElementById('closeBtn');
             iframe.style.display = 'block'; // 顯示 iframe
+            closeBtn.style.display = 'block'; // 顯示關閉按鈕
+        });
+
+        // 當點擊關閉按鈕時，隱藏 iframe 和關閉按鈕
+        document.getElementById('closeBtn').addEventListener('click', function() {
+            var iframe = document.getElementById('chartIframe');
+            var closeBtn = document.getElementById('closeBtn');
+            iframe.style.display = 'none'; // 隱藏 iframe
+            closeBtn.style.display = 'none'; // 隱藏關閉按鈕
         });
     </script>
 </body>
