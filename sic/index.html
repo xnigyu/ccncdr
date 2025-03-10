@@ -150,7 +150,7 @@
         }
 
         function changeSpeed(factor) {
-            intervalDuration = Math.max(500, intervalDuration * factor); // 最小間隔為500毫秒
+            intervalDuration = Math.max(800, intervalDuration * factor); // 最小間隔為500毫秒
             if (intervalId) {
                 playSlideshow(); // 立即更新速度
             }
