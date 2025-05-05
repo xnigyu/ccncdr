@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>影像輪播融合展示</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      height: 100%; width: 100%;
+      overflow: hidden;
+      font-family: 'Microsoft JhengHei', sans-serif;
+      background-color: #1A1A1A; color: #D4B895;
+      user-select: none;
+    }
+    .container { display: flex; height: 100vh; width: 100vw; }
+    .text-box {
+      flex: 3; padding: 40px;
+      display: flex; flex-direction: column;
+      justify-content: center; align-items: center;
+      text-align: center;
+    }
+    .text-box h1 { font-size: 36px; color: #FFD9A0; }
+    .text-box h2 { font-size: 24px; color: #EBCBAE; margin: 10px 0; }
+    .text-box p { font-size: 16px; color: #E0D3C3; margin-bottom: 20px; }
+    .text-box img {
+      max-width: 100%; height: auto;
+      border-radius: 10px; margin-bottom: 10px;
+    }
+    .photo-info {
+      font-size: 15px; color: #BFA98B;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 6px 12px; border-radius: 5px; margin: 4px 0;
+    }
+    .right-panel {
+      flex: 7; display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      position: relative;
+    }
+    .fade-container, .compare-container {
+      width: 100%; height: 100%; position: relative;
+    }
+    .fade-wrapper img {
+      position: absolute; width: 100%; height: 100%;
+      object-fit: contain; opacity: 0;
+      transition: opacity 2s ease-in-out;
+    }
+    .fade-wrapper img.active { opacity: 1; }
+
+    .controls {
+      position: absolute; top: 50%; width: 100%;
+      display: flex; justify-content: space-between;
+      transform: translateY(-50%); pointer-events: none;
+    }
+    .controls button {
+      pointer-events: all; background: rgba(255, 255, 255, 0.5);
+      color: black; border: none; font-size: 24px;
+      cursor: pointer; border-radius: 50%;
+      width: 48px; height: 48px; display: flex; align-items: center; justify-content: center;
+    }
+    .year-indicator {
+      position: absolute; bottom: 10px; left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0, 0, 0, 0.7); color: white;
+      padding: 8px 16px; font-size: 16px; border-radius: 5px;
+    }
+    .dots-container {
+      width: 100%; display: flex; justify-content: center;
+      gap: 20px; padding: 10px 0 20px; background: #1A1A1A;
+    }
+    .dot { display: flex; flex-direction: column; align-items: center; cursor: pointer; }
+    .dot-button {
+      width: 12px; height: 12px; border-radius: 50%;
+      background-color: #999; margin-bottom: 5px;
+      transition: background-color 0.3s ease;
+      user-select: none;
+    }
+    .dot-button.active { background-color: #fff; }
+    .dot-year { font-size: 14px; color: #ccc; user-select: none; }
+
+    .compare-container { display: none; flex-direction: column; align-items: center; }
+    .compare-wrapper { position: relative; height: 100%; width: 100%; }
+    .comparison-container {
+      position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%;
+      display: none;
+    }
+    .comparison-container.active { display: block; }
+    .comparison-container .after,
+    .comparison-container .before img {
+      width: 100%; height: 100%;
+      object-fit: contain;
+      position: absolute;
+      top: 0; left: 0;
+    }
+    .comparison-container .before {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      overflow: hidden;
+    }
+    .comparison-container .slider {
+      position: absolute;
+      top: 0; width: 4px; height: 100%;
+      background: #fff; cursor: ew-resize;
+      left: 50%; z-index: 10;
+      user-select: none;
+    }
+
+    .label-container {
+      position: absolute;
+      top: 15px;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding: 0 20px;
+      z-index: 5;
+      font-size: 16px;
+      color: white;
+      pointer-events: none;
+    }
+    .label-container span {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+
+    .mode-toggle {
+      position: absolute; bottom: 15px; left: 15px;
+      background: rgba(255, 255, 255, 0.1); color: white;
+      border: 1px solid #ccc; padding: 8px 12px;
+      border-radius: 5px; cursor: pointer;
+      font-size: 14px; z-index: 20;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="text-box">
+      <h1>新竹縣尖石鄉秀巒國小</h1>
+      <h2>歷史與現況</h2>
+      <p>滑鼠懸停可暫停播放，或手動切換圖片</p>
+      <img src="Xiuluan1.jpg" alt="秀巒國小正門" />
+      <div class="photo-info">📅 拍攝日期：2019/12/18</div>
+      <div class="photo-info">🔍 拍攝來源：國家災害防救科技中心</div>
+    </div>
+
+    <div class="right-panel">
+      <div class="mode-toggle" id="toggleMode">切換對照模式</div>
+
+      <div class="fade-container" id="fadeContainer">
+        <div class="fade-wrapper" id="fadeWrapper">
+          <img src="before1051002.jpg" alt="Before" class="active" data-year="2016">
+          <img src="after1060605.jpg" alt="After3" data-year="2017">
+          <img src="after1070613.jpg" alt="After2" data-year="2018">
+          <img src="after1100830.jpg" alt="After1" data-year="2021">
+        </div>
+        <div class="controls">
+          <button id="prev">&#x276E;</button>
+          <button id="next">&#x276F;</button>
+        </div>
+        <div class="year-indicator" id="yearIndicator">2016</div>
+      </div>
+      <div class="dots-container" id="dotsContainer"></div>
+
+      <div class="compare-container" id="compareContainer">
+        <div class="compare-wrapper">
+          <div class="comparison-container">
+            <div class="label-container">
+              <span>左圖：2016年</span>
+              <span>右圖：2017年</span>
+            </div>
+            <img class="after" src="after1060605.jpg" data-year="2017" />
+            <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
+            <div class="slider"></div>
+          </div>
+          <div class="comparison-container">
+            <div class="label-container">
+              <span>左圖：2016年</span>
+              <span>右圖：2018年</span>
+            </div>
+            <img class="after" src="after1070613.jpg" data-year="2018" />
+            <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
+            <div class="slider"></div>
+          </div>
+          <div class="comparison-container active">
+            <div class="label-container">
+              <span>左圖：2016年</span>
+              <span>右圖：2021年</span>
+            </div>
+            <img class="after" src="after1100830.jpg" data-year="2021" />
+            <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
+            <div class="slider"></div>
+          </div>
+        </div>
+        <div class="dots-container" id="compareDots"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const fadeContainer = document.getElementById('fadeContainer');
+    const compareContainer = document.getElementById('compareContainer');
+    const toggleBtn = document.getElementById('toggleMode');
+    const dotsContainer = document.getElementById('dotsContainer');
+    const compareDots = document.getElementById('compareDots');
+    const images = document.querySelectorAll('.fade-wrapper img');
+    const yearIndicator = document.getElementById('yearIndicator');
+    let currentIndex = 0;
+    let interval;
+
+    function startSlideshow() {
+      interval = setInterval(() => changeImage(1), 3000);
+    }
+    function stopSlideshow() {
+      clearInterval(interval);
+    }
+    function updateDots() {
+      document.querySelectorAll('.dot-button').forEach((dot, i) => {
+        dot.classList.toggle('active', i === currentIndex);
+      });
+    }
+    function changeToImage(index) {
+      images[currentIndex].classList.remove('active');
+      currentIndex = index;
+      images[currentIndex].classList.add('active');
+      yearIndicator.textContent = images[currentIndex].dataset.year;
+      updateDots();
+    }
+    function changeImage(dir) {
+      images[currentIndex].classList.remove('active');
+      currentIndex = (currentIndex + dir + images.length) % images.length;
+      images[currentIndex].classList.add('active');
+      yearIndicator.textContent = images[currentIndex].dataset.year;
+      updateDots();
+    }
+
+    images.forEach((img, idx) => {
+      const dot = document.createElement('div');
+      dot.classList.add('dot');
+      const btn = document.createElement('div');
+      btn.classList.add('dot-button');
+      if (idx === 0) btn.classList.add('active');
+      const year = document.createElement('div');
+      year.classList.add('dot-year');
+      year.textContent = img.dataset.year;
+      dot.appendChild(btn);
+      dot.appendChild(year);
+      dotsContainer.appendChild(dot);
+      dot.addEventListener('click', () => {
+        stopSlideshow();
+        changeToImage(idx);
+      });
+    });
+
+    document.getElementById('fadeContainer').addEventListener('mouseenter', stopSlideshow);
+    document.getElementById('fadeContainer').addEventListener('mouseleave', startSlideshow);
+    document.getElementById('prev').addEventListener('click', () => { stopSlideshow(); changeImage(-1); });
+    document.getElementById('next').addEventListener('click', () => { stopSlideshow(); changeImage(1); });
+
+    startSlideshow();
+
+    let isCompareMode = false;
+    toggleBtn.addEventListener('click', () => {
+      isCompareMode = !isCompareMode;
+      fadeContainer.style.display = isCompareMode ? 'none' : 'block';
+      dotsContainer.style.display = isCompareMode ? 'none' : 'flex';
+      compareContainer.style.display = isCompareMode ? 'flex' : 'none';
+      if (isCompareMode) {
+        stopSlideshow();
+        switchTab(0);
+        toggleBtn.textContent = '切換輪播模式';
+      } else {
+        startSlideshow();
+        toggleBtn.textContent = '切換對照模式';
+      }
+    });
+
+    function switchTab(tabIndex) {
+      document.querySelectorAll('.comparison-container').forEach((container, index) => {
+        container.classList.toggle('active', index === tabIndex);
+        if (index === tabIndex) resetSlider(container);
+      });
+      document.querySelectorAll('#compareDots .dot-button').forEach((dot, index) => {
+        dot.classList.toggle('active', index === tabIndex);
+      });
+    }
+
+    function resetSlider(container) {
+      let slider = container.querySelector(".slider");
+      let beforeImg = container.querySelector(".before img");
+      slider.style.left = "50%";
+      beforeImg.style.clipPath = "inset(0 50% 0 0)";
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll(".comparison-container").forEach(container => {
+        let slider = container.querySelector(".slider");
+        let beforeImg = container.querySelector(".before img");
+        let isActive = false;
+        function updatePosition(clientX) {
+          const rect = container.getBoundingClientRect();
+          let pos = ((clientX - rect.left) / rect.width) * 100;
+          pos = Math.max(0, Math.min(100, pos));
+          slider.style.left = pos + "%";
+          beforeImg.style.clipPath = `inset(0 ${100 - pos}% 0 0)`;
+        }
+        slider.addEventListener("mousedown", e => {
+          isActive = true;
+          updatePosition(e.clientX);
+        });
+        document.addEventListener("mouseup", () => isActive = false);
+        document.addEventListener("mousemove", e => {
+          if (!isActive) return;
+          updatePosition(e.clientX);
+        });
+        slider.addEventListener("touchstart", e => {
+          isActive = true;
+          updatePosition(e.touches[0].clientX);
+        });
+        document.addEventListener("touchend", () => isActive = false);
+        document.addEventListener("touchmove", e => {
+          if (!isActive) return;
+          updatePosition(e.touches[0].clientX);
+        });
+      });
+
+      // Compare Dots 初始化
+      const containers = document.querySelectorAll(".comparison-container");
+      containers.forEach((c, i) => {
+        const year = c.querySelector(".after").dataset.year;
+        const dot = document.createElement("div");
+        dot.classList.add("dot");
+        const btn = document.createElement("div");
+        btn.classList.add("dot-button");
+        if (i === 0) btn.classList.add("active");
+        const label = document.createElement("div");
+        label.classList.add("dot-year");
+        label.textContent = year;
+        dot.appendChild(btn);
+        dot.appendChild(label);
+        compareDots.appendChild(dot);
+        dot.addEventListener("click", () => switchTab(i));
+      });
+    });
+  </script>
+</body>
+</html>
