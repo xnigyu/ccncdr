@@ -47,7 +47,7 @@
 
             jsonData.DataList.forEach(function(row) {
                 var rain = parseFloat(row.Rain);
-                var color = rain >= avgRain ? 'blue' : 'brown';
+                var color = rain >= avgRain ? 'blue' : 'red';
                 data.addRow([
                     parseInt(row.Year),
                     rain,
