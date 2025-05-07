@@ -15,7 +15,7 @@
     }
     .container { display: flex; height: 100vh; width: 100vw; }
     .text-box {
-      flex: 3; padding: 40px;
+      flex: 4; padding: 40px;
       display: flex; flex-direction: column;
       justify-content: center; align-items: center;
       text-align: center;
@@ -33,7 +33,7 @@
       padding: 6px 12px; border-radius: 5px; margin: 4px 0;
     }
     .right-panel {
-      flex: 7; display: flex; flex-direction: column;
+      flex: 6; display: flex; flex-direction: column;
       align-items: center; justify-content: center;
       position: relative;
     }
@@ -132,6 +132,9 @@
       border-radius: 5px; cursor: pointer;
       font-size: 14px; z-index: 20;
     }
+    #yearIndicator {
+      display: none;
+    }
   </style>
 </head>
 <body>
@@ -146,7 +149,7 @@
     </div>
 
     <div class="right-panel">
-      <div class="mode-toggle" id="toggleMode">切換對照模式</div>
+      <div class="mode-toggle" id="toggleMode">切換輪播模式</div>
 
       <div class="fade-container" id="fadeContainer">
         <div class="fade-wrapper" id="fadeWrapper">
@@ -167,8 +170,8 @@
         <div class="compare-wrapper">
           <div class="comparison-container">
             <div class="label-container">
-              <span>左圖：2016年</span>
-              <span>右圖：2017年</span>
+              <span>拍攝日期：10/02</span>
+              <span>拍攝日期：06/05</span>
             </div>
             <img class="after" src="after1060605.jpg" data-year="2017" />
             <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
@@ -176,8 +179,8 @@
           </div>
           <div class="comparison-container">
             <div class="label-container">
-              <span>左圖：2016年</span>
-              <span>右圖：2018年</span>
+              <span>拍攝日期：10/02</span>
+              <span>拍攝日期：06/13</span>
             </div>
             <img class="after" src="after1070613.jpg" data-year="2018" />
             <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
@@ -185,8 +188,8 @@
           </div>
           <div class="comparison-container active">
             <div class="label-container">
-              <span>左圖：2016年</span>
-              <span>右圖：2021年</span>
+              <span>拍攝日期：10/02</span>
+              <span>拍攝日期：08/30</span>
             </div>
             <img class="after" src="after1100830.jpg" data-year="2021" />
             <div class="before"><img src="before1051002.jpg" data-year="2016" /></div>
@@ -258,9 +261,7 @@
     document.getElementById('prev').addEventListener('click', () => { stopSlideshow(); changeImage(-1); });
     document.getElementById('next').addEventListener('click', () => { stopSlideshow(); changeImage(1); });
 
-    startSlideshow();
-
-    let isCompareMode = false;
+    let isCompareMode = true;
     toggleBtn.addEventListener('click', () => {
       isCompareMode = !isCompareMode;
       fadeContainer.style.display = isCompareMode ? 'none' : 'block';
@@ -294,17 +295,33 @@
     }
 
     document.addEventListener("DOMContentLoaded", () => {
+      fadeContainer.style.display = 'none';
+      dotsContainer.style.display = 'none';
+      compareContainer.style.display = 'flex';
+      switchTab(0);
+      toggleBtn.textContent = '切換輪播模式';
+      stopSlideshow();
+
       document.querySelectorAll(".comparison-container").forEach(container => {
         let slider = container.querySelector(".slider");
         let beforeImg = container.querySelector(".before img");
         let isActive = false;
+
         function updatePosition(clientX) {
           const rect = container.getBoundingClientRect();
           let pos = ((clientX - rect.left) / rect.width) * 100;
           pos = Math.max(0, Math.min(100, pos));
           slider.style.left = pos + "%";
           beforeImg.style.clipPath = `inset(0 ${100 - pos}% 0 0)`;
+
+          const spans = container.querySelectorAll(".label-container span");
+          const leftLabel = spans[0];
+          const rightLabel = spans[1];
+
+          leftLabel.style.opacity = pos < 25 ? "0" : "1";
+          rightLabel.style.opacity = pos > 75 ? "0" : "1";
         }
+
         slider.addEventListener("mousedown", e => {
           isActive = true;
           updatePosition(e.clientX);
@@ -325,7 +342,6 @@
         });
       });
 
-      // Compare Dots 初始化
       const containers = document.querySelectorAll(".comparison-container");
       containers.forEach((c, i) => {
         const year = c.querySelector(".after").dataset.year;
