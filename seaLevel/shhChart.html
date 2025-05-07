@@ -78,7 +78,7 @@
             jsonData.DataList.forEach(item => {
                 const year = parseInt(item.Year);
                 const shh = parseFloat(item.SHH) || 0;
-                const color = shh < 0 ? '#7cd1f2' : '#0965e6';
+                const color = shh < 0 ? 'blue' : 'red';
                 const trend = isNaN(parseFloat(item.Trend)) ? 0 : parseFloat(item.Trend);
                 dataTable.addRow([year, shh, color, trend]);
             });
