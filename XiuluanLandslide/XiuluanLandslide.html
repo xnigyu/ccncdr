@@ -13,11 +13,20 @@
       background-color: #1A1A1A; color: #D4B895;
       user-select: none;
     }
-    .container { display: flex; height: 100vh; width: 100vw; }
+    .container {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      height: 95vh;
+      width: 100vw;
+    }
     .text-box {
-      flex: 4; padding: 40px;
-      display: flex; flex-direction: column;
-      justify-content: center; align-items: center;
+      flex: 4;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       text-align: center;
     }
     .text-box h1 { font-size: 36px; color: #FFD9A0; }
@@ -33,9 +42,13 @@
       padding: 6px 12px; border-radius: 5px; margin: 4px 0;
     }
     .right-panel {
-      flex: 6; display: flex; flex-direction: column;
-      align-items: center; justify-content: center;
+      flex: 6;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       position: relative;
+      min-height: 300px;
     }
     .fade-container, .compare-container {
       width: 100%; height: 100%; position: relative;
@@ -78,7 +91,11 @@
     .dot-button.active { background-color: #fff; }
     .dot-year { font-size: 14px; color: #ccc; user-select: none; }
 
-    .compare-container { display: none; flex-direction: column; align-items: center; }
+    .compare-container {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+    }
     .compare-wrapper { position: relative; height: 100%; width: 100%; }
     .comparison-container {
       position: absolute; top: 0; left: 0;
@@ -106,7 +123,6 @@
       left: 50%; z-index: 10;
       user-select: none;
     }
-
     .label-container {
       position: absolute;
       top: 15px;
@@ -124,7 +140,6 @@
       padding: 4px 10px;
       border-radius: 4px;
     }
-
     .mode-toggle {
       position: absolute; bottom: 15px; left: 15px;
       background: rgba(255, 255, 255, 0.1); color: white;
@@ -132,8 +147,31 @@
       border-radius: 5px; cursor: pointer;
       font-size: 14px; z-index: 20;
     }
-    #yearIndicator {
-      display: none;
+    #yearIndicator { display: none; }
+
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+      }
+      .text-box, .right-panel {
+        width: 100%;
+        padding: 20px;
+        flex: none;
+      }
+      .right-panel {
+        height: 60vh;
+      }
+      .label-container { font-size: 14px; }
+      .mode-toggle {
+        bottom: 10px; left: 10px;
+        padding: 6px 10px; font-size: 13px;
+      }
+    }
+    @media (max-width: 480px) {
+      .text-box h1 { font-size: 28px; }
+      .text-box h2 { font-size: 20px; }
+      .text-box p, .photo-info, .dot-year { font-size: 14px; }
+      .dot-button { width: 10px; height: 10px; }
     }
   </style>
 </head>
@@ -164,6 +202,7 @@
         </div>
         <div class="year-indicator" id="yearIndicator">2016</div>
       </div>
+
       <div class="dots-container" id="dotsContainer"></div>
 
       <div class="compare-container" id="compareContainer">
@@ -315,11 +354,8 @@
           beforeImg.style.clipPath = `inset(0 ${100 - pos}% 0 0)`;
 
           const spans = container.querySelectorAll(".label-container span");
-          const leftLabel = spans[0];
-          const rightLabel = spans[1];
-
-          leftLabel.style.opacity = pos < 25 ? "0" : "1";
-          rightLabel.style.opacity = pos > 75 ? "0" : "1";
+          spans[0].style.opacity = pos < 25 ? "0" : "1";
+          spans[1].style.opacity = pos > 75 ? "0" : "1";
         }
 
         slider.addEventListener("mousedown", e => {
@@ -327,19 +363,13 @@
           updatePosition(e.clientX);
         });
         document.addEventListener("mouseup", () => isActive = false);
-        document.addEventListener("mousemove", e => {
-          if (!isActive) return;
-          updatePosition(e.clientX);
-        });
+        document.addEventListener("mousemove", e => { if (isActive) updatePosition(e.clientX); });
         slider.addEventListener("touchstart", e => {
           isActive = true;
           updatePosition(e.touches[0].clientX);
         });
         document.addEventListener("touchend", () => isActive = false);
-        document.addEventListener("touchmove", e => {
-          if (!isActive) return;
-          updatePosition(e.touches[0].clientX);
-        });
+        document.addEventListener("touchmove", e => { if (isActive) updatePosition(e.touches[0].clientX); });
       });
 
       const containers = document.querySelectorAll(".comparison-container");
