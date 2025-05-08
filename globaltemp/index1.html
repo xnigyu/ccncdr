@@ -21,7 +21,7 @@
         #slideshow-container {
             position: relative;
             width: 100%;
-            flex-grow: 1; /* 使圖片容器自適應剩餘高度 */
+            flex-grow: 1;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -31,7 +31,7 @@
         #slideshow-container img {
             width: 100%;
             height: 95%;
-            object-fit: contain; /* 確保圖片適應屏幕，保持完整顯示 */
+            object-fit: contain;
         }
 
         #source-text {
@@ -40,10 +40,10 @@
             bottom: 10px;
             color: #c1f3f3;
             font-size: 18px;
-            background-color: rgba(0, 0, 0, 0.5); /* 半透明背景提升可見性 */
+            background-color: rgba(0, 0, 0, 0.5);
             padding: 5px;
             border-radius: 3px;
-            z-index: 1000; /* 保證文字在其他元素上方 */
+            z-index: 1000;
         }
 
         #controls-container {
@@ -107,11 +107,11 @@
     </div>
 
     <script>
-        const baseURL = " https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/";
-        const years = Array.from({ length: 2023 - 1960 + 1 }, (_, i) => 1960 + i);
+        const baseURL = "https://dwfile1.ncdr.nat.gov.tw/disp/ncdr_wave/image/";
+        const years = Array.from({ length: 2023 - 1961 + 1 }, (_, i) => 1961 + i);
         let currentIndex = 0;
         let intervalId;
-        let intervalDuration = 200; // 預設每0.2秒切換一次
+        let intervalDuration = 500; // 預設每0.2秒切換一次
         let isLooping = false;
 
         const slideshow = document.getElementById('slideshow');
@@ -125,12 +125,12 @@
         const progressBar = document.getElementById('progress-bar');
 
         function showImage(index) {
-            slideshow.src = `${baseURL}${years[index]}.png`;
+            slideshow.src = `${baseURL}${years[index]}.png?t=2`;
             progressBar.value = index;
         }
 
         function playSlideshow() {
-            clearInterval(intervalId); // 確保不會有多個定時器同時運行
+            clearInterval(intervalId);
             intervalId = setInterval(() => {
                 currentIndex++;
                 if (currentIndex >= years.length) {
@@ -150,9 +150,9 @@
         }
 
         function changeSpeed(factor) {
-            intervalDuration = Math.max(150, intervalDuration * factor); // 最小間隔為500毫秒
+            intervalDuration = Math.max(150, intervalDuration * factor);
             if (intervalId) {
-                playSlideshow(); // 立即更新速度
+                playSlideshow();
             }
         }
 
@@ -166,35 +166,33 @@
         prevButton.addEventListener('click', () => {
             currentIndex = (currentIndex - 1 + years.length) % years.length;
             updateSlideshow();
-            pauseSlideshow(); // 保持暫停狀態
+            pauseSlideshow();
         });
 
         nextButton.addEventListener('click', () => {
             currentIndex = (currentIndex + 1) % years.length;
             updateSlideshow();
-            pauseSlideshow(); // 保持暫停狀態
+            pauseSlideshow();
         });
 
         fasterButton.addEventListener('click', () => {
-            changeSpeed(0.8); // 每次加快20%
-           // 保持暫停狀態 pauseSlideshow(); 
+            changeSpeed(0.8);
         });
 
         slowerButton.addEventListener('click', () => {
-            changeSpeed(1.25); // 每次放慢25%
-          // 保持暫停狀態  pauseSlideshow(); 
+            changeSpeed(1.25);
         });
 
         toggleLoopButton.addEventListener('click', () => {
             isLooping = !isLooping;
             toggleLoopButton.textContent = isLooping ? "🔂" : "🔁";
-            pauseSlideshow(); // 保持暫停狀態
+            pauseSlideshow();
         });
 
         progressBar.addEventListener('input', (event) => {
             currentIndex = parseInt(event.target.value, 10);
             updateSlideshow();
-            pauseSlideshow(); // 保持暫停狀態
+            pauseSlideshow();
         });
 
         // 預設載入第一張圖片
