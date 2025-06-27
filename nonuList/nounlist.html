@@ -1,0 +1,270 @@
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <title>調適名詞查詢平台</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      margin: 0;
+      font-family: "Noto Sans TC", sans-serif;
+      background-color: #FAF7F3;
+      display: flex;
+      min-height: 100vh;
+    }
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 220px;
+      height: 100vh;
+      background-color: #FFF7EE;
+      border-right: 1px solid #E0D6CC;
+      padding: 20px;
+      box-sizing: border-box;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+    .sidebar h3 {
+      font-size: 18px;
+      color: #F2A650;
+      margin-bottom: 20px;
+    }
+    .menu-item {
+      background-color: #ffffff;
+      padding: 12px 16px;
+      margin-bottom: 12px;
+      border-radius: 8px;
+      border: 1px solid #F2A650;
+      cursor: pointer;
+      transition: background-color 0.2s, color 0.2s;
+    }
+    .menu-item:hover {
+      background-color: #F2A650;
+      color: white;
+    }
+    .container {
+      margin-left: 220px;
+      padding: 40px;
+      flex-grow: 1;
+      overflow-x: auto;
+      max-width: calc(100vw - 220px);
+      box-sizing: border-box;
+    }
+    h2 {
+      color: #006C94;
+      text-align: center;
+    }
+    .filters {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+    select, input {
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 6px;
+      width: 260px;
+    }
+    .block-section {
+      display: none;
+    }
+    .block-section.active {
+      display: block;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 18px;
+    }
+    th {
+      background-color: #F2A650;
+      color: white;
+      padding: 14px 16px;
+      white-space: nowrap;
+    }
+    td {
+      padding: 14px 16px;
+      border: 1px solid #e0e0e0;
+      word-break: break-word;
+      white-space: normal;
+    }
+    tbody tr:nth-child(even) {
+      background-color: #fdf7f0;
+    }
+    tbody tr:hover {
+      background-color: #fff0dc;
+    }
+  
+    .menu-item.disabled {
+      background-color: #eee;
+      color: #aaa;
+      border: 1px solid #ccc;
+      pointer-events: none;
+    }
+    
+    .header {
+      background-image: url('header-bg.png');
+      background-size: cover;
+      background-position: center;
+      height: 120px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .header h2 {
+      color: #006C94;
+      padding: 10px 30px;
+      border-radius: 12px;
+      font-size: 36px;
+    }
+</style>
+</head>
+<body>
+  <div class="sidebar">
+    <h3>主題類別</h3>
+    <div class="menu-item" onclick="showBlock('g1')">名詞說明</div>
+    <div class="menu-item disabled">其他相關工具</div>
+    <div class="menu-item disabled">其他相關資料</div>
+  </div>
+
+  <div class="container">
+    <div id="g1" class="block-section active">
+      <div class="header"><h2>氣候變遷相關名詞查詢</h2></div>
+      <div class="filters">
+        <select id="fieldSelect">
+          <option value="">全部領域</option>
+        </select>
+        <input type="text" id="searchInput" placeholder="輸入關鍵字（中文、英文或說明）">
+      </div>
+      <div style="overflow-x: auto;"><table>
+        <thead>
+          <tr>
+            <th style="width: 120px; white-space: nowrap; text-align: center;">領域</th>
+            <th>中文名詞</th>
+            <th>英文名詞</th>
+            <th>說明</th>
+          </tr>
+        </thead>
+        <tbody id="glossaryTable"></tbody>
+      </table></div>
+    </div>
+
+    <div id="g2" class="block-section">
+      <h2>G2 工具集</h2>
+      <div style="overflow-x: auto;"><table>
+        <thead>
+          <tr><th>工具名稱</th><th>簡介</th><th>用途</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>氣候風險評估器</td><td>可視化氣候衝擊指標的平台</td><td>決策支援與地方調適規劃</td></tr>
+          <tr><td>淹水模擬平台</td><td>模擬極端降雨下的潛勢區</td><td>社區韌性評估</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+
+    <div id="g3" class="block-section">
+      <h2>G3 資料集</h2>
+      <div style="overflow-x: auto;"><table>
+        <thead>
+          <tr><th>資料集名稱</th><th>來源</th><th>年份</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>全臺年雨量統計</td><td>氣象局</td><td>1960–2022</td></tr>
+          <tr><td>農業脆弱性地圖</td><td>農委會</td><td>2020</td></tr>
+        </tbody>
+      </table></div>
+    </div>
+  </div>
+
+  <script>
+    
+fetch("glossary_data.json")
+  .then(response => response.json())
+  .then(data => {
+    const select = document.getElementById("fieldSelect");
+    const searchInput = document.getElementById("searchInput");
+    const tbody = document.getElementById("glossaryTable");
+
+    const fields = [...new Set(data.map(d => d["領域"]))];
+    fields.forEach(field => {
+      const opt = document.createElement("option");
+      opt.value = field;
+      opt.textContent = field;
+      select.appendChild(opt);
+    });
+
+    function renderTable() {
+      const field = select.value;
+      const keyword = searchInput.value.toLowerCase();
+      tbody.innerHTML = "";
+      data.filter(d => {
+        const matchField = !field || d["領域"] === field;
+        const matchKeyword = !keyword || Object.values(d).some(val =>
+          val.toLowerCase().includes(keyword));
+        return matchField && matchKeyword;
+      }).forEach(row => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td style="width: 120px; white-space: nowrap; text-align: center;">${row["領域"]}</td>
+          <td>${row["中文名詞"]}</td>
+          <td>${row["英文名詞"]}</td>
+          <td>${row["說明"]}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    select.addEventListener("change", renderTable);
+    searchInput.addEventListener("input", renderTable);
+    renderTable();
+  });
+
+    const select = document.getElementById("fieldSelect");
+    const searchInput = document.getElementById("searchInput");
+    const tbody = document.getElementById("glossaryTable");
+
+    const fields = [...new Set(data.map(d => d["領域"]))];
+    fields.forEach(field => {
+      const opt = document.createElement("option");
+      opt.value = field;
+      opt.textContent = field;
+      select.appendChild(opt);
+    });
+
+    function renderTable() {
+      const field = select.value;
+      const keyword = searchInput.value.toLowerCase();
+      tbody.innerHTML = "";
+      data.filter(d => {
+        const matchField = !field || d["領域"] === field;
+        const matchKeyword = !keyword || Object.values(d).some(val =>
+          val.toLowerCase().includes(keyword));
+        return matchField && matchKeyword;
+      }).forEach(row => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td style="width: 120px; white-space: nowrap; text-align: center;">${row["領域"]}</td>
+          <td>${row["中文名詞"]}</td>
+          <td>${row["英文名詞"]}</td>
+          <td>${row["說明"]}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    select.addEventListener("change", renderTable);
+    searchInput.addEventListener("input", renderTable);
+    renderTable();
+
+    function showBlock(id) {
+      document.querySelectorAll('.block-section').forEach(div =>
+        div.classList.remove('active'));
+      document.getElementById(id).classList.add('active');
+    }
+  </script>
+</body>
+</html>
