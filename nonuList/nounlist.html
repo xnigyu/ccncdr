@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -52,10 +51,6 @@
       max-width: calc(100vw - 220px);
       box-sizing: border-box;
     }
-    h2 {
-      color: #006C94;
-      text-align: center;
-    }
     .filters {
       display: flex;
       justify-content: center;
@@ -81,7 +76,7 @@
       font-size: 18px;
     }
     th {
-      background-color: #F2A650;
+      background-color: #E4711E;
       color: white;
       padding: 14px 16px;
       white-space: nowrap;
@@ -98,29 +93,59 @@
     tbody tr:hover {
       background-color: #fff0dc;
     }
-  
     .menu-item.disabled {
       background-color: #eee;
       color: #aaa;
       border: 1px solid #ccc;
       pointer-events: none;
     }
-    
     .header {
       background-image: url('header-bg.png');
       background-size: cover;
       background-position: center;
-      height: 120px;
+      height: 200px;
       display: flex;
       justify-content: center;
       align-items: center;
     }
-    .header h2 {
-      color: #006C94;
-      padding: 10px 30px;
-      border-radius: 12px;
-      font-size: 36px;
-    }
+
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-right: none;
+    border-bottom: 1px solid #E0D6CC;
+  }
+  .sidebar h3 {
+    display: none;
+  }
+  .menu-item {
+    margin: 10px;
+    flex: 1;
+    text-align: center;
+  }
+  .container {
+    margin-left: 0;
+    max-width: 100vw;
+    padding: 20px;
+  }
+  table {
+    font-size: 14px;
+  }
+  .header {
+    height: auto;
+    padding: 20px 10px;
+    text-align: center;
+  }
+}
+
 </style>
 </head>
 <body>
@@ -133,7 +158,7 @@
 
   <div class="container">
     <div id="g1" class="block-section active">
-      <div class="header"><h2>氣候變遷相關名詞查詢</h2></div>
+      <div class="header"></div> <!-- h2 已移除 -->
       <div class="filters">
         <select id="fieldSelect">
           <option value="">全部領域</option>
@@ -181,84 +206,46 @@
   </div>
 
   <script>
-    
-fetch("glossary_data.json")
-  .then(response => response.json())
-  .then(data => {
-    const select = document.getElementById("fieldSelect");
-    const searchInput = document.getElementById("searchInput");
-    const tbody = document.getElementById("glossaryTable");
+    fetch("glossary_data.json")
+      .then(response => response.json())
+      .then(data => {
+        const select = document.getElementById("fieldSelect");
+        const searchInput = document.getElementById("searchInput");
+        const tbody = document.getElementById("glossaryTable");
 
-    const fields = [...new Set(data.map(d => d["領域"]))];
-    fields.forEach(field => {
-      const opt = document.createElement("option");
-      opt.value = field;
-      opt.textContent = field;
-      select.appendChild(opt);
-    });
+        const fields = [...new Set(data.map(d => d["領域"]))];
+        fields.forEach(field => {
+          const opt = document.createElement("option");
+          opt.value = field;
+          opt.textContent = field;
+          select.appendChild(opt);
+        });
 
-    function renderTable() {
-      const field = select.value;
-      const keyword = searchInput.value.toLowerCase();
-      tbody.innerHTML = "";
-      data.filter(d => {
-        const matchField = !field || d["領域"] === field;
-        const matchKeyword = !keyword || Object.values(d).some(val =>
-          val.toLowerCase().includes(keyword));
-        return matchField && matchKeyword;
-      }).forEach(row => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td style="width: 120px; white-space: nowrap; text-align: center;">${row["領域"]}</td>
-          <td>${row["中文名詞"]}</td>
-          <td>${row["英文名詞"]}</td>
-          <td>${row["說明"]}</td>
-        `;
-        tbody.appendChild(tr);
+        function renderTable() {
+          const field = select.value;
+          const keyword = searchInput.value.toLowerCase();
+          tbody.innerHTML = "";
+          data.filter(d => {
+            const matchField = !field || d["領域"] === field;
+            const matchKeyword = !keyword || Object.values(d).some(val =>
+              val.toLowerCase().includes(keyword));
+            return matchField && matchKeyword;
+          }).forEach(row => {
+            const tr = document.createElement("tr");
+            tr.innerHTML = `
+              <td style="width: 120px; white-space: nowrap; text-align: center;">${row["領域"]}</td>
+              <td>${row["中文名詞"]}</td>
+              <td>${row["英文名詞"]}</td>
+              <td>${row["說明"]}</td>
+            `;
+            tbody.appendChild(tr);
+          });
+        }
+
+        select.addEventListener("change", renderTable);
+        searchInput.addEventListener("input", renderTable);
+        renderTable();
       });
-    }
-
-    select.addEventListener("change", renderTable);
-    searchInput.addEventListener("input", renderTable);
-    renderTable();
-  });
-
-    const select = document.getElementById("fieldSelect");
-    const searchInput = document.getElementById("searchInput");
-    const tbody = document.getElementById("glossaryTable");
-
-    const fields = [...new Set(data.map(d => d["領域"]))];
-    fields.forEach(field => {
-      const opt = document.createElement("option");
-      opt.value = field;
-      opt.textContent = field;
-      select.appendChild(opt);
-    });
-
-    function renderTable() {
-      const field = select.value;
-      const keyword = searchInput.value.toLowerCase();
-      tbody.innerHTML = "";
-      data.filter(d => {
-        const matchField = !field || d["領域"] === field;
-        const matchKeyword = !keyword || Object.values(d).some(val =>
-          val.toLowerCase().includes(keyword));
-        return matchField && matchKeyword;
-      }).forEach(row => {
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td style="width: 120px; white-space: nowrap; text-align: center;">${row["領域"]}</td>
-          <td>${row["中文名詞"]}</td>
-          <td>${row["英文名詞"]}</td>
-          <td>${row["說明"]}</td>
-        `;
-        tbody.appendChild(tr);
-      });
-    }
-
-    select.addEventListener("change", renderTable);
-    searchInput.addEventListener("input", renderTable);
-    renderTable();
 
     function showBlock(id) {
       document.querySelectorAll('.block-section').forEach(div =>
