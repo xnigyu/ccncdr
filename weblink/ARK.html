@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<title>TCCIP資料商店</title>
+<style>
+  body {
+    margin: 0;
+  }
+</style>
+</head>
+<body>
+
+<div style="width: 100%; height: 100vh; overflow: hidden; position: relative;">
+  <iframe 
+    src="https://tccip.ncdr.nat.gov.tw/ark_2025.aspx"
+    style="
+      width: 100%;
+      height: calc(100% + 86px);  /* 增加高度補回被位移的區塊 */
+      border: none;
+      transform: translateY(-86px);  /* 向上位移，隱藏上方空白（含 header） */
+    "
+    scrolling="yes">
+  </iframe>
+</div>
+
+</body>
+</html>
