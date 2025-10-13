@@ -6,16 +6,32 @@
     <title>雨量數據圖表</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <style>
-        #chart_div {
-            min-width: 480px;
-            min-height: 350px;
+        html, body {
+            margin: 0;
+            padding: 0;
             width: 100%;
             height: 100%;
+        }
+
+        #chart_div {
+            width: 100%;
+            height: 100%;
+            min-width: 320px;
+            min-height: 300px;
+            max-width: 100%;
+            max-height: 100%;
+            box-sizing: border-box;
             position: relative;
+        }
+
+        @media (max-width: 768px) {
+            #chart_div {
+                min-height: 250px;
+            }
         }
     </style>
     <script type="text/javascript">
-        google.charts.load('current', {'packages':['corechart']});
+        google.charts.load('current', { 'packages': ['corechart'] });
         google.charts.setOnLoadCallback(drawChart);
 
         function getParameterByName(name) {
@@ -25,7 +41,6 @@
 
         function drawChart() {
             const fileUrl = getParameterByName('file');
-
             if (!fileUrl) {
                 console.error('未指定檔案 URL');
                 return;
@@ -35,7 +50,6 @@
                 .then(response => response.json())
                 .then(data => {
                     const dataList = data.DataList;
-
                     if (!dataList || !Array.isArray(dataList)) {
                         console.error('數據格式無效');
                         return;
@@ -48,7 +62,8 @@
 
                     dataList.forEach(item => {
                         let date = new Date(item.Date);
-                        let formattedDate = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
+                        let formattedDate = `${date.getFullYear()}-${(date.getMonth() + 1)
+                            .toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
                         dataTable.addRow([
                             formattedDate,
                             parseFloat(item['2020Rain']),
@@ -56,55 +71,45 @@
                         ]);
                     });
 
-                    // 設置x軸的ticks，以便更好地顯示日期
                     let dates = dataTable.getDistinctValues(0);
                     let ticks = dates.filter(date => date.endsWith('-01')); // 每月1日顯示一次
 
                     let options = {
                         curveType: 'function',
-                        legend: { 
-                            position: 'top', 
-                            textStyle: { 
-                                color: 'black', 
-                                fontSize: 16 ,
-                                bold:true
+                        legend: {
+                            position: 'top',
+                            textStyle: {
+                                color: 'black',
+                                fontSize: 14,
+                                bold: true
                             }
                         },
-                        hAxis: { 
+                        hAxis: {
                             title: '日期',
                             gridlines: { count: -1 },
-                            ticks: ticks, // 使用設定的 ticks
+                            ticks: ticks,
                             textStyle: {
-                                fontSize: 14, // 調整字體大小
+                                fontSize: 12,
                                 bold: true
-                            },
-                        },
-                        vAxis: { 
-                            title: '雨量 (毫米)', 
-                            format: 'decimal',
-                            viewWindow: { min: 0 },
-                            gridlines: { count: -1 } ,
-                            textStyle: {
-                                fontSize: 16, // 調整字體大小
-                                bold: true
-                            },
-                        },
-                        series: {
-                            0: { 
-                                color: 'red',
-                                targetAxisIndex: 0
-                            },
-                            1: { 
-                                color: 'blue',
-                                targetAxisIndex: 0
                             }
                         },
-                        height: 350,
-                        width: 480,
-                        tooltip: { 
-                            trigger: 'both' 
+                        vAxis: {
+                            title: '雨量 (毫米)',
+                            format: 'decimal',
+                            viewWindow: { min: 0 },
+                            gridlines: { count: -1 },
+                            textStyle: {
+                                fontSize: 12,
+                                bold: true
+                            }
                         },
-                        focusTarget: 'category'
+                        series: {
+                            0: { color: 'red', targetAxisIndex: 0 },
+                            1: { color: 'blue', targetAxisIndex: 0 }
+                        },
+                        tooltip: { trigger: 'both' },
+                        focusTarget: 'category',
+                        chartArea: { left: '10%', top: '15%', width: '80%', height: '70%' }
                     };
 
                     let chart = new google.visualization.LineChart(document.getElementById('chart_div'));
@@ -113,7 +118,11 @@
                 .catch(error => console.error('獲取數據時出錯:', error));
         }
 
-        window.onresize = drawChart;
+        // 使用事件監聽器，避免多次觸發
+        window.addEventListener('resize', () => {
+            clearTimeout(window.chartResizeTimer);
+            window.chartResizeTimer = setTimeout(drawChart, 250);
+        });
     </script>
 </head>
 <body>
