@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>滿版置中 RWD 圖片</title>
+  <style>
+    /* 讓容器充滿螢幕且去掉預設邊距 */
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+    /* 滿版容器：置中對齊 */
+    .full-viewport {
+      inline-size: 100vw;      /* 寬 = 視窗寬 */
+      block-size: 100svh;      /* 高 = 視窗高（支援行動瀏覽器安全視窗高） */
+      display: grid;           /* 用 Grid 置中 */
+      place-items: center;     /* 水平+垂直置中 */
+      background: #f7f7f7;     /* 可改背景色 */
+      padding: clamp(8px, 2vw, 24px); /* 小裝置留點邊距 */
+      box-sizing: border-box;
+    }
+
+    /* 圖片 RWD：不裁切、等比例縮放、最大不超出容器 */
+    .media {
+      max-inline-size: 100%;
+      max-block-size: 100%;
+      object-fit: contain;   /* 在容器內完整呈現（不裁切） */
+      display: block;
+      height: auto;
+    }
+
+    /* 可選：在較小螢幕上微調 padding */
+    @media (max-width: 480px) {
+      .full-viewport { padding: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="full-viewport">
+    <!-- 將 src 換成你的圖片路徑或網址 -->
+    <img class="media" src="4.gif" alt="氣候降尺度技術應用於水庫未來45天雨量推估">
+  </main>
+</body>
+</html>
