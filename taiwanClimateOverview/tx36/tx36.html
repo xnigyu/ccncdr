@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google Chart Example</title>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
@@ -54,7 +55,24 @@
 
             const maxYValue = roundUpToNearest10Plus5(maxTx36);
 
-            const options = {
+            const chartContainer = document.getElementById('columnchart_material');
+            const chart = new google.visualization.ColumnChart(chartContainer);
+
+            function getResponsiveOptions() {
+                const chartWidth = chartContainer.clientWidth || window.innerWidth;
+                const chartHeight = chartContainer.clientHeight || window.innerHeight;
+                const isNarrow = chartWidth < 560;
+
+                // 小尺寸視窗縮減留白，避免座標軸、圖例或年份遭到裁切。
+                const chartMargins = isNarrow
+                    ? { left: 62, right: 12, top: 52, bottom: 45 }
+                    : { left: 78, right: 24, top: 55, bottom: 52 };
+
+                const yearStep = chartWidth < 420 ? 20 : 10;
+                const yearTicks = [...Array(Math.floor((2020 - 1960) / yearStep) + 1).keys()]
+                    .map(i => 1960 + i * yearStep);
+
+                return {
                 legend: { position: 'top', alignment: 'start', textStyle: { fontSize: 14, color: '#333',bold: true } },
                 hAxis: { 
                     title: '年份', 
@@ -63,11 +81,11 @@
                         bold: true    // 你也可以设置文字为粗体
                     },
                     viewWindow: { min: 1960, max: 2022 }, 
-                    ticks: [...Array(Math.ceil((2022 - 1960) / 10) + 1).keys()].map(i => 1960 + i * 10),
+                    ticks: yearTicks,
                     gridlines: { color: 'transparent' },
                     format: '####',
                     textStyle: {
-                        fontSize: 14, // 調整字體大小
+                        fontSize: isNarrow ? 11 : 14, // 調整字體大小
                         bold: true
                     }
                 },
@@ -85,8 +103,8 @@
                         bold: true
                     }
                 },
-                width: '100%',
-                height: '100%',
+                width: chartWidth,
+                height: chartHeight,
                 colors: ['#EC7D31'],
                 animation: {
                     duration: 500,
@@ -99,26 +117,51 @@
                     trigger: 'focus'
                 },
                 chartArea: {
-                    width: '80%',
-                    height: '70%'
+                    left: chartMargins.left,
+                    right: chartMargins.right,
+                    top: chartMargins.top,
+                    bottom: chartMargins.bottom,
+                    width: Math.max(chartWidth - chartMargins.left - chartMargins.right, 1),
+                    height: Math.max(chartHeight - chartMargins.top - chartMargins.bottom, 1)
                 },
                 bar: { groupWidth: '80%' }
+                };
             };
 
-            const chart = new google.visualization.ColumnChart(document.getElementById('columnchart_material'));
-            chart.draw(data, options);
+            function renderChart() {
+                chart.draw(data, getResponsiveOptions());
+            }
 
+            renderChart();
+
+            let resizeTimer;
             window.addEventListener('resize', () => {
-                chart.draw(data, options);
+                window.clearTimeout(resizeTimer);
+                resizeTimer = window.setTimeout(renderChart, 120);
             });
         }
     </script>
     <style>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
         #columnchart_material {
-            min-width: 450px;
-            min-height: 300px;
-            width: auto;
-            height: auto;
+            width: 100vw;
+            height: 100vh;
+            min-width: 0;
+            min-height: 0;
         }
     </style>
 </head>
