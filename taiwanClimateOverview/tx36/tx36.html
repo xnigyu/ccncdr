@@ -24,8 +24,23 @@
             return data.DataList;
         }
 
-        function roundUpToNearest10Plus5(num) {
-            return Math.ceil(num / 10) * 10 + 5;
+        function getYAxisScale(maxValue) {
+            if (maxValue <= 40) {
+                return {
+                    max: 40,
+                    ticks: [0, 20, 40]
+                };
+            }
+
+            // 超過 40 時固定顯示 0、25、50；若最大值略高於 50，
+            // 僅將圖表上緣以 5 為單位提高，刻度不跳到 75。
+            const axisMax = maxValue > 50
+                ? Math.ceil((maxValue + 2) / 5) * 5
+                : 50;
+            return {
+                max: axisMax,
+                ticks: [0, 25, 50]
+            };
         }
 
         async function drawChart() {
@@ -53,7 +68,7 @@
             var yearFormatter = new google.visualization.NumberFormat({ pattern: '####' });
             yearFormatter.format(data, 0);  // 0 是 Year 列的索引
 
-            const maxYValue = roundUpToNearest10Plus5(maxTx36);
+            const yAxisScale = getYAxisScale(maxTx36);
 
             const chartContainer = document.getElementById('columnchart_material');
             const chart = new google.visualization.ColumnChart(chartContainer);
@@ -65,8 +80,8 @@
 
                 // 小尺寸視窗縮減留白，避免座標軸、圖例或年份遭到裁切。
                 const chartMargins = isNarrow
-                    ? { left: 62, right: 12, top: 52, bottom: 45 }
-                    : { left: 78, right: 24, top: 55, bottom: 52 };
+                    ? { left: 68, right: 12, top: 52, bottom: 45 }
+                    : { left: 82, right: 24, top: 55, bottom: 52 };
 
                 const yearStep = chartWidth < 420 ? 20 : 10;
                 const yearTicks = [...Array(Math.floor((2020 - 1960) / yearStep) + 1).keys()]
@@ -80,7 +95,8 @@
                         fontSize: 14, // 调整标题文字大小，单位是像素
                         bold: true    // 你也可以设置文字为粗体
                     },
-                    viewWindow: { min: 1960, max: 2022 }, 
+                    // 前後各保留半個年度，避免 1960 與 2022 的柱子被邊界裁切。
+                    viewWindow: { min: 1959.5, max: 2022.5 }, 
                     ticks: yearTicks,
                     gridlines: { color: 'transparent' },
                     format: '####',
@@ -90,14 +106,12 @@
                     }
                 },
                 vAxis: { 
-                    title: '超過36度的天數',
-                    titleTextStyle: {
-                        fontSize: 14, // 调整标题文字大小，单位是像素
-                        bold: true    // 你也可以设置文字为粗体
-                    }, 
+                    // Y 軸標題改由 HTML 逐字直排，避免整段文字旋轉。
+                    title: '',
                     format: 'decimal', 
-                    viewWindow: { min: 0, max: maxYValue }, 
-                    gridlines: { count: -1, color: '#e0e0e0' },
+                    viewWindow: { min: 0, max: yAxisScale.max },
+                    ticks: yAxisScale.ticks,
+                    gridlines: { color: '#e0e0e0' },
                     textStyle: {
                         fontSize: 14, // 調整字體大小
                         bold: true
@@ -149,6 +163,9 @@
             margin: 0;
             padding: 0;
             overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
         }
 
         *,
@@ -157,15 +174,63 @@
             box-sizing: border-box;
         }
 
-        #columnchart_material {
-            width: 100vw;
-            height: 100vh;
+        #chart_wrapper {
+            /* 預設採截圖中的 2:1 橫式比例，並限制於嵌入視窗範圍內。 */
+            position: relative;
+            width: min(100vw, 200vh);
+            height: min(100vh, 50vw);
+            aspect-ratio: 2 / 1;
             min-width: 0;
             min-height: 0;
+        }
+
+        #columnchart_material {
+            width: 100%;
+            height: 100%;
+            min-width: 0;
+            min-height: 0;
+        }
+
+        #y_axis_title {
+            position: absolute;
+            z-index: 2;
+            top: 50%;
+            left: 10px;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3px;
+            color: #333;
+            font-family: Arial, "Noto Sans TC", sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1;
+            white-space: nowrap;
+            pointer-events: none;
+        }
+
+        @media (max-width: 420px), (max-height: 240px) {
+            #y_axis_title {
+                left: 6px;
+                gap: 2px;
+                font-size: 12px;
+            }
         }
     </style>
 </head>
 <body>
-    <div id="columnchart_material"></div>
+    <div id="chart_wrapper">
+        <div id="y_axis_title" aria-hidden="true">
+            <span>超</span>
+            <span>過</span>
+            <span>36</span>
+            <span>度</span>
+            <span>的</span>
+            <span>天</span>
+            <span>數</span>
+        </div>
+        <div id="columnchart_material" role="img" aria-label="歷年超過36度的天數柱狀圖"></div>
+    </div>
 </body>
 </html>
